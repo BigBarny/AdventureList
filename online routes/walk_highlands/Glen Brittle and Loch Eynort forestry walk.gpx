@@ -1,0 +1,670 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Glen Brittle and Loch Eynort forestry walk</name>
+<rtept lat="57.2505110271403" lon="-6.27244946443682">
+<ele>95.4122434106998</ele>
+<name>GBF001</name>
+</rtept>
+<rtept lat="57.2502644025014" lon="-6.2727195304822">
+<ele>94.8469160095022</ele>
+<name>GBF002</name>
+</rtept>
+<rtept lat="57.2501924741426" lon="-6.27293020493893">
+<ele>95.7981426657374</ele>
+<name>GBF003</name>
+</rtept>
+<rtept lat="57.249756964445" lon="-6.27367611750738">
+<ele>98.0903765534985</ele>
+<name>GBF004</name>
+</rtept>
+<rtept lat="57.2495640244408" lon="-6.27427095403564">
+<ele>102.430041130138</ele>
+<name>GBF005</name>
+</rtept>
+<rtept lat="57.2488052780834" lon="-6.27531781135286">
+<ele>100.451873192733</ele>
+<name>GBF006</name>
+</rtept>
+<rtept lat="57.2481507063102" lon="-6.27615771166591">
+<ele>98.164084489981</ele>
+<name>GBF007</name>
+</rtept>
+<rtept lat="57.2477649378538" lon="-6.27671022872176">
+<ele>97.9161369437204</ele>
+<name>GBF008</name>
+</rtept>
+<rtept lat="57.2470827721751" lon="-6.27772605757608">
+<ele>97.2020329568199</ele>
+<name>GBF009</name>
+</rtept>
+<rtept lat="57.2480222528089" lon="-6.27675999248504">
+<ele>104.630619496265</ele>
+<name>GBF010</name>
+</rtept>
+<rtept lat="57.2486956238454" lon="-6.27600192414139">
+<ele>109.034076291474</ele>
+<name>GBF011</name>
+</rtept>
+<rtept lat="57.2497405612118" lon="-6.27510773718785">
+<ele>120.571673150185</ele>
+<name>GBF012</name>
+</rtept>
+<rtept lat="57.2512288067174" lon="-6.27482241496324">
+<ele>142.561307027169</ele>
+<name>GBF013</name>
+</rtept>
+<rtept lat="57.253474806418" lon="-6.27510285258267">
+<ele>163.135950136254</ele>
+<name>GBF014</name>
+</rtept>
+<rtept lat="57.2538670379003" lon="-6.2757855463062">
+<ele>170.220334672869</ele>
+<name>GBF015</name>
+</rtept>
+<rtept lat="57.2542452364625" lon="-6.27608828946577">
+<ele>172.676880061517</ele>
+<name>GBF016</name>
+</rtept>
+<rtept lat="57.2549631576249" lon="-6.27750575782967">
+<ele>180.972773542971</ele>
+<name>GBF017</name>
+</rtept>
+<rtept lat="57.2552291214273" lon="-6.2779348908279">
+<ele>183.852773542971</ele>
+<name>GBF018</name>
+</rtept>
+<rtept lat="57.2559789616508" lon="-6.28063060361326">
+<ele>194.99008151825</ele>
+<name>GBF019</name>
+</rtept>
+<rtept lat="57.2564221613318" lon="-6.28155829245608">
+<ele>195.939851808652</ele>
+<name>GBF020</name>
+</rtept>
+<rtept lat="57.2569439022348" lon="-6.28271418661248">
+<ele>196.374863765217</ele>
+<name>GBF021</name>
+</rtept>
+<rtept lat="57.2575556917036" lon="-6.2837610976917">
+<ele>196.40093390305</ele>
+<name>GBF022</name>
+</rtept>
+<rtept lat="57.2578080857159" lon="-6.28458702064961">
+<ele>198.692293787783</ele>
+<name>GBF023</name>
+</rtept>
+<rtept lat="57.258315932517" lon="-6.28488505246342">
+<ele>196.527271059868</ele>
+<name>GBF024</name>
+</rtept>
+<rtept lat="57.2589516791712" lon="-6.28665177269786">
+<ele>201.253359524531</ele>
+<name>GBF025</name>
+</rtept>
+<rtept lat="57.259246469339" lon="-6.28718395251613">
+<ele>204.198333500813</ele>
+<name>GBF026</name>
+</rtept>
+<rtept lat="57.2594632017963" lon="-6.28810536577656">
+<ele>209.764534008191</ele>
+<name>GBF027</name>
+</rtept>
+<rtept lat="57.2607629073487" lon="-6.28923253001677">
+<ele>211.26882178169</ele>
+<name>GBF028</name>
+</rtept>
+<rtept lat="57.2613243866147" lon="-6.28985556049824">
+<ele>215.516725304251</ele>
+<name>GBF029</name>
+</rtept>
+<rtept lat="57.2620613484598" lon="-6.29008079349506">
+<ele>218.112270474535</ele>
+<name>GBF030</name>
+</rtept>
+<rtept lat="57.2614758182118" lon="-6.29110801945566">
+<ele>223.890475527297</ele>
+<name>GBF031</name>
+</rtept>
+<rtept lat="57.2613412911545" lon="-6.29157034593367">
+<ele>226.205849028646</ele>
+<name>GBF032</name>
+</rtept>
+<rtept lat="57.2613101846814" lon="-6.29216421658764">
+<ele>228.542924514323</ele>
+<name>GBF033</name>
+</rtept>
+<rtept lat="57.261310233" lon="-6.294414203">
+<ele>0</ele>
+<name>GBF034</name>
+</rtept>
+<rtept lat="57.261398003" lon="-6.294972369">
+<ele>0</ele>
+<name>GBF035</name>
+</rtept>
+<rtept lat="57.261963989" lon="-6.295602406">
+<ele>0</ele>
+<name>GBF036</name>
+</rtept>
+<rtept lat="57.262286948" lon="-6.29579448">
+<ele>0</ele>
+<name>GBF037</name>
+</rtept>
+<rtept lat="57.262679372" lon="-6.295860218">
+<ele>0</ele>
+<name>GBF038</name>
+</rtept>
+<rtept lat="57.262823268" lon="-6.29718123">
+<ele>0</ele>
+<name>GBF039</name>
+</rtept>
+<rtept lat="57.262106158" lon="-6.298832933">
+<ele>0</ele>
+<name>GBF040</name>
+</rtept>
+<rtept lat="57.262099121" lon="-6.300569685">
+<ele>0</ele>
+<name>GBF041</name>
+</rtept>
+<rtept lat="57.261671682" lon="-6.301194082">
+<ele>0</ele>
+<name>GBF042</name>
+</rtept>
+<rtept lat="57.261851019" lon="-6.302596293">
+<ele>0</ele>
+<name>GBF043</name>
+</rtept>
+<rtept lat="57.261851346" lon="-6.304907527">
+<ele>0</ele>
+<name>GBF044</name>
+</rtept>
+<rtept lat="57.26241339" lon="-6.306113043">
+<ele>0</ele>
+<name>GBF045</name>
+</rtept>
+<rtept lat="57.262784858" lon="-6.307822982">
+<ele>0</ele>
+<name>GBF046</name>
+</rtept>
+<rtept lat="57.262838363" lon="-6.309965576">
+<ele>0</ele>
+<name>GBF047</name>
+</rtept>
+<rtept lat="57.262594982" lon="-6.310834635">
+<ele>0</ele>
+<name>GBF048</name>
+</rtept>
+<rtept lat="57.262091029" lon="-6.314153003">
+<ele>0</ele>
+<name>GBF049</name>
+</rtept>
+<rtept lat="57.262515876" lon="-6.316186694">
+<ele>0</ele>
+<name>GBF050</name>
+</rtept>
+<rtept lat="57.262506684" lon="-6.317568508">
+<ele>0</ele>
+<name>GBF051</name>
+</rtept>
+<rtept lat="57.262981816" lon="-6.3206177">
+<ele>0</ele>
+<name>GBF052</name>
+</rtept>
+<rtept lat="57.26294165" lon="-6.321429952">
+<ele>0</ele>
+<name>GBF053</name>
+</rtept>
+<rtept lat="57.263348928" lon="-6.322410816">
+<ele>0</ele>
+<name>GBF054</name>
+</rtept>
+<rtept lat="57.263270761" lon="-6.326036001">
+<ele>0</ele>
+<name>GBF055</name>
+</rtept>
+<rtept lat="57.262482807" lon="-6.32698384">
+<ele>0</ele>
+<name>GBF056</name>
+</rtept>
+<rtept lat="57.262380048" lon="-6.327289024">
+<ele>0</ele>
+<name>GBF057</name>
+</rtept>
+<rtept lat="57.262144918" lon="-6.328482699">
+<ele>0</ele>
+<name>GBF058</name>
+</rtept>
+<rtept lat="57.261938595" lon="-6.329082687">
+<ele>0</ele>
+<name>GBF059</name>
+</rtept>
+<rtept lat="57.261658873" lon="-6.329358419">
+<ele>0</ele>
+<name>GBF060</name>
+</rtept>
+<rtept lat="57.261337638" lon="-6.330078788">
+<ele>0</ele>
+<name>GBF061</name>
+</rtept>
+<rtept lat="57.261006982" lon="-6.330263149">
+<ele>0</ele>
+<name>GBF062</name>
+</rtept>
+<rtept lat="57.260454673" lon="-6.330064348">
+<ele>0</ele>
+<name>GBF063</name>
+</rtept>
+<rtept lat="57.259883742" lon="-6.330010875">
+<ele>0</ele>
+<name>GBF064</name>
+</rtept>
+<rtept lat="57.259631164" lon="-6.329580127">
+<ele>0</ele>
+<name>GBF065</name>
+</rtept>
+<rtept lat="57.258960563" lon="-6.329139344">
+<ele>0</ele>
+<name>GBF066</name>
+</rtept>
+<rtept lat="57.258509525" lon="-6.3285387">
+<ele>0</ele>
+<name>GBF067</name>
+</rtept>
+<rtept lat="57.257878239" lon="-6.328571486">
+<ele>0</ele>
+<name>GBF068</name>
+</rtept>
+<rtept lat="57.257493676" lon="-6.328456451">
+<ele>0</ele>
+<name>GBF069</name>
+</rtept>
+<rtept lat="57.2572674" lon="-6.328752539">
+<ele>0</ele>
+<name>GBF070</name>
+</rtept>
+<rtept lat="57.257337965" lon="-6.329068784">
+<ele>0</ele>
+<name>GBF071</name>
+</rtept>
+<rtept lat="57.257516423" lon="-6.32945881">
+<ele>0</ele>
+<name>GBF072</name>
+</rtept>
+<rtept lat="57.257598124" lon="-6.329915968">
+<ele>0</ele>
+<name>GBF073</name>
+</rtept>
+<rtept lat="57.257473682" lon="-6.330346955">
+<ele>0</ele>
+<name>GBF074</name>
+</rtept>
+<rtept lat="57.256623312" lon="-6.331041601">
+<ele>0</ele>
+<name>GBF075</name>
+</rtept>
+<rtept lat="57.255600558" lon="-6.330325726">
+<ele>0</ele>
+<name>GBF076</name>
+</rtept>
+<rtept lat="57.25490023" lon="-6.330042558">
+<ele>0</ele>
+<name>GBF077</name>
+</rtept>
+<rtept lat="57.254455144" lon="-6.329966611">
+<ele>0</ele>
+<name>GBF078</name>
+</rtept>
+<rtept lat="57.254380645" lon="-6.330297574">
+<ele>0</ele>
+<name>GBF079</name>
+</rtept>
+<rtept lat="57.254523196" lon="-6.330999043">
+<ele>0</ele>
+<name>GBF080</name>
+</rtept>
+<rtept lat="57.254435654" lon="-6.331795052">
+<ele>0</ele>
+<name>GBF081</name>
+</rtept>
+<rtept lat="57.254274261" lon="-6.33202101">
+<ele>0</ele>
+<name>GBF082</name>
+</rtept>
+<rtept lat="57.253509552" lon="-6.33172291">
+<ele>0</ele>
+<name>GBF083</name>
+</rtept>
+<rtept lat="57.252477852" lon="-6.331041298">
+<ele>0</ele>
+<name>GBF084</name>
+</rtept>
+<rtept lat="57.251108079" lon="-6.330232781">
+<ele>0</ele>
+<name>GBF085</name>
+</rtept>
+<rtept lat="57.250614176" lon="-6.329987393">
+<ele>0</ele>
+<name>GBF086</name>
+</rtept>
+<rtept lat="57.250384312" lon="-6.329970313">
+<ele>0</ele>
+<name>GBF087</name>
+</rtept>
+<rtept lat="57.250291176" lon="-6.330002079">
+<ele>0</ele>
+<name>GBF088</name>
+</rtept>
+<rtept lat="57.250159831" lon="-6.330188668">
+<ele>0</ele>
+<name>GBF089</name>
+</rtept>
+<rtept lat="57.25007441" lon="-6.330732544">
+<ele>0</ele>
+<name>GBF090</name>
+</rtept>
+<rtept lat="57.249997614" lon="-6.331638165">
+<ele>0</ele>
+<name>GBF091</name>
+</rtept>
+<rtept lat="57.250071365" lon="-6.331941107">
+<ele>0</ele>
+<name>GBF092</name>
+</rtept>
+<rtept lat="57.250205044" lon="-6.332058204">
+<ele>0</ele>
+<name>GBF093</name>
+</rtept>
+<rtept lat="57.250646512" lon="-6.332119241">
+<ele>0</ele>
+<name>GBF094</name>
+</rtept>
+<rtept lat="57.251326261" lon="-6.333692672">
+<ele>0</ele>
+<name>GBF095</name>
+</rtept>
+<rtept lat="57.251348378" lon="-6.334047832">
+<ele>0</ele>
+<name>GBF096</name>
+</rtept>
+<rtept lat="57.251241626" lon="-6.334353099">
+<ele>0</ele>
+<name>GBF097</name>
+</rtept>
+<rtept lat="57.251004734" lon="-6.334529732">
+<ele>0</ele>
+<name>GBF098</name>
+</rtept>
+<rtept lat="57.250076851" lon="-6.334573873">
+<ele>0</ele>
+<name>GBF099</name>
+</rtept>
+<rtept lat="57.249493814" lon="-6.335507842">
+<ele>0</ele>
+<name>GBF100</name>
+</rtept>
+<rtept lat="57.248599726" lon="-6.336641178">
+<ele>0</ele>
+<name>GBF101</name>
+</rtept>
+<rtept lat="57.248483035" lon="-6.337550459">
+<ele>0</ele>
+<name>GBF102</name>
+</rtept>
+<rtept lat="57.248230996" lon="-6.33858238">
+<ele>0</ele>
+<name>GBF103</name>
+</rtept>
+<rtept lat="57.247800994" lon="-6.339123097">
+<ele>0</ele>
+<name>GBF104</name>
+</rtept>
+<rtept lat="57.247088242" lon="-6.339549679">
+<ele>0</ele>
+<name>GBF105</name>
+</rtept>
+<rtept lat="57.246540547" lon="-6.340250242">
+<ele>0</ele>
+<name>GBF106</name>
+</rtept>
+<rtept lat="57.245670984" lon="-6.340597076">
+<ele>0</ele>
+<name>GBF107</name>
+</rtept>
+<rtept lat="57.244668023" lon="-6.340708633">
+<ele>0</ele>
+<name>GBF108</name>
+</rtept>
+<rtept lat="57.243727595" lon="-6.340554251">
+<ele>0</ele>
+<name>GBF109</name>
+</rtept>
+<rtept lat="57.243129993" lon="-6.340873984">
+<ele>0</ele>
+<name>GBF110</name>
+</rtept>
+<rtept lat="57.240083447" lon="-6.340949094">
+<ele>0</ele>
+<name>GBF111</name>
+</rtept>
+<rtept lat="57.238769197" lon="-6.340658291">
+<ele>0</ele>
+<name>GBF112</name>
+</rtept>
+<rtept lat="57.237825332" lon="-6.340755715">
+<ele>0</ele>
+<name>GBF113</name>
+</rtept>
+<rtept lat="57.236644452" lon="-6.339973248">
+<ele>0</ele>
+<name>GBF114</name>
+</rtept>
+<rtept lat="57.234875044" lon="-6.34081368">
+<ele>0</ele>
+<name>GBF115</name>
+</rtept>
+<rtept lat="57.232957972" lon="-6.341233611">
+<ele>0</ele>
+<name>GBF116</name>
+</rtept>
+<rtept lat="57.231967901" lon="-6.340971037">
+<ele>0</ele>
+<name>GBF117</name>
+</rtept>
+<rtept lat="57.231421441" lon="-6.340601542">
+<ele>0</ele>
+<name>GBF118</name>
+</rtept>
+<rtept lat="57.231130066" lon="-6.340087209">
+<ele>0</ele>
+<name>GBF119</name>
+</rtept>
+<rtept lat="57.23063659" lon="-6.340059558">
+<ele>0</ele>
+<name>GBF120</name>
+</rtept>
+<rtept lat="57.229634137" lon="-6.339578943">
+<ele>0</ele>
+<name>GBF121</name>
+</rtept>
+<rtept lat="57.2288422478679" lon="-6.33825285948143">
+<ele>114.635535516602</ele>
+<name>GBF122</name>
+</rtept>
+<rtept lat="57.2279319686843" lon="-6.33617580920906">
+<ele>100.044322191308</ele>
+<name>GBF123</name>
+</rtept>
+<rtept lat="57.2284380586859" lon="-6.3318375889273">
+<ele>111.479106771569</ele>
+<name>GBF124</name>
+</rtept>
+<rtept lat="57.2285862521908" lon="-6.32910890321034">
+<ele>123.183178218308</ele>
+<name>GBF125</name>
+</rtept>
+<rtept lat="57.2281289128837" lon="-6.32547342465122">
+<ele>147.25780618342</ele>
+<name>GBF126</name>
+</rtept>
+<rtept lat="57.2279820335679" lon="-6.32503832628326">
+<ele>149.123579845064</ele>
+<name>GBF127</name>
+</rtept>
+<rtept lat="57.2278831189253" lon="-6.3241511835102">
+<ele>156.472095027172</ele>
+<name>GBF128</name>
+</rtept>
+<rtept lat="57.2276835404132" lon="-6.32305326184876">
+<ele>167.429818693781</ele>
+<name>GBF129</name>
+</rtept>
+<rtept lat="57.2276822159226" lon="-6.32183929077166">
+<ele>179.246993702798</ele>
+<name>GBF130</name>
+</rtept>
+<rtept lat="57.2272004103606" lon="-6.32078792537484">
+<ele>189.038635404033</ele>
+<name>GBF131</name>
+</rtept>
+<rtept lat="57.2259876596624" lon="-6.31965099704929">
+<ele>203.53097136767</ele>
+<name>GBF132</name>
+</rtept>
+<rtept lat="57.2251128108219" lon="-6.31857359784885">
+<ele>211.957996833978</ele>
+<name>GBF133</name>
+</rtept>
+<rtept lat="57.2241086985525" lon="-6.31670515551111">
+<ele>216.341565568157</ele>
+<name>GBF134</name>
+</rtept>
+<rtept lat="57.2235942714193" lon="-6.31628683152872">
+<ele>212.421066426487</ele>
+<name>GBF135</name>
+</rtept>
+<rtept lat="57.2231224835598" lon="-6.31525672897516">
+<ele>207.224891610339</ele>
+<name>GBF136</name>
+</rtept>
+<rtept lat="57.2225645335871" lon="-6.31453491094598">
+<ele>196.218792308502</ele>
+<name>GBF137</name>
+</rtept>
+<rtept lat="57.2222592086802" lon="-6.31243006505624">
+<ele>180.27523357389</ele>
+<name>GBF138</name>
+</rtept>
+<rtept lat="57.2223941115297" lon="-6.31133167631212">
+<ele>170.816464590081</ele>
+<name>GBF139</name>
+</rtept>
+<rtept lat="57.2227096976792" lon="-6.31031407556224">
+<ele>164.342979869906</ele>
+<name>GBF140</name>
+</rtept>
+<rtept lat="57.2230186127259" lon="-6.30917630315319">
+<ele>153.251527184423</ele>
+<name>GBF141</name>
+</rtept>
+<rtept lat="57.2242356474784" lon="-6.30705024039613">
+<ele>138.562677927207</ele>
+<name>GBF142</name>
+</rtept>
+<rtept lat="57.225932419331" lon="-6.30478104857782">
+<ele>118.011898668101</ele>
+<name>GBF143</name>
+</rtept>
+<rtept lat="57.2266817381308" lon="-6.30433124518393">
+<ele>116.694569615959</ele>
+<name>GBF144</name>
+</rtept>
+<rtept lat="57.2322554134103" lon="-6.29962836757445">
+<ele>68.1027452794784</ele>
+<name>GBF145</name>
+</rtept>
+<rtept lat="57.233353573268" lon="-6.29876132107388">
+<ele>70.4476648807052</ele>
+<name>GBF146</name>
+</rtept>
+<rtept lat="57.2334134348838" lon="-6.29858918534963">
+<ele>68.1807301749587</ele>
+<name>GBF147</name>
+</rtept>
+<rtept lat="57.2348315301824" lon="-6.29736132274805">
+<ele>76.6252079964217</ele>
+<name>GBF148</name>
+</rtept>
+<rtept lat="57.2352561890291" lon="-6.29725158819917">
+<ele>83.7457035881918</ele>
+<name>GBF149</name>
+</rtept>
+<rtept lat="57.2365608399204" lon="-6.29571185394269">
+<ele>86.6120251043867</ele>
+<name>GBF150</name>
+</rtept>
+<rtept lat="57.2386699716494" lon="-6.29337001043434">
+<ele>100.550835153721</ele>
+<name>GBF151</name>
+</rtept>
+<rtept lat="57.2405586248785" lon="-6.28911125152738">
+<ele>84.6960272400212</ele>
+<name>GBF152</name>
+</rtept>
+<rtept lat="57.2409405701495" lon="-6.28804097971596">
+<ele>76.7434486759276</ele>
+<name>GBF153</name>
+</rtept>
+<rtept lat="57.2419321157695" lon="-6.28618561312999">
+<ele>75.832187273058</ele>
+<name>GBF154</name>
+</rtept>
+<rtept lat="57.2450157665633" lon="-6.28200521144907">
+<ele>93.2119860062837</ele>
+<name>GBF155</name>
+</rtept>
+<rtept lat="57.2462298114513" lon="-6.27931927075217">
+<ele>91.2788692096606</ele>
+<name>GBF156</name>
+</rtept>
+<rtept lat="57.2470713463286" lon="-6.27774464025193">
+<ele>97.1930336106206</ele>
+<name>GBF157</name>
+</rtept>
+<rtept lat="57.2477877892547" lon="-6.27667306202421">
+<ele>97.9599982318579</ele>
+<name>GBF158</name>
+</rtept>
+<rtept lat="57.2481507063102" lon="-6.27615771166591">
+<ele>98.1640844898791</ele>
+<name>GBF159</name>
+</rtept>
+<rtept lat="57.2488395545984" lon="-6.27526205843828">
+<ele>100.590245421923</ele>
+<name>GBF160</name>
+</rtept>
+<rtept lat="57.2495740983926" lon="-6.27429203218672">
+<ele>102.999315341394</ele>
+<name>GBF161</name>
+</rtept>
+<rtept lat="57.2497791393885" lon="-6.2736587786369">
+<ele>98.3564551948607</ele>
+<name>GBF162</name>
+</rtept>
+<rtept lat="57.2502139734944" lon="-6.27293269737471">
+<ele>96.2584554190179</ele>
+<name>GBF163</name>
+</rtept>
+<rtept lat="57.2502301270584" lon="-6.27277528790615">
+<ele>94.8477878565388</ele>
+<name>GBF164</name>
+</rtept>
+<rtept lat="57.2505190750995" lon="-6.27253003904057">
+<ele>96.642523756901</ele>
+<name>GBF165</name>
+</rtept>
+</rte>
+</gpx>

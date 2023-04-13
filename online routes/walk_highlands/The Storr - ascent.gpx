@@ -1,0 +1,426 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>The Storr - ascent</name>
+<rtept lat="57.4976940235255" lon="-6.15936435613834">
+<ele>175.236817542028</ele>
+<name>STO001</name>
+</rtept>
+<rtept lat="57.4979205022962" lon="-6.15909617651131">
+<ele>168.442845414662</ele>
+<name>STO002</name>
+</rtept>
+<rtept lat="57.4982307597516" lon="-6.15920506559506">
+<ele>174.818872871485</ele>
+<name>STO003</name>
+</rtept>
+<rtept lat="57.4987375678726" lon="-6.15954342500057">
+<ele>179.422791785025</ele>
+<name>STO004</name>
+</rtept>
+<rtept lat="57.4983647864551" lon="-6.15972144265274">
+<ele>182.045596281843</ele>
+<name>STO005</name>
+</rtept>
+<rtept lat="57.4983761929612" lon="-6.15997491672423">
+<ele>178.200623798847</ele>
+<name>STO006</name>
+</rtept>
+<rtept lat="57.4992060011923" lon="-6.16030833504494">
+<ele>193.181504959917</ele>
+<name>STO007</name>
+</rtept>
+<rtept lat="57.499481450274" lon="-6.16155244520121">
+<ele>211.043887223637</ele>
+<name>STO008</name>
+</rtept>
+<rtept lat="57.499423709036" lon="-6.16180310709816">
+<ele>212.209887223637</ele>
+<name>STO009</name>
+</rtept>
+<rtept lat="57.5001628661573" lon="-6.162131304978">
+<ele>217.345568418879</ele>
+<name>STO010</name>
+</rtept>
+<rtept lat="57.501027822746" lon="-6.16340088057329">
+<ele>247.682956905264</ele>
+<name>STO011</name>
+</rtept>
+<rtept lat="57.5013377329583" lon="-6.1636016046444">
+<ele>246.159944254684</ele>
+<name>STO012</name>
+</rtept>
+<rtept lat="57.5015400093041" lon="-6.16519500764736">
+<ele>266.93473912927</ele>
+<name>STO013</name>
+</rtept>
+<rtept lat="57.5013892082347" lon="-6.16583932256249">
+<ele>273.331923583555</ele>
+<name>STO014</name>
+</rtept>
+<rtept lat="57.5016675065064" lon="-6.16619344061918">
+<ele>279.903807542562</ele>
+<name>STO015</name>
+</rtept>
+<rtept lat="57.5021073410312" lon="-6.16635389326208">
+<ele>289.44262773571</ele>
+<name>STO016</name>
+</rtept>
+<rtept lat="57.5026355955389" lon="-6.16713085738615">
+<ele>307.285043094736</ele>
+<name>STO017</name>
+</rtept>
+<rtept lat="57.5034478987364" lon="-6.16814242045372">
+<ele>317.226351739931</ele>
+<name>STO018</name>
+</rtept>
+<rtept lat="57.5038301370639" lon="-6.1688476337129">
+<ele>320.095531546795</ele>
+<name>STO019</name>
+</rtept>
+<rtept lat="57.5043418546549" lon="-6.16982493205687">
+<ele>320.164873287296</ele>
+<name>STO020</name>
+</rtept>
+<rtept lat="57.5050633878371" lon="-6.17044030654233">
+<ele>334.084828066945</ele>
+<name>STO021</name>
+</rtept>
+<rtept lat="57.5053155259621" lon="-6.17089180032365">
+<ele>340.563045745873</ele>
+<name>STO022</name>
+</rtept>
+<rtept lat="57.5058232798644" lon="-6.17139089146346">
+<ele>367.559909873623</ele>
+<name>STO023</name>
+</rtept>
+<rtept lat="57.5064570942788" lon="-6.17183094374746">
+<ele>381.541305524704</ele>
+<name>STO024</name>
+</rtept>
+<rtept lat="57.507019728121" lon="-6.17215250302368">
+<ele>409.129736260891</ele>
+<name>STO025</name>
+</rtept>
+<rtept lat="57.5072427195687" lon="-6.17222148475858">
+<ele>401.880384629289</ele>
+<name>STO026</name>
+</rtept>
+<rtept lat="57.5074838637228" lon="-6.17210870494692">
+<ele>402.171634637144</ele>
+<name>STO027</name>
+</rtept>
+<rtept lat="57.5080485215058" lon="-6.17265444992002">
+<ele>407.197347790948</ele>
+<name>STO028</name>
+</rtept>
+<rtept lat="57.5083940868468" lon="-6.1727690962978">
+<ele>409.280298645762</ele>
+<name>STO029</name>
+</rtept>
+<rtept lat="57.5084527601205" lon="-6.17308825138005">
+<ele>407.071972127348</ele>
+<name>STO030</name>
+</rtept>
+<rtept lat="57.5087773597624" lon="-6.17314374742345">
+<ele>422.398163744926</ele>
+<name>STO031</name>
+</rtept>
+<rtept lat="57.5091328869103" lon="-6.17346009501343">
+<ele>431.083167681789</ele>
+<name>STO032</name>
+</rtept>
+<rtept lat="57.5092458338347" lon="-6.17393250195473">
+<ele>430.787321741664</ele>
+<name>STO033</name>
+</rtept>
+<rtept lat="57.5096488863049" lon="-6.17445647582261">
+<ele>462.327962987518</ele>
+<name>STO034</name>
+</rtept>
+<rtept lat="57.5104161722407" lon="-6.17548163750052">
+<ele>478.941666893482</ele>
+<name>STO035</name>
+</rtept>
+<rtept lat="57.5111822661325" lon="-6.1753487282328">
+<ele>492.53783147831</ele>
+<name>STO036</name>
+</rtept>
+<rtept lat="57.511720778014" lon="-6.17581472483505">
+<ele>488.310369087601</ele>
+<name>STO037</name>
+</rtept>
+<rtept lat="57.5119248355842" lon="-6.17622407703966">
+<ele>488.293446957397</ele>
+<name>STO038</name>
+</rtept>
+<rtept lat="57.5119798574834" lon="-6.17665313771514">
+<ele>483.246740295792</ele>
+<name>STO039</name>
+</rtept>
+<rtept lat="57.5118950911659" lon="-6.17712134121866">
+<ele>497.832117027616</ele>
+<name>STO040</name>
+</rtept>
+<rtept lat="57.5117362021629" lon="-6.1771399149714">
+<ele>505.084452705574</ele>
+<name>STO041</name>
+</rtept>
+<rtept lat="57.5117204167815" lon="-6.17761601153763">
+<ele>498.316529735518</ele>
+<name>STO042</name>
+</rtept>
+<rtept lat="57.5111672887281" lon="-6.17878419101279">
+<ele>514.471333866692</ele>
+<name>STO043</name>
+</rtept>
+<rtept lat="57.5111251063947" lon="-6.17945944359323">
+<ele>517.551063093591</ele>
+<name>STO044</name>
+</rtept>
+<rtept lat="57.5108060426297" lon="-6.18072791445599">
+<ele>525.51620715394</ele>
+<name>STO045</name>
+</rtept>
+<rtept lat="57.5110914834068" lon="-6.18136717696408">
+<ele>529.205303342819</ele>
+<name>STO046</name>
+</rtept>
+<rtept lat="57.5114450344098" lon="-6.18144445036997">
+<ele>530.441222376061</ele>
+<name>STO047</name>
+</rtept>
+<rtept lat="57.5117445805451" lon="-6.18195668000561">
+<ele>552.734059996462</ele>
+<name>STO048</name>
+</rtept>
+<rtept lat="57.5119059011264" lon="-6.18186488169537">
+<ele>539.642368773317</ele>
+<name>STO049</name>
+</rtept>
+<rtept lat="57.5137142531806" lon="-6.18356107288232">
+<ele>537.56819056654</ele>
+<name>STO050</name>
+</rtept>
+<rtept lat="57.5148797770629" lon="-6.18420942418037">
+<ele>553.738288881016</ele>
+<name>STO051</name>
+</rtept>
+<rtept lat="57.5163508498026" lon="-6.18503993288756">
+<ele>557.179965225029</ele>
+<name>STO052</name>
+</rtept>
+<rtept lat="57.5154876623493" lon="-6.185713002012">
+<ele>582.962165870544</ele>
+<name>STO053</name>
+</rtept>
+<rtept lat="57.5147146874787" lon="-6.18560594371838">
+<ele>588.410426644227</ele>
+<name>STO054</name>
+</rtept>
+<rtept lat="57.5136924877229" lon="-6.18600337980824">
+<ele>595.910511022377</ele>
+<name>STO055</name>
+</rtept>
+<rtept lat="57.5134485572162" lon="-6.18590186811814">
+<ele>604.490511022377</ele>
+<name>STO056</name>
+</rtept>
+<rtept lat="57.5132546282432" lon="-6.18608182028527">
+<ele>603.07286276226</ele>
+<name>STO057</name>
+</rtept>
+<rtept lat="57.5126024019802" lon="-6.18606214063566">
+<ele>627.077546243286</ele>
+<name>STO058</name>
+</rtept>
+<rtept lat="57.5117578302611" lon="-6.18557925299965">
+<ele>630.70219056654</ele>
+<name>STO059</name>
+</rtept>
+<rtept lat="57.5111612021087" lon="-6.18597033703828">
+<ele>654.872893286085</ele>
+<name>STO060</name>
+</rtept>
+<rtept lat="57.5106586192222" lon="-6.18591268621532">
+<ele>667.347280772519</ele>
+<name>STO061</name>
+</rtept>
+<rtept lat="57.5089791402144" lon="-6.18450699504646">
+<ele>689.304589417744</ele>
+<name>STO062</name>
+</rtept>
+<rtept lat="57.5080535208727" lon="-6.18318784388532">
+<ele>705.854023935747</ele>
+<name>STO063</name>
+</rtept>
+<rtept lat="57.507183275794" lon="-6.1831799920194">
+<ele>709.186343551779</ele>
+<name>STO064</name>
+</rtept>
+<rtept lat="57.5070611436472" lon="-6.18417681768943">
+<ele>700.089325678587</ele>
+<name>STO065</name>
+</rtept>
+<rtept lat="57.506757662857" lon="-6.18452797383937">
+<ele>698.576130649614</ele>
+<name>STO066</name>
+</rtept>
+<rtept lat="57.5066731137219" lon="-6.1855842294477">
+<ele>674.606794131756</ele>
+<name>STO067</name>
+</rtept>
+<rtept lat="57.5062618977796" lon="-6.18605166225602">
+<ele>668.433751037026</ele>
+<name>STO068</name>
+</rtept>
+<rtept lat="57.505601641368" lon="-6.18597593809731">
+<ele>646.618683481002</ele>
+<name>STO069</name>
+</rtept>
+<rtept lat="57.5050728995483" lon="-6.18521694949321">
+<ele>626.042308040047</ele>
+<name>STO070</name>
+</rtept>
+<rtept lat="57.5047772619941" lon="-6.18518305104619">
+<ele>610.288542306423</ele>
+<name>STO071</name>
+</rtept>
+<rtept lat="57.5040130953661" lon="-6.1840663160447">
+<ele>570.339362447739</ele>
+<name>STO072</name>
+</rtept>
+<rtept lat="57.5033746606487" lon="-6.18318455837092">
+<ele>553.382535193062</ele>
+<name>STO073</name>
+</rtept>
+<rtept lat="57.5023786944247" lon="-6.18160032496755">
+<ele>542.643971813011</ele>
+<name>STO074</name>
+</rtept>
+<rtept lat="57.5020321683852" lon="-6.18071533154624">
+<ele>504.609983121681</ele>
+<name>STO075</name>
+</rtept>
+<rtept lat="57.5015395697346" lon="-6.18095292996728">
+<ele>519.452743163216</ele>
+<name>STO076</name>
+</rtept>
+<rtept lat="57.5010164557171" lon="-6.18181179591303">
+<ele>501.952342266035</ele>
+<name>STO077</name>
+</rtept>
+<rtept lat="57.5009657502232" lon="-6.18274313961742">
+<ele>496.605328329658</ele>
+<name>STO078</name>
+</rtept>
+<rtept lat="57.5006925097324" lon="-6.18322634400914">
+<ele>481.657954779625</ele>
+<name>STO079</name>
+</rtept>
+<rtept lat="57.5003741518915" lon="-6.18625853203536">
+<ele>464.062205553913</ele>
+<name>STO080</name>
+</rtept>
+<rtept lat="57.5001558265992" lon="-6.1870236287662">
+<ele>454.682328329658</ele>
+<name>STO081</name>
+</rtept>
+<rtept lat="57.4994028573706" lon="-6.1876538889273">
+<ele>426.662292583227</ele>
+<name>STO082</name>
+</rtept>
+<rtept lat="57.4990356861275" lon="-6.1873912776659">
+<ele>418.127444517446</ele>
+<name>STO083</name>
+</rtept>
+<rtept lat="57.4987804454317" lon="-6.18673727050449">
+<ele>410.707539420593</ele>
+<name>STO084</name>
+</rtept>
+<rtept lat="57.4983914950783" lon="-6.18593932208698">
+<ele>380.295198965848</ele>
+<name>STO085</name>
+</rtept>
+<rtept lat="57.4980497389022" lon="-6.18461395256302">
+<ele>356.525196525764</ele>
+<name>STO086</name>
+</rtept>
+<rtept lat="57.4975583254417" lon="-6.18332658315779">
+<ele>287.533205028379</ele>
+<name>STO087</name>
+</rtept>
+<rtept lat="57.4972797067505" lon="-6.18278019678395">
+<ele>289.956177681255</ele>
+<name>STO088</name>
+</rtept>
+<rtept lat="57.4970696059204" lon="-6.18121274796132">
+<ele>274.00345451687</ele>
+<name>STO089</name>
+</rtept>
+<rtept lat="57.496948768807" lon="-6.1782958998866">
+<ele>247.22652154737</ele>
+<name>STO090</name>
+</rtept>
+<rtept lat="57.4965922685969" lon="-6.17472743570916">
+<ele>217.907611227864</ele>
+<name>STO091</name>
+</rtept>
+<rtept lat="57.4960089452358" lon="-6.17456887650914">
+<ele>206.49924683736</ele>
+<name>STO092</name>
+</rtept>
+<rtept lat="57.4956382606282" lon="-6.17351599441464">
+<ele>202.46090903374</ele>
+<name>STO093</name>
+</rtept>
+<rtept lat="57.4952116107094" lon="-6.17146462281301">
+<ele>183.269525484252</ele>
+<name>STO094</name>
+</rtept>
+<rtept lat="57.4947329436439" lon="-6.17008713607793">
+<ele>167.0078101937</ele>
+<name>STO095</name>
+</rtept>
+<rtept lat="57.4943583016362" lon="-6.16975039859188">
+<ele>160.628292583203</ele>
+<name>STO096</name>
+</rtept>
+<rtept lat="57.4940561156608" lon="-6.16901775906813">
+<ele>154.485377486944</ele>
+<name>STO097</name>
+</rtept>
+<rtept lat="57.4939334552496" lon="-6.16883840837202">
+<ele>150.900529421139</ele>
+<name>STO098</name>
+</rtept>
+<rtept lat="57.4941984392943" lon="-6.16800517699575">
+<ele>156.100395360136</ele>
+<name>STO099</name>
+</rtept>
+<rtept lat="57.4942550209461" lon="-6.16569676377629">
+<ele>155.470490263319</ele>
+<name>STO100</name>
+</rtept>
+<rtept lat="57.4953387870517" lon="-6.16223776272249">
+<ele>161.979701354229</ele>
+<name>STO101</name>
+</rtept>
+<rtept lat="57.4959304840395" lon="-6.1609456243929">
+<ele>162.194258648014</ele>
+<name>STO102</name>
+</rtept>
+<rtept lat="57.4974377955734" lon="-6.15933516688825">
+<ele>177.471879035473</ele>
+<name>STO103</name>
+</rtept>
+<rtept lat="57.4977137333672" lon="-6.15936660148565">
+<ele>176.403685292244</ele>
+<name>STO104</name>
+</rtept>
+</rte>
+</gpx>

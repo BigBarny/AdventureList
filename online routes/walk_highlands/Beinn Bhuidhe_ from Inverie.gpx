@@ -1,0 +1,802 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Beinn Bhuidhe, from Inverie</name>
+<rtept lat="57.0382713701433" lon="-5.68522993969999">
+<ele>1.56534451703575</ele>
+<name>BBK001</name>
+</rtept>
+<rtept lat="57.038079836104" lon="-5.68486461945346">
+<ele>1.18803161969727</ele>
+<name>BBK002</name>
+</rtept>
+<rtept lat="57.037957346083" lon="-5.68398664668535">
+<ele>2.38689165727443</ele>
+<name>BBK003</name>
+</rtept>
+<rtept lat="57.0374953903305" lon="-5.68272872172314">
+<ele>3.70515776790631</ele>
+<name>BBK004</name>
+</rtept>
+<rtept lat="57.0363272525642" lon="-5.6811782708902">
+<ele>6.18659835338942</ele>
+<name>BBK005</name>
+</rtept>
+<rtept lat="57.035828213597" lon="-5.6802630804577">
+<ele>6.41873912829448</ele>
+<name>BBK006</name>
+</rtept>
+<rtept lat="57.0353654372409" lon="-5.6781146905306">
+<ele>6.02082186029356</ele>
+<name>BBK007</name>
+</rtept>
+<rtept lat="57.0344697344612" lon="-5.67555252125738">
+<ele>4.07988426438152</ele>
+<name>BBK008</name>
+</rtept>
+<rtept lat="57.0340664593064" lon="-5.67321226953831">
+<ele>6.277228276868</ele>
+<name>BBK009</name>
+</rtept>
+<rtept lat="57.033759656291" lon="-5.6726377886328">
+<ele>4.63502014569983</ele>
+<name>BBK010</name>
+</rtept>
+<rtept lat="57.0336677866166" lon="-5.67025414966328">
+<ele>11.8652643019752</ele>
+<name>BBK011</name>
+</rtept>
+<rtept lat="57.034008490263" lon="-5.66875419377286">
+<ele>22.8134532969796</ele>
+<name>BBK012</name>
+</rtept>
+<rtept lat="57.0351528356052" lon="-5.66790240319252">
+<ele>37.7800349297229</ele>
+<name>BBK013</name>
+</rtept>
+<rtept lat="57.0357756182381" lon="-5.66690017547198">
+<ele>50.3051853182152</ele>
+<name>BBK014</name>
+</rtept>
+<rtept lat="57.0361356628428" lon="-5.66611937581325">
+<ele>54.3358432405649</ele>
+<name>BBK015</name>
+</rtept>
+<rtept lat="57.0361405715216" lon="-5.66503144803167">
+<ele>56.3535972619288</ele>
+<name>BBK016</name>
+</rtept>
+<rtept lat="57.0354772636658" lon="-5.66281401705179">
+<ele>69.4997155485217</ele>
+<name>BBK017</name>
+</rtept>
+<rtept lat="57.0350642764264" lon="-5.66217967202772">
+<ele>66.7217759004275</ele>
+<name>BBK018</name>
+</rtept>
+<rtept lat="57.0348736658303" lon="-5.66131988283525">
+<ele>67.9935535909487</ele>
+<name>BBK019</name>
+</rtept>
+<rtept lat="57.0343065183632" lon="-5.66042303470037">
+<ele>67.6934383981087</ele>
+<name>BBK020</name>
+</rtept>
+<rtept lat="57.0338198501345" lon="-5.65861893978644">
+<ele>58.4572325670378</ele>
+<name>BBK021</name>
+</rtept>
+<rtept lat="57.0328701687408" lon="-5.65696723544417">
+<ele>46.7497251699464</ele>
+<name>BBK022</name>
+</rtept>
+<rtept lat="57.0316263094028" lon="-5.65338222188483">
+<ele>33.3368157182494</ele>
+<name>BBK023</name>
+</rtept>
+<rtept lat="57.0308556956387" lon="-5.65159994125862">
+<ele>34.9155545675679</ele>
+<name>BBK024</name>
+</rtept>
+<rtept lat="57.0300953974899" lon="-5.65038759501056">
+<ele>25.749576026211</ele>
+<name>BBK025</name>
+</rtept>
+<rtept lat="57.0299082468851" lon="-5.64801965672641">
+<ele>24.5941677396189</ele>
+<name>BBK026</name>
+</rtept>
+<rtept lat="57.0305186854208" lon="-5.64419650845475">
+<ele>21.9593252447781</ele>
+<name>BBK027</name>
+</rtept>
+<rtept lat="57.0303224028298" lon="-5.6430643115241">
+<ele>23.660509823903</ele>
+<name>BBK028</name>
+</rtept>
+<rtept lat="57.0299292228541" lon="-5.64220963203654">
+<ele>22.6575855728073</ele>
+<name>BBK029</name>
+</rtept>
+<rtept lat="57.0290639705261" lon="-5.63950334106082">
+<ele>22.2959559471013</ele>
+<name>BBK030</name>
+</rtept>
+<rtept lat="57.0285545801246" lon="-5.63707929078379">
+<ele>22.8158358712122</ele>
+<name>BBK031</name>
+</rtept>
+<rtept lat="57.028710200713" lon="-5.63543750868195">
+<ele>20.102864839807</ele>
+<name>BBK032</name>
+</rtept>
+<rtept lat="57.029811385862" lon="-5.63188480758755">
+<ele>22.4723745234206</ele>
+<name>BBK033</name>
+</rtept>
+<rtept lat="57.029184343947" lon="-5.63165045228352">
+<ele>24.8681150036319</ele>
+<name>BBK034</name>
+</rtept>
+<rtept lat="57.0280308735896" lon="-5.62864431427779">
+<ele>20.7516004586201</ele>
+<name>BBK035</name>
+</rtept>
+<rtept lat="57.0276167005199" lon="-5.62897486487897">
+<ele>24.6685930513295</ele>
+<name>BBK036</name>
+</rtept>
+<rtept lat="57.0274377297452" lon="-5.62863590718237">
+<ele>30.2145304859058</ele>
+<name>BBK037</name>
+</rtept>
+<rtept lat="57.0278593396291" lon="-5.62711900663512">
+<ele>28.1485125797922</ele>
+<name>BBK038</name>
+</rtept>
+<rtept lat="57.0270805395258" lon="-5.62281420443315">
+<ele>33.5995805509092</ele>
+<name>BBK039</name>
+</rtept>
+<rtept lat="57.0267990626921" lon="-5.61902784176766">
+<ele>35.8375817849702</ele>
+<name>BBK040</name>
+</rtept>
+<rtept lat="57.0270130224893" lon="-5.61815837911166">
+<ele>34.8764834410145</ele>
+<name>BBK041</name>
+</rtept>
+<rtept lat="57.0274046557271" lon="-5.61720726532422">
+<ele>33.135133496129</ele>
+<name>BBK042</name>
+</rtept>
+<rtept lat="57.0277151700037" lon="-5.6148633392408">
+<ele>38.4704390704577</ele>
+<name>BBK043</name>
+</rtept>
+<rtept lat="57.0278037916553" lon="-5.614130037231">
+<ele>39.4240299557404</ele>
+<name>BBK044</name>
+</rtept>
+<rtept lat="57.0278007478282" lon="-5.61143411845">
+<ele>54.3132672775962</ele>
+<name>BBK045</name>
+</rtept>
+<rtept lat="57.0281569692796" lon="-5.61030636439721">
+<ele>49.4089002188396</ele>
+<name>BBK046</name>
+</rtept>
+<rtept lat="57.0281188358531" lon="-5.60975858813072">
+<ele>54.6398403021986</ele>
+<name>BBK047</name>
+</rtept>
+<rtept lat="57.0282923146294" lon="-5.60935500189676">
+<ele>54.0067258015447</ele>
+<name>BBK048</name>
+</rtept>
+<rtept lat="57.0282991238595" lon="-5.60631377884783">
+<ele>65.6746832716275</ele>
+<name>BBK049</name>
+</rtept>
+<rtept lat="57.0280988816472" lon="-5.60577502023034">
+<ele>67.8376367088081</ele>
+<name>BBK050</name>
+</rtept>
+<rtept lat="57.0284628150536" lon="-5.60484579998762">
+<ele>58.5279537464546</ele>
+<name>BBK051</name>
+</rtept>
+<rtept lat="57.0281943619783" lon="-5.59965107897391">
+<ele>84.0466541500819</ele>
+<name>BBK052</name>
+</rtept>
+<rtept lat="57.027860412257" lon="-5.59766505977338">
+<ele>93.4756238049458</ele>
+<name>BBK053</name>
+</rtept>
+<rtept lat="57.0268335083613" lon="-5.59491965976765">
+<ele>110.332787624418</ele>
+<name>BBK054</name>
+</rtept>
+<rtept lat="57.0259438517745" lon="-5.59255860569449">
+<ele>139.899076465828</ele>
+<name>BBK055</name>
+</rtept>
+<rtept lat="57.0257265667151" lon="-5.59167210918657">
+<ele>150.987381499277</ele>
+<name>BBK056</name>
+</rtept>
+<rtept lat="57.0250640517049" lon="-5.59126194142046">
+<ele>161.784493250243</ele>
+<name>BBK057</name>
+</rtept>
+<rtept lat="57.0247752586008" lon="-5.59145661439756">
+<ele>161.45864060762</ele>
+<name>BBK058</name>
+</rtept>
+<rtept lat="57.0244015351168" lon="-5.59085178868662">
+<ele>170.454346563504</ele>
+<name>BBK059</name>
+</rtept>
+<rtept lat="57.0239251680132" lon="-5.58865449953589">
+<ele>190.905185125584</ele>
+<name>BBK060</name>
+</rtept>
+<rtept lat="57.0239449695376" lon="-5.58749421042537">
+<ele>197.160509823891</ele>
+<name>BBK061</name>
+</rtept>
+<rtept lat="57.0238734612546" lon="-5.58669603146073">
+<ele>199.151651842033</ele>
+<name>BBK062</name>
+</rtept>
+<rtept lat="57.0239604704734" lon="-5.58507239693232">
+<ele>206.573929110105</ele>
+<name>BBK063</name>
+</rtept>
+<rtept lat="57.02381532132" lon="-5.58401985257618">
+<ele>211.704603024457</ele>
+<name>BBK064</name>
+</rtept>
+<rtept lat="57.0234868768308" lon="-5.58371620877871">
+<ele>208.714610001787</ele>
+<name>BBK065</name>
+</rtept>
+<rtept lat="57.0230797758597" lon="-5.58192137323237">
+<ele>209.11963217157</ele>
+<name>BBK066</name>
+</rtept>
+<rtept lat="57.0228105869052" lon="-5.57907659842706">
+<ele>222.182268593404</ele>
+<name>BBK067</name>
+</rtept>
+<rtept lat="57.0228345768639" lon="-5.57823819513871">
+<ele>228.668858643772</ele>
+<name>BBK068</name>
+</rtept>
+<rtept lat="57.0228245626998" lon="-5.5771739801214">
+<ele>236.274697456872</ele>
+<name>BBK069</name>
+</rtept>
+<rtept lat="57.0222148158102" lon="-5.5744449033253">
+<ele>245.994687369904</ele>
+<name>BBK070</name>
+</rtept>
+<rtept lat="57.0223137690228" lon="-5.57334172266359">
+<ele>248.147148784975</ele>
+<name>BBK071</name>
+</rtept>
+<rtept lat="57.0220592403026" lon="-5.57044903434192">
+<ele>265.935912719634</ele>
+<name>BBK072</name>
+</rtept>
+<rtept lat="57.0212733451346" lon="-5.5691620542751">
+<ele>285.66026225478</ele>
+<name>BBK073</name>
+</rtept>
+<rtept lat="57.0200649734528" lon="-5.56850218704045">
+<ele>305.41506888168</ele>
+<name>BBK074</name>
+</rtept>
+<rtept lat="57.019352883879" lon="-5.56840916580883">
+<ele>318.196112481769</ele>
+<name>BBK075</name>
+</rtept>
+<rtept lat="57.0180460594798" lon="-5.56741851431599">
+<ele>354.376099346973</ele>
+<name>BBK076</name>
+</rtept>
+<rtept lat="57.0172405292704" lon="-5.56729183934211">
+<ele>381.84725540391</ele>
+<name>BBK077</name>
+</rtept>
+<rtept lat="57.0159538206559" lon="-5.56795959545966">
+<ele>430.229024663262</ele>
+<name>BBK078</name>
+</rtept>
+<rtept lat="57.0155496489466" lon="-5.5679455646207">
+<ele>440.443050347037</ele>
+<name>BBK079</name>
+</rtept>
+<rtept lat="57.0146699229683" lon="-5.56852869187612">
+<ele>472.045296777667</ele>
+<name>BBK080</name>
+</rtept>
+<rtept lat="57.0144646712354" lon="-5.56863261530531">
+<ele>483.998181194729</ele>
+<name>BBK081</name>
+</rtept>
+<rtept lat="57.0133469195606" lon="-5.56810518525779">
+<ele>538.957006746782</ele>
+<name>BBK082</name>
+</rtept>
+<rtept lat="57.0125511502556" lon="-5.56716369654038">
+<ele>552.983791072937</ele>
+<name>BBK083</name>
+</rtept>
+<rtept lat="57.0117413995649" lon="-5.56718496195909">
+<ele>571.310609505616</ele>
+<name>BBK084</name>
+</rtept>
+<rtept lat="57.0112452812976" lon="-5.56755763396652">
+<ele>579.434863857503</ele>
+<name>BBK085</name>
+</rtept>
+<rtept lat="57.0112361378524" lon="-5.56787810411873">
+<ele>584.850424619576</ele>
+<name>BBK086</name>
+</rtept>
+<rtept lat="57.0114329483819" lon="-5.56807000489557">
+<ele>590.315760913895</ele>
+<name>BBK087</name>
+</rtept>
+<rtept lat="57.011297216502" lon="-5.56904575317275">
+<ele>600.9583152837</ele>
+<name>BBK088</name>
+</rtept>
+<rtept lat="57.0113320901958" lon="-5.57018617385737">
+<ele>606.230543445617</ele>
+<name>BBK089</name>
+</rtept>
+<rtept lat="57.0111871170511" lon="-5.57101271213976">
+<ele>610.2975776176</ele>
+<name>BBK090</name>
+</rtept>
+<rtept lat="57.0110655154872" lon="-5.57196508176992">
+<ele>622.575864804275</ele>
+<name>BBK091</name>
+</rtept>
+<rtept lat="57.0110082671915" lon="-5.57255284030814">
+<ele>633.43071885671</ele>
+<name>BBK092</name>
+</rtept>
+<rtept lat="57.0112568818144" lon="-5.57376321870209">
+<ele>659.182153888992</ele>
+<name>BBK093</name>
+</rtept>
+<rtept lat="57.0112817275086" lon="-5.57430942394924">
+<ele>672.13405096822</ele>
+<name>BBK094</name>
+</rtept>
+<rtept lat="57.0113943111722" lon="-5.57461686595064">
+<ele>680.258869964736</ele>
+<name>BBK095</name>
+</rtept>
+<rtept lat="57.011341279216" lon="-5.57505671658129">
+<ele>690.604230784704</ele>
+<name>BBK096</name>
+</rtept>
+<rtept lat="57.0115063022883" lon="-5.57588830304091">
+<ele>700.718570030239</ele>
+<name>BBK097</name>
+</rtept>
+<rtept lat="57.0113676891178" lon="-5.57696262780393">
+<ele>711.282326465912</ele>
+<name>BBK098</name>
+</rtept>
+<rtept lat="57.0113273925171" lon="-5.57742841849776">
+<ele>720.782254824691</ele>
+<name>BBK099</name>
+</rtept>
+<rtept lat="57.0113777548792" lon="-5.57849618394513">
+<ele>726.740909108135</ele>
+<name>BBK100</name>
+</rtept>
+<rtept lat="57.0111513697957" lon="-5.57980924523878">
+<ele>736.61127272821</ele>
+<name>BBK101</name>
+</rtept>
+<rtept lat="57.0110544442867" lon="-5.58036845916643">
+<ele>750.227454749078</ele>
+<name>BBK102</name>
+</rtept>
+<rtept lat="57.0112767206521" lon="-5.58061231437084">
+<ele>769.774827136076</ele>
+<name>BBK103</name>
+</rtept>
+<rtept lat="57.0113482712654" lon="-5.58141021210213">
+<ele>789.589477601427</ele>
+<name>BBK104</name>
+</rtept>
+<rtept lat="57.0113759394846" lon="-5.58232748562195">
+<ele>792.151639211765</ele>
+<name>BBK105</name>
+</rtept>
+<rtept lat="57.0111154989578" lon="-5.58294511296674">
+<ele>782.074413181767</ele>
+<name>BBK106</name>
+</rtept>
+<rtept lat="57.0111417173856" lon="-5.58344201851631">
+<ele>784.298128223812</ele>
+<name>BBK107</name>
+</rtept>
+<rtept lat="57.0109357729106" lon="-5.5840401634615">
+<ele>780.670146320576</ele>
+<name>BBK108</name>
+</rtept>
+<rtept lat="57.0107581133514" lon="-5.58412193067275">
+<ele>772.65127113835</ele>
+<name>BBK109</name>
+</rtept>
+<rtept lat="57.010540837055" lon="-5.58464481844933">
+<ele>781.803669066671</ele>
+<name>BBK110</name>
+</rtept>
+<rtept lat="57.0102662094138" lon="-5.58481611668424">
+<ele>777.119652873254</ele>
+<name>BBK111</name>
+</rtept>
+<rtept lat="57.0100652577494" lon="-5.58665064106769">
+<ele>801.431149398516</ele>
+<name>BBK112</name>
+</rtept>
+<rtept lat="57.0100079699693" lon="-5.58864730866561">
+<ele>838.378074602119</ele>
+<name>BBK113</name>
+</rtept>
+<rtept lat="57.0101375096143" lon="-5.58930247901433">
+<ele>843.768574167422</ele>
+<name>BBK114</name>
+</rtept>
+<rtept lat="57.010087260128" lon="-5.59058299252736">
+<ele>843.008303648814</ele>
+<name>BBK115</name>
+</rtept>
+<rtept lat="57.0098848229517" lon="-5.5905881816922">
+<ele>837.685292197066</ele>
+<name>BBK116</name>
+</rtept>
+<rtept lat="57.0092626428344" lon="-5.59159103134718">
+<ele>815.539208289088</ele>
+<name>BBK117</name>
+</rtept>
+<rtept lat="57.0093383654771" lon="-5.59271064715842">
+<ele>808.523181556061</ele>
+<name>BBK118</name>
+</rtept>
+<rtept lat="57.0092894848567" lon="-5.59441146814873">
+<ele>794.250846062008</ele>
+<name>BBK119</name>
+</rtept>
+<rtept lat="57.0089815142259" lon="-5.5962108426799">
+<ele>771.068537991865</ele>
+<name>BBK120</name>
+</rtept>
+<rtept lat="57.0094364757356" lon="-5.59914681902194">
+<ele>757.917329820646</ele>
+<name>BBK121</name>
+</rtept>
+<rtept lat="57.0097492712133" lon="-5.59999277133349">
+<ele>761.410110153871</ele>
+<name>BBK122</name>
+</rtept>
+<rtept lat="57.0102425306395" lon="-5.60112810319069">
+<ele>772.933620691416</ele>
+<name>BBK123</name>
+</rtept>
+<rtept lat="57.0103330360029" lon="-5.60219976605765">
+<ele>768.141528951586</ele>
+<name>BBK124</name>
+</rtept>
+<rtept lat="57.0101247253638" lon="-5.60428068776801">
+<ele>731.371218105084</ele>
+<name>BBK125</name>
+</rtept>
+<rtept lat="57.0099417947206" lon="-5.60688313665112">
+<ele>708.603416557069</ele>
+<name>BBK126</name>
+</rtept>
+<rtept lat="57.0099831626231" lon="-5.60965562696656">
+<ele>693.303347024954</ele>
+<name>BBK127</name>
+</rtept>
+<rtept lat="57.0101443189904" lon="-5.61108022338802">
+<ele>699.676559739019</ele>
+<name>BBK128</name>
+</rtept>
+<rtept lat="57.0100585671688" lon="-5.61171458887253">
+<ele>712.099816279151</ele>
+<name>BBK129</name>
+</rtept>
+<rtept lat="57.0102741195862" lon="-5.61358941816985">
+<ele>732.840878288006</ele>
+<name>BBK130</name>
+</rtept>
+<rtept lat="57.0104523329308" lon="-5.61442244689934">
+<ele>739.417661735331</ele>
+<name>BBK131</name>
+</rtept>
+<rtept lat="57.0107295739363" lon="-5.61556173320711">
+<ele>748.458948639347</ele>
+<name>BBK132</name>
+</rtept>
+<rtept lat="57.0117504322924" lon="-5.61803401495173">
+<ele>782.33710054916</ele>
+<name>BBK133</name>
+</rtept>
+<rtept lat="57.0120548614373" lon="-5.61857449230324">
+<ele>779.868920035551</ele>
+<name>BBK134</name>
+</rtept>
+<rtept lat="57.0122211745574" lon="-5.62050071061765">
+<ele>768.603673890239</ele>
+<name>BBK135</name>
+</rtept>
+<rtept lat="57.0117948746727" lon="-5.62224401792679">
+<ele>753.803839609756</ele>
+<name>BBK136</name>
+</rtept>
+<rtept lat="57.0116641454592" lon="-5.62498673581985">
+<ele>750.27163121092</ele>
+<name>BBK137</name>
+</rtept>
+<rtept lat="57.0117595075263" lon="-5.62994331614867">
+<ele>733.500942778884</ele>
+<name>BBK138</name>
+</rtept>
+<rtept lat="57.0120334860854" lon="-5.63109728044453">
+<ele>739.581920567238</ele>
+<name>BBK139</name>
+</rtept>
+<rtept lat="57.0113921452186" lon="-5.63200536974635">
+<ele>725.847784552336</ele>
+<name>BBK140</name>
+</rtept>
+<rtept lat="57.0108432257141" lon="-5.63267195995625">
+<ele>713.099839966024</ele>
+<name>BBK141</name>
+</rtept>
+<rtept lat="57.010664517011" lon="-5.6335312283853">
+<ele>699.79072326633</ele>
+<name>BBK142</name>
+</rtept>
+<rtept lat="57.0100994631162" lon="-5.63416489780058">
+<ele>677.978548248073</ele>
+<name>BBK143</name>
+</rtept>
+<rtept lat="57.010093808305" lon="-5.63494711239238">
+<ele>675.786328212369</ele>
+<name>BBK144</name>
+</rtept>
+<rtept lat="57.0097867667748" lon="-5.63610692132355">
+<ele>660.528255872896</ele>
+<name>BBK145</name>
+</rtept>
+<rtept lat="57.0095473818854" lon="-5.63611484476192">
+<ele>657.784723011288</ele>
+<name>BBK146</name>
+</rtept>
+<rtept lat="57.0085012839366" lon="-5.63801644854323">
+<ele>613.817628323748</ele>
+<name>BBK147</name>
+</rtept>
+<rtept lat="57.0085421644155" lon="-5.63895972689916">
+<ele>596.237035040808</ele>
+<name>BBK148</name>
+</rtept>
+<rtept lat="57.0092948299877" lon="-5.64009785788036">
+<ele>565.708903735006</ele>
+<name>BBK149</name>
+</rtept>
+<rtept lat="57.0095462255217" lon="-5.6414374775067">
+<ele>534.931055354996</ele>
+<name>BBK150</name>
+</rtept>
+<rtept lat="57.0092802209097" lon="-5.64294564671798">
+<ele>494.391282427306</ele>
+<name>BBK151</name>
+</rtept>
+<rtept lat="57.0093378426728" lon="-5.64448548467409">
+<ele>460.191181635096</ele>
+<name>BBK152</name>
+</rtept>
+<rtept lat="57.0096119474224" lon="-5.64504460225841">
+<ele>442.117827731517</ele>
+<name>BBK153</name>
+</rtept>
+<rtept lat="57.0100726232593" lon="-5.64740672036149">
+<ele>399.88133697444</ele>
+<name>BBK154</name>
+</rtept>
+<rtept lat="57.0106156122654" lon="-5.64811747235928">
+<ele>394.697892133129</ele>
+<name>BBK155</name>
+</rtept>
+<rtept lat="57.0113974701608" lon="-5.65176368076856">
+<ele>385.080214368747</ele>
+<name>BBK156</name>
+</rtept>
+<rtept lat="57.0126722841093" lon="-5.65548978389661">
+<ele>347.315507104096</ele>
+<name>BBK157</name>
+</rtept>
+<rtept lat="57.0134494111095" lon="-5.65753889236795">
+<ele>339.294249593272</ele>
+<name>BBK158</name>
+</rtept>
+<rtept lat="57.0141313492579" lon="-5.6581695789876">
+<ele>336.100432992619</ele>
+<name>BBK159</name>
+</rtept>
+<rtept lat="57.0146101180622" lon="-5.65815401637565">
+<ele>337.311734011886</ele>
+<name>BBK160</name>
+</rtept>
+<rtept lat="57.0155664688389" lon="-5.65699541218895">
+<ele>344.803149894295</ele>
+<name>BBK161</name>
+</rtept>
+<rtept lat="57.0164574135387" lon="-5.65573637469101">
+<ele>352.370860867743</ele>
+<name>BBK162</name>
+</rtept>
+<rtept lat="57.0173285567175" lon="-5.65632304014326">
+<ele>348.594047758142</ele>
+<name>BBK163</name>
+</rtept>
+<rtept lat="57.018866370254" lon="-5.65923018586484">
+<ele>310.208409271249</ele>
+<name>BBK164</name>
+</rtept>
+<rtept lat="57.0194357894469" lon="-5.65903564005208">
+<ele>285.2945501773</ele>
+<name>BBK165</name>
+</rtept>
+<rtept lat="57.0200030522717" lon="-5.65949858332255">
+<ele>265.242343307797</ele>
+<name>BBK166</name>
+</rtept>
+<rtept lat="57.020280742201" lon="-5.65993305343041">
+<ele>253.110042263638</ele>
+<name>BBK167</name>
+</rtept>
+<rtept lat="57.0212239873216" lon="-5.65980660761915">
+<ele>212.603455603063</ele>
+<name>BBK168</name>
+</rtept>
+<rtept lat="57.0229170404569" lon="-5.65915880799425">
+<ele>123.448558590667</ele>
+<name>BBK169</name>
+</rtept>
+<rtept lat="57.0239004194256" lon="-5.65941215608967">
+<ele>84.020141007494</ele>
+<name>BBK170</name>
+</rtept>
+<rtept lat="57.0247128782712" lon="-5.65908488222235">
+<ele>51.0842840035466</ele>
+<name>BBK171</name>
+</rtept>
+<rtept lat="57.0250176552152" lon="-5.6591775110589">
+<ele>42.9033930379441</ele>
+<name>BBK172</name>
+</rtept>
+<rtept lat="57.025322100615" lon="-5.65986526219688">
+<ele>38.1476149048703</ele>
+<name>BBK173</name>
+</rtept>
+<rtept lat="57.0254607773344" lon="-5.66038009104146">
+<ele>36.7436806703551</ele>
+<name>BBK174</name>
+</rtept>
+<rtept lat="57.025689190985" lon="-5.66074713520378">
+<ele>34.7296806703496</ele>
+<name>BBK175</name>
+</rtept>
+<rtept lat="57.0261375488641" lon="-5.66060331583923">
+<ele>32.1196891015858</ele>
+<name>BBK176</name>
+</rtept>
+<rtept lat="57.0264243766309" lon="-5.66072551945595">
+<ele>30.1009539546688</ele>
+<name>BBK177</name>
+</rtept>
+<rtept lat="57.0267586477024" lon="-5.66097769509582">
+<ele>27.5921705478455</ele>
+<name>BBK178</name>
+</rtept>
+<rtept lat="57.0274722280113" lon="-5.6611105859616">
+<ele>23.728268314054</ele>
+<name>BBK179</name>
+</rtept>
+<rtept lat="57.0279676888537" lon="-5.66169190211078">
+<ele>16.405743675526</ele>
+<name>BBK180</name>
+</rtept>
+<rtept lat="57.0281580268235" lon="-5.66277573550924">
+<ele>7.41548694116745</ele>
+<name>BBK181</name>
+</rtept>
+<rtept lat="57.028419018064" lon="-5.66261348009606">
+<ele>7.00660384191539</ele>
+<name>BBK182</name>
+</rtept>
+<rtept lat="57.0295038871034" lon="-5.66406740222296">
+<ele>2.32639208831808</ele>
+<name>BBK183</name>
+</rtept>
+<rtept lat="57.029781201823" lon="-5.66509721063514">
+<ele>4.9939795528185</ele>
+<name>BBK184</name>
+</rtept>
+<rtept lat="57.0330199244024" lon="-5.66883144893091">
+<ele>11.0822408254007</ele>
+<name>BBK185</name>
+</rtept>
+<rtept lat="57.0328686142772" lon="-5.66991308254111">
+<ele>7.26170057073526</ele>
+<name>BBK186</name>
+</rtept>
+<rtept lat="57.0332052305853" lon="-5.67066691013327">
+<ele>6.79481039874758</ele>
+<name>BBK187</name>
+</rtept>
+<rtept lat="57.0336969761239" lon="-5.67137340673385">
+<ele>9.31795380230239</ele>
+<name>BBK188</name>
+</rtept>
+<rtept lat="57.0337454572886" lon="-5.6726314391597">
+<ele>4.37407562453279</ele>
+<name>BBK189</name>
+</rtept>
+<rtept lat="57.0340194282367" lon="-5.67319113325019">
+<ele>5.45941286337623</ele>
+<name>BBK190</name>
+</rtept>
+<rtept lat="57.0344454809987" lon="-5.67555177278859">
+<ele>3.51708820580338</ele>
+<name>BBK191</name>
+</rtept>
+<rtept lat="57.0353599394354" lon="-5.67814877741698">
+<ele>5.73063269026811</ele>
+<name>BBK192</name>
+</rtept>
+<rtept lat="57.0358291555352" lon="-5.68020050766571">
+<ele>6.42166416221084</ele>
+<name>BBK193</name>
+</rtept>
+<rtept lat="57.0363116506662" lon="-5.68121960346256">
+<ele>5.47459835338872</ele>
+<name>BBK194</name>
+</rtept>
+<rtept lat="57.0374966507428" lon="-5.68274698757803">
+<ele>3.61678109845109</ele>
+<name>BBK195</name>
+</rtept>
+<rtept lat="57.037921583828" lon="-5.68397980449472">
+<ele>2.09864103726815</ele>
+<name>BBK196</name>
+</rtept>
+<rtept lat="57.0380965312376" lon="-5.68499986026212">
+<ele>1.0035811858322</ele>
+<name>BBK197</name>
+</rtept>
+<rtept lat="57.0382604186387" lon="-5.68523545097313">
+<ele>1.44626223109109</ele>
+<name>BBK198</name>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,766 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Southern Upland Way 11: Lauder to Longformacus</name>
+<rtept lat="55.718398" lon="-2.748186">
+<ele>0</ele>
+<name>SUW11-001</name>
+</rtept>
+<rtept lat="55.717876" lon="-2.74543">
+<ele>0</ele>
+<name>SUW11-002</name>
+</rtept>
+<rtept lat="55.718153" lon="-2.744202">
+<ele>0</ele>
+<name>SUW11-003</name>
+</rtept>
+<rtept lat="55.717603" lon="-2.742241">
+<ele>0</ele>
+<name>SUW11-004</name>
+</rtept>
+<rtept lat="55.717988" lon="-2.741731">
+<ele>0</ele>
+<name>SUW11-005</name>
+</rtept>
+<rtept lat="55.718393" lon="-2.7415">
+<ele>0</ele>
+<name>SUW11-006</name>
+</rtept>
+<rtept lat="55.7194489348874" lon="-2.74036891443112">
+<ele>156.530034487668</ele>
+<name>SUW11-007</name>
+</rtept>
+<rtept lat="55.7199015463396" lon="-2.74071019033624">
+<ele>156.245319959654</ele>
+<name>SUW11-008</name>
+</rtept>
+<rtept lat="55.7202146330933" lon="-2.74124145750674">
+<ele>156.205470272699</ele>
+<name>SUW11-008 - SUW11-009</name>
+</rtept>
+<rtept lat="55.7205689407642" lon="-2.74149332980141">
+<ele>156.044573217324</ele>
+<name>SUW11-008 - SUW11-009 - SUW11-009</name>
+</rtept>
+<rtept lat="55.7212562821666" lon="-2.73896713463957">
+<ele>158.96405965971</ele>
+<name>SUW11-009</name>
+</rtept>
+<rtept lat="55.721456" lon="-2.736504">
+<ele>0</ele>
+<name>SUW11-010</name>
+</rtept>
+<rtept lat="55.721573" lon="-2.73575">
+<ele>0</ele>
+<name>SUW11-011</name>
+</rtept>
+<rtept lat="55.722164523" lon="-2.734346232">
+<ele>0</ele>
+<name>SUW11-012</name>
+</rtept>
+<rtept lat="55.723026925" lon="-2.73384899">
+<ele>0</ele>
+<name>SUW11-013</name>
+</rtept>
+<rtept lat="55.724289279" lon="-2.733768448">
+<ele>0</ele>
+<name>SUW11-014</name>
+</rtept>
+<rtept lat="55.726109043" lon="-2.731289654">
+<ele>0</ele>
+<name>SUW11-015</name>
+</rtept>
+<rtept lat="55.726512303" lon="-2.729790399">
+<ele>0</ele>
+<name>SUW11-016</name>
+</rtept>
+<rtept lat="55.72543" lon="-2.729334">
+<ele>0</ele>
+<name>SUW11-017</name>
+</rtept>
+<rtept lat="55.724656" lon="-2.72733">
+<ele>0</ele>
+<name>SUW11-018</name>
+</rtept>
+<rtept lat="55.724957" lon="-2.725704">
+<ele>0</ele>
+<name>SUW11-019</name>
+</rtept>
+<rtept lat="55.725243" lon="-2.723002">
+<ele>0</ele>
+<name>SUW11-020</name>
+</rtept>
+<rtept lat="55.725007" lon="-2.721008">
+<ele>0</ele>
+<name>SUW11-021</name>
+</rtept>
+<rtept lat="55.726291" lon="-2.720395">
+<ele>0</ele>
+<name>SUW11-022</name>
+</rtept>
+<rtept lat="55.727043" lon="-2.718577">
+<ele>0</ele>
+<name>SUW11-023</name>
+</rtept>
+<rtept lat="55.727588" lon="-2.717592">
+<ele>0</ele>
+<name>SUW11-024</name>
+</rtept>
+<rtept lat="55.728609" lon="-2.71582">
+<ele>0</ele>
+<name>SUW11-025</name>
+</rtept>
+<rtept lat="55.729451" lon="-2.714084">
+<ele>0</ele>
+<name>SUW11-026</name>
+</rtept>
+<rtept lat="55.729075" lon="-2.713082">
+<ele>0</ele>
+<name>SUW11-027</name>
+</rtept>
+<rtept lat="55.728832511" lon="-2.710859819">
+<ele>0</ele>
+<name>SUW11-028</name>
+</rtept>
+<rtept lat="55.728994048" lon="-2.710688517">
+<ele>0</ele>
+<name>SUW11-029</name>
+</rtept>
+<rtept lat="55.729459227" lon="-2.71158896">
+<ele>0</ele>
+<name>SUW11-030</name>
+</rtept>
+<rtept lat="55.73050762" lon="-2.711908772">
+<ele>0</ele>
+<name>SUW11-031</name>
+</rtept>
+<rtept lat="55.731834228" lon="-2.711241496">
+<ele>0</ele>
+<name>SUW11-032</name>
+</rtept>
+<rtept lat="55.732448853" lon="-2.710788809">
+<ele>0</ele>
+<name>SUW11-033</name>
+</rtept>
+<rtept lat="55.733161176" lon="-2.709360928">
+<ele>0</ele>
+<name>SUW11-034</name>
+</rtept>
+<rtept lat="55.734047" lon="-2.707838">
+<ele>0</ele>
+<name>SUW11-035</name>
+</rtept>
+<rtept lat="55.734940494" lon="-2.706498269">
+<ele>0</ele>
+<name>SUW11-036</name>
+</rtept>
+<rtept lat="55.735937895" lon="-2.705574358">
+<ele>0</ele>
+<name>SUW11-037</name>
+</rtept>
+<rtept lat="55.737438893" lon="-2.703206724">
+<ele>0</ele>
+<name>SUW11-038</name>
+</rtept>
+<rtept lat="55.739225517" lon="-2.702036158">
+<ele>0</ele>
+<name>SUW11-039</name>
+</rtept>
+<rtept lat="55.740127586" lon="-2.703017047">
+<ele>0</ele>
+<name>SUW11-040</name>
+</rtept>
+<rtept lat="55.742308108" lon="-2.697883638">
+<ele>0</ele>
+<name>SUW11-041</name>
+</rtept>
+<rtept lat="55.743271" lon="-2.697412">
+<ele>0</ele>
+<name>SUW11-042</name>
+</rtept>
+<rtept lat="55.743807899" lon="-2.696167138">
+<ele>0</ele>
+<name>SUW11-043</name>
+</rtept>
+<rtept lat="55.744519" lon="-2.695244">
+<ele>0</ele>
+<name>SUW11-044</name>
+</rtept>
+<rtept lat="55.746392" lon="-2.693804">
+<ele>0</ele>
+<name>SUW11-045</name>
+</rtept>
+<rtept lat="55.746842" lon="-2.693533">
+<ele>0</ele>
+<name>SUW11-046</name>
+</rtept>
+<rtept lat="55.747365" lon="-2.692467">
+<ele>0</ele>
+<name>SUW11-047</name>
+</rtept>
+<rtept lat="55.748179" lon="-2.691446">
+<ele>0</ele>
+<name>SUW11-048</name>
+</rtept>
+<rtept lat="55.747947108" lon="-2.689560379">
+<ele>0</ele>
+<name>SUW11-049</name>
+</rtept>
+<rtept lat="55.748328707" lon="-2.688669108">
+<ele>0</ele>
+<name>SUW11-050</name>
+</rtept>
+<rtept lat="55.748789911" lon="-2.687343102">
+<ele>0</ele>
+<name>SUW11-051</name>
+</rtept>
+<rtept lat="55.749313051" lon="-2.68562782">
+<ele>0</ele>
+<name>SUW11-052</name>
+</rtept>
+<rtept lat="55.749439985" lon="-2.684045274">
+<ele>0</ele>
+<name>SUW11-053</name>
+</rtept>
+<rtept lat="55.74945383" lon="-2.682656846">
+<ele>0</ele>
+<name>SUW11-054</name>
+</rtept>
+<rtept lat="55.75052" lon="-2.678504">
+<ele>0</ele>
+<name>SUW11-055</name>
+</rtept>
+<rtept lat="55.751964491" lon="-2.676118072">
+<ele>0</ele>
+<name>SUW11-056</name>
+</rtept>
+<rtept lat="55.752657028" lon="-2.67465359">
+<ele>0</ele>
+<name>SUW11-057</name>
+</rtept>
+<rtept lat="55.754244683" lon="-2.671794879">
+<ele>0</ele>
+<name>SUW11-058</name>
+</rtept>
+<rtept lat="55.756799" lon="-2.668256">
+<ele>0</ele>
+<name>SUW11-059</name>
+</rtept>
+<rtept lat="55.758400512" lon="-2.666259523">
+<ele>0</ele>
+<name>SUW11-060</name>
+</rtept>
+<rtept lat="55.758569664" lon="-2.666423424">
+<ele>0</ele>
+<name>SUW11-061</name>
+</rtept>
+<rtept lat="55.760404" lon="-2.666285">
+<ele>0</ele>
+<name>SUW11-062</name>
+</rtept>
+<rtept lat="55.76117" lon="-2.66586">
+<ele>0</ele>
+<name>SUW11-063</name>
+</rtept>
+<rtept lat="55.76353" lon="-2.665502">
+<ele>0</ele>
+<name>SUW11-064</name>
+</rtept>
+<rtept lat="55.765780062" lon="-2.665958741">
+<ele>0</ele>
+<name>SUW11-065</name>
+</rtept>
+<rtept lat="55.766193225" lon="-2.666583448">
+<ele>0</ele>
+<name>SUW11-066</name>
+</rtept>
+<rtept lat="55.766411209" lon="-2.667833748">
+<ele>0</ele>
+<name>SUW11-067</name>
+</rtept>
+<rtept lat="55.766496765" lon="-2.668091919">
+<ele>0</ele>
+<name>SUW11-068</name>
+</rtept>
+<rtept lat="55.766835906" lon="-2.668884419">
+<ele>0</ele>
+<name>SUW11-069</name>
+</rtept>
+<rtept lat="55.767234035" lon="-2.668638861">
+<ele>0</ele>
+<name>SUW11-070</name>
+</rtept>
+<rtept lat="55.767537" lon="-2.668041">
+<ele>0</ele>
+<name>SUW11-071</name>
+</rtept>
+<rtept lat="55.767701137" lon="-2.66705135">
+<ele>0</ele>
+<name>SUW11-072</name>
+</rtept>
+<rtept lat="55.767649317" lon="-2.665235548">
+<ele>0</ele>
+<name>SUW11-073</name>
+</rtept>
+<rtept lat="55.767696" lon="-2.663621">
+<ele>0</ele>
+<name>SUW11-074</name>
+</rtept>
+<rtept lat="55.767415" lon="-2.661584">
+<ele>0</ele>
+<name>SUW11-075</name>
+</rtept>
+<rtept lat="55.767415447" lon="-2.659320971">
+<ele>0</ele>
+<name>SUW11-076</name>
+</rtept>
+<rtept lat="55.767536056" lon="-2.658252554">
+<ele>0</ele>
+<name>SUW11-077</name>
+</rtept>
+<rtept lat="55.767868" lon="-2.65673">
+<ele>0</ele>
+<name>SUW11-078</name>
+</rtept>
+<rtept lat="55.768399749" lon="-2.654957753">
+<ele>0</ele>
+<name>SUW11-079</name>
+</rtept>
+<rtept lat="55.769095971" lon="-2.651721328">
+<ele>0</ele>
+<name>SUW11-080</name>
+</rtept>
+<rtept lat="55.769787983" lon="-2.649960041">
+<ele>0</ele>
+<name>SUW11-081</name>
+</rtept>
+<rtept lat="55.770659775" lon="-2.649016846">
+<ele>0</ele>
+<name>SUW11-082</name>
+</rtept>
+<rtept lat="55.771381212" lon="-2.648232927">
+<ele>0</ele>
+<name>SUW11-083</name>
+</rtept>
+<rtept lat="55.772201173" lon="-2.646875528">
+<ele>0</ele>
+<name>SUW11-084</name>
+</rtept>
+<rtept lat="55.773635374" lon="-2.644378986">
+<ele>0</ele>
+<name>SUW11-085</name>
+</rtept>
+<rtept lat="55.774224788" lon="-2.643542672">
+<ele>0</ele>
+<name>SUW11-086</name>
+</rtept>
+<rtept lat="55.774511609" lon="-2.642992331">
+<ele>0</ele>
+<name>SUW11-087</name>
+</rtept>
+<rtept lat="55.774659" lon="-2.642537">
+<ele>0</ele>
+<name>SUW11-088</name>
+</rtept>
+<rtept lat="55.774458867" lon="-2.641854365">
+<ele>0</ele>
+<name>SUW11-089</name>
+</rtept>
+<rtept lat="55.774601871" lon="-2.640897956">
+<ele>0</ele>
+<name>SUW11-090</name>
+</rtept>
+<rtept lat="55.775641294" lon="-2.637297752">
+<ele>0</ele>
+<name>SUW11-091</name>
+</rtept>
+<rtept lat="55.775922255" lon="-2.63621307">
+<ele>0</ele>
+<name>SUW11-092</name>
+</rtept>
+<rtept lat="55.776748083" lon="-2.634842135">
+<ele>0</ele>
+<name>SUW11-093</name>
+</rtept>
+<rtept lat="55.777436125" lon="-2.633974586">
+<ele>0</ele>
+<name>SUW11-094</name>
+</rtept>
+<rtept lat="55.777986059" lon="-2.632962635">
+<ele>0</ele>
+<name>SUW11-095</name>
+</rtept>
+<rtept lat="55.778184686" lon="-2.632749736">
+<ele>0</ele>
+<name>SUW11-096</name>
+</rtept>
+<rtept lat="55.77860244" lon="-2.632657137">
+<ele>0</ele>
+<name>SUW11-097</name>
+</rtept>
+<rtept lat="55.779281703" lon="-2.632352411">
+<ele>0</ele>
+<name>SUW11-098</name>
+</rtept>
+<rtept lat="55.783518474" lon="-2.632931922">
+<ele>0</ele>
+<name>SUW11-099</name>
+</rtept>
+<rtept lat="55.783617621" lon="-2.633055303">
+<ele>0</ele>
+<name>SUW11-100</name>
+</rtept>
+<rtept lat="55.783858561" lon="-2.633502337">
+<ele>0</ele>
+<name>SUW11-101</name>
+</rtept>
+<rtept lat="55.784376973" lon="-2.633104759">
+<ele>0</ele>
+<name>SUW11-102</name>
+</rtept>
+<rtept lat="55.785033697" lon="-2.631140379">
+<ele>0</ele>
+<name>SUW11-103</name>
+</rtept>
+<rtept lat="55.78579294" lon="-2.629349557">
+<ele>0</ele>
+<name>SUW11-104</name>
+</rtept>
+<rtept lat="55.786316495" lon="-2.628495365">
+<ele>0</ele>
+<name>SUW11-105</name>
+</rtept>
+<rtept lat="55.786723715" lon="-2.627661539">
+<ele>0</ele>
+<name>SUW11-106</name>
+</rtept>
+<rtept lat="55.788113924" lon="-2.625789089">
+<ele>0</ele>
+<name>SUW11-107</name>
+</rtept>
+<rtept lat="55.788631495" lon="-2.625130252">
+<ele>0</ele>
+<name>SUW11-108</name>
+</rtept>
+<rtept lat="55.789132355" lon="-2.624777343">
+<ele>0</ele>
+<name>SUW11-109</name>
+</rtept>
+<rtept lat="55.789871427" lon="-2.624147526">
+<ele>0</ele>
+<name>SUW11-110</name>
+</rtept>
+<rtept lat="55.790140742" lon="-2.623727963">
+<ele>0</ele>
+<name>SUW11-111</name>
+</rtept>
+<rtept lat="55.790802951" lon="-2.622426442">
+<ele>0</ele>
+<name>SUW11-112</name>
+</rtept>
+<rtept lat="55.7913026" lon="-2.62127311">
+<ele>0</ele>
+<name>SUW11-113</name>
+</rtept>
+<rtept lat="55.791538367" lon="-2.620576045">
+<ele>0</ele>
+<name>SUW11-114</name>
+</rtept>
+<rtept lat="55.791946962" lon="-2.619382895">
+<ele>0</ele>
+<name>SUW11-115</name>
+</rtept>
+<rtept lat="55.791804451" lon="-2.61903765">
+<ele>0</ele>
+<name>SUW11-116</name>
+</rtept>
+<rtept lat="55.791675783" lon="-2.618434301">
+<ele>0</ele>
+<name>SUW11-117</name>
+</rtept>
+<rtept lat="55.790675" lon="-2.616208">
+<ele>0</ele>
+<name>SUW11-118</name>
+</rtept>
+<rtept lat="55.787665314" lon="-2.611505754">
+<ele>0</ele>
+<name>SUW11-119</name>
+</rtept>
+<rtept lat="55.787479908" lon="-2.611021003">
+<ele>0</ele>
+<name>SUW11-120</name>
+</rtept>
+<rtept lat="55.785027632" lon="-2.602081139">
+<ele>0</ele>
+<name>SUW11-121</name>
+</rtept>
+<rtept lat="55.784883732" lon="-2.60077027">
+<ele>0</ele>
+<name>SUW11-122</name>
+</rtept>
+<rtept lat="55.785286992" lon="-2.59903594">
+<ele>0</ele>
+<name>SUW11-123</name>
+</rtept>
+<rtept lat="55.785625" lon="-2.597273">
+<ele>0</ele>
+<name>SUW11-124</name>
+</rtept>
+<rtept lat="55.785994" lon="-2.595285">
+<ele>0</ele>
+<name>SUW11-125</name>
+</rtept>
+<rtept lat="55.786065" lon="-2.594449">
+<ele>0</ele>
+<name>SUW11-126</name>
+</rtept>
+<rtept lat="55.786426287" lon="-2.593835257">
+<ele>0</ele>
+<name>SUW11-127</name>
+</rtept>
+<rtept lat="55.786892737" lon="-2.592031117">
+<ele>0</ele>
+<name>SUW11-128</name>
+</rtept>
+<rtept lat="55.786885491" lon="-2.591824443">
+<ele>0</ele>
+<name>SUW11-129</name>
+</rtept>
+<rtept lat="55.787186096" lon="-2.590040854">
+<ele>0</ele>
+<name>SUW11-130</name>
+</rtept>
+<rtept lat="55.787552" lon="-2.588891">
+<ele>0</ele>
+<name>SUW11-131</name>
+</rtept>
+<rtept lat="55.788486" lon="-2.586114">
+<ele>0</ele>
+<name>SUW11-132</name>
+</rtept>
+<rtept lat="55.788173" lon="-2.581126">
+<ele>0</ele>
+<name>SUW11-133</name>
+</rtept>
+<rtept lat="55.78841889" lon="-2.577150404">
+<ele>0</ele>
+<name>SUW11-134</name>
+</rtept>
+<rtept lat="55.788945744" lon="-2.575584573">
+<ele>0</ele>
+<name>SUW11-135</name>
+</rtept>
+<rtept lat="55.790675357" lon="-2.570737284">
+<ele>0</ele>
+<name>SUW11-136</name>
+</rtept>
+<rtept lat="55.791661707" lon="-2.567999012">
+<ele>0</ele>
+<name>SUW11-137</name>
+</rtept>
+<rtept lat="55.791573131" lon="-2.566853542">
+<ele>0</ele>
+<name>SUW11-138</name>
+</rtept>
+<rtept lat="55.791695796" lon="-2.566488403">
+<ele>0</ele>
+<name>SUW11-139</name>
+</rtept>
+<rtept lat="55.795884726" lon="-2.564767275">
+<ele>0</ele>
+<name>SUW11-140</name>
+</rtept>
+<rtept lat="55.797155842" lon="-2.565197563">
+<ele>0</ele>
+<name>SUW11-141</name>
+</rtept>
+<rtept lat="55.79763086" lon="-2.564816267">
+<ele>0</ele>
+<name>SUW11-142</name>
+</rtept>
+<rtept lat="55.797723476" lon="-2.564195621">
+<ele>0</ele>
+<name>SUW11-143</name>
+</rtept>
+<rtept lat="55.798553" lon="-2.561382">
+<ele>0</ele>
+<name>SUW11-144</name>
+</rtept>
+<rtept lat="55.799704123" lon="-2.557642506">
+<ele>0</ele>
+<name>SUW11-145</name>
+</rtept>
+<rtept lat="55.800141901" lon="-2.555707802">
+<ele>0</ele>
+<name>SUW11-146</name>
+</rtept>
+<rtept lat="55.801308017" lon="-2.552367035">
+<ele>0</ele>
+<name>SUW11-147</name>
+</rtept>
+<rtept lat="55.802235944" lon="-2.550308915">
+<ele>0</ele>
+<name>SUW11-148</name>
+</rtept>
+<rtept lat="55.802265879" lon="-2.549446169">
+<ele>0</ele>
+<name>SUW11-149</name>
+</rtept>
+<rtept lat="55.802451" lon="-2.548756">
+<ele>0</ele>
+<name>SUW11-150</name>
+</rtept>
+<rtept lat="55.802928967" lon="-2.546612704">
+<ele>0</ele>
+<name>SUW11-151</name>
+</rtept>
+<rtept lat="55.803313952" lon="-2.540348124">
+<ele>0</ele>
+<name>SUW11-152</name>
+</rtept>
+<rtept lat="55.803231851" lon="-2.540122592">
+<ele>0</ele>
+<name>SUW11-153</name>
+</rtept>
+<rtept lat="55.802716174" lon="-2.539547411">
+<ele>0</ele>
+<name>SUW11-154</name>
+</rtept>
+<rtept lat="55.802583" lon="-2.539107">
+<ele>0</ele>
+<name>SUW11-155</name>
+</rtept>
+<rtept lat="55.802077757" lon="-2.537113204">
+<ele>0</ele>
+<name>SUW11-156</name>
+</rtept>
+<rtept lat="55.800837579" lon="-2.53735327">
+<ele>0</ele>
+<name>SUW11-157</name>
+</rtept>
+<rtept lat="55.800490984" lon="-2.53732682">
+<ele>0</ele>
+<name>SUW11-158</name>
+</rtept>
+<rtept lat="55.799063311" lon="-2.536411622">
+<ele>0</ele>
+<name>SUW11-159</name>
+</rtept>
+<rtept lat="55.798384971" lon="-2.535743475">
+<ele>0</ele>
+<name>SUW11-160</name>
+</rtept>
+<rtept lat="55.797580822" lon="-2.534525613">
+<ele>0</ele>
+<name>SUW11-161</name>
+</rtept>
+<rtept lat="55.797193501" lon="-2.533459135">
+<ele>0</ele>
+<name>SUW11-162</name>
+</rtept>
+<rtept lat="55.796478247" lon="-2.532372009">
+<ele>0</ele>
+<name>SUW11-163</name>
+</rtept>
+<rtept lat="55.795834638" lon="-2.531605183">
+<ele>0</ele>
+<name>SUW11-164</name>
+</rtept>
+<rtept lat="55.795292189" lon="-2.530171895">
+<ele>0</ele>
+<name>SUW11-165</name>
+</rtept>
+<rtept lat="55.794616" lon="-2.527035">
+<ele>0</ele>
+<name>SUW11-166</name>
+</rtept>
+<rtept lat="55.795611" lon="-2.525533">
+<ele>0</ele>
+<name>SUW11-167</name>
+</rtept>
+<rtept lat="55.796969335" lon="-2.52435108">
+<ele>0</ele>
+<name>SUW11-168</name>
+</rtept>
+<rtept lat="55.79734143" lon="-2.52338008">
+<ele>0</ele>
+<name>SUW11-169</name>
+</rtept>
+<rtept lat="55.797943383" lon="-2.521634047">
+<ele>0</ele>
+<name>SUW11-170</name>
+</rtept>
+<rtept lat="55.798110781" lon="-2.520987905">
+<ele>0</ele>
+<name>SUW11-171</name>
+</rtept>
+<rtept lat="55.799366134" lon="-2.515465855">
+<ele>0</ele>
+<name>SUW11-172</name>
+</rtept>
+<rtept lat="55.800938494" lon="-2.512047206">
+<ele>0</ele>
+<name>SUW11-173</name>
+</rtept>
+<rtept lat="55.801113954" lon="-2.512052191">
+<ele>0</ele>
+<name>SUW11-174</name>
+</rtept>
+<rtept lat="55.802294857" lon="-2.509572713">
+<ele>0</ele>
+<name>SUW11-175</name>
+</rtept>
+<rtept lat="55.802855608" lon="-2.506773982">
+<ele>0</ele>
+<name>SUW11-176</name>
+</rtept>
+<rtept lat="55.803331" lon="-2.505856">
+<ele>0</ele>
+<name>SUW11-177</name>
+</rtept>
+<rtept lat="55.804074642" lon="-2.505580907">
+<ele>0</ele>
+<name>SUW11-178</name>
+</rtept>
+<rtept lat="55.804901156" lon="-2.504877236">
+<ele>0</ele>
+<name>SUW11-179</name>
+</rtept>
+<rtept lat="55.805754011" lon="-2.503060225">
+<ele>0</ele>
+<name>SUW11-180</name>
+</rtept>
+<rtept lat="55.805547" lon="-2.502374">
+<ele>0</ele>
+<name>SUW11-181</name>
+</rtept>
+<rtept lat="55.805875615" lon="-2.50182547">
+<ele>0</ele>
+<name>SUW11-182</name>
+</rtept>
+<rtept lat="55.805914" lon="-2.500505">
+<ele>0</ele>
+<name>SUW11-183</name>
+</rtept>
+<rtept lat="55.807109331" lon="-2.49633284">
+<ele>0</ele>
+<name>SUW11-184</name>
+</rtept>
+<rtept lat="55.807004358" lon="-2.493615433">
+<ele>0</ele>
+<name>SUW11-185</name>
+</rtept>
+<rtept lat="55.806976173" lon="-2.492785256">
+<ele>0</ele>
+<name>SUW11-186</name>
+</rtept>
+<rtept lat="55.807344" lon="-2.49107">
+<ele>0</ele>
+<name>SUW11-187</name>
+</rtept>
+</rte>
+</gpx>

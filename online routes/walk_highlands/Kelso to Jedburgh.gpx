@@ -1,0 +1,538 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Kelso to Jedburgh</name>
+<rtept lat="55.5987667762338" lon="-2.43325329535195">
+<ele>34.7099134058011</ele>
+<name>BAW5-001</name>
+</rtept>
+<rtept lat="55.5983110942409" lon="-2.43404810826254">
+<ele>32.6550782308576</ele>
+<name>BAW5-002</name>
+</rtept>
+<rtept lat="55.5973831342067" lon="-2.43321583178382">
+<ele>31.6190782308578</ele>
+<name>BAW5-003</name>
+</rtept>
+<rtept lat="55.5963551605374" lon="-2.43220476284904">
+<ele>31.0817312899795</ele>
+<name>BAW5-004</name>
+</rtept>
+<rtept lat="55.5959515269937" lon="-2.4325113541751">
+<ele>30.2088241149733</ele>
+<name>BAW5-005</name>
+</rtept>
+<rtept lat="55.5947936125286" lon="-2.43445359361219">
+<ele>30.3938841384739</ele>
+<name>BAW5-006</name>
+</rtept>
+<rtept lat="55.5948050108664" lon="-2.43478695412003">
+<ele>31.0847141051555</ele>
+<name>BAW5-007</name>
+</rtept>
+<rtept lat="55.5963458691827" lon="-2.43660352942356">
+<ele>29.6965319097761</ele>
+<name>BAW5-008</name>
+</rtept>
+<rtept lat="55.59717087241" lon="-2.43807901085242">
+<ele>29.6450616193627</ele>
+<name>BAW5-009</name>
+</rtept>
+<rtept lat="55.5971417409239" lon="-2.43918953442063">
+<ele>30.4713486167474</ele>
+<name>BAW5-010</name>
+</rtept>
+<rtept lat="55.5965316383509" lon="-2.440937832729">
+<ele>30.3761174210729</ele>
+<name>BAW5-011</name>
+</rtept>
+<rtept lat="55.5944012175734" lon="-2.44564582794025">
+<ele>29.9519688477922</ele>
+<name>BAW5-012</name>
+</rtept>
+<rtept lat="55.5955284192238" lon="-2.44701378251504">
+<ele>29.8351404419958</ele>
+<name>BAW5-013</name>
+</rtept>
+<rtept lat="55.5967670306498" lon="-2.44887185501312">
+<ele>30.3596082385628</ele>
+<name>BAW5-014</name>
+</rtept>
+<rtept lat="55.597066491499" lon="-2.44954178163643">
+<ele>30.1829828167681</ele>
+<name>BAW5-015</name>
+</rtept>
+<rtept lat="55.5978050801905" lon="-2.45052778962525">
+<ele>36.5008673297181</ele>
+<name>BAW5-016</name>
+</rtept>
+<rtept lat="55.5982277886065" lon="-2.45188790631197">
+<ele>38.0183470636819</ele>
+<name>BAW5-017</name>
+</rtept>
+<rtept lat="55.598236105647" lon="-2.45304331690785">
+<ele>38.2179023021971</ele>
+<name>BAW5-018</name>
+</rtept>
+<rtept lat="55.5978547021242" lon="-2.45412757387537">
+<ele>37.8740211397499</ele>
+<name>BAW5-019</name>
+</rtept>
+<rtept lat="55.5958475956337" lon="-2.45599277422324">
+<ele>42.7890215316922</ele>
+<name>BAW5-020</name>
+</rtept>
+<rtept lat="55.5945736192695" lon="-2.45691105322205">
+<ele>34.4841093994091</ele>
+<name>BAW5-021</name>
+</rtept>
+<rtept lat="55.592096907466" lon="-2.45819291121277">
+<ele>32.7223382937947</ele>
+<name>BAW5-022</name>
+</rtept>
+<rtept lat="55.5915063466584" lon="-2.45800832031181">
+<ele>32</ele>
+<name>BAW5-023</name>
+</rtept>
+<rtept lat="55.5896518793314" lon="-2.45940834058274">
+<ele>37.4094916304933</ele>
+<name>BAW5-024</name>
+</rtept>
+<rtept lat="55.5885558508817" lon="-2.46150569146763">
+<ele>39.9977851760851</ele>
+<name>BAW5-025</name>
+</rtept>
+<rtept lat="55.5879122181283" lon="-2.46205343380133">
+<ele>39.0383610508218</ele>
+<name>BAW5-026</name>
+</rtept>
+<rtept lat="55.5852448308932" lon="-2.46217757364206">
+<ele>37.8421077752404</ele>
+<name>BAW5-027</name>
+</rtept>
+<rtept lat="55.5828726362739" lon="-2.46241621123549">
+<ele>35.1420445345774</ele>
+<name>BAW5-028</name>
+</rtept>
+<rtept lat="55.5807574770623" lon="-2.4628799208091">
+<ele>37.5518898141521</ele>
+<name>BAW5-029</name>
+</rtept>
+<rtept lat="55.5793766072686" lon="-2.46377416058286">
+<ele>38.7293487996081</ele>
+<name>BAW5-030</name>
+</rtept>
+<rtept lat="55.5780729456781" lon="-2.46586838576956">
+<ele>40.2851044598441</ele>
+<name>BAW5-031</name>
+</rtept>
+<rtept lat="55.577057469175" lon="-2.46825457345194">
+<ele>39.4037099304565</ele>
+<name>BAW5-032</name>
+</rtept>
+<rtept lat="55.5770927459327" lon="-2.46889895780597">
+<ele>42.5328542176586</ele>
+<name>BAW5-033</name>
+</rtept>
+<rtept lat="55.5768123469381" lon="-2.4698504536811">
+<ele>48.3661436256824</ele>
+<name>BAW5-034</name>
+</rtept>
+<rtept lat="55.575846029956" lon="-2.47088254935669">
+<ele>49.7818588123166</ele>
+<name>BAW5-035</name>
+</rtept>
+<rtept lat="55.5749392143808" lon="-2.47116035636282">
+<ele>50.7431536102797</ele>
+<name>BAW5-036</name>
+</rtept>
+<rtept lat="55.5749492319731" lon="-2.4718266103456">
+<ele>54.1077838782554</ele>
+<name>BAW5-037</name>
+</rtept>
+<rtept lat="55.5748356768211" lon="-2.47191406644442">
+<ele>53.6666424873761</ele>
+<name>BAW5-038</name>
+</rtept>
+<rtept lat="55.5746605924865" lon="-2.47164551515242">
+<ele>50.8720154813388</ele>
+<name>BAW5-039</name>
+</rtept>
+<rtept lat="55.5729799185978" lon="-2.4703375782627">
+<ele>41.3551805254095</ele>
+<name>BAW5-040</name>
+</rtept>
+<rtept lat="55.5728790289278" lon="-2.47040298240464">
+<ele>41.52318052541</ele>
+<name>BAW5-041</name>
+</rtept>
+<rtept lat="55.5717814420084" lon="-2.47285436112425">
+<ele>45.7223719024676</ele>
+<name>BAW5-042</name>
+</rtept>
+<rtept lat="55.5699241374547" lon="-2.47494120293043">
+<ele>51.8081714190397</ele>
+<name>BAW5-043</name>
+</rtept>
+<rtept lat="55.5694180403724" lon="-2.47568994199458">
+<ele>53.4276980379457</ele>
+<name>BAW5-044</name>
+</rtept>
+<rtept lat="55.5692532173641" lon="-2.47602096890601">
+<ele>53.9781077752379</ele>
+<name>BAW5-045</name>
+</rtept>
+<rtept lat="55.5689393391142" lon="-2.47586176532702">
+<ele>51.9901077752386</ele>
+<name>BAW5-046</name>
+</rtept>
+<rtept lat="55.5683164070186" lon="-2.47592083654695">
+<ele>49.9669196870119</ele>
+<name>BAW5-047</name>
+</rtept>
+<rtept lat="55.5678952502787" lon="-2.47422850695551">
+<ele>41.5411122215868</ele>
+<name>BAW5-048</name>
+</rtept>
+<rtept lat="55.5660690220803" lon="-2.4747836921544">
+<ele>43.0719544128694</ele>
+<name>BAW5-049</name>
+</rtept>
+<rtept lat="55.5655081264885" lon="-2.47506551615493">
+<ele>41.9139576341187</ele>
+<name>BAW5-050</name>
+</rtept>
+<rtept lat="55.5645609783198" lon="-2.47600862665509">
+<ele>45.9200835059484</ele>
+<name>BAW5-051</name>
+</rtept>
+<rtept lat="55.5624055215519" lon="-2.47711463296488">
+<ele>48.9187245578704</ele>
+<name>BAW5-052</name>
+</rtept>
+<rtept lat="55.5603939364537" lon="-2.47842203276026">
+<ele>53.5947649643718</ele>
+<name>BAW5-053</name>
+</rtept>
+<rtept lat="55.559589642196" lon="-2.47821249775224">
+<ele>45.9146546439248</ele>
+<name>BAW5-054</name>
+</rtept>
+<rtept lat="55.5584494248222" lon="-2.47704450119321">
+<ele>40.1920635258651</ele>
+<name>BAW5-055</name>
+</rtept>
+<rtept lat="55.5580595534189" lon="-2.47701758298092">
+<ele>40.0819105917138</ele>
+<name>BAW5-056</name>
+</rtept>
+<rtept lat="55.5572616092458" lon="-2.4784061702715">
+<ele>42.7356661956332</ele>
+<name>BAW5-057</name>
+</rtept>
+<rtept lat="55.556529966378" lon="-2.48052791429178">
+<ele>54.0274725226963</ele>
+<name>BAW5-058</name>
+</rtept>
+<rtept lat="55.5552406050956" lon="-2.48211010359365">
+<ele>53.7917929112546</ele>
+<name>BAW5-059</name>
+</rtept>
+<rtept lat="55.5535397816697" lon="-2.48275505504352">
+<ele>55.5413841303834</ele>
+<name>BAW5-060</name>
+</rtept>
+<rtept lat="55.5524024924011" lon="-2.48245262184493">
+<ele>54.3626163002155</ele>
+<name>BAW5-061</name>
+</rtept>
+<rtept lat="55.5520791832789" lon="-2.48149442332342">
+<ele>48.0132773392741</ele>
+<name>BAW5-062</name>
+</rtept>
+<rtept lat="55.5519543490944" lon="-2.48124879056103">
+<ele>47.5592650878569</ele>
+<name>BAW5-063</name>
+</rtept>
+<rtept lat="55.5515259560998" lon="-2.48142108632931">
+<ele>52.4111337930343</ele>
+<name>BAW5-064</name>
+</rtept>
+<rtept lat="55.5508654596127" lon="-2.48303294899327">
+<ele>62.7395470569213</ele>
+<name>BAW5-065</name>
+</rtept>
+<rtept lat="55.5507011416324" lon="-2.48323065114765">
+<ele>63.1595470569213</ele>
+<name>BAW5-066</name>
+</rtept>
+<rtept lat="55.5460480217962" lon="-2.48126538804826">
+<ele>58.8021261626805</ele>
+<name>BAW5-067</name>
+</rtept>
+<rtept lat="55.545900117219" lon="-2.48048699758382">
+<ele>59.1597412437329</ele>
+<name>BAW5-068</name>
+</rtept>
+<rtept lat="55.5449555383284" lon="-2.480763915536">
+<ele>61.1482890940354</ele>
+<name>BAW5-069</name>
+</rtept>
+<rtept lat="55.5384920337684" lon="-2.48010827293231">
+<ele>58.1946241911497</ele>
+<name>BAW5-070</name>
+</rtept>
+<rtept lat="55.5361967422019" lon="-2.47996939648516">
+<ele>59.7791805254109</ele>
+<name>BAW5-071</name>
+</rtept>
+<rtept lat="55.5346976293005" lon="-2.48050568422775">
+<ele>59.4814448772112</ele>
+<name>BAW5-072</name>
+</rtept>
+<rtept lat="55.5325723508752" lon="-2.48192151328412">
+<ele>57.5297472333092</ele>
+<name>BAW5-073</name>
+</rtept>
+<rtept lat="55.5305744083731" lon="-2.48453644365143">
+<ele>58.2748841455182</ele>
+<name>BAW5-074</name>
+</rtept>
+<rtept lat="55.5268944242829" lon="-2.49094483964971">
+<ele>58.7840032245512</ele>
+<name>BAW5-075</name>
+</rtept>
+<rtept lat="55.5264619230419" lon="-2.49213702099078">
+<ele>60.4308093043153</ele>
+<name>BAW5-076</name>
+</rtept>
+<rtept lat="55.5255372381276" lon="-2.49682692932976">
+<ele>57.7244889268829</ele>
+<name>BAW5-077</name>
+</rtept>
+<rtept lat="55.5254530692165" lon="-2.50050718662162">
+<ele>56.9045905540698</ele>
+<name>BAW5-078</name>
+</rtept>
+<rtept lat="55.5249865806885" lon="-2.50382771795102">
+<ele>60.0901132559264</ele>
+<name>BAW5-079</name>
+</rtept>
+<rtept lat="55.524151619828" lon="-2.50800829147959">
+<ele>64.7740226493636</ele>
+<name>BAW5-080</name>
+</rtept>
+<rtept lat="55.5238458661571" lon="-2.51195163080961">
+<ele>59.9499249181185</ele>
+<name>BAW5-081</name>
+</rtept>
+<rtept lat="55.5233182222155" lon="-2.51478323483195">
+<ele>58.517220560136</ele>
+<name>BAW5-082</name>
+</rtept>
+<rtept lat="55.5222623705475" lon="-2.51756347974258">
+<ele>57.8421525423282</ele>
+<name>BAW5-083</name>
+</rtept>
+<rtept lat="55.5219945372824" lon="-2.51693907273406">
+<ele>55.9269272498332</ele>
+<name>BAW5-084</name>
+</rtept>
+<rtept lat="55.5211795953778" lon="-2.51628533608361">
+<ele>52</ele>
+<name>BAW5-085</name>
+</rtept>
+<rtept lat="55.5205902700901" lon="-2.51880544486486">
+<ele>52</ele>
+<name>BAW5-086</name>
+</rtept>
+<rtept lat="55.5199032903574" lon="-2.51912900924302">
+<ele>51.4489285573372</ele>
+<name>BAW5-087</name>
+</rtept>
+<rtept lat="55.5181098803907" lon="-2.52079051140757">
+<ele>52</ele>
+<name>BAW5-088</name>
+</rtept>
+<rtept lat="55.5162857035662" lon="-2.52375957341328">
+<ele>52</ele>
+<name>BAW5-089</name>
+</rtept>
+<rtept lat="55.5176398126737" lon="-2.52774639086375">
+<ele>52.9786684935633</ele>
+<name>BAW5-090</name>
+</rtept>
+<rtept lat="55.5159834122633" lon="-2.52969747367357">
+<ele>52</ele>
+<name>BAW5-091</name>
+</rtept>
+<rtept lat="55.5161642270058" lon="-2.53151795949458">
+<ele>52</ele>
+<name>BAW5-092</name>
+</rtept>
+<rtept lat="55.5161067807379" lon="-2.53315786891427">
+<ele>52.6186684935633</ele>
+<name>BAW5-093</name>
+</rtept>
+<rtept lat="55.5141920321098" lon="-2.53519382587573">
+<ele>52.9900522840384</ele>
+<name>BAW5-094</name>
+</rtept>
+<rtept lat="55.5132806039686" lon="-2.5364894778801">
+<ele>53</ele>
+<name>BAW5-095</name>
+</rtept>
+<rtept lat="55.512093780494" lon="-2.53747094737354">
+<ele>53.2713315064367</ele>
+<name>BAW5-096</name>
+</rtept>
+<rtept lat="55.5112497052031" lon="-2.53774763907889">
+<ele>54</ele>
+<name>BAW5-097</name>
+</rtept>
+<rtept lat="55.5095239455108" lon="-2.53683740545708">
+<ele>54.129244451926</ele>
+<name>BAW5-098</name>
+</rtept>
+<rtept lat="55.5089152783586" lon="-2.53793749071219">
+<ele>54.0389803475238</ele>
+<name>BAW5-099</name>
+</rtept>
+<rtept lat="55.5079997158429" lon="-2.53730433442214">
+<ele>54.3853315064381</ele>
+<name>BAW5-100</name>
+</rtept>
+<rtept lat="55.50279787606" lon="-2.52570825984134">
+<ele>103.040404256607</ele>
+<name>BAW5-101</name>
+</rtept>
+<rtept lat="55.5004082443796" lon="-2.5299538014402">
+<ele>114.146213040458</ele>
+<name>BAW5-102</name>
+</rtept>
+<rtept lat="55.4985069211865" lon="-2.5332524955903">
+<ele>114.252695099725</ele>
+<name>BAW5-103</name>
+</rtept>
+<rtept lat="55.4965169821136" lon="-2.53522004449831">
+<ele>107.057769228076</ele>
+<name>BAW5-104</name>
+</rtept>
+<rtept lat="55.4957828270172" lon="-2.53625160816629">
+<ele>102.963213320914</ele>
+<name>BAW5-105</name>
+</rtept>
+<rtept lat="55.4943510954012" lon="-2.5371406829019">
+<ele>110.765331506438</ele>
+<name>BAW5-106</name>
+</rtept>
+<rtept lat="55.4938442275954" lon="-2.53797582345083">
+<ele>102.865054496323</ele>
+<name>BAW5-107</name>
+</rtept>
+<rtept lat="55.4921147238734" lon="-2.53934820207762">
+<ele>98.2155472607726</ele>
+<name>BAW5-108</name>
+</rtept>
+<rtept lat="55.4911594776136" lon="-2.5391578914045">
+<ele>92.4520054806885</ele>
+<name>BAW5-109</name>
+</rtept>
+<rtept lat="55.4890313640399" lon="-2.54105641695905">
+<ele>81.395886744064</ele>
+<name>BAW5-110</name>
+</rtept>
+<rtept lat="55.4871941005116" lon="-2.54118632476617">
+<ele>89.9993477570134</ele>
+<name>BAW5-111</name>
+</rtept>
+<rtept lat="55.4863414701848" lon="-2.54197220669997">
+<ele>90.0398608867996</ele>
+<name>BAW5-112</name>
+</rtept>
+<rtept lat="55.4855130059231" lon="-2.54439780020941">
+<ele>69</ele>
+<name>BAW5-113</name>
+</rtept>
+<rtept lat="55.4851330648686" lon="-2.54496856620525">
+<ele>69.348578762821</ele>
+<name>BAW5-114</name>
+</rtept>
+<rtept lat="55.4852181604524" lon="-2.54563436277526">
+<ele>69.0093315064372</ele>
+<name>BAW5-115</name>
+</rtept>
+<rtept lat="55.4830305193872" lon="-2.55236075177517">
+<ele>92.6311967509998</ele>
+<name>BAW5-116</name>
+</rtept>
+<rtept lat="55.4824612517221" lon="-2.553061669851">
+<ele>90.028212574614</ele>
+<name>BAW5-117</name>
+</rtept>
+<rtept lat="55.4818372846436" lon="-2.55194532182291">
+<ele>71.8422401737209</ele>
+<name>BAW5-118</name>
+</rtept>
+<rtept lat="55.4806583230469" lon="-2.55115354075204">
+<ele>72.5568194745854</ele>
+<name>BAW5-119</name>
+</rtept>
+<rtept lat="55.480119012463" lon="-2.5521871211776">
+<ele>73.3419481775344</ele>
+<name>BAW5-120</name>
+</rtept>
+<rtept lat="55.4798677261803" lon="-2.55211715439865">
+<ele>73.8069217691466</ele>
+<name>BAW5-121</name>
+</rtept>
+<rtept lat="55.4799199403182" lon="-2.55169701338002">
+<ele>73.162921769144</ele>
+<name>BAW5-122</name>
+</rtept>
+<rtept lat="55.4802119573677" lon="-2.55110300860997">
+<ele>72.7010537740264</ele>
+<name>BAW5-123</name>
+</rtept>
+<rtept lat="55.4791686728987" lon="-2.55091124462663">
+<ele>73</ele>
+<name>BAW5-124</name>
+</rtept>
+<rtept lat="55.4775816869072" lon="-2.55133210381844">
+<ele>74.0048513643413</ele>
+<name>BAW5-125</name>
+</rtept>
+<rtept lat="55.4760969299782" lon="-2.55139997432276">
+<ele>74.2544428110184</ele>
+<name>BAW5-126</name>
+</rtept>
+<rtept lat="55.4757663745821" lon="-2.55217056684917">
+<ele>74.430366531515</ele>
+<name>BAW5-127</name>
+</rtept>
+<rtept lat="55.4755858656398" lon="-2.55314258512631">
+<ele>76.4719311617859</ele>
+<name>BAW5-128</name>
+</rtept>
+<rtept lat="55.4756841976719" lon="-2.55365338301635">
+<ele>75.9024057043869</ele>
+<name>BAW5-129</name>
+</rtept>
+<rtept lat="55.4759970772887" lon="-2.55401215126802">
+<ele>79.8669203468256</ele>
+<name>BAW5-130</name>
+</rtept>
+<rtept lat="55.4769257397046" lon="-2.55451246489364">
+<ele>85.557957484407</ele>
+<name>BAW5-131</name>
+</rtept>
+<rtept lat="55.4773374437144" lon="-2.55527133358137">
+<ele>87.7649093874307</ele>
+<name>BAW5-132</name>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,526 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Beinn Iaruinn and Leana Mhor, Glen Roy</name>
+<rtept lat="56.9524162899343" lon="-4.79623467477128">
+<ele>188.726461820123</ele>
+<name>BIa001</name>
+</rtept>
+<rtept lat="56.9525156506488" lon="-4.79649377886121">
+<ele>189.41040458851</ele>
+<name>BIa002</name>
+</rtept>
+<rtept lat="56.9523155449097" lon="-4.79740317659116">
+<ele>196.788074754142</ele>
+<name>BIa003</name>
+</rtept>
+<rtept lat="56.952356" lon="-4.797805">
+<ele>191</ele>
+<name>BIa004</name>
+</rtept>
+<rtept lat="56.952136" lon="-4.798376">
+<ele>204</ele>
+<name>BIa005</name>
+</rtept>
+<rtept lat="56.95222" lon="-4.798625">
+<ele>203</ele>
+<name>BIa006</name>
+</rtept>
+<rtept lat="56.951946" lon="-4.798984">
+<ele>207</ele>
+<name>BIa007</name>
+</rtept>
+<rtept lat="56.95124" lon="-4.800411">
+<ele>229</ele>
+<name>BIa008</name>
+</rtept>
+<rtept lat="56.95062" lon="-4.800427">
+<ele>237</ele>
+<name>BIa009</name>
+</rtept>
+<rtept lat="56.950229" lon="-4.800524">
+<ele>237</ele>
+<name>BIa010</name>
+</rtept>
+<rtept lat="56.950126" lon="-4.800679">
+<ele>240</ele>
+<name>BIa011</name>
+</rtept>
+<rtept lat="56.950091" lon="-4.801586">
+<ele>253</ele>
+<name>BIa012</name>
+</rtept>
+<rtept lat="56.950151" lon="-4.801675">
+<ele>266</ele>
+<name>BIa013</name>
+</rtept>
+<rtept lat="56.94993" lon="-4.802166">
+<ele>270</ele>
+<name>BIa014</name>
+</rtept>
+<rtept lat="56.949754" lon="-4.802257">
+<ele>272</ele>
+<name>BIa015</name>
+</rtept>
+<rtept lat="56.949649" lon="-4.802658">
+<ele>279</ele>
+<name>BIa016</name>
+</rtept>
+<rtept lat="56.949718" lon="-4.802752">
+<ele>290</ele>
+<name>BIa017</name>
+</rtept>
+<rtept lat="56.949666" lon="-4.803128">
+<ele>292</ele>
+<name>BIa018</name>
+</rtept>
+<rtept lat="56.949307" lon="-4.80427">
+<ele>331</ele>
+<name>BIa019</name>
+</rtept>
+<rtept lat="56.949299" lon="-4.804869">
+<ele>355</ele>
+<name>BIa020</name>
+</rtept>
+<rtept lat="56.948976" lon="-4.80544">
+<ele>380</ele>
+<name>BIa021</name>
+</rtept>
+<rtept lat="56.948909" lon="-4.805923">
+<ele>397</ele>
+<name>BIa022</name>
+</rtept>
+<rtept lat="56.948195" lon="-4.807608">
+<ele>458</ele>
+<name>BIa023</name>
+</rtept>
+<rtept lat="56.948292" lon="-4.807869">
+<ele>476</ele>
+<name>BIa024</name>
+</rtept>
+<rtept lat="56.948124" lon="-4.80875">
+<ele>496</ele>
+<name>BIa025</name>
+</rtept>
+<rtept lat="56.948118" lon="-4.809334">
+<ele>521</ele>
+<name>BIa026</name>
+</rtept>
+<rtept lat="56.947798" lon="-4.810102">
+<ele>537</ele>
+<name>BIa027</name>
+</rtept>
+<rtept lat="56.947425" lon="-4.811995">
+<ele>574</ele>
+<name>BIa028</name>
+</rtept>
+<rtept lat="56.947281" lon="-4.812367">
+<ele>579</ele>
+<name>BIa029</name>
+</rtept>
+<rtept lat="56.947164" lon="-4.814022">
+<ele>592</ele>
+<name>BIa030</name>
+</rtept>
+<rtept lat="56.946874" lon="-4.815246">
+<ele>597</ele>
+<name>BIa031</name>
+</rtept>
+<rtept lat="56.947164" lon="-4.817394">
+<ele>591</ele>
+<name>BIa032</name>
+</rtept>
+<rtept lat="56.94739" lon="-4.818127">
+<ele>611</ele>
+<name>BIa033</name>
+</rtept>
+<rtept lat="56.947714" lon="-4.818756">
+<ele>627</ele>
+<name>BIa034</name>
+</rtept>
+<rtept lat="56.947851" lon="-4.820046">
+<ele>646</ele>
+<name>BIa035</name>
+</rtept>
+<rtept lat="56.948672" lon="-4.820782">
+<ele>663</ele>
+<name>BIa036</name>
+</rtept>
+<rtept lat="56.949168" lon="-4.821515">
+<ele>674</ele>
+<name>BIa037</name>
+</rtept>
+<rtept lat="56.949537" lon="-4.8217">
+<ele>682</ele>
+<name>BIa038</name>
+</rtept>
+<rtept lat="56.950451" lon="-4.821836">
+<ele>692</ele>
+<name>BIa039</name>
+</rtept>
+<rtept lat="56.951026" lon="-4.821267">
+<ele>686</ele>
+<name>BIa040</name>
+</rtept>
+<rtept lat="56.951543" lon="-4.821086">
+<ele>667</ele>
+<name>BIa041</name>
+</rtept>
+<rtept lat="56.952056" lon="-4.82034">
+<ele>666</ele>
+<name>BIa042</name>
+</rtept>
+<rtept lat="56.952548" lon="-4.820539">
+<ele>659</ele>
+<name>BIa043</name>
+</rtept>
+<rtept lat="56.952852" lon="-4.820299">
+<ele>644</ele>
+<name>BIa044</name>
+</rtept>
+<rtept lat="56.953732" lon="-4.820842">
+<ele>612</ele>
+<name>BIa045</name>
+</rtept>
+<rtept lat="56.954032" lon="-4.821173">
+<ele>602</ele>
+<name>BIa046</name>
+</rtept>
+<rtept lat="56.954354" lon="-4.821028">
+<ele>604</ele>
+<name>BIa047</name>
+</rtept>
+<rtept lat="56.95462" lon="-4.821151">
+<ele>594</ele>
+<name>BIa048</name>
+</rtept>
+<rtept lat="56.955214" lon="-4.821742">
+<ele>550</ele>
+<name>BIa049</name>
+</rtept>
+<rtept lat="56.95551" lon="-4.821486">
+<ele>532</ele>
+<name>BIa050</name>
+</rtept>
+<rtept lat="56.955806" lon="-4.821581">
+<ele>521</ele>
+<name>BIa051</name>
+</rtept>
+<rtept lat="56.9567881290546" lon="-4.82150585834159">
+<ele>515.731415986058</ele>
+<name>BIa052</name>
+</rtept>
+<rtept lat="56.957775" lon="-4.820751">
+<ele>563</ele>
+<name>BIa053</name>
+</rtept>
+<rtept lat="56.958178" lon="-4.820543">
+<ele>581</ele>
+<name>BIa054</name>
+</rtept>
+<rtept lat="56.958314" lon="-4.82021">
+<ele>590</ele>
+<name>BIa055</name>
+</rtept>
+<rtept lat="56.958765" lon="-4.820069">
+<ele>610</ele>
+<name>BIa056</name>
+</rtept>
+<rtept lat="56.959202" lon="-4.819596">
+<ele>619</ele>
+<name>BIa057</name>
+</rtept>
+<rtept lat="56.9594206929168" lon="-4.8191549505983">
+<ele>634.117780878784</ele>
+<name>BIa058</name>
+</rtept>
+<rtept lat="56.959657683998" lon="-4.81900834145464">
+<ele>643.340400348225</ele>
+<name>BIa059</name>
+</rtept>
+<rtept lat="56.95995" lon="-4.818523">
+<ele>662</ele>
+<name>BIa060</name>
+</rtept>
+<rtept lat="56.960234" lon="-4.817951">
+<ele>671</ele>
+<name>BIa061</name>
+</rtept>
+<rtept lat="56.960456" lon="-4.817859">
+<ele>678</ele>
+<name>BIa062</name>
+</rtept>
+<rtept lat="56.961527" lon="-4.815628">
+<ele>714</ele>
+<name>BIa063</name>
+</rtept>
+<rtept lat="56.962388" lon="-4.814601">
+<ele>737</ele>
+<name>BIa064</name>
+</rtept>
+<rtept lat="56.962778" lon="-4.813599">
+<ele>741</ele>
+<name>BIa065</name>
+</rtept>
+<rtept lat="56.962776" lon="-4.813183">
+<ele>743</ele>
+<name>BIa066</name>
+</rtept>
+<rtept lat="56.962944" lon="-4.812652">
+<ele>749</ele>
+<name>BIa067</name>
+</rtept>
+<rtept lat="56.963033" lon="-4.811833">
+<ele>750</ele>
+<name>BIa068</name>
+</rtept>
+<rtept lat="56.963623" lon="-4.809838">
+<ele>763</ele>
+<name>BIa069</name>
+</rtept>
+<rtept lat="56.964196" lon="-4.808537">
+<ele>771</ele>
+<name>BIa070</name>
+</rtept>
+<rtept lat="56.96461" lon="-4.808061">
+<ele>775</ele>
+<name>BIa071</name>
+</rtept>
+<rtept lat="56.965254" lon="-4.806786">
+<ele>790</ele>
+<name>BIa072</name>
+</rtept>
+<rtept lat="56.965561" lon="-4.806748">
+<ele>794</ele>
+<name>BIa073</name>
+</rtept>
+<rtept lat="56.966008" lon="-4.807112">
+<ele>797</ele>
+<name>BIa074</name>
+</rtept>
+<rtept lat="56.966561" lon="-4.807872">
+<ele>804</ele>
+<name>BIa075</name>
+</rtept>
+<rtept lat="56.967317" lon="-4.807706">
+<ele>795</ele>
+<name>BIa076</name>
+</rtept>
+<rtept lat="56.967693" lon="-4.807443">
+<ele>795</ele>
+<name>BIa077</name>
+</rtept>
+<rtept lat="56.968347" lon="-4.806778">
+<ele>794</ele>
+<name>BIa078</name>
+</rtept>
+<rtept lat="56.9693796571107" lon="-4.80459056442178">
+<ele>794.668655496069</ele>
+<name>BIa079</name>
+</rtept>
+<rtept lat="56.970113" lon="-4.803298">
+<ele>804</ele>
+<name>BIa080</name>
+</rtept>
+<rtept lat="56.969539" lon="-4.804203">
+<ele>803</ele>
+<name>BIa081</name>
+</rtept>
+<rtept lat="56.968326" lon="-4.806838">
+<ele>793</ele>
+<name>BIa082</name>
+</rtept>
+<rtept lat="56.9676174293938" lon="-4.80758122729743">
+<ele>784.777690277612</ele>
+<name>BIa083</name>
+</rtept>
+<rtept lat="56.9665957710037" lon="-4.80784987418622">
+<ele>791.846700475461</ele>
+<name>BIa084</name>
+</rtept>
+<rtept lat="56.9659932565722" lon="-4.80706407424096">
+<ele>793.191178510264</ele>
+<name>BIa085</name>
+</rtept>
+<rtept lat="56.9654016761435" lon="-4.80659175032456">
+<ele>790.599917232296</ele>
+<name>BIa086</name>
+</rtept>
+<rtept lat="56.964671" lon="-4.808124">
+<ele>776</ele>
+<name>BIa087</name>
+</rtept>
+<rtept lat="56.964180514233" lon="-4.80854011444912">
+<ele>764.493676801284</ele>
+<name>BIa088</name>
+</rtept>
+<rtept lat="56.9636316798314" lon="-4.80976569968359">
+<ele>759.992687154786</ele>
+<name>BIa089</name>
+</rtept>
+<rtept lat="56.9630090508271" lon="-4.8118741540023">
+<ele>750.318907485843</ele>
+<name>BIa090</name>
+</rtept>
+<rtept lat="56.9627548028051" lon="-4.81318767909938">
+<ele>741.263543496555</ele>
+<name>BIa091</name>
+</rtept>
+<rtept lat="56.9627635069137" lon="-4.81359965935926">
+<ele>738.682965877737</ele>
+<name>BIa092</name>
+</rtept>
+<rtept lat="56.9623734453045" lon="-4.81455740857472">
+<ele>730.769537231148</ele>
+<name>BIa093</name>
+</rtept>
+<rtept lat="56.9618068835635" lon="-4.81537019761558">
+<ele>719.547227665764</ele>
+<name>BIa094</name>
+</rtept>
+<rtept lat="56.9615228139045" lon="-4.81561199931554">
+<ele>713.607227665764</ele>
+<name>BIa095</name>
+</rtept>
+<rtept lat="56.960974" lon="-4.816821">
+<ele>704</ele>
+<name>BIa096</name>
+</rtept>
+<rtept lat="56.960542" lon="-4.817795">
+<ele>682</ele>
+<name>BIa097</name>
+</rtept>
+<rtept lat="56.960294" lon="-4.817957">
+<ele>676</ele>
+<name>BIa098</name>
+</rtept>
+<rtept lat="56.959653" lon="-4.819023">
+<ele>651</ele>
+<name>BIa099</name>
+</rtept>
+<rtept lat="56.95941" lon="-4.819141">
+<ele>640</ele>
+<name>BIa100</name>
+</rtept>
+<rtept lat="56.958952" lon="-4.819883">
+<ele>628</ele>
+<name>BIa101</name>
+</rtept>
+<rtept lat="56.9581760512754" lon="-4.82054149721571">
+<ele>576.388506855201</ele>
+<name>BIa102</name>
+</rtept>
+<rtept lat="56.957879" lon="-4.820594">
+<ele>565</ele>
+<name>BIa103</name>
+</rtept>
+<rtept lat="56.957203" lon="-4.821279">
+<ele>537</ele>
+<name>BIa104</name>
+</rtept>
+<rtept lat="56.956747" lon="-4.821515">
+<ele>516</ele>
+<name>BIa105</name>
+</rtept>
+<rtept lat="56.956289" lon="-4.821179">
+<ele>510</ele>
+<name>BIa106</name>
+</rtept>
+<rtept lat="56.95599" lon="-4.819731">
+<ele>508</ele>
+<name>BIa107</name>
+</rtept>
+<rtept lat="56.954498" lon="-4.817095">
+<ele>475</ele>
+<name>BIa108</name>
+</rtept>
+<rtept lat="56.953824" lon="-4.814935">
+<ele>466</ele>
+<name>BIa109</name>
+</rtept>
+<rtept lat="56.953642" lon="-4.813734">
+<ele>450</ele>
+<name>BIa110</name>
+</rtept>
+<rtept lat="56.953723" lon="-4.81335">
+<ele>451</ele>
+<name>BIa111</name>
+</rtept>
+<rtept lat="56.953649" lon="-4.812778">
+<ele>445</ele>
+<name>BIa112</name>
+</rtept>
+<rtept lat="56.953757" lon="-4.812562">
+<ele>435</ele>
+<name>BIa113</name>
+</rtept>
+<rtept lat="56.953741" lon="-4.811906">
+<ele>421</ele>
+<name>BIa114</name>
+</rtept>
+<rtept lat="56.953621" lon="-4.810818">
+<ele>405</ele>
+<name>BIa115</name>
+</rtept>
+<rtept lat="56.953474" lon="-4.81027">
+<ele>399</ele>
+<name>BIa116</name>
+</rtept>
+<rtept lat="56.953358" lon="-4.808694">
+<ele>373</ele>
+<name>BIa117</name>
+</rtept>
+<rtept lat="56.953166" lon="-4.808287">
+<ele>368</ele>
+<name>BIa118</name>
+</rtept>
+<rtept lat="56.952928" lon="-4.807179">
+<ele>355</ele>
+<name>BIa119</name>
+</rtept>
+<rtept lat="56.952463" lon="-4.806429">
+<ele>331</ele>
+<name>BIa120</name>
+</rtept>
+<rtept lat="56.952182" lon="-4.805069">
+<ele>306</ele>
+<name>BIa121</name>
+</rtept>
+<rtept lat="56.952339" lon="-4.803684">
+<ele>274</ele>
+<name>BIa122</name>
+</rtept>
+<rtept lat="56.952193" lon="-4.802315">
+<ele>251</ele>
+<name>BIa123</name>
+</rtept>
+<rtept lat="56.952603" lon="-4.800788">
+<ele>219</ele>
+<name>BIa124</name>
+</rtept>
+<rtept lat="56.95236" lon="-4.79916">
+<ele>202</ele>
+<name>BIa125</name>
+</rtept>
+<rtept lat="56.95242" lon="-4.798471">
+<ele>205</ele>
+<name>BIa126</name>
+</rtept>
+<rtept lat="56.952315" lon="-4.797402">
+<ele>192</ele>
+<name>BIa127</name>
+</rtept>
+<rtept lat="56.952514" lon="-4.79649">
+<ele>185</ele>
+<name>BIa128</name>
+</rtept>
+<rtept lat="56.952415" lon="-4.796228">
+<ele>185</ele>
+<name>BIa129</name>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,902 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Dun da Ghaoithe, near Craignure</name>
+<rtept lat="56.4509562994639" lon="-5.69414429370447">
+<ele>57.9430267691862</ele>
+<name>DDG 001</name>
+</rtept>
+<rtept lat="56.4510292555237" lon="-5.69622151897172">
+<ele>62.1442979181575</ele>
+<name>DDG 002</name>
+</rtept>
+<rtept lat="56.4509158022356" lon="-5.69791530359404">
+<ele>55.9245579014122</ele>
+<name>DDG 003</name>
+</rtept>
+<rtept lat="56.4504146088636" lon="-5.69934404340504">
+<ele>62.9860614642827</ele>
+<name>DDG 004</name>
+</rtept>
+<rtept lat="56.4504833270377" lon="-5.69960239023994">
+<ele>66.2950787063626</ele>
+<name>DDG 005</name>
+</rtept>
+<rtept lat="56.4515928975428" lon="-5.70008380645902">
+<ele>75.261661722498</ele>
+<name>DDG 006</name>
+</rtept>
+<rtept lat="56.451654581518" lon="-5.70027653150293">
+<ele>77.9352853850973</ele>
+<name>DDG 007</name>
+</rtept>
+<rtept lat="56.4515248493376" lon="-5.70055616380028">
+<ele>82.597382978625</ele>
+<name>DDG 008</name>
+</rtept>
+<rtept lat="56.4507726575051" lon="-5.70120546488265">
+<ele>93.5678190325879</ele>
+<name>DDG 009</name>
+</rtept>
+<rtept lat="56.4504922471728" lon="-5.70201433020622">
+<ele>98.484380739855</ele>
+<name>DDG 010</name>
+</rtept>
+<rtept lat="56.4505343257732" lon="-5.70256234027472">
+<ele>102.471169180078</ele>
+<name>DDG 011</name>
+</rtept>
+<rtept lat="56.4515943856847" lon="-5.70394827512078">
+<ele>120.118513361663</ele>
+<name>DDG 012</name>
+</rtept>
+<rtept lat="56.4519044654427" lon="-5.70485527280873">
+<ele>125.744516656303</ele>
+<name>DDG 013</name>
+</rtept>
+<rtept lat="56.4523421551213" lon="-5.70532820730764">
+<ele>129.504564750392</ele>
+<name>DDG 014</name>
+</rtept>
+<rtept lat="56.453233247768" lon="-5.7071768170153">
+<ele>145.192060292081</ele>
+<name>DDG 015</name>
+</rtept>
+<rtept lat="56.4535803603241" lon="-5.707446111334">
+<ele>149.436481367353</ele>
+<name>DDG 016</name>
+</rtept>
+<rtept lat="56.4542455012004" lon="-5.70775454867108">
+<ele>157.108413833096</ele>
+<name>DDG 017</name>
+</rtept>
+<rtept lat="56.4552167524597" lon="-5.70902655727417">
+<ele>168.665279942332</ele>
+<name>DDG 018</name>
+</rtept>
+<rtept lat="56.4558417936" lon="-5.71022424291387">
+<ele>184.116144907199</ele>
+<name>DDG 019</name>
+</rtept>
+<rtept lat="56.4567538957516" lon="-5.71136880377284">
+<ele>202.427418991851</ele>
+<name>DDG 020</name>
+</rtept>
+<rtept lat="56.4569350169979" lon="-5.71177622495261">
+<ele>208.384554028986</ele>
+<name>DDG 021</name>
+</rtept>
+<rtept lat="56.4568895794393" lon="-5.71224271859599">
+<ele>212.229255309251</ele>
+<name>DDG 022</name>
+</rtept>
+<rtept lat="56.4562410273749" lon="-5.71333232825084">
+<ele>222.801518105816</ele>
+<name>DDG 023</name>
+</rtept>
+<rtept lat="56.4560806074774" lon="-5.71388500970041">
+<ele>225.168816271796</ele>
+<name>DDG 024</name>
+</rtept>
+<rtept lat="56.4560522393141" lon="-5.71453178392926">
+<ele>228.082277141586</ele>
+<name>DDG 025</name>
+</rtept>
+<rtept lat="56.456467684819" lon="-5.71717059678032">
+<ele>249.550326230385</ele>
+<name>DDG 026</name>
+</rtept>
+<rtept lat="56.4566626475195" lon="-5.71876483979578">
+<ele>271.663129566512</ele>
+<name>DDG 027</name>
+</rtept>
+<rtept lat="56.4566705568758" lon="-5.7199997738319">
+<ele>283.855360621904</ele>
+<name>DDG 028</name>
+</rtept>
+<rtept lat="56.4569030112826" lon="-5.72049345662032">
+<ele>289.135360621904</ele>
+<name>DDG 029</name>
+</rtept>
+<rtept lat="56.4574616432053" lon="-5.72127890639019">
+<ele>300.17468165532</ele>
+<name>DDG 030</name>
+</rtept>
+<rtept lat="56.4582023217817" lon="-5.72311342391279">
+<ele>320.852772002955</ele>
+<name>DDG 031</name>
+</rtept>
+<rtept lat="56.4585959996398" lon="-5.72377722012573">
+<ele>329.907172747327</ele>
+<name>DDG 032</name>
+</rtept>
+<rtept lat="56.458707546075" lon="-5.72410482614013">
+<ele>334.810215896857</ele>
+<name>DDG 033</name>
+</rtept>
+<rtept lat="56.4586342271455" lon="-5.72430063984731">
+<ele>340.883606490049</ele>
+<name>DDG 034</name>
+</rtept>
+<rtept lat="56.4583611695522" lon="-5.72411148624712">
+<ele>340.85576488268</ele>
+<name>DDG 035</name>
+</rtept>
+<rtept lat="56.4581006920766" lon="-5.72410220358506">
+<ele>344.704391321019</ele>
+<name>DDG 036</name>
+</rtept>
+<rtept lat="56.4576580972274" lon="-5.72431866830269">
+<ele>350.922981078313</ele>
+<name>DDG 037</name>
+</rtept>
+<rtept lat="56.4573625252496" lon="-5.72502859401597">
+<ele>360.350114390644</ele>
+<name>DDG 038</name>
+</rtept>
+<rtept lat="56.457037827049" lon="-5.726109154556">
+<ele>370.654396398519</ele>
+<name>DDG 039</name>
+</rtept>
+<rtept lat="56.4571255968438" lon="-5.7266292934066">
+<ele>377.995138724128</ele>
+<name>DDG 040</name>
+</rtept>
+<rtept lat="56.4576648890883" lon="-5.72723430998604">
+<ele>391.729064374169</ele>
+<name>DDG 041</name>
+</rtept>
+<rtept lat="56.4586173063234" lon="-5.72785550481241">
+<ele>406.893543395523</ele>
+<name>DDG 042</name>
+</rtept>
+<rtept lat="56.4587606063118" lon="-5.72802383929858">
+<ele>409.233336943543</ele>
+<name>DDG 043</name>
+</rtept>
+<rtept lat="56.45878489168" lon="-5.72930917520871">
+<ele>420.029042965341</ele>
+<name>DDG 044</name>
+</rtept>
+<rtept lat="56.4586418441974" lon="-5.72987977436054">
+<ele>422.423897460972</ele>
+<name>DDG 045</name>
+</rtept>
+<rtept lat="56.4585293910059" lon="-5.73003113683523">
+<ele>424.045813538497</ele>
+<name>DDG 046</name>
+</rtept>
+<rtept lat="56.458611573746" lon="-5.73267818064856">
+<ele>428.316994369426</ele>
+<name>DDG 047</name>
+</rtept>
+<rtept lat="56.4585515607808" lon="-5.73422319303462">
+<ele>433.694997073479</ele>
+<name>DDG 048</name>
+</rtept>
+<rtept lat="56.4584563010966" lon="-5.73440059166091">
+<ele>434.927225221461</ele>
+<name>DDG 049</name>
+</rtept>
+<rtept lat="56.4582782182717" lon="-5.73434249482421">
+<ele>438.281678539345</ele>
+<name>DDG 050</name>
+</rtept>
+<rtept lat="56.4577047695028" lon="-5.73323058551762">
+<ele>445.32960353161</ele>
+<name>DDG 051</name>
+</rtept>
+<rtept lat="56.4575490988223" lon="-5.73317469681139">
+<ele>447.403892305125</ele>
+<name>DDG 052</name>
+</rtept>
+<rtept lat="56.4574521341256" lon="-5.73340876378711">
+<ele>450.245728705001</ele>
+<name>DDG 053</name>
+</rtept>
+<rtept lat="56.4574221437863" lon="-5.73440453962808">
+<ele>456.227381311531</ele>
+<name>DDG 054</name>
+</rtept>
+<rtept lat="56.4573823233544" lon="-5.73483097037578">
+<ele>458.191018006004</ele>
+<name>DDG 055</name>
+</rtept>
+<rtept lat="56.4572847753645" lon="-5.73493506036016">
+<ele>460.909579391208</ele>
+<name>DDG 056</name>
+</rtept>
+<rtept lat="56.457039710166" lon="-5.73448875954181">
+<ele>466.05498617808</ele>
+<name>DDG 057</name>
+</rtept>
+<rtept lat="56.4565386031117" lon="-5.73396047490516">
+<ele>471.569797085013</ele>
+<name>DDG 058</name>
+</rtept>
+<rtept lat="56.4560274977957" lon="-5.73376411753207">
+<ele>476.110763774131</ele>
+<name>DDG 059</name>
+</rtept>
+<rtept lat="56.4558595426807" lon="-5.73396684204695">
+<ele>478.611588933508</ele>
+<name>DDG 060</name>
+</rtept>
+<rtept lat="56.4559177946437" lon="-5.73471954624904">
+<ele>483.91798284481</ele>
+<name>DDG 061</name>
+</rtept>
+<rtept lat="56.4560764574446" lon="-5.73557143431853">
+<ele>485.115964223385</ele>
+<name>DDG 062</name>
+</rtept>
+<rtept lat="56.4559193551396" lon="-5.73601067973467">
+<ele>489.115964223385</ele>
+<name>DDG 063</name>
+</rtept>
+<rtept lat="56.4550039521071" lon="-5.73677322290554">
+<ele>500.723770456788</ele>
+<name>DDG 064</name>
+</rtept>
+<rtept lat="56.4547581710579" lon="-5.73717125633731">
+<ele>504.806676473922</ele>
+<name>DDG 065</name>
+</rtept>
+<rtept lat="56.4545167167357" lon="-5.73772397270431">
+<ele>507.983335871564</ele>
+<name>DDG 066</name>
+</rtept>
+<rtept lat="56.4538189067129" lon="-5.73842665842644">
+<ele>515.298208935492</ele>
+<name>DDG 067</name>
+</rtept>
+<rtept lat="56.4529673003189" lon="-5.74012903627583">
+<ele>529.965495159371</ele>
+<name>DDG 068</name>
+</rtept>
+<rtept lat="56.452815028833" lon="-5.74204631246756">
+<ele>533.85492744002</ele>
+<name>DDG 069</name>
+</rtept>
+<rtept lat="56.4527121833021" lon="-5.74247459921403">
+<ele>534.211949317014</ele>
+<name>DDG 070</name>
+</rtept>
+<rtept lat="56.452554414312" lon="-5.74397726077453">
+<ele>531.088714942669</ele>
+<name>DDG 071</name>
+</rtept>
+<rtept lat="56.4525496016535" lon="-5.74562487997794">
+<ele>537.017588603151</ele>
+<name>DDG 072</name>
+</rtept>
+<rtept lat="56.4524262027573" lon="-5.74628657068274">
+<ele>541.044292855279</ele>
+<name>DDG 073</name>
+</rtept>
+<rtept lat="56.4525064698309" lon="-5.74690338194385">
+<ele>542.5783712945</ele>
+<name>DDG 074</name>
+</rtept>
+<rtept lat="56.4525371037069" lon="-5.74737728541234">
+<ele>544.000348925738</ele>
+<name>DDG 075</name>
+</rtept>
+<rtept lat="56.4522837806662" lon="-5.74817229676835">
+<ele>552.722966789156</ele>
+<name>DDG 076</name>
+</rtept>
+<rtept lat="56.452270074415" lon="-5.74862558917223">
+<ele>558.487898819452</ele>
+<name>DDG 077</name>
+</rtept>
+<rtept lat="56.4520054235779" lon="-5.74920026808759">
+<ele>570.430359808488</ele>
+<name>DDG 078</name>
+</rtept>
+<rtept lat="56.4521528933845" lon="-5.75027023229323">
+<ele>582.048004168436</ele>
+<name>DDG 079</name>
+</rtept>
+<rtept lat="56.4520941098527" lon="-5.75072719399388">
+<ele>584.515279494433</ele>
+<name>DDG 080</name>
+</rtept>
+<rtept lat="56.4524962055882" lon="-5.75571115737551">
+<ele>593.327815810278</ele>
+<name>DDG 081</name>
+</rtept>
+<rtept lat="56.4526629958936" lon="-5.75614169180414">
+<ele>592.900784351938</ele>
+<name>DDG 082</name>
+</rtept>
+<rtept lat="56.4526904270794" lon="-5.75731350350033">
+<ele>589.06063747774</ele>
+<name>DDG 083</name>
+</rtept>
+<rtept lat="56.4524552162981" lon="-5.7581021270941">
+<ele>591.894951776941</ele>
+<name>DDG 084</name>
+</rtept>
+<rtept lat="56.4525430322678" lon="-5.75846803269713">
+<ele>592.386823427124</ele>
+<name>DDG 085</name>
+</rtept>
+<rtept lat="56.4528159689019" lon="-5.76021620227825">
+<ele>590.023745560644</ele>
+<name>DDG 086</name>
+</rtept>
+<rtept lat="56.45258645148" lon="-5.76155744998805">
+<ele>593.97081833724</ele>
+<name>DDG 087</name>
+</rtept>
+<rtept lat="56.4525483750842" lon="-5.76281208835368">
+<ele>602.53973588181</ele>
+<name>DDG 088</name>
+</rtept>
+<rtept lat="56.4524725392909" lon="-5.76308873766597">
+<ele>604.08973588181</ele>
+<name>DDG 089</name>
+</rtept>
+<rtept lat="56.4526588841934" lon="-5.76391094291967">
+<ele>613.388760809489</ele>
+<name>DDG 090</name>
+</rtept>
+<rtept lat="56.4525634961832" lon="-5.76512743116721">
+<ele>631.343882926256</ele>
+<name>DDG 091</name>
+</rtept>
+<rtept lat="56.4524654322103" lon="-5.76524761843154">
+<ele>634.456456523774</ele>
+<name>DDG 092</name>
+</rtept>
+<rtept lat="56.4522045629001" lon="-5.76613919212615">
+<ele>651.90701797143</ele>
+<name>DDG 093</name>
+</rtept>
+<rtept lat="56.4522814780555" lon="-5.76671512154614">
+<ele>660.729986716341</ele>
+<name>DDG 094</name>
+</rtept>
+<rtept lat="56.4518973327401" lon="-5.7675944639897">
+<ele>676.857128083852</ele>
+<name>DDG 095</name>
+</rtept>
+<rtept lat="56.4519468547716" lon="-5.7681839140735">
+<ele>688.862965193192</ele>
+<name>DDG 096</name>
+</rtept>
+<rtept lat="56.4521085734498" lon="-5.76848409775011">
+<ele>696.47893013734</ele>
+<name>DDG 097</name>
+</rtept>
+<rtept lat="56.4526787144532" lon="-5.77102497127955">
+<ele>723.061533747791</ele>
+<name>DDG 098</name>
+</rtept>
+<rtept lat="56.4528569272815" lon="-5.77226047740827">
+<ele>749.947224091925</ele>
+<name>DDG 099</name>
+</rtept>
+<rtept lat="56.4529458066474" lon="-5.77295940128406">
+<ele>750.982406337781</ele>
+<name>DDG 100</name>
+</rtept>
+<rtept lat="56.4533770893395" lon="-5.77370855758165">
+<ele>739.719526478081</ele>
+<name>DDG 101</name>
+</rtept>
+<rtept lat="56.453776698155" lon="-5.77431656237738">
+<ele>736.040245026225</ele>
+<name>DDG 102</name>
+</rtept>
+<rtept lat="56.4547897588352" lon="-5.77537522765314">
+<ele>718.56275091875</ele>
+<name>DDG 103</name>
+</rtept>
+<rtept lat="56.4555698647227" lon="-5.77603731171529">
+<ele>721.074764795449</ele>
+<name>DDG 104</name>
+</rtept>
+<rtept lat="56.4565897392981" lon="-5.77746213801837">
+<ele>706.302017765723</ele>
+<name>DDG 105</name>
+</rtept>
+<rtept lat="56.457402689405" lon="-5.77807884441899">
+<ele>702.243805407347</ele>
+<name>DDG 106</name>
+</rtept>
+<rtept lat="56.4577897121736" lon="-5.77828783491837">
+<ele>705.03051108135</ele>
+<name>DDG 107</name>
+</rtept>
+<rtept lat="56.4586265903183" lon="-5.77900440034199">
+<ele>725.525599742809</ele>
+<name>DDG 108</name>
+</rtept>
+<rtept lat="56.4595062130804" lon="-5.77942479847343">
+<ele>753.795109947999</ele>
+<name>DDG 109</name>
+</rtept>
+<rtept lat="56.4599453917689" lon="-5.78006126302381">
+<ele>757.935345833411</ele>
+<name>DDG 110</name>
+</rtept>
+<rtept lat="56.460406418927" lon="-5.77953868556103">
+<ele>765.429988303834</ele>
+<name>DDG 111</name>
+</rtept>
+<rtept lat="56.4604639088195" lon="-5.77942259558454">
+<ele>761.580509548687</ele>
+<name>DDG 112</name>
+</rtept>
+<rtept lat="56.460406418927" lon="-5.77953868556103">
+<ele>765.429988303834</ele>
+<name>DDG 113</name>
+</rtept>
+<rtept lat="56.4599453917689" lon="-5.78006126302381">
+<ele>757.935345833411</ele>
+<name>DDG 114</name>
+</rtept>
+<rtept lat="56.4595062130804" lon="-5.77942479847343">
+<ele>753.795109947999</ele>
+<name>DDG 115</name>
+</rtept>
+<rtept lat="56.4586265903183" lon="-5.77900440034199">
+<ele>725.525599742809</ele>
+<name>DDG 116</name>
+</rtept>
+<rtept lat="56.4577897121736" lon="-5.77828783491837">
+<ele>705.03051108135</ele>
+<name>DDG 117</name>
+</rtept>
+<rtept lat="56.457402689405" lon="-5.77807884441899">
+<ele>702.243805407347</ele>
+<name>DDG 118</name>
+</rtept>
+<rtept lat="56.4565897392981" lon="-5.77746213801837">
+<ele>706.302017765723</ele>
+<name>DDG 119</name>
+</rtept>
+<rtept lat="56.4555698647227" lon="-5.77603731171529">
+<ele>721.074764795449</ele>
+<name>DDG 120</name>
+</rtept>
+<rtept lat="56.4547897588352" lon="-5.77537522765314">
+<ele>718.56275091875</ele>
+<name>DDG 121</name>
+</rtept>
+<rtept lat="56.453776698155" lon="-5.77431656237738">
+<ele>736.040245026225</ele>
+<name>DDG 122</name>
+</rtept>
+<rtept lat="56.4533770893395" lon="-5.77370855758165">
+<ele>739.719526478081</ele>
+<name>DDG 123</name>
+</rtept>
+<rtept lat="56.4529458066474" lon="-5.77295940128406">
+<ele>750.982406337781</ele>
+<name>DDG 124</name>
+</rtept>
+<rtept lat="56.4528569272815" lon="-5.77226047740827">
+<ele>749.947224091925</ele>
+<name>DDG 125</name>
+</rtept>
+<rtept lat="56.4526787144532" lon="-5.77102497127955">
+<ele>723.061533747791</ele>
+<name>DDG 126</name>
+</rtept>
+<rtept lat="56.4521085734498" lon="-5.76848409775011">
+<ele>696.47893013734</ele>
+<name>DDG 127</name>
+</rtept>
+<rtept lat="56.4519468547716" lon="-5.7681839140735">
+<ele>688.862965193192</ele>
+<name>DDG 128</name>
+</rtept>
+<rtept lat="56.4518973327401" lon="-5.7675944639897">
+<ele>676.857128083852</ele>
+<name>DDG 129</name>
+</rtept>
+<rtept lat="56.4522814780555" lon="-5.76671512154614">
+<ele>660.729986716341</ele>
+<name>DDG 130</name>
+</rtept>
+<rtept lat="56.4522045629001" lon="-5.76613919212615">
+<ele>651.90701797143</ele>
+<name>DDG 131</name>
+</rtept>
+<rtept lat="56.4524654322103" lon="-5.76524761843154">
+<ele>634.456456523774</ele>
+<name>DDG 132</name>
+</rtept>
+<rtept lat="56.4525634961832" lon="-5.76512743116721">
+<ele>631.343882926256</ele>
+<name>DDG 133</name>
+</rtept>
+<rtept lat="56.4526588841934" lon="-5.76391094291967">
+<ele>613.388760809489</ele>
+<name>DDG 134</name>
+</rtept>
+<rtept lat="56.4524725392909" lon="-5.76308873766597">
+<ele>604.08973588181</ele>
+<name>DDG 135</name>
+</rtept>
+<rtept lat="56.4525483750842" lon="-5.76281208835368">
+<ele>602.53973588181</ele>
+<name>DDG 136</name>
+</rtept>
+<rtept lat="56.45258645148" lon="-5.76155744998805">
+<ele>593.97081833724</ele>
+<name>DDG 137</name>
+</rtept>
+<rtept lat="56.4528159689019" lon="-5.76021620227825">
+<ele>590.023745560644</ele>
+<name>DDG 138</name>
+</rtept>
+<rtept lat="56.4525430322678" lon="-5.75846803269713">
+<ele>592.386823427124</ele>
+<name>DDG 139</name>
+</rtept>
+<rtept lat="56.4524552162981" lon="-5.7581021270941">
+<ele>591.894951776941</ele>
+<name>DDG 140</name>
+</rtept>
+<rtept lat="56.4526904270794" lon="-5.75731350350033">
+<ele>589.06063747774</ele>
+<name>DDG 141</name>
+</rtept>
+<rtept lat="56.4526629958936" lon="-5.75614169180414">
+<ele>592.900784351938</ele>
+<name>DDG 142</name>
+</rtept>
+<rtept lat="56.4524962055882" lon="-5.75571115737551">
+<ele>593.327815810278</ele>
+<name>DDG 143</name>
+</rtept>
+<rtept lat="56.4520941098527" lon="-5.75072719399388">
+<ele>584.515279494433</ele>
+<name>DDG 144</name>
+</rtept>
+<rtept lat="56.4521528933845" lon="-5.75027023229323">
+<ele>582.048004168436</ele>
+<name>DDG 145</name>
+</rtept>
+<rtept lat="56.4520054235779" lon="-5.74920026808759">
+<ele>570.430359808488</ele>
+<name>DDG 146</name>
+</rtept>
+<rtept lat="56.452270074415" lon="-5.74862558917223">
+<ele>558.487898819452</ele>
+<name>DDG 147</name>
+</rtept>
+<rtept lat="56.4522837806662" lon="-5.74817229676835">
+<ele>552.722966789156</ele>
+<name>DDG 148</name>
+</rtept>
+<rtept lat="56.4525371037069" lon="-5.74737728541234">
+<ele>544.000348925738</ele>
+<name>DDG 149</name>
+</rtept>
+<rtept lat="56.4525064698309" lon="-5.74690338194385">
+<ele>542.5783712945</ele>
+<name>DDG 150</name>
+</rtept>
+<rtept lat="56.4524262027573" lon="-5.74628657068274">
+<ele>541.044292855279</ele>
+<name>DDG 151</name>
+</rtept>
+<rtept lat="56.4525496016535" lon="-5.74562487997794">
+<ele>537.017588603151</ele>
+<name>DDG 152</name>
+</rtept>
+<rtept lat="56.452554414312" lon="-5.74397726077453">
+<ele>531.088714942669</ele>
+<name>DDG 153</name>
+</rtept>
+<rtept lat="56.4527121833021" lon="-5.74247459921403">
+<ele>534.211949317014</ele>
+<name>DDG 154</name>
+</rtept>
+<rtept lat="56.452815028833" lon="-5.74204631246756">
+<ele>533.85492744002</ele>
+<name>DDG 155</name>
+</rtept>
+<rtept lat="56.4529673003189" lon="-5.74012903627583">
+<ele>529.965495159371</ele>
+<name>DDG 156</name>
+</rtept>
+<rtept lat="56.4538189067129" lon="-5.73842665842644">
+<ele>515.298208935492</ele>
+<name>DDG 157</name>
+</rtept>
+<rtept lat="56.4545167167357" lon="-5.73772397270431">
+<ele>507.983335871564</ele>
+<name>DDG 158</name>
+</rtept>
+<rtept lat="56.4547581710579" lon="-5.73717125633731">
+<ele>504.806676473922</ele>
+<name>DDG 159</name>
+</rtept>
+<rtept lat="56.4550039521071" lon="-5.73677322290554">
+<ele>500.723770456788</ele>
+<name>DDG 160</name>
+</rtept>
+<rtept lat="56.4559193551396" lon="-5.73601067973467">
+<ele>489.115964223385</ele>
+<name>DDG 161</name>
+</rtept>
+<rtept lat="56.4560764574446" lon="-5.73557143431853">
+<ele>485.115964223385</ele>
+<name>DDG 162</name>
+</rtept>
+<rtept lat="56.4559177946437" lon="-5.73471954624904">
+<ele>483.91798284481</ele>
+<name>DDG 163</name>
+</rtept>
+<rtept lat="56.4558595426807" lon="-5.73396684204695">
+<ele>478.611588933508</ele>
+<name>DDG 164</name>
+</rtept>
+<rtept lat="56.4560274977957" lon="-5.73376411753207">
+<ele>476.110763774131</ele>
+<name>DDG 165</name>
+</rtept>
+<rtept lat="56.4565386031117" lon="-5.73396047490516">
+<ele>471.569797085013</ele>
+<name>DDG 166</name>
+</rtept>
+<rtept lat="56.457039710166" lon="-5.73448875954181">
+<ele>466.05498617808</ele>
+<name>DDG 167</name>
+</rtept>
+<rtept lat="56.4572847753645" lon="-5.73493506036016">
+<ele>460.909579391208</ele>
+<name>DDG 168</name>
+</rtept>
+<rtept lat="56.4573823233544" lon="-5.73483097037578">
+<ele>458.191018006004</ele>
+<name>DDG 169</name>
+</rtept>
+<rtept lat="56.4574221437863" lon="-5.73440453962808">
+<ele>456.227381311531</ele>
+<name>DDG 170</name>
+</rtept>
+<rtept lat="56.4574521341256" lon="-5.73340876378711">
+<ele>450.245728705001</ele>
+<name>DDG 171</name>
+</rtept>
+<rtept lat="56.4575490988223" lon="-5.73317469681139">
+<ele>447.403892305125</ele>
+<name>DDG 172</name>
+</rtept>
+<rtept lat="56.4577047695028" lon="-5.73323058551762">
+<ele>445.32960353161</ele>
+<name>DDG 173</name>
+</rtept>
+<rtept lat="56.4582782182717" lon="-5.73434249482421">
+<ele>438.281678539345</ele>
+<name>DDG 174</name>
+</rtept>
+<rtept lat="56.4584563010966" lon="-5.73440059166091">
+<ele>434.927225221461</ele>
+<name>DDG 175</name>
+</rtept>
+<rtept lat="56.4585515607808" lon="-5.73422319303462">
+<ele>433.694997073479</ele>
+<name>DDG 176</name>
+</rtept>
+<rtept lat="56.458611573746" lon="-5.73267818064856">
+<ele>428.316994369426</ele>
+<name>DDG 177</name>
+</rtept>
+<rtept lat="56.4585293910059" lon="-5.73003113683523">
+<ele>424.045813538497</ele>
+<name>DDG 178</name>
+</rtept>
+<rtept lat="56.4586418441974" lon="-5.72987977436054">
+<ele>422.423897460972</ele>
+<name>DDG 179</name>
+</rtept>
+<rtept lat="56.45878489168" lon="-5.72930917520871">
+<ele>420.029042965341</ele>
+<name>DDG 180</name>
+</rtept>
+<rtept lat="56.4587606063118" lon="-5.72802383929858">
+<ele>409.233336943543</ele>
+<name>DDG 181</name>
+</rtept>
+<rtept lat="56.4586173063234" lon="-5.72785550481241">
+<ele>406.893543395523</ele>
+<name>DDG 182</name>
+</rtept>
+<rtept lat="56.4576648890883" lon="-5.72723430998604">
+<ele>391.729064374169</ele>
+<name>DDG 183</name>
+</rtept>
+<rtept lat="56.4571255968438" lon="-5.7266292934066">
+<ele>377.995138724128</ele>
+<name>DDG 184</name>
+</rtept>
+<rtept lat="56.457037827049" lon="-5.726109154556">
+<ele>370.654396398519</ele>
+<name>DDG 185</name>
+</rtept>
+<rtept lat="56.4573625252496" lon="-5.72502859401597">
+<ele>360.350114390644</ele>
+<name>DDG 186</name>
+</rtept>
+<rtept lat="56.4576580972274" lon="-5.72431866830269">
+<ele>350.922981078313</ele>
+<name>DDG 187</name>
+</rtept>
+<rtept lat="56.4581006920766" lon="-5.72410220358506">
+<ele>344.704391321019</ele>
+<name>DDG 188</name>
+</rtept>
+<rtept lat="56.4583611695522" lon="-5.72411148624712">
+<ele>340.85576488268</ele>
+<name>DDG 189</name>
+</rtept>
+<rtept lat="56.4586342271455" lon="-5.72430063984731">
+<ele>340.883606490049</ele>
+<name>DDG 190</name>
+</rtept>
+<rtept lat="56.458707546075" lon="-5.72410482614013">
+<ele>334.810215896857</ele>
+<name>DDG 191</name>
+</rtept>
+<rtept lat="56.4585959996398" lon="-5.72377722012573">
+<ele>329.907172747327</ele>
+<name>DDG 192</name>
+</rtept>
+<rtept lat="56.4582023217817" lon="-5.72311342391279">
+<ele>320.852772002955</ele>
+<name>DDG 193</name>
+</rtept>
+<rtept lat="56.4574616432053" lon="-5.72127890639019">
+<ele>300.17468165532</ele>
+<name>DDG 194</name>
+</rtept>
+<rtept lat="56.4569030112826" lon="-5.72049345662032">
+<ele>289.135360621904</ele>
+<name>DDG 195</name>
+</rtept>
+<rtept lat="56.4566705568758" lon="-5.7199997738319">
+<ele>283.855360621904</ele>
+<name>DDG 196</name>
+</rtept>
+<rtept lat="56.4566626475195" lon="-5.71876483979578">
+<ele>271.663129566512</ele>
+<name>DDG 197</name>
+</rtept>
+<rtept lat="56.456467684819" lon="-5.71717059678032">
+<ele>249.550326230385</ele>
+<name>DDG 198</name>
+</rtept>
+<rtept lat="56.4560522393141" lon="-5.71453178392926">
+<ele>228.082277141586</ele>
+<name>DDG 199</name>
+</rtept>
+<rtept lat="56.4560806074774" lon="-5.71388500970041">
+<ele>225.168816271796</ele>
+<name>DDG 200</name>
+</rtept>
+<rtept lat="56.4562410273749" lon="-5.71333232825084">
+<ele>222.801518105816</ele>
+<name>DDG 201</name>
+</rtept>
+<rtept lat="56.4568895794393" lon="-5.71224271859599">
+<ele>212.229255309251</ele>
+<name>DDG 202</name>
+</rtept>
+<rtept lat="56.4569350169979" lon="-5.71177622495261">
+<ele>208.384554028986</ele>
+<name>DDG 203</name>
+</rtept>
+<rtept lat="56.4567538957516" lon="-5.71136880377284">
+<ele>202.427418991851</ele>
+<name>DDG 204</name>
+</rtept>
+<rtept lat="56.4558417936" lon="-5.71022424291387">
+<ele>184.116144907199</ele>
+<name>DDG 205</name>
+</rtept>
+<rtept lat="56.4552167524597" lon="-5.70902655727417">
+<ele>168.665279942332</ele>
+<name>DDG 206</name>
+</rtept>
+<rtept lat="56.4542455012004" lon="-5.70775454867108">
+<ele>157.108413833096</ele>
+<name>DDG 207</name>
+</rtept>
+<rtept lat="56.4535803603241" lon="-5.707446111334">
+<ele>149.436481367353</ele>
+<name>DDG 208</name>
+</rtept>
+<rtept lat="56.453233247768" lon="-5.7071768170153">
+<ele>145.192060292081</ele>
+<name>DDG 209</name>
+</rtept>
+<rtept lat="56.4523421551213" lon="-5.70532820730764">
+<ele>129.504564750392</ele>
+<name>DDG 210</name>
+</rtept>
+<rtept lat="56.4519044654427" lon="-5.70485527280873">
+<ele>125.744516656303</ele>
+<name>DDG 211</name>
+</rtept>
+<rtept lat="56.4515943856847" lon="-5.70394827512078">
+<ele>120.118513361663</ele>
+<name>DDG 212</name>
+</rtept>
+<rtept lat="56.4505343257732" lon="-5.70256234027472">
+<ele>102.471169180078</ele>
+<name>DDG 213</name>
+</rtept>
+<rtept lat="56.4504922471728" lon="-5.70201433020622">
+<ele>98.484380739855</ele>
+<name>DDG 214</name>
+</rtept>
+<rtept lat="56.4507726575051" lon="-5.70120546488265">
+<ele>93.5678190325879</ele>
+<name>DDG 215</name>
+</rtept>
+<rtept lat="56.4515248493376" lon="-5.70055616380028">
+<ele>82.597382978625</ele>
+<name>DDG 216</name>
+</rtept>
+<rtept lat="56.451654581518" lon="-5.70027653150293">
+<ele>77.9352853850973</ele>
+<name>DDG 217</name>
+</rtept>
+<rtept lat="56.4515928975428" lon="-5.70008380645902">
+<ele>75.261661722498</ele>
+<name>DDG 218</name>
+</rtept>
+<rtept lat="56.4504833270377" lon="-5.69960239023994">
+<ele>66.2950787063626</ele>
+<name>DDG 219</name>
+</rtept>
+<rtept lat="56.4504146088636" lon="-5.69934404340504">
+<ele>62.9860614642827</ele>
+<name>DDG 220</name>
+</rtept>
+<rtept lat="56.4509158022356" lon="-5.69791530359404">
+<ele>55.9245579014122</ele>
+<name>DDG 221</name>
+</rtept>
+<rtept lat="56.4510292555237" lon="-5.69622151897172">
+<ele>62.1442979181575</ele>
+<name>DDG 222</name>
+</rtept>
+<rtept lat="56.4509562994639" lon="-5.69414429370447">
+<ele>57.9430267691862</ele>
+<name>DDG 223</name>
+</rtept>
+</rte>
+</gpx>

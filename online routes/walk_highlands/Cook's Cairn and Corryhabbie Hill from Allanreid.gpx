@@ -1,0 +1,986 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Cook's Cairn and Corryhabbie Hill from Allanreid</name>
+<rtept lat="57.3078717166764" lon="-3.26936312708543">
+<ele>277.468028213534</ele>
+<name>Cook001</name>
+</rtept>
+<rtept lat="57.3078482023509" lon="-3.26884438663529">
+<ele>277.824652289207</ele>
+<name>Cook002</name>
+</rtept>
+<rtept lat="57.3068074158763" lon="-3.26799846649464">
+<ele>277.667966360115</ele>
+<name>Cook003</name>
+</rtept>
+<rtept lat="57.3061542852935" lon="-3.26790958849696">
+<ele>278.540734751155</ele>
+<name>Cook004</name>
+</rtept>
+<rtept lat="57.3055576007706" lon="-3.26721180239099">
+<ele>279.855009749616</ele>
+<name>Cook005</name>
+</rtept>
+<rtept lat="57.305340627522" lon="-3.26663332721577">
+<ele>280.571811447366</ele>
+<name>Cook006</name>
+</rtept>
+<rtept lat="57.3050920718674" lon="-3.2670497183128">
+<ele>279.147263695214</ele>
+<name>Cook007</name>
+</rtept>
+<rtept lat="57.3049895749694" lon="-3.26794918081183">
+<ele>278.538385869533</ele>
+<name>Cook008</name>
+</rtept>
+<rtept lat="57.3042731937468" lon="-3.26629121367306">
+<ele>278.493706219028</ele>
+<name>Cook009</name>
+</rtept>
+<rtept lat="57.303036839252" lon="-3.26452251501758">
+<ele>284.475516444956</ele>
+<name>Cook010</name>
+</rtept>
+<rtept lat="57.3021260121296" lon="-3.26361489609482">
+<ele>285.384681262622</ele>
+<name>Cook011</name>
+</rtept>
+<rtept lat="57.301772000445" lon="-3.26165088131049">
+<ele>289.340709573957</ele>
+<name>Cook012</name>
+</rtept>
+<rtept lat="57.3019026429303" lon="-3.25865450411046">
+<ele>291.232088615072</ele>
+<name>Cook013</name>
+</rtept>
+<rtept lat="57.3016825605742" lon="-3.25766441319684">
+<ele>292.285509926274</ele>
+<name>Cook014</name>
+</rtept>
+<rtept lat="57.3017292517962" lon="-3.25730750001627">
+<ele>294.308065489475</ele>
+<name>Cook015</name>
+</rtept>
+<rtept lat="57.3013405098034" lon="-3.25449260113155">
+<ele>299.600588990487</ele>
+<name>Cook016</name>
+</rtept>
+<rtept lat="57.3013084274792" lon="-3.25194215774517">
+<ele>301.14929287458</ele>
+<name>Cook017</name>
+</rtept>
+<rtept lat="57.3010749209468" lon="-3.25012844586396">
+<ele>299.802552842307</ele>
+<name>Cook018</name>
+</rtept>
+<rtept lat="57.3010500755307" lon="-3.24901227029132">
+<ele>300.91876318322</ele>
+<name>Cook019</name>
+</rtept>
+<rtept lat="57.3008191033938" lon="-3.24766339521132">
+<ele>299.956028213537</ele>
+<name>Cook020</name>
+</rtept>
+<rtept lat="57.3003303376784" lon="-3.24694313844709">
+<ele>299.627368919034</ele>
+<name>Cook021</name>
+</rtept>
+<rtept lat="57.2999773672463" lon="-3.24702413604536">
+<ele>299.334432199196</ele>
+<name>Cook022</name>
+</rtept>
+<rtept lat="57.299679558405" lon="-3.24661573995668">
+<ele>300.512450837989</ele>
+<name>Cook023</name>
+</rtept>
+<rtept lat="57.299393971884" lon="-3.24606171504007">
+<ele>302.933845208481</ele>
+<name>Cook024</name>
+</rtept>
+<rtept lat="57.2991387860914" lon="-3.24497764341597">
+<ele>306.023291666743</ele>
+<name>Cook025</name>
+</rtept>
+<rtept lat="57.298595678268" lon="-3.24393697597196">
+<ele>308.246988158834</ele>
+<name>Cook026</name>
+</rtept>
+<rtept lat="57.2973838884277" lon="-3.24219668972652">
+<ele>309.478150676682</ele>
+<name>Cook027</name>
+</rtept>
+<rtept lat="57.2968331970618" lon="-3.24046549419824">
+<ele>311.987952635335</ele>
+<name>Cook028</name>
+</rtept>
+<rtept lat="57.2957454608882" lon="-3.23780026812274">
+<ele>315.604976300145</ele>
+<name>Cook029</name>
+</rtept>
+<rtept lat="57.2956601560571" lon="-3.23697430344054">
+<ele>315.920973538903</ele>
+<name>Cook030</name>
+</rtept>
+<rtept lat="57.2952961469108" lon="-3.23635140576864">
+<ele>318.816041586014</ele>
+<name>Cook031</name>
+</rtept>
+<rtept lat="57.2951034529501" lon="-3.2354820279806">
+<ele>318.579971786466</ele>
+<name>Cook032</name>
+</rtept>
+<rtept lat="57.2949802117174" lon="-3.2333936352862">
+<ele>318.399980848868</ele>
+<name>Cook033</name>
+</rtept>
+<rtept lat="57.2951062261997" lon="-3.23226942687735">
+<ele>319.056661980832</ele>
+<name>Cook034</name>
+</rtept>
+<rtept lat="57.2950988387042" lon="-3.23082214081134">
+<ele>319.318988158836</ele>
+<name>Cook035</name>
+</rtept>
+<rtept lat="57.2948812107555" lon="-3.22882354736475">
+<ele>319.977048917152</ele>
+<name>Cook036</name>
+</rtept>
+<rtept lat="57.2948398026595" lon="-3.22717600640347">
+<ele>323.684717198969</ele>
+<name>Cook037</name>
+</rtept>
+<rtept lat="57.295208139782" lon="-3.22404194974617">
+<ele>328.626004531201</ele>
+<name>Cook038</name>
+</rtept>
+<rtept lat="57.295106907463" lon="-3.22188794491939">
+<ele>329.494988158834</ele>
+<name>Cook039</name>
+</rtept>
+<rtept lat="57.2955480465517" lon="-3.22086706304036">
+<ele>329.466004531201</ele>
+<name>Cook040</name>
+</rtept>
+<rtept lat="57.2957804332957" lon="-3.21987907515586">
+<ele>330.051932580895</ele>
+<name>Cook041</name>
+</rtept>
+<rtept lat="57.2955998261229" lon="-3.21849242009778">
+<ele>334.130997221239</ele>
+<name>Cook042</name>
+</rtept>
+<rtept lat="57.2956414174625" lon="-3.2171662196351">
+<ele>336.336992690036</ele>
+<name>Cook043</name>
+</rtept>
+<rtept lat="57.2954652703212" lon="-3.21605852025656">
+<ele>339.338997221238</ele>
+<name>Cook044</name>
+</rtept>
+<rtept lat="57.2959666612262" lon="-3.21474747693495">
+<ele>341.450997221237</ele>
+<name>Cook045</name>
+</rtept>
+<rtept lat="57.29760180037" lon="-3.21250454692258">
+<ele>342.057036064283</ele>
+<name>Cook046</name>
+</rtept>
+<rtept lat="57.2983146283781" lon="-3.21236867954679">
+<ele>340.636009062403</ele>
+<name>Cook047</name>
+</rtept>
+<rtept lat="57.2990559170715" lon="-3.21151678678106">
+<ele>344.073011841166</ele>
+<name>Cook048</name>
+</rtept>
+<rtept lat="57.2996915011712" lon="-3.21119247529942">
+<ele>345.771016372369</ele>
+<name>Cook049</name>
+</rtept>
+<rtept lat="57.3004745803806" lon="-3.20973113610207">
+<ele>347.082004531202</ele>
+<name>Cook050</name>
+</rtept>
+<rtept lat="57.3010321484424" lon="-3.20929799975087">
+<ele>347.359945192818</ele>
+<name>Cook051</name>
+</rtept>
+<rtept lat="57.3010031744458" lon="-3.2074514530821">
+<ele>350.48084236843</ele>
+<name>Cook052</name>
+</rtept>
+<rtept lat="57.3012397849674" lon="-3.20601193166136">
+<ele>353.296704857908</ele>
+<name>Cook053</name>
+</rtept>
+<rtept lat="57.3014365056696" lon="-3.20348230725307">
+<ele>359.650004531202</ele>
+<name>Cook054</name>
+</rtept>
+<rtept lat="57.3017463932801" lon="-3.20264264131014">
+<ele>360</ele>
+<name>Cook055</name>
+</rtept>
+<rtept lat="57.3019058549" lon="-3.20250178809416">
+<ele>360.191261084567</ele>
+<name>Cook056</name>
+</rtept>
+<rtept lat="57.3020675510003" lon="-3.20287885012675">
+<ele>360.238393447205</ele>
+<name>Cook057</name>
+</rtept>
+<rtept lat="57.3021180447208" lon="-3.20361079174594">
+<ele>359.866644924229</ele>
+<name>Cook058</name>
+</rtept>
+<rtept lat="57.3019122268543" lon="-3.20633933434386">
+<ele>352.926475304099</ele>
+<name>Cook059</name>
+</rtept>
+<rtept lat="57.3019624456344" lon="-3.20709782501848">
+<ele>350.769000815095</ele>
+<name>Cook060</name>
+</rtept>
+<rtept lat="57.3073100115835" lon="-3.20443113297534">
+<ele>389.276263326524</ele>
+<name>Cook061</name>
+</rtept>
+<rtept lat="57.3080457488148" lon="-3.20377789753963">
+<ele>393.501713296322</ele>
+<name>Cook062</name>
+</rtept>
+<rtept lat="57.3085557968616" lon="-3.20305086338046">
+<ele>393.97744367319</ele>
+<name>Cook063</name>
+</rtept>
+<rtept lat="57.3087996229034" lon="-3.2023549615693">
+<ele>393.275554513369</ele>
+<name>Cook064</name>
+</rtept>
+<rtept lat="57.3095253332844" lon="-3.2016216474003">
+<ele>392.680971257453</ele>
+<name>Cook065</name>
+</rtept>
+<rtept lat="57.309799496676" lon="-3.20151106335389">
+<ele>393.815261097851</ele>
+<name>Cook066</name>
+</rtept>
+<rtept lat="57.3100762786973" lon="-3.20187867638355">
+<ele>393.411720114689</ele>
+<name>Cook067</name>
+</rtept>
+<rtept lat="57.3106824645823" lon="-3.20161955138764">
+<ele>392.963213652058</ele>
+<name>Cook068</name>
+</rtept>
+<rtept lat="57.3131323412119" lon="-3.19756876793604">
+<ele>408.823756422982</ele>
+<name>Cook069</name>
+</rtept>
+<rtept lat="57.3155031831746" lon="-3.19425872938834">
+<ele>435.198031718417</ele>
+<name>Cook070</name>
+</rtept>
+<rtept lat="57.3190677480446" lon="-3.19086731856318">
+<ele>466.666494509541</ele>
+<name>Cook071</name>
+</rtept>
+<rtept lat="57.319464398341" lon="-3.18996353057602">
+<ele>473.445019877248</ele>
+<name>Cook072</name>
+</rtept>
+<rtept lat="57.3201094975821" lon="-3.18938657473301">
+<ele>476.588008036078</ele>
+<name>Cook073</name>
+</rtept>
+<rtept lat="57.3211402455339" lon="-3.18754670093518">
+<ele>486.41747541493</ele>
+<name>Cook074</name>
+</rtept>
+<rtept lat="57.3218874000924" lon="-3.18300070677694">
+<ele>515.622803906383</ele>
+<name>Cook075</name>
+</rtept>
+<rtept lat="57.3233301837007" lon="-3.17898165224185">
+<ele>535.547603747932</ele>
+<name>Cook076</name>
+</rtept>
+<rtept lat="57.3233018757217" lon="-3.1773997535697">
+<ele>551.812294351815</ele>
+<name>Cook077</name>
+</rtept>
+<rtept lat="57.324937604765" lon="-3.17309418176795">
+<ele>584.370796908624</ele>
+<name>Cook078</name>
+</rtept>
+<rtept lat="57.3250806699286" lon="-3.17162396352944">
+<ele>590.176037275953</ele>
+<name>Cook079</name>
+</rtept>
+<rtept lat="57.3257432891286" lon="-3.17185763597974">
+<ele>593.711500609603</ele>
+<name>Cook080</name>
+</rtept>
+<rtept lat="57.3261118192626" lon="-3.17164349410685">
+<ele>598.149394367834</ele>
+<name>Cook081</name>
+</rtept>
+<rtept lat="57.326520229958" lon="-3.1710054395685">
+<ele>604.244674745827</ele>
+<name>Cook082</name>
+</rtept>
+<rtept lat="57.3289334247188" lon="-3.16924851095286">
+<ele>637.553882799135</ele>
+<name>Cook083</name>
+</rtept>
+<rtept lat="57.3300082220962" lon="-3.16727615754838">
+<ele>656.67606548951</ele>
+<name>Cook084</name>
+</rtept>
+<rtept lat="57.3311499151099" lon="-3.1658373461465">
+<ele>678.446297869998</ele>
+<name>Cook085</name>
+</rtept>
+<rtept lat="57.3333407298395" lon="-3.16169405470738">
+<ele>725.172248388236</ele>
+<name>Cook086</name>
+</rtept>
+<rtept lat="57.3342055364998" lon="-3.1606581890196">
+<ele>744.040075578252</ele>
+<name>Cook087</name>
+</rtept>
+<rtept lat="57.3350586188064" lon="-3.16011363033149">
+<ele>752.104019151147</ele>
+<name>Cook088</name>
+</rtept>
+<rtept lat="57.3356495718043" lon="-3.16071702313935">
+<ele>753.95501637238</ele>
+<name>Cook089</name>
+</rtept>
+<rtept lat="57.3356525029857" lon="-3.16156768032535">
+<ele>752.958255509465</ele>
+<name>Cook090</name>
+</rtept>
+<rtept lat="57.3350962675502" lon="-3.16420809869389">
+<ele>727.728035223298</ele>
+<name>Cook091</name>
+</rtept>
+<rtept lat="57.3350919645469" lon="-3.16467310829524">
+<ele>720.258978907869</ele>
+<name>Cook092</name>
+</rtept>
+<rtept lat="57.334893914809" lon="-3.16510540407212">
+<ele>714.526566329796</ele>
+<name>Cook093</name>
+</rtept>
+<rtept lat="57.3351777036262" lon="-3.16705471598671">
+<ele>670.199824313769</ele>
+<name>Cook094</name>
+</rtept>
+<rtept lat="57.3357631970624" lon="-3.16824281523678">
+<ele>635.212691973348</ele>
+<name>Cook095</name>
+</rtept>
+<rtept lat="57.33656092303" lon="-3.1751924508399">
+<ele>529.371185585402</ele>
+<name>Cook096</name>
+</rtept>
+<rtept lat="57.3370863758571" lon="-3.17664461899522">
+<ele>509.530071385811</ele>
+<name>Cook097</name>
+</rtept>
+<rtept lat="57.3371791338025" lon="-3.17748489641028">
+<ele>503.081033339609</ele>
+<name>Cook098</name>
+</rtept>
+<rtept lat="57.3369841201929" lon="-3.17835583503143">
+<ele>502.718426508299</ele>
+<name>Cook099</name>
+</rtept>
+<rtept lat="57.3369872868342" lon="-3.17955208964831">
+<ele>506.653621210418</ele>
+<name>Cook100</name>
+</rtept>
+<rtept lat="57.3374078612533" lon="-3.18145285727916">
+<ele>519.927767744081</ele>
+<name>Cook101</name>
+</rtept>
+<rtept lat="57.3375917968209" lon="-3.18176445169453">
+<ele>524.905488640167</ele>
+<name>Cook102</name>
+</rtept>
+<rtept lat="57.3377999066882" lon="-3.18179771713421">
+<ele>529.083789193056</ele>
+<name>Cook103</name>
+</rtept>
+<rtept lat="57.3374874720383" lon="-3.18368826425449">
+<ele>540.446930132498</ele>
+<name>Cook104</name>
+</rtept>
+<rtept lat="57.3375794996263" lon="-3.18383742356567">
+<ele>544.669888990946</ele>
+<name>Cook105</name>
+</rtept>
+<rtept lat="57.3388281875141" lon="-3.18365164664019">
+<ele>572.173902964537</ele>
+<name>Cook106</name>
+</rtept>
+<rtept lat="57.3393797923601" lon="-3.18384218037772">
+<ele>579.835031879416</ele>
+<name>Cook107</name>
+</rtept>
+<rtept lat="57.3398559227565" lon="-3.18441574866103">
+<ele>591.076570703329</ele>
+<name>Cook108</name>
+</rtept>
+<rtept lat="57.3400010493242" lon="-3.18503183821456">
+<ele>601.372828078286</ele>
+<name>Cook109</name>
+</rtept>
+<rtept lat="57.3396495455356" lon="-3.18801112007502">
+<ele>624.635381321846</ele>
+<name>Cook110</name>
+</rtept>
+<rtept lat="57.339740815147" lon="-3.1882400242849">
+<ele>628.112480385991</ele>
+<name>Cook111</name>
+</rtept>
+<rtept lat="57.341430082929" lon="-3.18630074941742">
+<ele>641.802043859849</ele>
+<name>Cook112</name>
+</rtept>
+<rtept lat="57.3424620166472" lon="-3.18585549108134">
+<ele>649.478608359322</ele>
+<name>Cook113</name>
+</rtept>
+<rtept lat="57.3428472402963" lon="-3.18616034806589">
+<ele>658.368718354471</ele>
+<name>Cook114</name>
+</rtept>
+<rtept lat="57.3434195599307" lon="-3.18720235669798">
+<ele>684.842950940799</ele>
+<name>Cook115</name>
+</rtept>
+<rtept lat="57.3433931155709" lon="-3.18771992729975">
+<ele>694.048805366372</ele>
+<name>Cook116</name>
+</rtept>
+<rtept lat="57.3425945624616" lon="-3.19008682142098">
+<ele>712.222477784839</ele>
+<name>Cook117</name>
+</rtept>
+<rtept lat="57.3424955041828" lon="-3.19068178425548">
+<ele>718.065932901723</ele>
+<name>Cook118</name>
+</rtept>
+<rtept lat="57.3425647114646" lon="-3.19096316933778">
+<ele>723.581088155364</ele>
+<name>Cook119</name>
+</rtept>
+<rtept lat="57.3432733460118" lon="-3.19050756593003">
+<ele>734.850834198774</ele>
+<name>Cook120</name>
+</rtept>
+<rtept lat="57.3445923812724" lon="-3.19048378567026">
+<ele>742.043985897478</ele>
+<name>Cook121</name>
+</rtept>
+<rtept lat="57.3452934719714" lon="-3.19082552135104">
+<ele>746.561884852539</ele>
+<name>Cook122</name>
+</rtept>
+<rtept lat="57.3468866279936" lon="-3.1925920482416">
+<ele>762.209549082717</ele>
+<name>Cook123</name>
+</rtept>
+<rtept lat="57.3469652863879" lon="-3.19415002288173">
+<ele>764.73825432213</ele>
+<name>Cook124</name>
+</rtept>
+<rtept lat="57.3463581088304" lon="-3.19451583797308">
+<ele>770.908646644119</ele>
+<name>Cook125</name>
+</rtept>
+<rtept lat="57.3446373954433" lon="-3.19634762487487">
+<ele>780.733139015084</ele>
+<name>Cook126</name>
+</rtept>
+<rtept lat="57.3446618386401" lon="-3.196800395377">
+<ele>780.185568560271</ele>
+<name>Cook127</name>
+</rtept>
+<rtept lat="57.3443980048607" lon="-3.19733683755557">
+<ele>780.339400098004</ele>
+<name>Cook128</name>
+</rtept>
+<rtept lat="57.3440723118094" lon="-3.19870872882213">
+<ele>779.919976607429</ele>
+<name>Cook129</name>
+</rtept>
+<rtept lat="57.3431858566722" lon="-3.20047438267658">
+<ele>775.957182512101</ele>
+<name>Cook130</name>
+</rtept>
+<rtept lat="57.3431558064735" lon="-3.20136402398765">
+<ele>771.539813218314</ele>
+<name>Cook131</name>
+</rtept>
+<rtept lat="57.3428821772947" lon="-3.20292363512902">
+<ele>754.618112587594</ele>
+<name>Cook132</name>
+</rtept>
+<rtept lat="57.3426541142713" lon="-3.20347447093051">
+<ele>747.245100223054</ele>
+<name>Cook133</name>
+</rtept>
+<rtept lat="57.3427433175909" lon="-3.20541812642367">
+<ele>729.006737423183</ele>
+<name>Cook134</name>
+</rtept>
+<rtept lat="57.3425619708834" lon="-3.20634267074826">
+<ele>723.777900068802</ele>
+<name>Cook135</name>
+</rtept>
+<rtept lat="57.3422574092893" lon="-3.2066251203265">
+<ele>720.451780855733</ele>
+<name>Cook136</name>
+</rtept>
+<rtept lat="57.3415283977026" lon="-3.20844883937145">
+<ele>715.622006663376</ele>
+<name>Cook137</name>
+</rtept>
+<rtept lat="57.3403884101149" lon="-3.21003300603613">
+<ele>719.88198350337</ele>
+<name>Cook138</name>
+</rtept>
+<rtept lat="57.3397584826179" lon="-3.21051737245155">
+<ele>719.260010088749</ele>
+<name>Cook139</name>
+</rtept>
+<rtept lat="57.3380652536908" lon="-3.21245532498605">
+<ele>713.918744989706</ele>
+<name>Cook140</name>
+</rtept>
+<rtept lat="57.3372381211424" lon="-3.2128932473794">
+<ele>712.076659119889</ele>
+<name>Cook141</name>
+</rtept>
+<rtept lat="57.3360073556323" lon="-3.21307861627915">
+<ele>716.607943572891</ele>
+<name>Cook142</name>
+</rtept>
+<rtept lat="57.3344287643249" lon="-3.21281394489786">
+<ele>725.631153715711</ele>
+<name>Cook143</name>
+</rtept>
+<rtept lat="57.3334982202123" lon="-3.21316867157503">
+<ele>729.392494909875</ele>
+<name>Cook144</name>
+</rtept>
+<rtept lat="57.3328245204796" lon="-3.21297370499616">
+<ele>726.790394047127</ele>
+<name>Cook145</name>
+</rtept>
+<rtept lat="57.3321772602363" lon="-3.21339090742246">
+<ele>722.665460752938</ele>
+<name>Cook146</name>
+</rtept>
+<rtept lat="57.3311462451554" lon="-3.21298483797083">
+<ele>713.088988038876</ele>
+<name>Cook147</name>
+</rtept>
+<rtept lat="57.3306969360178" lon="-3.21262453253486">
+<ele>709.96425132192</ele>
+<name>Cook148</name>
+</rtept>
+<rtept lat="57.3304358366785" lon="-3.21212426361405">
+<ele>708.270442294534</ele>
+<name>Cook149</name>
+</rtept>
+<rtept lat="57.3302568580936" lon="-3.21205192838514">
+<ele>708.492044024907</ele>
+<name>Cook150</name>
+</rtept>
+<rtept lat="57.3299766622644" lon="-3.21241476921561">
+<ele>708.931568058215</ele>
+<name>Cook151</name>
+</rtept>
+<rtept lat="57.3296458895284" lon="-3.21168632153313">
+<ele>709.628770411593</ele>
+<name>Cook152</name>
+</rtept>
+<rtept lat="57.3285523792975" lon="-3.21105238295983">
+<ele>718.455841970567</ele>
+<name>Cook153</name>
+</rtept>
+<rtept lat="57.3277093227116" lon="-3.21090506099445">
+<ele>721.973693306396</ele>
+<name>Cook154</name>
+</rtept>
+<rtept lat="57.3259887390172" lon="-3.21195125972842">
+<ele>726.558126763068</ele>
+<name>Cook155</name>
+</rtept>
+<rtept lat="57.3239098058064" lon="-3.21289255363714">
+<ele>724.866023682346</ele>
+<name>Cook156</name>
+</rtept>
+<rtept lat="57.3231289808064" lon="-3.21299968687863">
+<ele>718.994299585542</ele>
+<name>Cook157</name>
+</rtept>
+<rtept lat="57.3225276521589" lon="-3.2134980077267">
+<ele>719.107727695979</ele>
+<name>Cook158</name>
+</rtept>
+<rtept lat="57.321382331455" lon="-3.2137658157911">
+<ele>722.916215301968</ele>
+<name>Cook159</name>
+</rtept>
+<rtept lat="57.3200526507074" lon="-3.2148910249039">
+<ele>732</ele>
+<name>Cook160</name>
+</rtept>
+<rtept lat="57.3177217155208" lon="-3.21587682068551">
+<ele>729.884047364686</ele>
+<name>Cook161</name>
+</rtept>
+<rtept lat="57.3173946795212" lon="-3.21625124699436">
+<ele>726.289666270237</ele>
+<name>Cook162</name>
+</rtept>
+<rtept lat="57.3156560977052" lon="-3.21655246922215">
+<ele>700.949767324647</ele>
+<name>Cook163</name>
+</rtept>
+<rtept lat="57.3144736791157" lon="-3.2176822749416">
+<ele>686.00342308992</ele>
+<name>Cook164</name>
+</rtept>
+<rtept lat="57.3143022735752" lon="-3.21757034798734">
+<ele>683.179998641287</ele>
+<name>Cook165</name>
+</rtept>
+<rtept lat="57.3137124752973" lon="-3.21798916481121">
+<ele>676.174705127069</ele>
+<name>Cook166</name>
+</rtept>
+<rtept lat="57.3132740604894" lon="-3.21873174697343">
+<ele>669.239829442694</ele>
+<name>Cook167</name>
+</rtept>
+<rtept lat="57.3127698422898" lon="-3.21884788212315">
+<ele>663.078947518652</ele>
+<name>Cook168</name>
+</rtept>
+<rtept lat="57.3120384306241" lon="-3.21793380702366">
+<ele>642.730020686164</ele>
+<name>Cook169</name>
+</rtept>
+<rtept lat="57.3117557828595" lon="-3.21817681065716">
+<ele>639.110383861332</ele>
+<name>Cook170</name>
+</rtept>
+<rtept lat="57.3110194826057" lon="-3.21776730216134">
+<ele>620.236000914209</ele>
+<name>Cook171</name>
+</rtept>
+<rtept lat="57.3108461553578" lon="-3.21748266595216">
+<ele>612.954192991812</ele>
+<name>Cook172</name>
+</rtept>
+<rtept lat="57.3103674636327" lon="-3.21793168132885">
+<ele>608.875953825043</ele>
+<name>Cook173</name>
+</rtept>
+<rtept lat="57.3100518490872" lon="-3.21786812207266">
+<ele>601.70623396675</ele>
+<name>Cook174</name>
+</rtept>
+<rtept lat="57.3093643088078" lon="-3.21687589992876">
+<ele>575.908532125066</ele>
+<name>Cook175</name>
+</rtept>
+<rtept lat="57.3091302981381" lon="-3.215805720526">
+<ele>550.342612587981</ele>
+<name>Cook176</name>
+</rtept>
+<rtept lat="57.3083476724189" lon="-3.21498307088691">
+<ele>512.863170408089</ele>
+<name>Cook177</name>
+</rtept>
+<rtept lat="57.3064446956037" lon="-3.21221126503864">
+<ele>432.912207578701</ele>
+<name>Cook178</name>
+</rtept>
+<rtept lat="57.3059577716145" lon="-3.21127896080519">
+<ele>411.205288426905</ele>
+<name>Cook179</name>
+</rtept>
+<rtept lat="57.3051499181434" lon="-3.2093402009525">
+<ele>382.981628327363</ele>
+<name>Cook180</name>
+</rtept>
+<rtept lat="57.3051040031774" lon="-3.20738665941845">
+<ele>357.719025434774</ele>
+<name>Cook181</name>
+</rtept>
+<rtept lat="57.3048152877018" lon="-3.20676636214181">
+<ele>359.307040436506</ele>
+<name>Cook182</name>
+</rtept>
+<rtept lat="57.3044439714994" lon="-3.20651517989584">
+<ele>359.223564235635</ele>
+<name>Cook183</name>
+</rtept>
+<rtept lat="57.304205163273" lon="-3.20593637061205">
+<ele>360.136449917383</ele>
+<name>Cook184</name>
+</rtept>
+<rtept lat="57.3019624456344" lon="-3.20709782501848">
+<ele>350.769000815095</ele>
+<name>Cook185</name>
+</rtept>
+<rtept lat="57.3019122268543" lon="-3.20633933434386">
+<ele>352.926475304099</ele>
+<name>Cook186</name>
+</rtept>
+<rtept lat="57.3021180447208" lon="-3.20361079174594">
+<ele>359.866644924229</ele>
+<name>Cook187</name>
+</rtept>
+<rtept lat="57.3020675510003" lon="-3.20287885012675">
+<ele>360.238393447205</ele>
+<name>Cook188</name>
+</rtept>
+<rtept lat="57.3019058549" lon="-3.20250178809416">
+<ele>360.191261084567</ele>
+<name>Cook189</name>
+</rtept>
+<rtept lat="57.3017463932801" lon="-3.20264264131014">
+<ele>360</ele>
+<name>Cook190</name>
+</rtept>
+<rtept lat="57.3014365056696" lon="-3.20348230725307">
+<ele>359.650004531202</ele>
+<name>Cook191</name>
+</rtept>
+<rtept lat="57.3012397849674" lon="-3.20601193166136">
+<ele>353.296704857908</ele>
+<name>Cook192</name>
+</rtept>
+<rtept lat="57.3010031744458" lon="-3.2074514530821">
+<ele>350.48084236843</ele>
+<name>Cook193</name>
+</rtept>
+<rtept lat="57.3010321484424" lon="-3.20929799975087">
+<ele>347.359945192818</ele>
+<name>Cook194</name>
+</rtept>
+<rtept lat="57.3004745803806" lon="-3.20973113610207">
+<ele>347.082004531202</ele>
+<name>Cook195</name>
+</rtept>
+<rtept lat="57.2996915011712" lon="-3.21119247529942">
+<ele>345.771016372369</ele>
+<name>Cook196</name>
+</rtept>
+<rtept lat="57.2990559170715" lon="-3.21151678678106">
+<ele>344.073011841166</ele>
+<name>Cook197</name>
+</rtept>
+<rtept lat="57.2983146283781" lon="-3.21236867954679">
+<ele>340.636009062403</ele>
+<name>Cook198</name>
+</rtept>
+<rtept lat="57.29760180037" lon="-3.21250454692258">
+<ele>342.057036064283</ele>
+<name>Cook199</name>
+</rtept>
+<rtept lat="57.2959666612262" lon="-3.21474747693495">
+<ele>341.450997221237</ele>
+<name>Cook200</name>
+</rtept>
+<rtept lat="57.2954652703212" lon="-3.21605852025656">
+<ele>339.338997221238</ele>
+<name>Cook201</name>
+</rtept>
+<rtept lat="57.2956414174625" lon="-3.2171662196351">
+<ele>336.336992690036</ele>
+<name>Cook202</name>
+</rtept>
+<rtept lat="57.2955998261229" lon="-3.21849242009778">
+<ele>334.130997221239</ele>
+<name>Cook203</name>
+</rtept>
+<rtept lat="57.2957804332957" lon="-3.21987907515586">
+<ele>330.051932580895</ele>
+<name>Cook204</name>
+</rtept>
+<rtept lat="57.2955480465517" lon="-3.22086706304036">
+<ele>329.466004531201</ele>
+<name>Cook205</name>
+</rtept>
+<rtept lat="57.295106907463" lon="-3.22188794491939">
+<ele>329.494988158834</ele>
+<name>Cook206</name>
+</rtept>
+<rtept lat="57.295208139782" lon="-3.22404194974617">
+<ele>328.626004531201</ele>
+<name>Cook207</name>
+</rtept>
+<rtept lat="57.2948398026595" lon="-3.22717600640347">
+<ele>323.684717198969</ele>
+<name>Cook208</name>
+</rtept>
+<rtept lat="57.2948812107555" lon="-3.22882354736475">
+<ele>319.977048917152</ele>
+<name>Cook209</name>
+</rtept>
+<rtept lat="57.2950988387042" lon="-3.23082214081134">
+<ele>319.318988158836</ele>
+<name>Cook210</name>
+</rtept>
+<rtept lat="57.2951062261997" lon="-3.23226942687735">
+<ele>319.056661980832</ele>
+<name>Cook211</name>
+</rtept>
+<rtept lat="57.2949802117174" lon="-3.2333936352862">
+<ele>318.399980848868</ele>
+<name>Cook212</name>
+</rtept>
+<rtept lat="57.2951034529501" lon="-3.2354820279806">
+<ele>318.579971786466</ele>
+<name>Cook213</name>
+</rtept>
+<rtept lat="57.2952961469108" lon="-3.23635140576864">
+<ele>318.816041586014</ele>
+<name>Cook214</name>
+</rtept>
+<rtept lat="57.2956601560571" lon="-3.23697430344054">
+<ele>315.920973538903</ele>
+<name>Cook215</name>
+</rtept>
+<rtept lat="57.2957454608882" lon="-3.23780026812274">
+<ele>315.604976300145</ele>
+<name>Cook216</name>
+</rtept>
+<rtept lat="57.2968331970618" lon="-3.24046549419824">
+<ele>311.987952635335</ele>
+<name>Cook217</name>
+</rtept>
+<rtept lat="57.2973838884277" lon="-3.24219668972652">
+<ele>309.478150676682</ele>
+<name>Cook218</name>
+</rtept>
+<rtept lat="57.298595678268" lon="-3.24393697597196">
+<ele>308.246988158834</ele>
+<name>Cook219</name>
+</rtept>
+<rtept lat="57.2991387860914" lon="-3.24497764341597">
+<ele>306.023291666743</ele>
+<name>Cook220</name>
+</rtept>
+<rtept lat="57.299393971884" lon="-3.24606171504007">
+<ele>302.933845208481</ele>
+<name>Cook221</name>
+</rtept>
+<rtept lat="57.299679558405" lon="-3.24661573995668">
+<ele>300.512450837989</ele>
+<name>Cook222</name>
+</rtept>
+<rtept lat="57.2999773672463" lon="-3.24702413604536">
+<ele>299.334432199196</ele>
+<name>Cook223</name>
+</rtept>
+<rtept lat="57.3003303376784" lon="-3.24694313844709">
+<ele>299.627368919034</ele>
+<name>Cook224</name>
+</rtept>
+<rtept lat="57.3008191033938" lon="-3.24766339521132">
+<ele>299.956028213537</ele>
+<name>Cook225</name>
+</rtept>
+<rtept lat="57.3010500755307" lon="-3.24901227029132">
+<ele>300.91876318322</ele>
+<name>Cook226</name>
+</rtept>
+<rtept lat="57.3010749209468" lon="-3.25012844586396">
+<ele>299.802552842307</ele>
+<name>Cook227</name>
+</rtept>
+<rtept lat="57.3013084274792" lon="-3.25194215774517">
+<ele>301.14929287458</ele>
+<name>Cook228</name>
+</rtept>
+<rtept lat="57.3013405098034" lon="-3.25449260113155">
+<ele>299.600588990487</ele>
+<name>Cook229</name>
+</rtept>
+<rtept lat="57.3017292517962" lon="-3.25730750001627">
+<ele>294.308065489475</ele>
+<name>Cook230</name>
+</rtept>
+<rtept lat="57.3016825605742" lon="-3.25766441319684">
+<ele>292.285509926274</ele>
+<name>Cook231</name>
+</rtept>
+<rtept lat="57.3019026429303" lon="-3.25865450411046">
+<ele>291.232088615072</ele>
+<name>Cook232</name>
+</rtept>
+<rtept lat="57.301772000445" lon="-3.26165088131049">
+<ele>289.340709573957</ele>
+<name>Cook233</name>
+</rtept>
+<rtept lat="57.3021260121296" lon="-3.26361489609482">
+<ele>285.384681262622</ele>
+<name>Cook234</name>
+</rtept>
+<rtept lat="57.303036839252" lon="-3.26452251501758">
+<ele>284.475516444956</ele>
+<name>Cook235</name>
+</rtept>
+<rtept lat="57.3042731937468" lon="-3.26629121367306">
+<ele>278.493706219028</ele>
+<name>Cook236</name>
+</rtept>
+<rtept lat="57.3049895749694" lon="-3.26794918081183">
+<ele>278.538385869533</ele>
+<name>Cook237</name>
+</rtept>
+<rtept lat="57.3050920718674" lon="-3.2670497183128">
+<ele>279.147263695214</ele>
+<name>Cook238</name>
+</rtept>
+<rtept lat="57.305340627522" lon="-3.26663332721577">
+<ele>280.571811447366</ele>
+<name>Cook239</name>
+</rtept>
+<rtept lat="57.30582687061" lon="-3.26759289114851">
+<ele>279.373923614912</ele>
+<name>Cook240</name>
+</rtept>
+<rtept lat="57.3061542852935" lon="-3.26790958849696">
+<ele>278.540734751155</ele>
+<name>Cook241</name>
+</rtept>
+<rtept lat="57.3068074158763" lon="-3.26799846649464">
+<ele>277.667966360115</ele>
+<name>Cook242</name>
+</rtept>
+<rtept lat="57.3078482023509" lon="-3.26884438663529">
+<ele>277.824652289207</ele>
+<name>Cook243</name>
+</rtept>
+<rtept lat="57.3078717166764" lon="-3.26936312708543">
+<ele>277.468028213534</ele>
+<name>Cook244</name>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,882 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>The Great Trossachs Path 1: Inversnaid to Trossachs pier</name>
+<rtept lat="56.2430403378323" lon="-4.68522301631949">
+<ele>8.00358040390901</ele>
+<name>GTP1001</name>
+</rtept>
+<rtept lat="56.2427414050663" lon="-4.68392203674664">
+<ele>24.5020320923904</ele>
+<name>GTP1002</name>
+</rtept>
+<rtept lat="56.2425041267291" lon="-4.68354869725238">
+<ele>40.0944402881982</ele>
+<name>GTP1003</name>
+</rtept>
+<rtept lat="56.2421868432674" lon="-4.68363141359674">
+<ele>43.9896846737649</ele>
+<name>GTP1004</name>
+</rtept>
+<rtept lat="56.2421236604796" lon="-4.68331223154783">
+<ele>51.2173282046198</ele>
+<name>GTP1005</name>
+</rtept>
+<rtept lat="56.2423221518544" lon="-4.6827805337589">
+<ele>58.09820316325</ele>
+<name>GTP1006</name>
+</rtept>
+<rtept lat="56.242289571923" lon="-4.68212774716741">
+<ele>71.5087584380122</ele>
+<name>GTP1007</name>
+</rtept>
+<rtept lat="56.2420307712138" lon="-4.681668982504">
+<ele>85.3809960544824</ele>
+<name>GTP1008</name>
+</rtept>
+<rtept lat="56.2420853051948" lon="-4.68077048481451">
+<ele>97.4997222000268</ele>
+<name>GTP1009</name>
+</rtept>
+<rtept lat="56.2425554444829" lon="-4.67956528210894">
+<ele>109.593883327693</ele>
+<name>GTP1010</name>
+</rtept>
+<rtept lat="56.2422944980464" lon="-4.67866571619857">
+<ele>121.394452991518</ele>
+<name>GTP1011</name>
+</rtept>
+<rtept lat="56.2428635942679" lon="-4.67828578271347">
+<ele>119.765226912823</ele>
+<name>GTP1012</name>
+</rtept>
+<rtept lat="56.2431512412313" lon="-4.67633332672744">
+<ele>132.059438913945</ele>
+<name>GTP1013</name>
+</rtept>
+<rtept lat="56.2443011973873" lon="-4.67286710006333">
+<ele>130.731730280416</ele>
+<name>GTP1014</name>
+</rtept>
+<rtept lat="56.2446287830729" lon="-4.67284796495966">
+<ele>123.183674052144</ele>
+<name>GTP1015</name>
+</rtept>
+<rtept lat="56.2449407323089" lon="-4.67247098625166">
+<ele>115.853783596508</ele>
+<name>GTP1016</name>
+</rtept>
+<rtept lat="56.2452669595735" lon="-4.67251470994541">
+<ele>110.014950335187</ele>
+<name>GTP1017</name>
+</rtept>
+<rtept lat="56.2455425482012" lon="-4.67219814585739">
+<ele>109.606903410542</ele>
+<name>GTP1018</name>
+</rtept>
+<rtept lat="56.245308041" lon="-4.672580794">
+<ele>0</ele>
+<name>GTP1019</name>
+</rtept>
+<rtept lat="56.245692806" lon="-4.671888711">
+<ele>0</ele>
+<name>GTP1020</name>
+</rtept>
+<rtept lat="56.245959953" lon="-4.671747123">
+<ele>0</ele>
+<name>GTP1021</name>
+</rtept>
+<rtept lat="56.246715977" lon="-4.671876704">
+<ele>0</ele>
+<name>GTP1022</name>
+</rtept>
+<rtept lat="56.247656043" lon="-4.671315616">
+<ele>0</ele>
+<name>GTP1023</name>
+</rtept>
+<rtept lat="56.249082469" lon="-4.66840007">
+<ele>0</ele>
+<name>GTP1024</name>
+</rtept>
+<rtept lat="56.249318689" lon="-4.667344185">
+<ele>0</ele>
+<name>GTP1025</name>
+</rtept>
+<rtept lat="56.249601094" lon="-4.667663787">
+<ele>0</ele>
+<name>GTP1026</name>
+</rtept>
+<rtept lat="56.250209818" lon="-4.667659134">
+<ele>0</ele>
+<name>GTP1027</name>
+</rtept>
+<rtept lat="56.2508453450245" lon="-4.66687984029207">
+<ele>131.910145386536</ele>
+<name>GTP1028</name>
+</rtept>
+<rtept lat="56.2504568719362" lon="-4.66592932223125">
+<ele>127.600935858588</ele>
+<name>GTP1029</name>
+</rtept>
+<rtept lat="56.2503645134814" lon="-4.66533522368995">
+<ele>127.879073719047</ele>
+<name>GTP1030</name>
+</rtept>
+<rtept lat="56.249918975303" lon="-4.6648634955749">
+<ele>122.909740656919</ele>
+<name>GTP1031</name>
+</rtept>
+<rtept lat="56.2496315620141" lon="-4.66301756020396">
+<ele>128.569280778003</ele>
+<name>GTP1032</name>
+</rtept>
+<rtept lat="56.2495683011162" lon="-4.65835384116114">
+<ele>143.09497342933</ele>
+<name>GTP1033</name>
+</rtept>
+<rtept lat="56.2497273314436" lon="-4.65584630727963">
+<ele>150.133681758279</ele>
+<name>GTP1034</name>
+</rtept>
+<rtept lat="56.2500406096776" lon="-4.65486057835195">
+<ele>151.332545741267</ele>
+<name>GTP1035</name>
+</rtept>
+<rtept lat="56.2499370044832" lon="-4.65369905743761">
+<ele>148.462237699095</ele>
+<name>GTP1036</name>
+</rtept>
+<rtept lat="56.2502969807872" lon="-4.65107945095312">
+<ele>152.507962360705</ele>
+<name>GTP1037</name>
+</rtept>
+<rtept lat="56.2501193047554" lon="-4.64791893722493">
+<ele>150.536441423654</ele>
+<name>GTP1038</name>
+</rtept>
+<rtept lat="56.249782735086" lon="-4.64672036324889">
+<ele>149.851445369336</ele>
+<name>GTP1039</name>
+</rtept>
+<rtept lat="56.2496278877812" lon="-4.64521953285121">
+<ele>149.530569445418</ele>
+<name>GTP1040</name>
+</rtept>
+<rtept lat="56.2492437259472" lon="-4.64405969211177">
+<ele>149.15522195805</ele>
+<name>GTP1041</name>
+</rtept>
+<rtept lat="56.2491998702125" lon="-4.63845297267721">
+<ele>158.637967197578</ele>
+<name>GTP1042</name>
+</rtept>
+<rtept lat="56.2498399877085" lon="-4.63199076852027">
+<ele>159.771499268288</ele>
+<name>GTP1043</name>
+</rtept>
+<rtept lat="56.2506616251228" lon="-4.6287939847825">
+<ele>159.960533885876</ele>
+<name>GTP1044</name>
+</rtept>
+<rtept lat="56.2514754807321" lon="-4.62293096236597">
+<ele>164.147808341128</ele>
+<name>GTP1045</name>
+</rtept>
+<rtept lat="56.2521236330521" lon="-4.62156904165105">
+<ele>177.926664888295</ele>
+<name>GTP1046</name>
+</rtept>
+<rtept lat="56.2525238853811" lon="-4.62142850010548">
+<ele>185.855626549189</ele>
+<name>GTP1047</name>
+</rtept>
+<rtept lat="56.2524249736059" lon="-4.62058216568355">
+<ele>191.787027103587</ele>
+<name>GTP1048</name>
+</rtept>
+<rtept lat="56.2520641654329" lon="-4.62051552177831">
+<ele>186.530291577346</ele>
+<name>GTP1049</name>
+</rtept>
+<rtept lat="56.2516767898912" lon="-4.6200482751373">
+<ele>181.811980338435</ele>
+<name>GTP1050</name>
+</rtept>
+<rtept lat="56.2514076043411" lon="-4.61841374812905">
+<ele>186.350427657978</ele>
+<name>GTP1051</name>
+</rtept>
+<rtept lat="56.2505762018128" lon="-4.6171186562368">
+<ele>168.104389045206</ele>
+<name>GTP1052</name>
+</rtept>
+<rtept lat="56.2505409208064" lon="-4.614366794622">
+<ele>166.734219994302</ele>
+<name>GTP1053</name>
+</rtept>
+<rtept lat="56.2507650847953" lon="-4.61205238079798">
+<ele>173.901491872063</ele>
+<name>GTP1054</name>
+</rtept>
+<rtept lat="56.2507672462595" lon="-4.61028951205423">
+<ele>170.478592853068</ele>
+<name>GTP1055</name>
+</rtept>
+<rtept lat="56.2510839694457" lon="-4.60856903682091">
+<ele>171.893096008306</ele>
+<name>GTP1056</name>
+</rtept>
+<rtept lat="56.2512753232196" lon="-4.60642023808192">
+<ele>174.310811992124</ele>
+<name>GTP1057</name>
+</rtept>
+<rtept lat="56.2516298365487" lon="-4.60512205227651">
+<ele>173.310060422268</ele>
+<name>GTP1058</name>
+</rtept>
+<rtept lat="56.2521003270117" lon="-4.60441941197055">
+<ele>175.98930037709</ele>
+<name>GTP1059</name>
+</rtept>
+<rtept lat="56.2533618866064" lon="-4.60110480229005">
+<ele>169.506030732745</ele>
+<name>GTP1060</name>
+</rtept>
+<rtept lat="56.2532527007238" lon="-4.60074057039254">
+<ele>166.978480490488</ele>
+<name>GTP1061</name>
+</rtept>
+<rtept lat="56.2533075312638" lon="-4.59979975813667">
+<ele>163.490340981331</ele>
+<name>GTP1062</name>
+</rtept>
+<rtept lat="56.2539521287033" lon="-4.59915080886949">
+<ele>163.694315645751</ele>
+<name>GTP1063</name>
+</rtept>
+<rtept lat="56.2541447539392" lon="-4.59721179540803">
+<ele>165.586070024761</ele>
+<name>GTP1064</name>
+</rtept>
+<rtept lat="56.2537848113886" lon="-4.59710344754824">
+<ele>161.555926417077</ele>
+<name>GTP1065</name>
+</rtept>
+<rtept lat="56.2537421005176" lon="-4.5969116453104">
+<ele>161.611423554197</ele>
+<name>GTP1066</name>
+</rtept>
+<rtept lat="56.2541810612145" lon="-4.59603881194214">
+<ele>167.512042834398</ele>
+<name>GTP1067</name>
+</rtept>
+<rtept lat="56.2544676584392" lon="-4.59463088798695">
+<ele>171.722474673274</ele>
+<name>GTP1068</name>
+</rtept>
+<rtept lat="56.2551119888092" lon="-4.59343606120224">
+<ele>172.601555826537</ele>
+<name>GTP1069</name>
+</rtept>
+<rtept lat="56.2552475608291" lon="-4.59254263733985">
+<ele>166.947403087042</ele>
+<name>GTP1070</name>
+</rtept>
+<rtept lat="56.2554309251371" lon="-4.59215621613701">
+<ele>166.259824190653</ele>
+<name>GTP1071</name>
+</rtept>
+<rtept lat="56.2552604884108" lon="-4.59136803672723">
+<ele>159.87319283625</ele>
+<name>GTP1072</name>
+</rtept>
+<rtept lat="56.2552907782294" lon="-4.58992173083894">
+<ele>153.474211533748</ele>
+<name>GTP1073</name>
+</rtept>
+<rtept lat="56.2555135259643" lon="-4.58932805024388">
+<ele>149.520010041049</ele>
+<name>GTP1074</name>
+</rtept>
+<rtept lat="56.2554332517182" lon="-4.58758039943988">
+<ele>142.236934656494</ele>
+<name>GTP1075</name>
+</rtept>
+<rtept lat="56.2552614706412" lon="-4.58685512248316">
+<ele>140.787253631402</ele>
+<name>GTP1076</name>
+</rtept>
+<rtept lat="56.2551064939376" lon="-4.58476660353982">
+<ele>138.660043682658</ele>
+<name>GTP1077</name>
+</rtept>
+<rtept lat="56.2568726621084" lon="-4.58290513006002">
+<ele>128.577123166284</ele>
+<name>GTP1078</name>
+</rtept>
+<rtept lat="56.2581165033942" lon="-4.58200555596462">
+<ele>128.24301484911</ele>
+<name>GTP1079</name>
+</rtept>
+<rtept lat="56.2587616816953" lon="-4.58106560580854">
+<ele>125.652250705975</ele>
+<name>GTP1080</name>
+</rtept>
+<rtept lat="56.2614757888377" lon="-4.57965609846051">
+<ele>129.36488730942</ele>
+<name>GTP1081</name>
+</rtept>
+<rtept lat="56.262145704787" lon="-4.58002903083842">
+<ele>134.900572893381</ele>
+<name>GTP1082</name>
+</rtept>
+<rtept lat="56.2628032459159" lon="-4.57974546320972">
+<ele>125.203048860937</ele>
+<name>GTP1083</name>
+</rtept>
+<rtept lat="56.264337644488" lon="-4.58116018174816">
+<ele>137.788603507233</ele>
+<name>GTP1084</name>
+</rtept>
+<rtept lat="56.2651812692454" lon="-4.58444878293851">
+<ele>157.504100485992</ele>
+<name>GTP1085</name>
+</rtept>
+<rtept lat="56.2664839164154" lon="-4.58697227449582">
+<ele>172.150857790577</ele>
+<name>GTP1086</name>
+</rtept>
+<rtept lat="56.267152830005" lon="-4.58739215916302">
+<ele>159.283621359634</ele>
+<name>GTP1087</name>
+</rtept>
+<rtept lat="56.2676066661624" lon="-4.58812541319772">
+<ele>150.931621359634</ele>
+<name>GTP1088</name>
+</rtept>
+<rtept lat="56.2682440658414" lon="-4.58755953945022">
+<ele>140.455898939943</ele>
+<name>GTP1089</name>
+</rtept>
+<rtept lat="56.2688427186147" lon="-4.58759997397748">
+<ele>147.556751938534</ele>
+<name>GTP1090</name>
+</rtept>
+<rtept lat="56.2704860282874" lon="-4.58878838284427">
+<ele>151.62235464974</ele>
+<name>GTP1091</name>
+</rtept>
+<rtept lat="56.2707449281915" lon="-4.59011751519955">
+<ele>147.981484953594</ele>
+<name>GTP1092</name>
+</rtept>
+<rtept lat="56.2715533469599" lon="-4.59134330620351">
+<ele>140.012953723788</ele>
+<name>GTP1093</name>
+</rtept>
+<rtept lat="56.2718887754683" lon="-4.59150653443545">
+<ele>135.005194133472</ele>
+<name>GTP1094</name>
+</rtept>
+<rtept lat="56.2731387561286" lon="-4.59529202682685">
+<ele>146.098456864631</ele>
+<name>GTP1095</name>
+</rtept>
+<rtept lat="56.2732325794992" lon="-4.59703173335637">
+<ele>148.80508132329</ele>
+<name>GTP1096</name>
+</rtept>
+<rtept lat="56.2740699024968" lon="-4.59811916994721">
+<ele>124.630096112609</ele>
+<name>GTP1097</name>
+</rtept>
+<rtept lat="56.275817216562" lon="-4.59931526187492">
+<ele>132.224032342744</ele>
+<name>GTP1098</name>
+</rtept>
+<rtept lat="56.2767208025976" lon="-4.60096954289344">
+<ele>148.87741657114</ele>
+<name>GTP1099</name>
+</rtept>
+<rtept lat="56.2785849876388" lon="-4.60156469298436">
+<ele>124.534870851016</ele>
+<name>GTP1100</name>
+</rtept>
+<rtept lat="56.2789915988183" lon="-4.60206086015497">
+<ele>122.504870851016</ele>
+<name>GTP1101</name>
+</rtept>
+<rtept lat="56.279774407642" lon="-4.60202034100194">
+<ele>123.187240290082</ele>
+<name>GTP1102</name>
+</rtept>
+<rtept lat="56.2807564642612" lon="-4.60489846853261">
+<ele>131.873657040596</ele>
+<name>GTP1103</name>
+</rtept>
+<rtept lat="56.2812602767918" lon="-4.6057293148565">
+<ele>135.153809845304</ele>
+<name>GTP1104</name>
+</rtept>
+<rtept lat="56.2816201440264" lon="-4.60720639258606">
+<ele>145.8299791682</ele>
+<name>GTP1105</name>
+</rtept>
+<rtept lat="56.2827829120431" lon="-4.60892563759417">
+<ele>139.878511887658</ele>
+<name>GTP1106</name>
+</rtept>
+<rtept lat="56.2839657944819" lon="-4.61462951638685">
+<ele>131.792741642261</ele>
+<name>GTP1107</name>
+</rtept>
+<rtept lat="56.2859428317803" lon="-4.61851358663526">
+<ele>122.967486562848</ele>
+<name>GTP1108</name>
+</rtept>
+<rtept lat="56.2869236758175" lon="-4.61773711630395">
+<ele>120.950093468066</ele>
+<name>GTP1109</name>
+</rtept>
+<rtept lat="56.2874429432401" lon="-4.61660099907808">
+<ele>124.992084661448</ele>
+<name>GTP1110</name>
+</rtept>
+<rtept lat="56.2875365396118" lon="-4.61463906336118">
+<ele>129.605572833586</ele>
+<name>GTP1111</name>
+</rtept>
+<rtept lat="56.2865408895049" lon="-4.61241532779345">
+<ele>121.631118733078</ele>
+<name>GTP1112</name>
+</rtept>
+<rtept lat="56.2860196211269" lon="-4.60994287411021">
+<ele>123.588069812334</ele>
+<name>GTP1113</name>
+</rtept>
+<rtept lat="56.2861641810336" lon="-4.60803133396115">
+<ele>124.494443624812</ele>
+<name>GTP1114</name>
+</rtept>
+<rtept lat="56.2856231157856" lon="-4.60649487233953">
+<ele>127.533606964993</ele>
+<name>GTP1115</name>
+</rtept>
+<rtept lat="56.2849562447066" lon="-4.6059808542735">
+<ele>122.800443624809</ele>
+<name>GTP1116</name>
+</rtept>
+<rtept lat="56.2848055726658" lon="-4.60447102818029">
+<ele>129.772143998098</ele>
+<name>GTP1117</name>
+</rtept>
+<rtept lat="56.2837267313868" lon="-4.60247637197273">
+<ele>120.38093623015</ele>
+<name>GTP1118</name>
+</rtept>
+<rtept lat="56.2834292135688" lon="-4.59926968106379">
+<ele>121.101163280404</ele>
+<name>GTP1119</name>
+</rtept>
+<rtept lat="56.2831134490282" lon="-4.59817047865188">
+<ele>122.575258357763</ele>
+<name>GTP1120</name>
+</rtept>
+<rtept lat="56.2830790736039" lon="-4.59732467760585">
+<ele>138.709543254924</ele>
+<name>GTP1121</name>
+</rtept>
+<rtept lat="56.2781673216841" lon="-4.5891670458124">
+<ele>124.12510388397</ele>
+<name>GTP1122</name>
+</rtept>
+<rtept lat="56.2780183980226" lon="-4.58756397436169">
+<ele>127.162458473921</ele>
+<name>GTP1123</name>
+</rtept>
+<rtept lat="56.2774230599827" lon="-4.58611818195409">
+<ele>127.721600862725</ele>
+<name>GTP1124</name>
+</rtept>
+<rtept lat="56.2770359318251" lon="-4.58468648714298">
+<ele>129.638641036636</ele>
+<name>GTP1125</name>
+</rtept>
+<rtept lat="56.2764808943769" lon="-4.58380570950918">
+<ele>127.921405179763</ele>
+<name>GTP1126</name>
+</rtept>
+<rtept lat="56.2761226963832" lon="-4.58223547339087">
+<ele>127.296040173912</ele>
+<name>GTP1127</name>
+</rtept>
+<rtept lat="56.275929430028" lon="-4.58025472746427">
+<ele>128.916676837134</ele>
+<name>GTP1128</name>
+</rtept>
+<rtept lat="56.2750005085221" lon="-4.57855242569384">
+<ele>127.813233092737</ele>
+<name>GTP1129</name>
+</rtept>
+<rtept lat="56.2738307585761" lon="-4.57589705154309">
+<ele>121.948647019339</ele>
+<name>GTP1130</name>
+</rtept>
+<rtept lat="56.2736670592858" lon="-4.5749959398414">
+<ele>122.507779052019</ele>
+<name>GTP1131</name>
+</rtept>
+<rtept lat="56.2727587163565" lon="-4.57605919055647">
+<ele>118</ele>
+<name>GTP1132</name>
+</rtept>
+<rtept lat="56.2736950349979" lon="-4.57490412546307">
+<ele>122.275779052025</ele>
+<name>GTP1133</name>
+</rtept>
+<rtept lat="56.272972554613" lon="-4.57204475980687">
+<ele>140.714436427498</ele>
+<name>GTP1134</name>
+</rtept>
+<rtept lat="56.2723663389887" lon="-4.57111398298448">
+<ele>130.574921321255</ele>
+<name>GTP1135</name>
+</rtept>
+<rtept lat="56.2723607201075" lon="-4.57012984291673">
+<ele>162.017841547442</ele>
+<name>GTP1136</name>
+</rtept>
+<rtept lat="56.2712494537681" lon="-4.56841572729773">
+<ele>170.765442410183</ele>
+<name>GTP1137</name>
+</rtept>
+<rtept lat="56.2702131580047" lon="-4.56811203155882">
+<ele>148.825366854286</ele>
+<name>GTP1138</name>
+</rtept>
+<rtept lat="56.2676374562965" lon="-4.56662785530212">
+<ele>155.632160456467</ele>
+<name>GTP1139</name>
+</rtept>
+<rtept lat="56.2659461538981" lon="-4.56145606216162">
+<ele>160.003205003834</ele>
+<name>GTP1140</name>
+</rtept>
+<rtept lat="56.2632423295545" lon="-4.55734121730442">
+<ele>169.958568460178</ele>
+<name>GTP1141</name>
+</rtept>
+<rtept lat="56.2624075896294" lon="-4.55485016864994">
+<ele>182.624073270082</ele>
+<name>GTP1142</name>
+</rtept>
+<rtept lat="56.261319235377" lon="-4.55327898124362">
+<ele>159.713969326353</ele>
+<name>GTP1143</name>
+</rtept>
+<rtept lat="56.2602655749102" lon="-4.55002428670376">
+<ele>160.430589292049</ele>
+<name>GTP1144</name>
+</rtept>
+<rtept lat="56.2596842044255" lon="-4.54661384046546">
+<ele>147.960564086795</ele>
+<name>GTP1145</name>
+</rtept>
+<rtept lat="56.2596908962409" lon="-4.54502206483404">
+<ele>151.946219972563</ele>
+<name>GTP1146</name>
+</rtept>
+<rtept lat="56.2587796512736" lon="-4.54116841535763">
+<ele>140.500848804593</ele>
+<name>GTP1147</name>
+</rtept>
+<rtept lat="56.2578595168916" lon="-4.53647146816784">
+<ele>144.146322127628</ele>
+<name>GTP1148</name>
+</rtept>
+<rtept lat="56.2578676517762" lon="-4.53225752067369">
+<ele>142.971394763869</ele>
+<name>GTP1149</name>
+</rtept>
+<rtept lat="56.2576341518512" lon="-4.53093092917779">
+<ele>133.739906591728</ele>
+<name>GTP1150</name>
+</rtept>
+<rtept lat="56.2578056349626" lon="-4.53019301318198">
+<ele>130.259906591728</ele>
+<name>GTP1151</name>
+</rtept>
+<rtept lat="56.2582605707314" lon="-4.52961428203199">
+<ele>128.152152864501</ele>
+<name>GTP1152</name>
+</rtept>
+<rtept lat="56.2581837003955" lon="-4.5257224915787">
+<ele>119.750522243768</ele>
+<name>GTP1153</name>
+</rtept>
+<rtept lat="56.2586510235883" lon="-4.52453574887077">
+<ele>118.292936230153</ele>
+<name>GTP1154</name>
+</rtept>
+<rtept lat="56.2592265399955" lon="-4.52443317143418">
+<ele>120.76419735204</ele>
+<name>GTP1155</name>
+</rtept>
+<rtept lat="56.2604303720329" lon="-4.51908012220635">
+<ele>132.821715222394</ele>
+<name>GTP1156</name>
+</rtept>
+<rtept lat="56.260071951191" lon="-4.51619992762822">
+<ele>130.986381524086</ele>
+<name>GTP1157</name>
+</rtept>
+<rtept lat="56.2604314705147" lon="-4.51261758549624">
+<ele>131.735543135369</ele>
+<name>GTP1158</name>
+</rtept>
+<rtept lat="56.2606260266942" lon="-4.51202154233077">
+<ele>131.236228719354</ele>
+<name>GTP1159</name>
+</rtept>
+<rtept lat="56.2606882356493" lon="-4.50767036204565">
+<ele>126.770394704074</ele>
+<name>GTP1160</name>
+</rtept>
+<rtept lat="56.2613068635526" lon="-4.50415165350855">
+<ele>123.324808690464</ele>
+<name>GTP1161</name>
+</rtept>
+<rtept lat="56.2613286320996" lon="-4.50307595310341">
+<ele>119.179261121884</ele>
+<name>GTP1162</name>
+</rtept>
+<rtept lat="56.2617716026417" lon="-4.50179359188455">
+<ele>118.222581640208</ele>
+<name>GTP1163</name>
+</rtept>
+<rtept lat="56.2617668089793" lon="-4.49945168277855">
+<ele>118</ele>
+<name>GTP1164</name>
+</rtept>
+<rtept lat="56.2625519127508" lon="-4.4980042390014">
+<ele>120.456921381044</ele>
+<name>GTP1165</name>
+</rtept>
+<rtept lat="56.2635658032464" lon="-4.49296542137554">
+<ele>120.620305669209</ele>
+<name>GTP1166</name>
+</rtept>
+<rtept lat="56.2642448275131" lon="-4.49160455269513">
+<ele>120.893227050257</ele>
+<name>GTP1167</name>
+</rtept>
+<rtept lat="56.2642724597657" lon="-4.48893676323205">
+<ele>123.297872460312</ele>
+<name>GTP1168</name>
+</rtept>
+<rtept lat="56.2648300419821" lon="-4.48583500326368">
+<ele>135.65803130753</ele>
+<name>GTP1169</name>
+</rtept>
+<rtept lat="56.2643282247206" lon="-4.48486575186077">
+<ele>129.029103883976</ele>
+<name>GTP1170</name>
+</rtept>
+<rtept lat="56.2635876876625" lon="-4.48280387234242">
+<ele>140.231307278538</ele>
+<name>GTP1171</name>
+</rtept>
+<rtept lat="56.2625694361451" lon="-4.47899128917467">
+<ele>138.434785034728</ele>
+<name>GTP1172</name>
+</rtept>
+<rtept lat="56.2624162655805" lon="-4.47752957585364">
+<ele>141.112553551292</ele>
+<name>GTP1173</name>
+</rtept>
+<rtept lat="56.2612014367144" lon="-4.47571829522296">
+<ele>130.346942332447</ele>
+<name>GTP1174</name>
+</rtept>
+<rtept lat="56.2610416788852" lon="-4.47458403821053">
+<ele>136.484109926486</ele>
+<name>GTP1175</name>
+</rtept>
+<rtept lat="56.2586502834352" lon="-4.46773327267788">
+<ele>121.823980777484</ele>
+<name>GTP1176</name>
+</rtept>
+<rtept lat="56.2568088715995" lon="-4.46073138933086">
+<ele>118.603660259162</ele>
+<name>GTP1177</name>
+</rtept>
+<rtept lat="56.2564816316946" lon="-4.45883738484624">
+<ele>118.638212201148</ele>
+<name>GTP1178</name>
+</rtept>
+<rtept lat="56.257022674191" lon="-4.45653081541117">
+<ele>137.758814852571</ele>
+<name>GTP1179</name>
+</rtept>
+<rtept lat="56.2566442788106" lon="-4.45589783876357">
+<ele>145.693559534073</ele>
+<name>GTP1180</name>
+</rtept>
+<rtept lat="56.2556411340457" lon="-4.45522485756518">
+<ele>134.77065409708</ele>
+<name>GTP1181</name>
+</rtept>
+<rtept lat="56.2547012305396" lon="-4.45530512464509">
+<ele>127.407206098849</ele>
+<name>GTP1182</name>
+</rtept>
+<rtept lat="56.2541433941767" lon="-4.45452024306784">
+<ele>138.563150040603</ele>
+<name>GTP1183</name>
+</rtept>
+<rtept lat="56.2530751909169" lon="-4.45449866901552">
+<ele>123.91557283361</ele>
+<name>GTP1184</name>
+</rtept>
+<rtept lat="56.2526475045446" lon="-4.4537221636397">
+<ele>118.075044547331</ele>
+<name>GTP1185</name>
+</rtept>
+<rtept lat="56.2524884688931" lon="-4.45254148606003">
+<ele>119.985951079264</ele>
+<name>GTP1186</name>
+</rtept>
+<rtept lat="56.2528174385072" lon="-4.45040879722406">
+<ele>121.712566791099</ele>
+<name>GTP1187</name>
+</rtept>
+<rtept lat="56.2528675466952" lon="-4.44919467082101">
+<ele>120.932936230159</ele>
+<name>GTP1188</name>
+</rtept>
+<rtept lat="56.2524397025867" lon="-4.44710726542158">
+<ele>121.571861984608</ele>
+<name>GTP1189</name>
+</rtept>
+<rtept lat="56.2523140307667" lon="-4.44555419559413">
+<ele>134.123280284613</ele>
+<name>GTP1190</name>
+</rtept>
+<rtept lat="56.2515805324184" lon="-4.44574149944493">
+<ele>123.507418300003</ele>
+<name>GTP1191</name>
+</rtept>
+<rtept lat="56.2505010830284" lon="-4.44497037777042">
+<ele>124.565233092761</ele>
+<name>GTP1192</name>
+</rtept>
+<rtept lat="56.2502880527243" lon="-4.44387999846616">
+<ele>120.341320518324</ele>
+<name>GTP1193</name>
+</rtept>
+<rtept lat="56.2502710806503" lon="-4.44209986705137">
+<ele>121.85067073487</ele>
+<name>GTP1194</name>
+</rtept>
+<rtept lat="56.2490363416998" lon="-4.44127217282266">
+<ele>123.947099510574</ele>
+<name>GTP1195</name>
+</rtept>
+<rtept lat="56.2489191018339" lon="-4.4406092921853">
+<ele>118</ele>
+<name>GTP1196</name>
+</rtept>
+<rtept lat="56.2491338102976" lon="-4.44029524965292">
+<ele>118</ele>
+<name>GTP1197</name>
+</rtept>
+<rtept lat="56.2490833802782" lon="-4.43888757204269">
+<ele>127.411936170369</ele>
+<name>GTP1198</name>
+</rtept>
+<rtept lat="56.2476891837942" lon="-4.43556873533585">
+<ele>137.380341529512</ele>
+<name>GTP1199</name>
+</rtept>
+<rtept lat="56.2465884955161" lon="-4.43587332262058">
+<ele>136.9463074579</ele>
+<name>GTP1200</name>
+</rtept>
+<rtept lat="56.245900626968" lon="-4.43639136683375">
+<ele>152.538494394016</ele>
+<name>GTP1201</name>
+</rtept>
+<rtept lat="56.2445218785026" lon="-4.43625695963422">
+<ele>154.765813398838</ele>
+<name>GTP1202</name>
+</rtept>
+<rtept lat="56.2439687708196" lon="-4.4365494865678">
+<ele>160.391497433281</ele>
+<name>GTP1203</name>
+</rtept>
+<rtept lat="56.2435280771471" lon="-4.43642786944422">
+<ele>137.510497433329</ele>
+<name>GTP1204</name>
+</rtept>
+<rtept lat="56.2431253841997" lon="-4.43570016182297">
+<ele>127.262709299475</ele>
+<name>GTP1205</name>
+</rtept>
+<rtept lat="56.2424540878795" lon="-4.43537668272762">
+<ele>139.659473323035</ele>
+<name>GTP1206</name>
+</rtept>
+<rtept lat="56.2419790767059" lon="-4.43567416714705">
+<ele>139.192461118412</ele>
+<name>GTP1207</name>
+</rtept>
+<rtept lat="56.2413831132537" lon="-4.43549590070321">
+<ele>147.246666421258</ele>
+<name>GTP1208</name>
+</rtept>
+<rtept lat="56.240799372402" lon="-4.43602049758724">
+<ele>153.102997176123</ele>
+<name>GTP1209</name>
+</rtept>
+<rtept lat="56.2394561108885" lon="-4.43673084893702">
+<ele>126.123940603554</ele>
+<name>GTP1210</name>
+</rtept>
+<rtept lat="56.2383560911028" lon="-4.43567811563736">
+<ele>131.019681150794</ele>
+<name>GTP1211</name>
+</rtept>
+<rtept lat="56.2378054848416" lon="-4.43451991045667">
+<ele>125.599286446702</ele>
+<name>GTP1212</name>
+</rtept>
+<rtept lat="56.2372536602361" lon="-4.43209803324026">
+<ele>126.814356199265</ele>
+<name>GTP1213</name>
+</rtept>
+<rtept lat="56.2374505863196" lon="-4.43136169858283">
+<ele>138.596101060104</ele>
+<name>GTP1214</name>
+</rtept>
+<rtept lat="56.2370922624536" lon="-4.42970095728529">
+<ele>155.27929692241</ele>
+<name>GTP1215</name>
+</rtept>
+<rtept lat="56.2360982935517" lon="-4.43088706610247">
+<ele>133.706562477493</ele>
+<name>GTP1216</name>
+</rtept>
+<rtept lat="56.235140148529" lon="-4.42933525558809">
+<ele>141.473912694025</ele>
+<name>GTP1217</name>
+</rtept>
+<rtept lat="56.2337224589252" lon="-4.42903247649899">
+<ele>139.365127599478</ele>
+<name>GTP1218</name>
+</rtept>
+</rte>
+</gpx>

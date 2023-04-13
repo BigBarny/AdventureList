@@ -1,0 +1,906 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Esha Ness and Tangwick circuit, Northmavine</name>
+<rtept lat="60.4896540852586" lon="-1.62644161754305">
+<ele>61.3891739457102</ele>
+<name>EN001</name>
+</rtept>
+<rtept lat="60.4901533320834" lon="-1.6258134966151">
+<ele>58.2255276850658</ele>
+<name>EN002</name>
+</rtept>
+<rtept lat="60.490119" lon="-1.624936">
+<ele>50.0197727827297</ele>
+<name>EN003</name>
+</rtept>
+<rtept lat="60.490373" lon="-1.623746">
+<ele>53.0194465020062</ele>
+<name>EN004</name>
+</rtept>
+<rtept lat="60.490464" lon="-1.621986">
+<ele>48.019532786877</ele>
+<name>EN005</name>
+</rtept>
+<rtept lat="60.490395" lon="-1.621614">
+<ele>50.0197296292244</ele>
+<name>EN006</name>
+</rtept>
+<rtept lat="60.490572" lon="-1.620681">
+<ele>44.0195067068417</ele>
+<name>EN007</name>
+</rtept>
+<rtept lat="60.490485" lon="-1.619788">
+<ele>50.0198242427708</ele>
+<name>EN008</name>
+</rtept>
+<rtept lat="60.49067" lon="-1.619074">
+<ele>46.0195438149583</ele>
+<name>EN009</name>
+</rtept>
+<rtept lat="60.490829" lon="-1.619038">
+<ele>47.0192171476501</ele>
+<name>EN010</name>
+</rtept>
+<rtept lat="60.491238" lon="-1.620918">
+<ele>46.0180972957517</ele>
+<name>EN011</name>
+</rtept>
+<rtept lat="60.491368" lon="-1.622191">
+<ele>49.0176527801103</ele>
+<name>EN012</name>
+</rtept>
+<rtept lat="60.491053" lon="-1.623658">
+<ele>56.0180861226942</ele>
+<name>EN013</name>
+</rtept>
+<rtept lat="60.491131" lon="-1.623946">
+<ele>58.0178884058998</ele>
+<name>EN014</name>
+</rtept>
+<rtept lat="60.491356" lon="-1.623931">
+<ele>57.0174364371256</ele>
+<name>EN015</name>
+</rtept>
+<rtept lat="60.491956" lon="-1.622261">
+<ele>51.0164409515682</ele>
+<name>EN016</name>
+</rtept>
+<rtept lat="60.492712" lon="-1.621967">
+<ele>51.0149300033268</ele>
+<name>EN017</name>
+</rtept>
+<rtept lat="60.493191" lon="-1.621392">
+<ele>46.0140103142813</ele>
+<name>EN018</name>
+</rtept>
+<rtept lat="60.493709" lon="-1.621109">
+<ele>36.0129739568262</ele>
+<name>EN019</name>
+</rtept>
+<rtept lat="60.493841" lon="-1.620691">
+<ele>38.0127436280651</ele>
+<name>EN020</name>
+</rtept>
+<rtept lat="60.493936" lon="-1.61978">
+<ele>40.0126347182638</ele>
+<name>EN021</name>
+</rtept>
+<rtept lat="60.494169" lon="-1.619639">
+<ele>36.0121625396915</ele>
+<name>EN022</name>
+</rtept>
+<rtept lat="60.494728" lon="-1.61968">
+<ele>32.0109922082141</ele>
+<name>EN023</name>
+</rtept>
+<rtept lat="60.495632" lon="-1.618961">
+<ele>23.0091585645085</ele>
+<name>EN024</name>
+</rtept>
+<rtept lat="60.496008" lon="-1.617887">
+<ele>32.0084385725783</ele>
+<name>EN025</name>
+</rtept>
+<rtept lat="60.496324" lon="-1.617872">
+<ele>33.0077713338324</ele>
+<name>EN026</name>
+</rtept>
+<rtept lat="60.496371" lon="-1.619388">
+<ele>28.0075844617884</ele>
+<name>EN027</name>
+</rtept>
+<rtept lat="60.496456" lon="-1.619656">
+<ele>28.0073907478139</ele>
+<name>EN028</name>
+</rtept>
+<rtept lat="60.496544" lon="-1.619724">
+<ele>29.0072037843218</ele>
+<name>EN029</name>
+</rtept>
+<rtept lat="60.496839" lon="-1.619413">
+<ele>35.00660464663</ele>
+<name>EN030</name>
+</rtept>
+<rtept lat="60.497412" lon="-1.618517">
+<ele>39.0054452915418</ele>
+<name>EN031</name>
+</rtept>
+<rtept lat="60.497445" lon="-1.618354">
+<ele>40.0053808856199</ele>
+<name>EN032</name>
+</rtept>
+<rtept lat="60.497344" lon="-1.617906">
+<ele>38.0056124610646</ele>
+<name>EN033</name>
+</rtept>
+<rtept lat="60.4974" lon="-1.617272">
+<ele>36.0055213748737</ele>
+<name>EN034</name>
+</rtept>
+<rtept lat="60.498006" lon="-1.616604">
+<ele>30.0042560306689</ele>
+<name>EN035</name>
+</rtept>
+<rtept lat="60.498103" lon="-1.615357">
+<ele>28.0040865016737</ele>
+<name>EN036</name>
+</rtept>
+<rtept lat="60.498046" lon="-1.615034">
+<ele>27.0042196574399</ele>
+<name>EN037</name>
+</rtept>
+<rtept lat="60.497911" lon="-1.614884">
+<ele>29.0045158428271</ele>
+<name>EN038</name>
+</rtept>
+<rtept lat="60.498164" lon="-1.615269">
+<ele>30.0039583206511</ele>
+<name>EN039</name>
+</rtept>
+<rtept lat="60.498466" lon="-1.615349">
+<ele>31.0033053385996</ele>
+<name>EN040</name>
+</rtept>
+<rtept lat="60.499539" lon="-1.614929">
+<ele>35.0009955932381</ele>
+<name>EN041</name>
+</rtept>
+<rtept lat="60.500545" lon="-1.614299">
+<ele>32</ele>
+<name>EN042</name>
+</rtept>
+<rtept lat="60.500676" lon="-1.614506">
+<ele>34</ele>
+<name>EN043</name>
+</rtept>
+<rtept lat="60.501132" lon="-1.614614">
+<ele>32</ele>
+<name>EN044</name>
+</rtept>
+<rtept lat="60.501707" lon="-1.614089">
+<ele>22</ele>
+<name>EN045</name>
+</rtept>
+<rtept lat="60.50232" lon="-1.614076">
+<ele>23</ele>
+<name>EN046</name>
+</rtept>
+<rtept lat="60.503261" lon="-1.613712">
+<ele>25</ele>
+<name>EN047</name>
+</rtept>
+<rtept lat="60.503726" lon="-1.613358">
+<ele>19</ele>
+<name>EN048</name>
+</rtept>
+<rtept lat="60.504035" lon="-1.612636">
+<ele>24</ele>
+<name>EN049</name>
+</rtept>
+<rtept lat="60.505606" lon="-1.612709">
+<ele>26</ele>
+<name>EN050</name>
+</rtept>
+<rtept lat="60.507065" lon="-1.611998">
+<ele>16</ele>
+<name>EN051</name>
+</rtept>
+<rtept lat="60.507385" lon="-1.611516">
+<ele>20</ele>
+<name>EN052</name>
+</rtept>
+<rtept lat="60.507463" lon="-1.611041">
+<ele>19</ele>
+<name>EN053</name>
+</rtept>
+<rtept lat="60.50748" lon="-1.610576">
+<ele>13</ele>
+<name>EN054</name>
+</rtept>
+<rtept lat="60.507385" lon="-1.610122">
+<ele>15</ele>
+<name>EN055</name>
+</rtept>
+<rtept lat="60.507604" lon="-1.608402">
+<ele>11</ele>
+<name>EN056</name>
+</rtept>
+<rtept lat="60.507648" lon="-1.608265">
+<ele>11</ele>
+<name>EN057</name>
+</rtept>
+<rtept lat="60.507953" lon="-1.608242">
+<ele>11</ele>
+<name>EN058</name>
+</rtept>
+<rtept lat="60.508269" lon="-1.607679">
+<ele>21</ele>
+<name>EN059</name>
+</rtept>
+<rtept lat="60.508174" lon="-1.606707">
+<ele>13</ele>
+<name>EN060</name>
+</rtept>
+<rtept lat="60.508005" lon="-1.605925">
+<ele>8</ele>
+<name>EN061</name>
+</rtept>
+<rtept lat="60.507993" lon="-1.604998">
+<ele>8</ele>
+<name>EN062</name>
+</rtept>
+<rtept lat="60.50811" lon="-1.604546">
+<ele>7</ele>
+<name>EN063</name>
+</rtept>
+<rtept lat="60.508108" lon="-1.603724">
+<ele>11</ele>
+<name>EN064</name>
+</rtept>
+<rtept lat="60.508384" lon="-1.602456">
+<ele>18</ele>
+<name>EN065</name>
+</rtept>
+<rtept lat="60.508092" lon="-1.600613">
+<ele>23</ele>
+<name>EN066</name>
+</rtept>
+<rtept lat="60.507761" lon="-1.599635">
+<ele>31</ele>
+<name>EN067</name>
+</rtept>
+<rtept lat="60.506941" lon="-1.599003">
+<ele>33</ele>
+<name>EN068</name>
+</rtept>
+<rtept lat="60.506802" lon="-1.598449">
+<ele>39</ele>
+<name>EN069</name>
+</rtept>
+<rtept lat="60.505723" lon="-1.596759">
+<ele>21</ele>
+<name>EN070</name>
+</rtept>
+<rtept lat="60.505618" lon="-1.595941">
+<ele>16</ele>
+<name>EN071</name>
+</rtept>
+<rtept lat="60.505217" lon="-1.595512">
+<ele>15</ele>
+<name>EN072</name>
+</rtept>
+<rtept lat="60.505269" lon="-1.595177">
+<ele>16</ele>
+<name>EN073</name>
+</rtept>
+<rtept lat="60.505635" lon="-1.594368">
+<ele>21</ele>
+<name>EN074</name>
+</rtept>
+<rtept lat="60.506319" lon="-1.593863">
+<ele>32</ele>
+<name>EN075</name>
+</rtept>
+<rtept lat="60.506923" lon="-1.593002">
+<ele>27</ele>
+<name>EN076</name>
+</rtept>
+<rtept lat="60.507011" lon="-1.592742">
+<ele>29</ele>
+<name>EN077</name>
+</rtept>
+<rtept lat="60.506896" lon="-1.591833">
+<ele>29</ele>
+<name>EN078</name>
+</rtept>
+<rtept lat="60.506192" lon="-1.591003">
+<ele>30</ele>
+<name>EN079</name>
+</rtept>
+<rtept lat="60.505622" lon="-1.590849">
+<ele>31</ele>
+<name>EN080</name>
+</rtept>
+<rtept lat="60.505277" lon="-1.590458">
+<ele>36</ele>
+<name>EN081</name>
+</rtept>
+<rtept lat="60.504412" lon="-1.590025">
+<ele>33</ele>
+<name>EN082</name>
+</rtept>
+<rtept lat="60.504128" lon="-1.590351">
+<ele>35</ele>
+<name>EN083</name>
+</rtept>
+<rtept lat="60.503849" lon="-1.590941">
+<ele>42</ele>
+<name>EN084</name>
+</rtept>
+<rtept lat="60.503345" lon="-1.592564">
+<ele>38</ele>
+<name>EN085</name>
+</rtept>
+<rtept lat="60.503212" lon="-1.592758">
+<ele>40</ele>
+<name>EN086</name>
+</rtept>
+<rtept lat="60.501379" lon="-1.593329">
+<ele>55</ele>
+<name>EN087</name>
+</rtept>
+<rtept lat="60.501248" lon="-1.593529">
+<ele>54</ele>
+<name>EN088</name>
+</rtept>
+<rtept lat="60.500935" lon="-1.594686">
+<ele>55</ele>
+<name>EN089</name>
+</rtept>
+<rtept lat="60.50073" lon="-1.594951">
+<ele>55</ele>
+<name>EN090</name>
+</rtept>
+<rtept lat="60.500275" lon="-1.595018">
+<ele>62</ele>
+<name>EN091</name>
+</rtept>
+<rtept lat="60.499671" lon="-1.59454">
+<ele>57.0008187640279</ele>
+<name>EN092</name>
+</rtept>
+<rtept lat="60.498004" lon="-1.592277">
+<ele>50.005036024957</ele>
+<name>EN093</name>
+</rtept>
+<rtept lat="60.497493" lon="-1.591147">
+<ele>46.0063707633829</ele>
+<name>EN094</name>
+</rtept>
+<rtept lat="60.497268" lon="-1.590097">
+<ele>43.0069896838701</ele>
+<name>EN095</name>
+</rtept>
+<rtept lat="60.496566" lon="-1.588971">
+<ele>45.0088485816475</ele>
+<name>EN096</name>
+</rtept>
+<rtept lat="60.496387" lon="-1.588205">
+<ele>45.0093541337787</ele>
+<name>EN097</name>
+</rtept>
+<rtept lat="60.496019" lon="-1.585417">
+<ele>37.0104824146449</ele>
+<name>EN098</name>
+</rtept>
+<rtept lat="60.495628" lon="-1.583598">
+<ele>34.0116405632615</ele>
+<name>EN099</name>
+</rtept>
+<rtept lat="60.495505" lon="-1.581913">
+<ele>29.0120888902463</ele>
+<name>EN100</name>
+</rtept>
+<rtept lat="60.495075" lon="-1.580275">
+<ele>25.0133734294901</ele>
+<name>EN101</name>
+</rtept>
+<rtept lat="60.494611" lon="-1.579096">
+<ele>23.0147373508616</ele>
+<name>EN102</name>
+</rtept>
+<rtept lat="60.494307" lon="-1.578565">
+<ele>23.0156169832451</ele>
+<name>EN103</name>
+</rtept>
+<rtept lat="60.493512" lon="-1.577929">
+<ele>18.0178621131638</ele>
+<name>EN104</name>
+</rtept>
+<rtept lat="60.4911" lon="-1.576622">
+<ele>23.0246889838504</ele>
+<name>EN105</name>
+</rtept>
+<rtept lat="60.491103" lon="-1.575994">
+<ele>21.0247703419221</ele>
+<name>EN106</name>
+</rtept>
+<rtept lat="60.491381" lon="-1.574276">
+<ele>27.0242317574412</ele>
+<name>EN107</name>
+</rtept>
+<rtept lat="60.491368" lon="-1.573969">
+<ele>26.0243125609147</ele>
+<name>EN108</name>
+</rtept>
+<rtept lat="60.488647" lon="-1.574794">
+<ele>28.0318249413841</ele>
+<name>EN109</name>
+</rtept>
+<rtept lat="60.487654" lon="-1.575489">
+<ele>23.0344718255763</ele>
+<name>EN110</name>
+</rtept>
+<rtept lat="60.486417" lon="-1.576729">
+<ele>24.0376564262651</ele>
+<name>EN111</name>
+</rtept>
+<rtept lat="60.485126" lon="-1.577189">
+<ele>20.0411258338621</ele>
+<name>EN112</name>
+</rtept>
+<rtept lat="60.484607" lon="-1.577673">
+<ele>16.0424427792046</ele>
+<name>EN113</name>
+</rtept>
+<rtept lat="60.483369" lon="-1.578419">
+<ele>22.0456557576007</ele>
+<name>EN114</name>
+</rtept>
+<rtept lat="60.482447" lon="-1.578544">
+<ele>13.0481541004877</ele>
+<name>EN115</name>
+</rtept>
+<rtept lat="60.48195" lon="-1.579809">
+<ele>6.04915025146873</ele>
+<name>EN116</name>
+</rtept>
+<rtept lat="60.48175" lon="-1.581066">
+<ele>0.0493284401856968</ele>
+<name>EN117</name>
+</rtept>
+<rtept lat="60.481741" lon="-1.58155">
+<ele>-2.95078721508384</ele>
+<name>EN118</name>
+</rtept>
+<rtept lat="60.481961" lon="-1.58282">
+<ele>-0.951748137008216</ele>
+<name>EN119</name>
+</rtept>
+<rtept lat="60.481887" lon="-1.583885">
+<ele>0.0481405884400274</ele>
+<name>EN120</name>
+</rtept>
+<rtept lat="60.48194" lon="-1.58453">
+<ele>3.0478145308547</ele>
+<name>EN121</name>
+</rtept>
+<rtept lat="60.481858" lon="-1.585161">
+<ele>4.04784835089712</ele>
+<name>EN122</name>
+</rtept>
+<rtept lat="60.481711" lon="-1.585319">
+<ele>8.04818897757668</ele>
+<name>EN123</name>
+</rtept>
+<rtept lat="60.481072" lon="-1.585365">
+<ele>2.04985835167122</ele>
+<name>EN124</name>
+</rtept>
+<rtept lat="60.481006" lon="-1.585664">
+<ele>4.04994331233837</ele>
+<name>EN125</name>
+</rtept>
+<rtept lat="60.480805" lon="-1.585927">
+<ele>0.0503902656797734</ele>
+<name>EN126</name>
+</rtept>
+<rtept lat="60.48098" lon="-1.586477">
+<ele>7.04976411462567</ele>
+<name>EN127</name>
+</rtept>
+<rtept lat="60.480909" lon="-1.58708">
+<ele>8.04976416427741</ele>
+<name>EN128</name>
+</rtept>
+<rtept lat="60.480559" lon="-1.587698">
+<ele>9.0504845744457</ele>
+<name>EN129</name>
+</rtept>
+<rtept lat="60.479918" lon="-1.588308">
+<ele>9.05195393805273</ele>
+<name>EN130</name>
+</rtept>
+<rtept lat="60.479829" lon="-1.588547">
+<ele>9.05210557808572</ele>
+<name>EN131</name>
+</rtept>
+<rtept lat="60.479801" lon="-1.589033">
+<ele>8.05202163087965</ele>
+<name>EN132</name>
+</rtept>
+<rtept lat="60.479519" lon="-1.58909">
+<ele>5.05272821849497</ele>
+<name>EN133</name>
+</rtept>
+<rtept lat="60.479117" lon="-1.589877">
+<ele>15.0535010096595</ele>
+<name>EN134</name>
+</rtept>
+<rtept lat="60.478952" lon="-1.589933">
+<ele>15.0539064490096</ele>
+<name>EN135</name>
+</rtept>
+<rtept lat="60.478841" lon="-1.589705">
+<ele>12.0542671397666</ele>
+<name>EN136</name>
+</rtept>
+<rtept lat="60.478761" lon="-1.589799">
+<ele>12.0544400316098</ele>
+<name>EN137</name>
+</rtept>
+<rtept lat="60.47851" lon="-1.590631">
+<ele>12.0547964642812</ele>
+<name>EN138</name>
+</rtept>
+<rtept lat="60.478818" lon="-1.591331">
+<ele>13.0537747687241</ele>
+<name>EN139</name>
+</rtept>
+<rtept lat="60.47874" lon="-1.591966">
+<ele>10.0537578185309</ele>
+<name>EN140</name>
+</rtept>
+<rtept lat="60.478261" lon="-1.592074">
+<ele>9.05493075000252</ele>
+<name>EN141</name>
+</rtept>
+<rtept lat="60.477946" lon="-1.592364">
+<ele>10.0556237043704</ele>
+<name>EN142</name>
+</rtept>
+<rtept lat="60.47763" lon="-1.592225">
+<ele>5.05646989454195</ele>
+<name>EN143</name>
+</rtept>
+<rtept lat="60.477466" lon="-1.592538">
+<ele>9.05677180327859</ele>
+<name>EN144</name>
+</rtept>
+<rtept lat="60.47751" lon="-1.592685">
+<ele>10.0566072516065</ele>
+<name>EN145</name>
+</rtept>
+<rtept lat="60.477659" lon="-1.592677">
+<ele>11.0562362591099</ele>
+<name>EN146</name>
+</rtept>
+<rtept lat="60.477675" lon="-1.592813">
+<ele>11.0561468545787</ele>
+<name>EN147</name>
+</rtept>
+<rtept lat="60.477492" lon="-1.593906">
+<ele>7.0562144988961</ele>
+<name>EN148</name>
+</rtept>
+<rtept lat="60.477321" lon="-1.594451">
+<ele>12.0564438836634</ele>
+<name>EN149</name>
+</rtept>
+<rtept lat="60.477293" lon="-1.595399">
+<ele>7.05616923969404</ele>
+<name>EN150</name>
+</rtept>
+<rtept lat="60.477899" lon="-1.595912">
+<ele>9.0544882921025</ele>
+<name>EN151</name>
+</rtept>
+<rtept lat="60.478928" lon="-1.597178">
+<ele>13.0515244293237</ele>
+<name>EN152</name>
+</rtept>
+<rtept lat="60.479387" lon="-1.598575">
+<ele>12.0499402719705</ele>
+<name>EN153</name>
+</rtept>
+<rtept lat="60.479998" lon="-1.601201">
+<ele>14.0476210423851</ele>
+<name>EN154</name>
+</rtept>
+<rtept lat="60.48002" lon="-1.601859">
+<ele>5.04735882383099</ele>
+<name>EN155</name>
+</rtept>
+<rtept lat="60.479134" lon="-1.603064">
+<ele>8.04905430044519</ele>
+<name>EN156</name>
+</rtept>
+<rtept lat="60.478995" lon="-1.603486">
+<ele>7.0492409679031</ele>
+<name>EN157</name>
+</rtept>
+<rtept lat="60.478977" lon="-1.60396">
+<ele>5.04912264282439</ele>
+<name>EN158</name>
+</rtept>
+<rtept lat="60.478855" lon="-1.604208">
+<ele>4.0493246514387</ele>
+<name>EN159</name>
+</rtept>
+<rtept lat="60.478985" lon="-1.605152">
+<ele>5.04870423537066</ele>
+<name>EN160</name>
+</rtept>
+<rtept lat="60.479206" lon="-1.606022">
+<ele>10.0479028182702</ele>
+<name>EN161</name>
+</rtept>
+<rtept lat="60.478853" lon="-1.606954">
+<ele>12.0483996012566</ele>
+<name>EN162</name>
+</rtept>
+<rtept lat="60.478442" lon="-1.607424">
+<ele>14.049178800943</ele>
+<name>EN163</name>
+</rtept>
+<rtept lat="60.478201" lon="-1.607918">
+<ele>15.0495554452236</ele>
+<name>EN164</name>
+</rtept>
+<rtept lat="60.477559" lon="-1.607677">
+<ele>22.0511025241571</ele>
+<name>EN165</name>
+</rtept>
+<rtept lat="60.477183" lon="-1.607347">
+<ele>29.0520777240828</ele>
+<name>EN166</name>
+</rtept>
+<rtept lat="60.476394" lon="-1.608132">
+<ele>18.0535837250805</ele>
+<name>EN167</name>
+</rtept>
+<rtept lat="60.476254" lon="-1.607736">
+<ele>19.0540521029684</ele>
+<name>EN168</name>
+</rtept>
+<rtept lat="60.475951" lon="-1.607759">
+<ele>15.0547321638503</ele>
+<name>EN169</name>
+</rtept>
+<rtept lat="60.475614" lon="-1.607316">
+<ele>17.0556730146064</ele>
+<name>EN170</name>
+</rtept>
+<rtept lat="60.47545" lon="-1.606588">
+<ele>17.0563312727532</ele>
+<name>EN171</name>
+</rtept>
+<rtept lat="60.475142" lon="-1.606455">
+<ele>13.0570926625541</ele>
+<name>EN172</name>
+</rtept>
+<rtept lat="60.475109" lon="-1.606289">
+<ele>12.05723419836</ele>
+<name>EN173</name>
+</rtept>
+<rtept lat="60.474951" lon="-1.606314">
+<ele>12.057586964602</ele>
+<name>EN174</name>
+</rtept>
+<rtept lat="60.474792" lon="-1.607084">
+<ele>7.05764219398095</ele>
+<name>EN175</name>
+</rtept>
+<rtept lat="60.47482" lon="-1.6074">
+<ele>5.05745021700324</ele>
+<name>EN176</name>
+</rtept>
+<rtept lat="60.474718" lon="-1.607686">
+<ele>5.05756769003852</ele>
+<name>EN177</name>
+</rtept>
+<rtept lat="60.474736" lon="-1.610558">
+<ele>9.05636523925531</ele>
+<name>EN178</name>
+</rtept>
+<rtept lat="60.474891" lon="-1.610894">
+<ele>8.05588461012103</ele>
+<name>EN179</name>
+</rtept>
+<rtept lat="60.475347" lon="-1.611302">
+<ele>1.05471007825608</ele>
+<name>EN180</name>
+</rtept>
+<rtept lat="60.475663" lon="-1.611366">
+<ele>1.05398264865411</ele>
+<name>EN181</name>
+</rtept>
+<rtept lat="60.475981" lon="-1.611818">
+<ele>3.05310355126004</ele>
+<name>EN182</name>
+</rtept>
+<rtept lat="60.476775" lon="-1.611365">
+<ele>1.05151630075716</ele>
+<name>EN183</name>
+</rtept>
+<rtept lat="60.477008" lon="-1.611376">
+<ele>4.05099505708481</ele>
+<name>EN184</name>
+</rtept>
+<rtept lat="60.477231" lon="-1.611588">
+<ele>2.05042333686654</ele>
+<name>EN185</name>
+</rtept>
+<rtept lat="60.477492" lon="-1.612242">
+<ele>1.04961017073352</ele>
+<name>EN186</name>
+</rtept>
+<rtept lat="60.477569" lon="-1.613069">
+<ele>10.0491442860096</ele>
+<name>EN187</name>
+</rtept>
+<rtept lat="60.477682" lon="-1.613475">
+<ele>9.04875052217111</ele>
+<name>EN188</name>
+</rtept>
+<rtept lat="60.478095" lon="-1.614478">
+<ele>8.04749872655159</ele>
+<name>EN189</name>
+</rtept>
+<rtept lat="60.478196" lon="-1.61541">
+<ele>14.0469528170411</ele>
+<name>EN190</name>
+</rtept>
+<rtept lat="60.478387" lon="-1.616126">
+<ele>15.046295760913</ele>
+<name>EN191</name>
+</rtept>
+<rtept lat="60.478687" lon="-1.616692">
+<ele>12.0454593904678</ele>
+<name>EN192</name>
+</rtept>
+<rtept lat="60.478768" lon="-1.616761">
+<ele>12.0452625549859</ele>
+<name>EN193</name>
+</rtept>
+<rtept lat="60.478899" lon="-1.616567">
+<ele>12.0450484428754</ele>
+<name>EN194</name>
+</rtept>
+<rtept lat="60.479064" lon="-1.616552">
+<ele>9.04470261156597</ele>
+<name>EN195</name>
+</rtept>
+<rtept lat="60.479302" lon="-1.616696">
+<ele>14.0441450154448</ele>
+<name>EN196</name>
+</rtept>
+<rtept lat="60.480105" lon="-1.616708">
+<ele>10.0424306063379</ele>
+<name>EN197</name>
+</rtept>
+<rtept lat="60.480807" lon="-1.617054">
+<ele>5.04082571491948</ele>
+<name>EN198</name>
+</rtept>
+<rtept lat="60.480977" lon="-1.618339">
+<ele>9.04007408152725</ele>
+<name>EN199</name>
+</rtept>
+<rtept lat="60.480912" lon="-1.61926">
+<ele>15.0399285969854</ele>
+<name>EN200</name>
+</rtept>
+<rtept lat="60.481225" lon="-1.621391">
+<ele>18.0386346095205</ele>
+<name>EN201</name>
+</rtept>
+<rtept lat="60.481192" lon="-1.622606">
+<ele>11.0383371000106</ele>
+<name>EN202</name>
+</rtept>
+<rtept lat="60.481301" lon="-1.623237">
+<ele>15.0379257104476</ele>
+<name>EN203</name>
+</rtept>
+<rtept lat="60.481239" lon="-1.624051">
+<ele>13.0378060635135</ele>
+<name>EN204</name>
+</rtept>
+<rtept lat="60.480959" lon="-1.624826">
+<ele>15.0381354846671</ele>
+<name>EN205</name>
+</rtept>
+<rtept lat="60.480988" lon="-1.625134">
+<ele>12.0379833472113</ele>
+<name>EN206</name>
+</rtept>
+<rtept lat="60.481191" lon="-1.62598">
+<ele>15.0373224646307</ele>
+<name>EN207</name>
+</rtept>
+<rtept lat="60.4819" lon="-1.627361">
+<ele>15.0355156975883</ele>
+<name>EN208</name>
+</rtept>
+<rtept lat="60.481918" lon="-1.628185">
+<ele>17.0352429525561</ele>
+<name>EN209</name>
+</rtept>
+<rtept lat="60.48205" lon="-1.628633">
+<ele>19.0348565126827</ele>
+<name>EN210</name>
+</rtept>
+<rtept lat="60.482194" lon="-1.628813">
+<ele>21.034524742638</ele>
+<name>EN211</name>
+</rtept>
+<rtept lat="60.482998" lon="-1.628899">
+<ele>21.0329443524584</ele>
+<name>EN212</name>
+</rtept>
+<rtept lat="60.484148" lon="-1.629583">
+<ele>25.030540570683</ele>
+<name>EN213</name>
+</rtept>
+<rtept lat="60.484941" lon="-1.630413">
+<ele>31.0288147125091</ele>
+<name>EN214</name>
+</rtept>
+<rtept lat="60.485264" lon="-1.63038">
+<ele>36.0282034005766</ele>
+<name>EN215</name>
+</rtept>
+<rtept lat="60.485728" lon="-1.63078">
+<ele>42.0272244639523</ele>
+<name>EN216</name>
+</rtept>
+<rtept lat="60.486113" lon="-1.630703">
+<ele>46.0265067818658</ele>
+<name>EN217</name>
+</rtept>
+<rtept lat="60.486645" lon="-1.630249">
+<ele>47.0255875377422</ele>
+<name>EN218</name>
+</rtept>
+<rtept lat="60.487891" lon="-1.628162">
+<ele>46.023606040872</ele>
+<name>EN219</name>
+</rtept>
+<rtept lat="60.488602" lon="-1.62805">
+<ele>51.0222408334454</ele>
+<name>EN220</name>
+</rtept>
+<rtept lat="60.489504" lon="-1.627357">
+<ele>58.0205970942062</ele>
+<name>EN221</name>
+</rtept>
+<rtept lat="60.4900351514688" lon="-1.62689582872193">
+<ele>45.0992921309055</ele>
+<name>EN222</name>
+</rtept>
+<rtept lat="60.4899925026906" lon="-1.62609378082371">
+<ele>58.8726137888214</ele>
+<name>EN223</name>
+</rtept>
+<rtept lat="60.4896782350367" lon="-1.62640858348561">
+<ele>61.5691211595477</ele>
+<name>EN224</name>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,854 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Blackwater Reservoir, Kinlochleven</name>
+<rtept lat="56.713612" lon="-4.962119">
+<ele>15.178223</ele>
+<name>BWR001</name>
+</rtept>
+<rtept lat="56.713823" lon="-4.96234">
+<ele>16.297241</ele>
+<name>BWR002</name>
+</rtept>
+<rtept lat="56.713597" lon="-4.962876">
+<ele>13.900002</ele>
+<name>BWR003</name>
+</rtept>
+<rtept lat="56.713778" lon="-4.962715">
+<ele>21.330566</ele>
+<name>BWR004</name>
+</rtept>
+<rtept lat="56.71471" lon="-4.963224">
+<ele>12.054688</ele>
+<name>BWR005</name>
+</rtept>
+<rtept lat="56.71462" lon="-4.96271">
+<ele>9.771484</ele>
+<name>BWR006</name>
+</rtept>
+<rtept lat="56.714829" lon="-4.961158">
+<ele>19.626221</ele>
+<name>BWR007</name>
+</rtept>
+<rtept lat="56.715168" lon="-4.960547">
+<ele>9.816772</ele>
+<name>BWR008</name>
+</rtept>
+<rtept lat="56.715118" lon="-4.959968">
+<ele>13.840637</ele>
+<name>BWR009</name>
+</rtept>
+<rtept lat="56.715287" lon="-4.959536">
+<ele>22.18927</ele>
+<name>BWR010</name>
+</rtept>
+<rtept lat="56.715022" lon="-4.958882">
+<ele>16.955383</ele>
+<name>BWR011</name>
+</rtept>
+<rtept lat="56.713355" lon="-4.956214">
+<ele>14.657593</ele>
+<name>BWR012</name>
+</rtept>
+<rtept lat="56.713445" lon="-4.954496">
+<ele>30.630859</ele>
+<name>BWR013</name>
+</rtept>
+<rtept lat="56.713803" lon="-4.954181">
+<ele>22.63501</ele>
+<name>BWR014</name>
+</rtept>
+<rtept lat="56.714131" lon="-4.953234">
+<ele>43.342163</ele>
+<name>BWR015</name>
+</rtept>
+<rtept lat="56.713891" lon="-4.952282">
+<ele>52.611328</ele>
+<name>BWR016</name>
+</rtept>
+<rtept lat="56.713938" lon="-4.950408">
+<ele>52.286926</ele>
+<name>BWR017</name>
+</rtept>
+<rtept lat="56.713564" lon="-4.949096">
+<ele>54.182861</ele>
+<name>BWR018</name>
+</rtept>
+<rtept lat="56.712894" lon="-4.948205">
+<ele>61.571655</ele>
+<name>BWR019</name>
+</rtept>
+<rtept lat="56.712112" lon="-4.946599">
+<ele>61.864502</ele>
+<name>BWR020</name>
+</rtept>
+<rtept lat="56.712009" lon="-4.944961">
+<ele>66.699585</ele>
+<name>BWR021</name>
+</rtept>
+<rtept lat="56.711869" lon="-4.944466">
+<ele>60.69812</ele>
+<name>BWR022</name>
+</rtept>
+<rtept lat="56.711874" lon="-4.943345">
+<ele>55.402039</ele>
+<name>BWR023</name>
+</rtept>
+<rtept lat="56.71152" lon="-4.942836">
+<ele>51.685303</ele>
+<name>BWR024</name>
+</rtept>
+<rtept lat="56.71122" lon="-4.94147">
+<ele>60.763733</ele>
+<name>BWR025</name>
+</rtept>
+<rtept lat="56.71" lon="-4.938654">
+<ele>72.42688</ele>
+<name>BWR026</name>
+</rtept>
+<rtept lat="56.709507" lon="-4.937954">
+<ele>67.797424</ele>
+<name>BWR027</name>
+</rtept>
+<rtept lat="56.709193" lon="-4.937942">
+<ele>68.077393</ele>
+<name>BWR028</name>
+</rtept>
+<rtept lat="56.708812" lon="-4.937061">
+<ele>78.432373</ele>
+<name>BWR029</name>
+</rtept>
+<rtept lat="56.708817" lon="-4.936794">
+<ele>85.352173</ele>
+<name>BWR030</name>
+</rtept>
+<rtept lat="56.708694" lon="-4.936889">
+<ele>80.73584</ele>
+<name>BWR031</name>
+</rtept>
+<rtept lat="56.708189" lon="-4.935786">
+<ele>94.648865</ele>
+<name>BWR032</name>
+</rtept>
+<rtept lat="56.707705" lon="-4.935384">
+<ele>93.081421</ele>
+<name>BWR033</name>
+</rtept>
+<rtept lat="56.70741" lon="-4.934744">
+<ele>91.631775</ele>
+<name>BWR034</name>
+</rtept>
+<rtept lat="56.705134" lon="-4.932711">
+<ele>96.296204</ele>
+<name>BWR035</name>
+</rtept>
+<rtept lat="56.704997" lon="-4.93179">
+<ele>99.512756</ele>
+<name>BWR036</name>
+</rtept>
+<rtept lat="56.704724" lon="-4.931254">
+<ele>95.934387</ele>
+<name>BWR037</name>
+</rtept>
+<rtept lat="56.703763" lon="-4.930087">
+<ele>104.167786</ele>
+<name>BWR038</name>
+</rtept>
+<rtept lat="56.703597" lon="-4.930075">
+<ele>105.142639</ele>
+<name>BWR039</name>
+</rtept>
+<rtept lat="56.703733" lon="-4.929816">
+<ele>114.753601</ele>
+<name>BWR040</name>
+</rtept>
+<rtept lat="56.703554" lon="-4.92842">
+<ele>119.814819</ele>
+<name>BWR041</name>
+</rtept>
+<rtept lat="56.703678" lon="-4.926136">
+<ele>137.366211</ele>
+<name>BWR042</name>
+</rtept>
+<rtept lat="56.703344" lon="-4.922188">
+<ele>132.591797</ele>
+<name>BWR043</name>
+</rtept>
+<rtept lat="56.703469" lon="-4.920965">
+<ele>131.000366</ele>
+<name>BWR044</name>
+</rtept>
+<rtept lat="56.703253" lon="-4.918275">
+<ele>138.879883</ele>
+<name>BWR045</name>
+</rtept>
+<rtept lat="56.703353" lon="-4.915792">
+<ele>135.181519</ele>
+<name>BWR046</name>
+</rtept>
+<rtept lat="56.703067" lon="-4.912749">
+<ele>117.078918</ele>
+<name>BWR047</name>
+</rtept>
+<rtept lat="56.703294" lon="-4.912449">
+<ele>113.22052</ele>
+<name>BWR048</name>
+</rtept>
+<rtept lat="56.70326" lon="-4.911728">
+<ele>120.572571</ele>
+<name>BWR049</name>
+</rtept>
+<rtept lat="56.703483" lon="-4.911101">
+<ele>121.144897</ele>
+<name>BWR050</name>
+</rtept>
+<rtept lat="56.703382" lon="-4.907379">
+<ele>127.574585</ele>
+<name>BWR051</name>
+</rtept>
+<rtept lat="56.703523" lon="-4.906504">
+<ele>125.069031</ele>
+<name>BWR052</name>
+</rtept>
+<rtept lat="56.703217" lon="-4.905097">
+<ele>124.278137</ele>
+<name>BWR053</name>
+</rtept>
+<rtept lat="56.702973" lon="-4.904733">
+<ele>130.047607</ele>
+<name>BWR054</name>
+</rtept>
+<rtept lat="56.702775" lon="-4.904041">
+<ele>130.464966</ele>
+<name>BWR055</name>
+</rtept>
+<rtept lat="56.702884" lon="-4.902958">
+<ele>132.207031</ele>
+<name>BWR056</name>
+</rtept>
+<rtept lat="56.702737" lon="-4.90029">
+<ele>132.30481</ele>
+<name>BWR057</name>
+</rtept>
+<rtept lat="56.702798" lon="-4.899757">
+<ele>132.805786</ele>
+<name>BWR058</name>
+</rtept>
+<rtept lat="56.703327" lon="-4.899064">
+<ele>139.28479</ele>
+<name>BWR059</name>
+</rtept>
+<rtept lat="56.703364" lon="-4.898778">
+<ele>145.634399</ele>
+<name>BWR060</name>
+</rtept>
+<rtept lat="56.703748" lon="-4.89849">
+<ele>142.325806</ele>
+<name>BWR061</name>
+</rtept>
+<rtept lat="56.703808" lon="-4.898103">
+<ele>148.066895</ele>
+<name>BWR062</name>
+</rtept>
+<rtept lat="56.703991" lon="-4.898351">
+<ele>151.914917</ele>
+<name>BWR063</name>
+</rtept>
+<rtept lat="56.704283" lon="-4.897817">
+<ele>149.646606</ele>
+<name>BWR064</name>
+</rtept>
+<rtept lat="56.704684" lon="-4.896309">
+<ele>165.677979</ele>
+<name>BWR065</name>
+</rtept>
+<rtept lat="56.705186" lon="-4.895414">
+<ele>166.762329</ele>
+<name>BWR066</name>
+</rtept>
+<rtept lat="56.705295" lon="-4.894275">
+<ele>177.840088</ele>
+<name>BWR067</name>
+</rtept>
+<rtept lat="56.70511" lon="-4.892337">
+<ele>176.846436</ele>
+<name>BWR068</name>
+</rtept>
+<rtept lat="56.705217" lon="-4.891787">
+<ele>182.951904</ele>
+<name>BWR069</name>
+</rtept>
+<rtept lat="56.705414" lon="-4.891576">
+<ele>179.883057</ele>
+<name>BWR070</name>
+</rtept>
+<rtept lat="56.705273" lon="-4.891527">
+<ele>183.766602</ele>
+<name>BWR071</name>
+</rtept>
+<rtept lat="56.705239" lon="-4.890806">
+<ele>189.532715</ele>
+<name>BWR072</name>
+</rtept>
+<rtept lat="56.705336" lon="-4.888181">
+<ele>203.405945</ele>
+<name>BWR073</name>
+</rtept>
+<rtept lat="56.705492" lon="-4.888047">
+<ele>205.760132</ele>
+<name>BWR074</name>
+</rtept>
+<rtept lat="56.705939" lon="-4.885703">
+<ele>237.162659</ele>
+<name>BWR075</name>
+</rtept>
+<rtept lat="56.70579" lon="-4.88443">
+<ele>252.937866</ele>
+<name>BWR076</name>
+</rtept>
+<rtept lat="56.705891" lon="-4.883197">
+<ele>252.24585</ele>
+<name>BWR077</name>
+</rtept>
+<rtept lat="56.705772" lon="-4.882796">
+<ele>258.606812</ele>
+<name>BWR078</name>
+</rtept>
+<rtept lat="56.706035" lon="-4.88203">
+<ele>260.125</ele>
+<name>BWR079</name>
+</rtept>
+<rtept lat="56.70608" lon="-4.881355">
+<ele>267.630554</ele>
+<name>BWR080</name>
+</rtept>
+<rtept lat="56.706355" lon="-4.880238">
+<ele>272.036987</ele>
+<name>BWR081</name>
+</rtept>
+<rtept lat="56.706631" lon="-4.879723">
+<ele>265.635376</ele>
+<name>BWR082</name>
+</rtept>
+<rtept lat="56.706691" lon="-4.879018">
+<ele>270.421753</ele>
+<name>BWR083</name>
+</rtept>
+<rtept lat="56.70654" lon="-4.878474">
+<ele>272.649658</ele>
+<name>BWR084</name>
+</rtept>
+<rtept lat="56.706231" lon="-4.878357">
+<ele>269.349243</ele>
+<name>BWR085</name>
+</rtept>
+<rtept lat="56.705817" lon="-4.877764">
+<ele>278.304382</ele>
+<name>BWR086</name>
+</rtept>
+<rtept lat="56.705872" lon="-4.876806">
+<ele>275.739319</ele>
+<name>BWR087</name>
+</rtept>
+<rtept lat="56.705616" lon="-4.876512">
+<ele>289.85022</ele>
+<name>BWR088</name>
+</rtept>
+<rtept lat="56.705989" lon="-4.874036">
+<ele>295.703735</ele>
+<name>BWR089</name>
+</rtept>
+<rtept lat="56.705639" lon="-4.872865">
+<ele>295.686157</ele>
+<name>BWR090</name>
+</rtept>
+<rtept lat="56.705397" lon="-4.872502">
+<ele>303.700195</ele>
+<name>BWR091</name>
+</rtept>
+<rtept lat="56.705551" lon="-4.871541">
+<ele>301.842407</ele>
+<name>BWR092</name>
+</rtept>
+<rtept lat="56.706014" lon="-4.870511">
+<ele>315.983704</ele>
+<name>BWR093</name>
+</rtept>
+<rtept lat="56.705684" lon="-4.86845">
+<ele>326.695129</ele>
+<name>BWR094</name>
+</rtept>
+<rtept lat="56.70629" lon="-4.866346">
+<ele>320.469482</ele>
+<name>BWR095</name>
+</rtept>
+<rtept lat="56.706146" lon="-4.865216">
+<ele>312.969604</ele>
+<name>BWR096</name>
+</rtept>
+<rtept lat="56.706196" lon="-4.864062">
+<ele>313.510742</ele>
+<name>BWR097</name>
+</rtept>
+<rtept lat="56.705895" lon="-4.863144">
+<ele>330.407715</ele>
+<name>BWR098</name>
+</rtept>
+<rtept lat="56.705833" lon="-4.862083">
+<ele>318.402832</ele>
+<name>BWR099</name>
+</rtept>
+<rtept lat="56.705674" lon="-4.861435">
+<ele>324.982544</ele>
+<name>BWR100</name>
+</rtept>
+<rtept lat="56.7015" lon="-4.864086">
+<ele>304.204895</ele>
+<name>BWR101</name>
+</rtept>
+<rtept lat="56.70122" lon="-4.864774">
+<ele>299.024536</ele>
+<name>BWR102</name>
+</rtept>
+<rtept lat="56.701515" lon="-4.865238">
+<ele>306.875</ele>
+<name>BWR103</name>
+</rtept>
+<rtept lat="56.701295" lon="-4.86678">
+<ele>304.629822</ele>
+<name>BWR104</name>
+</rtept>
+<rtept lat="56.70094" lon="-4.867342">
+<ele>309.351074</ele>
+<name>BWR105</name>
+</rtept>
+<rtept lat="56.700816" lon="-4.868282">
+<ele>307.661011</ele>
+<name>BWR106</name>
+</rtept>
+<rtept lat="56.699916" lon="-4.869624">
+<ele>303.234009</ele>
+<name>BWR107</name>
+</rtept>
+<rtept lat="56.699725" lon="-4.870186">
+<ele>302.847046</ele>
+<name>BWR108</name>
+</rtept>
+<rtept lat="56.699676" lon="-4.872351">
+<ele>299.974121</ele>
+<name>BWR109</name>
+</rtept>
+<rtept lat="56.700385" lon="-4.873368">
+<ele>310.218262</ele>
+<name>BWR110</name>
+</rtept>
+<rtept lat="56.700867" lon="-4.872633">
+<ele>306.994568</ele>
+<name>BWR111</name>
+</rtept>
+<rtept lat="56.700414" lon="-4.873271">
+<ele>306.521301</ele>
+<name>BWR112</name>
+</rtept>
+<rtept lat="56.700578" lon="-4.873742">
+<ele>315.480469</ele>
+<name>BWR113</name>
+</rtept>
+<rtept lat="56.700652" lon="-4.875152">
+<ele>312.945068</ele>
+<name>BWR114</name>
+</rtept>
+<rtept lat="56.700909" lon="-4.876445">
+<ele>322.935547</ele>
+<name>BWR115</name>
+</rtept>
+<rtept lat="56.700692" lon="-4.878141">
+<ele>305.411316</ele>
+<name>BWR116</name>
+</rtept>
+<rtept lat="56.700771" lon="-4.879237">
+<ele>300.577637</ele>
+<name>BWR117</name>
+</rtept>
+<rtept lat="56.701209" lon="-4.8804">
+<ele>308.315063</ele>
+<name>BWR118</name>
+</rtept>
+<rtept lat="56.702293" lon="-4.881233">
+<ele>312.699158</ele>
+<name>BWR119</name>
+</rtept>
+<rtept lat="56.702524" lon="-4.882963">
+<ele>307.229126</ele>
+<name>BWR120</name>
+</rtept>
+<rtept lat="56.702495" lon="-4.88361">
+<ele>306.657837</ele>
+<name>BWR121</name>
+</rtept>
+<rtept lat="56.703016" lon="-4.884436">
+<ele>308.475342</ele>
+<name>BWR122</name>
+</rtept>
+<rtept lat="56.703003" lon="-4.885489">
+<ele>302.36731</ele>
+<name>BWR123</name>
+</rtept>
+<rtept lat="56.702468" lon="-4.887248">
+<ele>308.027588</ele>
+<name>BWR124</name>
+</rtept>
+<rtept lat="56.701893" lon="-4.88832">
+<ele>309.621155</ele>
+<name>BWR125</name>
+</rtept>
+<rtept lat="56.701631" lon="-4.889463">
+<ele>312.281799</ele>
+<name>BWR126</name>
+</rtept>
+<rtept lat="56.700472" lon="-4.891788">
+<ele>318.513184</ele>
+<name>BWR127</name>
+</rtept>
+<rtept lat="56.70033" lon="-4.892754">
+<ele>317.230835</ele>
+<name>BWR128</name>
+</rtept>
+<rtept lat="56.699833" lon="-4.894185">
+<ele>320.585022</ele>
+<name>BWR129</name>
+</rtept>
+<rtept lat="56.699733" lon="-4.895967">
+<ele>315.43689</ele>
+<name>BWR130</name>
+</rtept>
+<rtept lat="56.699472" lon="-4.896563">
+<ele>310.93988</ele>
+<name>BWR131</name>
+</rtept>
+<rtept lat="56.699489" lon="-4.897106">
+<ele>300.906189</ele>
+<name>BWR132</name>
+</rtept>
+<rtept lat="56.698647" lon="-4.899638">
+<ele>303.87439</ele>
+<name>BWR133</name>
+</rtept>
+<rtept lat="56.698148" lon="-4.900302">
+<ele>302.834656</ele>
+<name>BWR134</name>
+</rtept>
+<rtept lat="56.697614" lon="-4.900391">
+<ele>312.93335</ele>
+<name>BWR135</name>
+</rtept>
+<rtept lat="56.696189" lon="-4.901996">
+<ele>307.371338</ele>
+<name>BWR136</name>
+</rtept>
+<rtept lat="56.69572" lon="-4.902939">
+<ele>302.812256</ele>
+<name>BWR137</name>
+</rtept>
+<rtept lat="56.695628" lon="-4.903616">
+<ele>300.444458</ele>
+<name>BWR138</name>
+</rtept>
+<rtept lat="56.695318" lon="-4.904275">
+<ele>310.700806</ele>
+<name>BWR139</name>
+</rtept>
+<rtept lat="56.69579" lon="-4.905857">
+<ele>310.721191</ele>
+<name>BWR140</name>
+</rtept>
+<rtept lat="56.697332" lon="-4.907376">
+<ele>310.585754</ele>
+<name>BWR141</name>
+</rtept>
+<rtept lat="56.697882" lon="-4.907704">
+<ele>316.318665</ele>
+<name>BWR142</name>
+</rtept>
+<rtept lat="56.698185" lon="-4.908363">
+<ele>309.812988</ele>
+<name>BWR143</name>
+</rtept>
+<rtept lat="56.698155" lon="-4.908764">
+<ele>310.356628</ele>
+<name>BWR144</name>
+</rtept>
+<rtept lat="56.698306" lon="-4.909215">
+<ele>307.845459</ele>
+<name>BWR145</name>
+</rtept>
+<rtept lat="56.698742" lon="-4.909573">
+<ele>316.897095</ele>
+<name>BWR146</name>
+</rtept>
+<rtept lat="56.698536" lon="-4.909999">
+<ele>314.57959</ele>
+<name>BWR147</name>
+</rtept>
+<rtept lat="56.698649" lon="-4.910544">
+<ele>318.496826</ele>
+<name>BWR148</name>
+</rtept>
+<rtept lat="56.698625" lon="-4.912017">
+<ele>316.314209</ele>
+<name>BWR149</name>
+</rtept>
+<rtept lat="56.698355" lon="-4.912335">
+<ele>316.801147</ele>
+<name>BWR150</name>
+</rtept>
+<rtept lat="56.698012" lon="-4.913285">
+<ele>314.275757</ele>
+<name>BWR151</name>
+</rtept>
+<rtept lat="56.697566" lon="-4.914029">
+<ele>314.394104</ele>
+<name>BWR152</name>
+</rtept>
+<rtept lat="56.697452" lon="-4.91499">
+<ele>325.283203</ele>
+<name>BWR153</name>
+</rtept>
+<rtept lat="56.697816" lon="-4.916824">
+<ele>337.240234</ele>
+<name>BWR154</name>
+</rtept>
+<rtept lat="56.698201" lon="-4.917929">
+<ele>337.046143</ele>
+<name>BWR155</name>
+</rtept>
+<rtept lat="56.697934" lon="-4.918489">
+<ele>340.410645</ele>
+<name>BWR156</name>
+</rtept>
+<rtept lat="56.697803" lon="-4.919487">
+<ele>333.424744</ele>
+<name>BWR157</name>
+</rtept>
+<rtept lat="56.697868" lon="-4.920085">
+<ele>334.046082</ele>
+<name>BWR158</name>
+</rtept>
+<rtept lat="56.697656" lon="-4.920699">
+<ele>334.544556</ele>
+<name>BWR159</name>
+</rtept>
+<rtept lat="56.6976" lon="-4.921372">
+<ele>335.747009</ele>
+<name>BWR160</name>
+</rtept>
+<rtept lat="56.697678" lon="-4.922746">
+<ele>337.196045</ele>
+<name>BWR161</name>
+</rtept>
+<rtept lat="56.69802" lon="-4.924122">
+<ele>328.106018</ele>
+<name>BWR162</name>
+</rtept>
+<rtept lat="56.697926" lon="-4.925653">
+<ele>312.571777</ele>
+<name>BWR163</name>
+</rtept>
+<rtept lat="56.698073" lon="-4.926728">
+<ele>305.53894</ele>
+<name>BWR164</name>
+</rtept>
+<rtept lat="56.698022" lon="-4.928103">
+<ele>307.385864</ele>
+<name>BWR165</name>
+</rtept>
+<rtept lat="56.698199" lon="-4.929738">
+<ele>322.657959</ele>
+<name>BWR166</name>
+</rtept>
+<rtept lat="56.698131" lon="-4.930306">
+<ele>321.836792</ele>
+<name>BWR167</name>
+</rtept>
+<rtept lat="56.698595" lon="-4.932765">
+<ele>319.855225</ele>
+<name>BWR168</name>
+</rtept>
+<rtept lat="56.698849" lon="-4.933447">
+<ele>321.852173</ele>
+<name>BWR169</name>
+</rtept>
+<rtept lat="56.699161" lon="-4.935947">
+<ele>317.417603</ele>
+<name>BWR170</name>
+</rtept>
+<rtept lat="56.69972" lon="-4.936256">
+<ele>319.48877</ele>
+<name>BWR171</name>
+</rtept>
+<rtept lat="56.700111" lon="-4.937212">
+<ele>319.848633</ele>
+<name>BWR172</name>
+</rtept>
+<rtept lat="56.700439" lon="-4.937619">
+<ele>311.508301</ele>
+<name>BWR173</name>
+</rtept>
+<rtept lat="56.701278" lon="-4.94063">
+<ele>286.145996</ele>
+<name>BWR174</name>
+</rtept>
+<rtept lat="56.700523" lon="-4.942333">
+<ele>256.255859</ele>
+<name>BWR175</name>
+</rtept>
+<rtept lat="56.700144" lon="-4.942658">
+<ele>244.709473</ele>
+<name>BWR176</name>
+</rtept>
+<rtept lat="56.699512" lon="-4.942831">
+<ele>224.835327</ele>
+<name>BWR177</name>
+</rtept>
+<rtept lat="56.698826" lon="-4.943606">
+<ele>221.678589</ele>
+<name>BWR178</name>
+</rtept>
+<rtept lat="56.697959" lon="-4.944244">
+<ele>204.974609</ele>
+<name>BWR179</name>
+</rtept>
+<rtept lat="56.697931" lon="-4.944384">
+<ele>206.645752</ele>
+<name>BWR180</name>
+</rtept>
+<rtept lat="56.698469" lon="-4.94463">
+<ele>204.960754</ele>
+<name>BWR181</name>
+</rtept>
+<rtept lat="56.69854" lon="-4.94485">
+<ele>200.321594</ele>
+<name>BWR182</name>
+</rtept>
+<rtept lat="56.697937" lon="-4.945776">
+<ele>173.666809</ele>
+<name>BWR183</name>
+</rtept>
+<rtept lat="56.697775" lon="-4.946396">
+<ele>173.131653</ele>
+<name>BWR184</name>
+</rtept>
+<rtept lat="56.699262" lon="-4.947233">
+<ele>162.15918</ele>
+<name>BWR185</name>
+</rtept>
+<rtept lat="56.699294" lon="-4.947482">
+<ele>159.055725</ele>
+<name>BWR186</name>
+</rtept>
+<rtept lat="56.699032" lon="-4.947663">
+<ele>154.209229</ele>
+<name>BWR187</name>
+</rtept>
+<rtept lat="56.699038" lon="-4.948502">
+<ele>156.219482</ele>
+<name>BWR188</name>
+</rtept>
+<rtept lat="56.699316" lon="-4.948799">
+<ele>155.075623</ele>
+<name>BWR189</name>
+</rtept>
+<rtept lat="56.700437" lon="-4.949086">
+<ele>170.21814</ele>
+<name>BWR190</name>
+</rtept>
+<rtept lat="56.70208" lon="-4.95106">
+<ele>159.094482</ele>
+<name>BWR191</name>
+</rtept>
+<rtept lat="56.702598" lon="-4.951352">
+<ele>148.903015</ele>
+<name>BWR192</name>
+</rtept>
+<rtept lat="56.704845" lon="-4.950566">
+<ele>131.248535</ele>
+<name>BWR193</name>
+</rtept>
+<rtept lat="56.70577" lon="-4.950535">
+<ele>125.751465</ele>
+<name>BWR194</name>
+</rtept>
+<rtept lat="56.707285" lon="-4.949025">
+<ele>114.953003</ele>
+<name>BWR195</name>
+</rtept>
+<rtept lat="56.707691" lon="-4.948387">
+<ele>114.017944</ele>
+<name>BWR196</name>
+</rtept>
+<rtept lat="56.708512" lon="-4.947838">
+<ele>105.08429</ele>
+<name>BWR197</name>
+</rtept>
+<rtept lat="56.709002" lon="-4.948385">
+<ele>86.78595</ele>
+<name>BWR198</name>
+</rtept>
+<rtept lat="56.709906" lon="-4.94855">
+<ele>85.99231</ele>
+<name>BWR199</name>
+</rtept>
+<rtept lat="56.710393" lon="-4.949051">
+<ele>80.368469</ele>
+<name>BWR200</name>
+</rtept>
+<rtept lat="56.710698" lon="-4.94976">
+<ele>78.277466</ele>
+<name>BWR201</name>
+</rtept>
+<rtept lat="56.7112" lon="-4.952657">
+<ele>52.527161</ele>
+<name>BWR202</name>
+</rtept>
+<rtept lat="56.712053" lon="-4.955868">
+<ele>29.553162</ele>
+<name>BWR203</name>
+</rtept>
+<rtept lat="56.712595" lon="-4.955227">
+<ele>35.1922</ele>
+<name>BWR204</name>
+</rtept>
+<rtept lat="56.712733" lon="-4.955294">
+<ele>35.771667</ele>
+<name>BWR205</name>
+</rtept>
+<rtept lat="56.712925" lon="-4.957473">
+<ele>11.613525</ele>
+<name>BWR206</name>
+</rtept>
+<rtept lat="56.714505" lon="-4.960756">
+<ele>22.914063</ele>
+<name>BWR207</name>
+</rtept>
+<rtept lat="56.714543" lon="-4.96119">
+<ele>22.601868</ele>
+<name>BWR208</name>
+</rtept>
+<rtept lat="56.714058" lon="-4.962095">
+<ele>12.121216</ele>
+<name>BWR209</name>
+</rtept>
+<rtept lat="56.7138454549439" lon="-4.96235637859977">
+<ele>7.77751756525943</ele>
+<name>BWR210</name>
+</rtept>
+<rtept lat="56.7136029558474" lon="-4.96212155269026">
+<ele>10.0874736469641</ele>
+<name>BWR211</name>
+</rtept>
+</rte>
+</gpx>

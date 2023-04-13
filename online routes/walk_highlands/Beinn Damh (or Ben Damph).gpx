@@ -1,0 +1,686 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Beinn Damh (or Ben Damph)</name>
+<rtept lat="57.5280514502546" lon="-5.52686972834758">
+<ele>15.2948679240591</ele>
+<name>BenD001</name>
+</rtept>
+<rtept lat="57.5279462152864" lon="-5.52725730006329">
+<ele>15.0885384378278</ele>
+<name>BenD002</name>
+</rtept>
+<rtept lat="57.5279805031278" lon="-5.52805610356863">
+<ele>14.1011727570109</ele>
+<name>BenD003</name>
+</rtept>
+<rtept lat="57.5283136724974" lon="-5.52874343422475">
+<ele>12.8442872530039</ele>
+<name>BenD004</name>
+</rtept>
+<rtept lat="57.5283369606818" lon="-5.52926041993966">
+<ele>13.0884543171545</ele>
+<name>BenD005</name>
+</rtept>
+<rtept lat="57.5280263869374" lon="-5.53001417091392">
+<ele>21.3295704845007</ele>
+<name>BenD006</name>
+</rtept>
+<rtept lat="57.5280773869402" lon="-5.5304402478458">
+<ele>24.2319497823839</ele>
+<name>BenD007</name>
+</rtept>
+<rtept lat="57.5273652686822" lon="-5.53047662826408">
+<ele>41.1314704622273</ele>
+<name>BenD008</name>
+</rtept>
+<rtept lat="57.5271786937985" lon="-5.53062234934799">
+<ele>47.4752389649662</ele>
+<name>BenD009</name>
+</rtept>
+<rtept lat="57.526800693353" lon="-5.53018804168212">
+<ele>47.2423458669712</ele>
+<name>BenD010</name>
+</rtept>
+<rtept lat="57.5262123407984" lon="-5.5309733629814">
+<ele>57.3912780196772</ele>
+<name>BenD011</name>
+</rtept>
+<rtept lat="57.525878354733" lon="-5.53188855869333">
+<ele>71.6330265662406</ele>
+<name>BenD012</name>
+</rtept>
+<rtept lat="57.5253404603454" lon="-5.53244476793145">
+<ele>78.6821544119492</ele>
+<name>BenD013</name>
+</rtept>
+<rtept lat="57.5250791593141" lon="-5.53346054697056">
+<ele>90.0921259539812</ele>
+<name>BenD014</name>
+</rtept>
+<rtept lat="57.5242288976169" lon="-5.53438417531691">
+<ele>99.5783492617028</ele>
+<name>BenD015</name>
+</rtept>
+<rtept lat="57.5235762474615" lon="-5.53566611862214">
+<ele>137.209669596925</ele>
+<name>BenD016</name>
+</rtept>
+<rtept lat="57.5231343787659" lon="-5.535939122896">
+<ele>145.18255368752</ele>
+<name>BenD017</name>
+</rtept>
+<rtept lat="57.5226528315696" lon="-5.5360562188938">
+<ele>153.670952567788</ele>
+<name>BenD018</name>
+</rtept>
+<rtept lat="57.5222639939633" lon="-5.5357846116976">
+<ele>159.827996254629</ele>
+<name>BenD019</name>
+</rtept>
+<rtept lat="57.5222912657619" lon="-5.53526090777344">
+<ele>152.250136905643</ele>
+<name>BenD020</name>
+</rtept>
+<rtept lat="57.5218803279677" lon="-5.53510413580197">
+<ele>153.235001175745</ele>
+<name>BenD021</name>
+</rtept>
+<rtept lat="57.5214385213396" lon="-5.53559937079176">
+<ele>168.346466365122</ele>
+<name>BenD022</name>
+</rtept>
+<rtept lat="57.5209252678126" lon="-5.53572509117814">
+<ele>187.195926510984</ele>
+<name>BenD023</name>
+</rtept>
+<rtept lat="57.5202553226485" lon="-5.53537948682847">
+<ele>208.889636777041</ele>
+<name>BenD024</name>
+</rtept>
+<rtept lat="57.5194982909268" lon="-5.53544650561674">
+<ele>226.692083418754</ele>
+<name>BenD025</name>
+</rtept>
+<rtept lat="57.5188812299504" lon="-5.53523469338128">
+<ele>233.381626482249</ele>
+<name>BenD026</name>
+</rtept>
+<rtept lat="57.5185038175701" lon="-5.53567764855096">
+<ele>239.650703125047</ele>
+<name>BenD027</name>
+</rtept>
+<rtept lat="57.5177653466363" lon="-5.53598035994969">
+<ele>243.586826320266</ele>
+<name>BenD028</name>
+</rtept>
+<rtept lat="57.5169839849909" lon="-5.53646602263527">
+<ele>249.021610788273</ele>
+<name>BenD029</name>
+</rtept>
+<rtept lat="57.516519182609" lon="-5.53621048599289">
+<ele>249.24577032426</ele>
+<name>BenD030</name>
+</rtept>
+<rtept lat="57.5159047999896" lon="-5.53612757939805">
+<ele>253.221770324259</ele>
+<name>BenD031</name>
+</rtept>
+<rtept lat="57.5155762236887" lon="-5.53639980541993">
+<ele>257.662122512462</ele>
+<name>BenD032</name>
+</rtept>
+<rtept lat="57.5150410776168" lon="-5.53618424316405">
+<ele>260.159978453926</ele>
+<name>BenD033</name>
+</rtept>
+<rtept lat="57.5149568738702" lon="-5.53626964028198">
+<ele>261.482165995764</ele>
+<name>BenD034</name>
+</rtept>
+<rtept lat="57.5147971510886" lon="-5.53680379440365">
+<ele>267.239013232687</ele>
+<name>BenD035</name>
+</rtept>
+<rtept lat="57.5143730675909" lon="-5.53689134196636">
+<ele>273.228533837902</ele>
+<name>BenD036</name>
+</rtept>
+<rtept lat="57.5138269137092" lon="-5.53751667286293">
+<ele>287.308872773298</ele>
+<name>BenD037</name>
+</rtept>
+<rtept lat="57.5136896138977" lon="-5.53792434641481">
+<ele>296.402330005736</ele>
+<name>BenD038</name>
+</rtept>
+<rtept lat="57.5137178332364" lon="-5.53848838583542">
+<ele>303.386274000053</ele>
+<name>BenD039</name>
+</rtept>
+<rtept lat="57.5133251295635" lon="-5.53992373187401">
+<ele>328.204977002413</ele>
+<name>BenD040</name>
+</rtept>
+<rtept lat="57.5133894097814" lon="-5.54077191503966">
+<ele>337.209536424704</ele>
+<name>BenD041</name>
+</rtept>
+<rtept lat="57.5125268237111" lon="-5.54146002553276">
+<ele>368.864928892734</ele>
+<name>BenD042</name>
+</rtept>
+<rtept lat="57.5117563056493" lon="-5.54178285342089">
+<ele>391.486141746147</ele>
+<name>BenD043</name>
+</rtept>
+<rtept lat="57.5109718887292" lon="-5.54349578581462">
+<ele>438.692244869843</ele>
+<name>BenD044</name>
+</rtept>
+<rtept lat="57.5107928870247" lon="-5.54359534228392">
+<ele>443.204144701488</ele>
+<name>BenD045</name>
+</rtept>
+<rtept lat="57.509951919284" lon="-5.54508054071577">
+<ele>487.367937977536</ele>
+<name>BenD046</name>
+</rtept>
+<rtept lat="57.5087367926852" lon="-5.54532502403736">
+<ele>507.719858351127</ele>
+<name>BenD047</name>
+</rtept>
+<rtept lat="57.508385235641" lon="-5.5464133384308">
+<ele>547.134592567526</ele>
+<name>BenD048</name>
+</rtept>
+<rtept lat="57.5076662250575" lon="-5.54669426444272">
+<ele>566.438776803932</ele>
+<name>BenD049</name>
+</rtept>
+<rtept lat="57.5072831963909" lon="-5.54733518736912">
+<ele>581.923565836864</ele>
+<name>BenD050</name>
+</rtept>
+<rtept lat="57.5066342428644" lon="-5.54780995990222">
+<ele>583.86761692989</ele>
+<name>BenD051</name>
+</rtept>
+<rtept lat="57.5062358723252" lon="-5.54765434087536">
+<ele>580.34058049476</ele>
+<name>BenD052</name>
+</rtept>
+<rtept lat="57.5060323391607" lon="-5.5472838245102">
+<ele>582.975500944002</ele>
+<name>BenD053</name>
+</rtept>
+<rtept lat="57.5056941010425" lon="-5.5472275856292">
+<ele>581.300131964527</ele>
+<name>BenD054</name>
+</rtept>
+<rtept lat="57.5048556816129" lon="-5.54660835740599">
+<ele>588.164332241308</ele>
+<name>BenD055</name>
+</rtept>
+<rtept lat="57.503938580989" lon="-5.54565417779583">
+<ele>606.554924469457</ele>
+<name>BenD056</name>
+</rtept>
+<rtept lat="57.5033526414877" lon="-5.54411259020757">
+<ele>627.596861223875</ele>
+<name>BenD057</name>
+</rtept>
+<rtept lat="57.5027947848244" lon="-5.54269068128875">
+<ele>660.996545227517</ele>
+<name>BenD058</name>
+</rtept>
+<rtept lat="57.5018773759647" lon="-5.54197042933749">
+<ele>690.280329505774</ele>
+<name>BenD059</name>
+</rtept>
+<rtept lat="57.5017574283245" lon="-5.54176006642702">
+<ele>697.254075879912</ele>
+<name>BenD060</name>
+</rtept>
+<rtept lat="57.501216238115" lon="-5.54108802423855">
+<ele>705.208581006579</ele>
+<name>BenD061</name>
+</rtept>
+<rtept lat="57.5007070245363" lon="-5.54017361862479">
+<ele>717.504009301786</ele>
+<name>BenD062</name>
+</rtept>
+<rtept lat="57.5006402277104" lon="-5.53986321305195">
+<ele>722.314441964314</ele>
+<name>BenD063</name>
+</rtept>
+<rtept lat="57.4999409212198" lon="-5.53832257136342">
+<ele>742.955087965339</ele>
+<name>BenD064</name>
+</rtept>
+<rtept lat="57.499460330026" lon="-5.5370603319255">
+<ele>752.555121992316</ele>
+<name>BenD065</name>
+</rtept>
+<rtept lat="57.4992474836108" lon="-5.53657215298837">
+<ele>754.741033527353</ele>
+<name>BenD066</name>
+</rtept>
+<rtept lat="57.4990577921926" lon="-5.53503419939932">
+<ele>764.716544139594</ele>
+<name>BenD067</name>
+</rtept>
+<rtept lat="57.4987562896664" lon="-5.5329945078386">
+<ele>784.526274625935</ele>
+<name>BenD068</name>
+</rtept>
+<rtept lat="57.4983038936373" lon="-5.53229617520546">
+<ele>782.821487342604</ele>
+<name>BenD069</name>
+</rtept>
+<rtept lat="57.4979524222714" lon="-5.53114006737572">
+<ele>784.885170112079</ele>
+<name>BenD070</name>
+</rtept>
+<rtept lat="57.4977974534629" lon="-5.52993283931012">
+<ele>791.820837372737</ele>
+<name>BenD071</name>
+</rtept>
+<rtept lat="57.4973301291373" lon="-5.52909285960361">
+<ele>797.302582227784</ele>
+<name>BenD072</name>
+</rtept>
+<rtept lat="57.4970703817762" lon="-5.52870542368147">
+<ele>802.28624184594</ele>
+<name>BenD073</name>
+</rtept>
+<rtept lat="57.4968683467212" lon="-5.52805473453872">
+<ele>810.753901199352</ele>
+<name>BenD074</name>
+</rtept>
+<rtept lat="57.4967182240169" lon="-5.52757270227257">
+<ele>816.211280234312</ele>
+<name>BenD075</name>
+</rtept>
+<rtept lat="57.4963522774234" lon="-5.52670750142819">
+<ele>827.88654964238</ele>
+<name>BenD076</name>
+</rtept>
+<rtept lat="57.4961176262823" lon="-5.52632251604504">
+<ele>827.003977075877</ele>
+<name>BenD077</name>
+</rtept>
+<rtept lat="57.4952661296095" lon="-5.52639226739766">
+<ele>824.358946437596</ele>
+<name>BenD078</name>
+</rtept>
+<rtept lat="57.4945974564991" lon="-5.52600046963013">
+<ele>812.856041428507</ele>
+<name>BenD079</name>
+</rtept>
+<rtept lat="57.4938115780974" lon="-5.52484938294714">
+<ele>803.122435833421</ele>
+<name>BenD080</name>
+</rtept>
+<rtept lat="57.4933704585922" lon="-5.52352122708582">
+<ele>812.925987429906</ele>
+<name>BenD081</name>
+</rtept>
+<rtept lat="57.4930830528286" lon="-5.52254685021437">
+<ele>824.047185255076</ele>
+<name>BenD082</name>
+</rtept>
+<rtept lat="57.4929916485577" lon="-5.52108883501521">
+<ele>851.131921753386</ele>
+<name>BenD083</name>
+</rtept>
+<rtept lat="57.492796048047" lon="-5.51930524049132">
+<ele>885.708266468246</ele>
+<name>BenD084</name>
+</rtept>
+<rtept lat="57.4927695059466" lon="-5.51822747703538">
+<ele>890.893043981174</ele>
+<name>BenD085</name>
+</rtept>
+<rtept lat="57.492796048047" lon="-5.51930524049132">
+<ele>885.708266468246</ele>
+<name>BenD086</name>
+</rtept>
+<rtept lat="57.4929916485577" lon="-5.52108883501521">
+<ele>851.131921753386</ele>
+<name>BenD087</name>
+</rtept>
+<rtept lat="57.4930830528286" lon="-5.52254685021437">
+<ele>824.047185255076</ele>
+<name>BenD088</name>
+</rtept>
+<rtept lat="57.4933704585922" lon="-5.52352122708582">
+<ele>812.925987429906</ele>
+<name>BenD089</name>
+</rtept>
+<rtept lat="57.4938115780974" lon="-5.52484938294714">
+<ele>803.122435833421</ele>
+<name>BenD090</name>
+</rtept>
+<rtept lat="57.4945974564991" lon="-5.52600046963013">
+<ele>812.856041428507</ele>
+<name>BenD091</name>
+</rtept>
+<rtept lat="57.4952661296095" lon="-5.52639226739766">
+<ele>824.358946437596</ele>
+<name>BenD092</name>
+</rtept>
+<rtept lat="57.4961176262823" lon="-5.52632251604504">
+<ele>827.003977075877</ele>
+<name>BenD093</name>
+</rtept>
+<rtept lat="57.4963522774234" lon="-5.52670750142819">
+<ele>827.88654964238</ele>
+<name>BenD094</name>
+</rtept>
+<rtept lat="57.4967182240169" lon="-5.52757270227257">
+<ele>816.211280234312</ele>
+<name>BenD095</name>
+</rtept>
+<rtept lat="57.4968683467212" lon="-5.52805473453872">
+<ele>810.753901199352</ele>
+<name>BenD096</name>
+</rtept>
+<rtept lat="57.4970703817762" lon="-5.52870542368147">
+<ele>802.28624184594</ele>
+<name>BenD097</name>
+</rtept>
+<rtept lat="57.4973301291373" lon="-5.52909285960361">
+<ele>797.302582227784</ele>
+<name>BenD098</name>
+</rtept>
+<rtept lat="57.4977974534629" lon="-5.52993283931012">
+<ele>791.820837372737</ele>
+<name>BenD099</name>
+</rtept>
+<rtept lat="57.4979524222714" lon="-5.53114006737572">
+<ele>784.885170112079</ele>
+<name>BenD100</name>
+</rtept>
+<rtept lat="57.4983038936373" lon="-5.53229617520546">
+<ele>782.821487342604</ele>
+<name>BenD101</name>
+</rtept>
+<rtept lat="57.4987562896664" lon="-5.5329945078386">
+<ele>784.526274625935</ele>
+<name>BenD102</name>
+</rtept>
+<rtept lat="57.4990577921926" lon="-5.53503419939932">
+<ele>764.716544139594</ele>
+<name>BenD103</name>
+</rtept>
+<rtept lat="57.4992474836108" lon="-5.53657215298837">
+<ele>754.741033527353</ele>
+<name>BenD104</name>
+</rtept>
+<rtept lat="57.499460330026" lon="-5.5370603319255">
+<ele>752.555121992316</ele>
+<name>BenD105</name>
+</rtept>
+<rtept lat="57.4999409212198" lon="-5.53832257136342">
+<ele>742.955087965339</ele>
+<name>BenD106</name>
+</rtept>
+<rtept lat="57.5006402277104" lon="-5.53986321305195">
+<ele>722.314441964314</ele>
+<name>BenD107</name>
+</rtept>
+<rtept lat="57.5007070245363" lon="-5.54017361862479">
+<ele>717.504009301786</ele>
+<name>BenD108</name>
+</rtept>
+<rtept lat="57.501216238115" lon="-5.54108802423855">
+<ele>705.208581006579</ele>
+<name>BenD109</name>
+</rtept>
+<rtept lat="57.5017574283245" lon="-5.54176006642702">
+<ele>697.254075879912</ele>
+<name>BenD110</name>
+</rtept>
+<rtept lat="57.5018773759647" lon="-5.54197042933749">
+<ele>690.280329505774</ele>
+<name>BenD111</name>
+</rtept>
+<rtept lat="57.5027947848244" lon="-5.54269068128875">
+<ele>660.996545227517</ele>
+<name>BenD112</name>
+</rtept>
+<rtept lat="57.5033526414877" lon="-5.54411259020757">
+<ele>627.596861223875</ele>
+<name>BenD113</name>
+</rtept>
+<rtept lat="57.503938580989" lon="-5.54565417779583">
+<ele>606.554924469457</ele>
+<name>BenD114</name>
+</rtept>
+<rtept lat="57.5048556816129" lon="-5.54660835740599">
+<ele>588.164332241308</ele>
+<name>BenD115</name>
+</rtept>
+<rtept lat="57.5056941010425" lon="-5.5472275856292">
+<ele>581.300131964527</ele>
+<name>BenD116</name>
+</rtept>
+<rtept lat="57.5060323391607" lon="-5.5472838245102">
+<ele>582.975500944002</ele>
+<name>BenD117</name>
+</rtept>
+<rtept lat="57.5062358723252" lon="-5.54765434087536">
+<ele>580.34058049476</ele>
+<name>BenD118</name>
+</rtept>
+<rtept lat="57.5066342428644" lon="-5.54780995990222">
+<ele>583.86761692989</ele>
+<name>BenD119</name>
+</rtept>
+<rtept lat="57.5072831963909" lon="-5.54733518736912">
+<ele>581.923565836864</ele>
+<name>BenD120</name>
+</rtept>
+<rtept lat="57.5076662250575" lon="-5.54669426444272">
+<ele>566.438776803932</ele>
+<name>BenD121</name>
+</rtept>
+<rtept lat="57.508385235641" lon="-5.5464133384308">
+<ele>547.134592567526</ele>
+<name>BenD122</name>
+</rtept>
+<rtept lat="57.5087367926852" lon="-5.54532502403736">
+<ele>507.719858351127</ele>
+<name>BenD123</name>
+</rtept>
+<rtept lat="57.509951919284" lon="-5.54508054071577">
+<ele>487.367937977536</ele>
+<name>BenD124</name>
+</rtept>
+<rtept lat="57.5107928870247" lon="-5.54359534228392">
+<ele>443.204144701488</ele>
+<name>BenD125</name>
+</rtept>
+<rtept lat="57.5109718887292" lon="-5.54349578581462">
+<ele>438.692244869843</ele>
+<name>BenD126</name>
+</rtept>
+<rtept lat="57.5117563056493" lon="-5.54178285342089">
+<ele>391.486141746147</ele>
+<name>BenD127</name>
+</rtept>
+<rtept lat="57.5125268237111" lon="-5.54146002553276">
+<ele>368.864928892734</ele>
+<name>BenD128</name>
+</rtept>
+<rtept lat="57.5133894097814" lon="-5.54077191503966">
+<ele>337.209536424704</ele>
+<name>BenD129</name>
+</rtept>
+<rtept lat="57.5133251295635" lon="-5.53992373187401">
+<ele>328.204977002413</ele>
+<name>BenD130</name>
+</rtept>
+<rtept lat="57.5137178332364" lon="-5.53848838583542">
+<ele>303.386274000053</ele>
+<name>BenD131</name>
+</rtept>
+<rtept lat="57.5136896138977" lon="-5.53792434641481">
+<ele>296.402330005736</ele>
+<name>BenD132</name>
+</rtept>
+<rtept lat="57.5138269137092" lon="-5.53751667286293">
+<ele>287.308872773298</ele>
+<name>BenD133</name>
+</rtept>
+<rtept lat="57.5143730675909" lon="-5.53689134196636">
+<ele>273.228533837902</ele>
+<name>BenD134</name>
+</rtept>
+<rtept lat="57.5147971510886" lon="-5.53680379440365">
+<ele>267.239013232687</ele>
+<name>BenD135</name>
+</rtept>
+<rtept lat="57.5149568738702" lon="-5.53626964028198">
+<ele>261.482165995764</ele>
+<name>BenD136</name>
+</rtept>
+<rtept lat="57.5150410776168" lon="-5.53618424316405">
+<ele>260.159978453926</ele>
+<name>BenD137</name>
+</rtept>
+<rtept lat="57.5155762236887" lon="-5.53639980541993">
+<ele>257.662122512462</ele>
+<name>BenD138</name>
+</rtept>
+<rtept lat="57.5159047999896" lon="-5.53612757939805">
+<ele>253.221770324259</ele>
+<name>BenD139</name>
+</rtept>
+<rtept lat="57.516519182609" lon="-5.53621048599289">
+<ele>249.24577032426</ele>
+<name>BenD140</name>
+</rtept>
+<rtept lat="57.5169839849909" lon="-5.53646602263527">
+<ele>249.021610788273</ele>
+<name>BenD141</name>
+</rtept>
+<rtept lat="57.5177653466363" lon="-5.53598035994969">
+<ele>243.586826320266</ele>
+<name>BenD142</name>
+</rtept>
+<rtept lat="57.5185038175701" lon="-5.53567764855096">
+<ele>239.650703125047</ele>
+<name>BenD143</name>
+</rtept>
+<rtept lat="57.5188812299504" lon="-5.53523469338128">
+<ele>233.381626482249</ele>
+<name>BenD144</name>
+</rtept>
+<rtept lat="57.5194982909268" lon="-5.53544650561674">
+<ele>226.692083418754</ele>
+<name>BenD145</name>
+</rtept>
+<rtept lat="57.5202553226485" lon="-5.53537948682847">
+<ele>208.889636777041</ele>
+<name>BenD146</name>
+</rtept>
+<rtept lat="57.5209252678126" lon="-5.53572509117814">
+<ele>187.195926510984</ele>
+<name>BenD147</name>
+</rtept>
+<rtept lat="57.5214385213396" lon="-5.53559937079176">
+<ele>168.346466365122</ele>
+<name>BenD148</name>
+</rtept>
+<rtept lat="57.5218803279677" lon="-5.53510413580197">
+<ele>153.235001175745</ele>
+<name>BenD149</name>
+</rtept>
+<rtept lat="57.5222912657619" lon="-5.53526090777344">
+<ele>152.250136905643</ele>
+<name>BenD150</name>
+</rtept>
+<rtept lat="57.5222639939633" lon="-5.5357846116976">
+<ele>159.827996254629</ele>
+<name>BenD151</name>
+</rtept>
+<rtept lat="57.5226528315696" lon="-5.5360562188938">
+<ele>153.670952567788</ele>
+<name>BenD152</name>
+</rtept>
+<rtept lat="57.5231343787659" lon="-5.535939122896">
+<ele>145.18255368752</ele>
+<name>BenD153</name>
+</rtept>
+<rtept lat="57.5235762474615" lon="-5.53566611862214">
+<ele>137.209669596925</ele>
+<name>BenD154</name>
+</rtept>
+<rtept lat="57.5242288976169" lon="-5.53438417531691">
+<ele>99.5783492617028</ele>
+<name>BenD155</name>
+</rtept>
+<rtept lat="57.5250791593141" lon="-5.53346054697056">
+<ele>90.0921259539812</ele>
+<name>BenD156</name>
+</rtept>
+<rtept lat="57.5253404603454" lon="-5.53244476793145">
+<ele>78.6821544119492</ele>
+<name>BenD157</name>
+</rtept>
+<rtept lat="57.525878354733" lon="-5.53188855869333">
+<ele>71.6330265662406</ele>
+<name>BenD158</name>
+</rtept>
+<rtept lat="57.5262123407984" lon="-5.5309733629814">
+<ele>57.3912780196772</ele>
+<name>BenD159</name>
+</rtept>
+<rtept lat="57.526800693353" lon="-5.53018804168212">
+<ele>47.2423458669712</ele>
+<name>BenD160</name>
+</rtept>
+<rtept lat="57.5271786937985" lon="-5.53062234934799">
+<ele>47.4752389649662</ele>
+<name>BenD161</name>
+</rtept>
+<rtept lat="57.5273652686822" lon="-5.53047662826408">
+<ele>41.1314704622273</ele>
+<name>BenD162</name>
+</rtept>
+<rtept lat="57.5280773869402" lon="-5.5304402478458">
+<ele>24.2319497823839</ele>
+<name>BenD163</name>
+</rtept>
+<rtept lat="57.5280263869374" lon="-5.53001417091392">
+<ele>21.3295704845007</ele>
+<name>BenD164</name>
+</rtept>
+<rtept lat="57.5283369606818" lon="-5.52926041993966">
+<ele>13.0884543171545</ele>
+<name>BenD165</name>
+</rtept>
+<rtept lat="57.5283136724974" lon="-5.52874343422475">
+<ele>12.8442872530039</ele>
+<name>BenD166</name>
+</rtept>
+<rtept lat="57.5279805031278" lon="-5.52805610356863">
+<ele>14.1011727570109</ele>
+<name>BenD167</name>
+</rtept>
+<rtept lat="57.5279462152864" lon="-5.52725730006329">
+<ele>15.0885384378278</ele>
+<name>BenD168</name>
+</rtept>
+<rtept lat="57.5280514502546" lon="-5.52686972834758">
+<ele>15.2948679240591</ele>
+<name>BenD169</name>
+</rtept>
+</rte>
+</gpx>

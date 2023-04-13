@@ -1,0 +1,510 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Glen Ogle Trail, Lochearnhead</name>
+<rtept lat="56.3853304667825" lon="-4.28026054998806">
+<ele>100.26705066894</ele>
+<name>GOT001</name>
+</rtept>
+<rtept lat="56.386204901915" lon="-4.28499480041987">
+<ele>103.8797674474</ele>
+<name>GOT002</name>
+</rtept>
+<rtept lat="56.3855791561453" lon="-4.28724966975616">
+<ele>109.343688573062</ele>
+<name>GOT003</name>
+</rtept>
+<rtept lat="56.3856367702507" lon="-4.28753663126313">
+<ele>105.665653674603</ele>
+<name>GOT004</name>
+</rtept>
+<rtept lat="56.3870653608726" lon="-4.28852956067966">
+<ele>107.126061061335</ele>
+<name>GOT005</name>
+</rtept>
+<rtept lat="56.387316" lon="-4.289005">
+<ele>121.246155</ele>
+<name>GOT006</name>
+</rtept>
+<rtept lat="56.387424" lon="-4.289228">
+<ele>116.564331</ele>
+<name>GOT007</name>
+</rtept>
+<rtept lat="56.387448" lon="-4.289895">
+<ele>120.772522</ele>
+<name>GOT008</name>
+</rtept>
+<rtept lat="56.387155" lon="-4.289983">
+<ele>117.973083</ele>
+<name>GOT009</name>
+</rtept>
+<rtept lat="56.386828" lon="-4.290549">
+<ele>135.833374</ele>
+<name>GOT010</name>
+</rtept>
+<rtept lat="56.386916" lon="-4.291204">
+<ele>141.365601</ele>
+<name>GOT011</name>
+</rtept>
+<rtept lat="56.386791" lon="-4.292344">
+<ele>161.829224</ele>
+<name>GOT012</name>
+</rtept>
+<rtept lat="56.387015" lon="-4.292732">
+<ele>166.24762</ele>
+<name>GOT013</name>
+</rtept>
+<rtept lat="56.387061" lon="-4.293296">
+<ele>171.72699</ele>
+<name>GOT014</name>
+</rtept>
+<rtept lat="56.386653" lon="-4.293985">
+<ele>194.36438</ele>
+<name>GOT015</name>
+</rtept>
+<rtept lat="56.386692" lon="-4.294408">
+<ele>200.349121</ele>
+<name>GOT016</name>
+</rtept>
+<rtept lat="56.386606" lon="-4.294813">
+<ele>210.434204</ele>
+<name>GOT017</name>
+</rtept>
+<rtept lat="56.387411" lon="-4.295519">
+<ele>211.201599</ele>
+<name>GOT018</name>
+</rtept>
+<rtept lat="56.390082" lon="-4.29702">
+<ele>224.388672</ele>
+<name>GOT019</name>
+</rtept>
+<rtept lat="56.390766" lon="-4.297782">
+<ele>224.003906</ele>
+<name>GOT020</name>
+</rtept>
+<rtept lat="56.391872" lon="-4.29868">
+<ele>215.841675</ele>
+<name>GOT021</name>
+</rtept>
+<rtept lat="56.392525" lon="-4.29951">
+<ele>229.758423</ele>
+<name>GOT022</name>
+</rtept>
+<rtept lat="56.39426" lon="-4.301088">
+<ele>222.539368</ele>
+<name>GOT023</name>
+</rtept>
+<rtept lat="56.394933" lon="-4.301906">
+<ele>232.608765</ele>
+<name>GOT024</name>
+</rtept>
+<rtept lat="56.395887" lon="-4.30273">
+<ele>250.085449</ele>
+<name>GOT025</name>
+</rtept>
+<rtept lat="56.398251" lon="-4.305232">
+<ele>237.091797</ele>
+<name>GOT026</name>
+</rtept>
+<rtept lat="56.399166" lon="-4.305773">
+<ele>247.747681</ele>
+<name>GOT027</name>
+</rtept>
+<rtept lat="56.400946" lon="-4.30647">
+<ele>240.796143</ele>
+<name>GOT028</name>
+</rtept>
+<rtept lat="56.403484" lon="-4.308708">
+<ele>246.266296</ele>
+<name>GOT029</name>
+</rtept>
+<rtept lat="56.404074" lon="-4.309649">
+<ele>251.683228</ele>
+<name>GOT030</name>
+</rtept>
+<rtept lat="56.405434" lon="-4.311402">
+<ele>252.801147</ele>
+<name>GOT031</name>
+</rtept>
+<rtept lat="56.406197" lon="-4.312749">
+<ele>249.058105</ele>
+<name>GOT032</name>
+</rtept>
+<rtept lat="56.406852" lon="-4.314249">
+<ele>258.153931</ele>
+<name>GOT033</name>
+</rtept>
+<rtept lat="56.407641" lon="-4.316718">
+<ele>259.914001</ele>
+<name>GOT034</name>
+</rtept>
+<rtept lat="56.407996" lon="-4.317433">
+<ele>255.95166</ele>
+<name>GOT035</name>
+</rtept>
+<rtept lat="56.408538" lon="-4.318137">
+<ele>260.683716</ele>
+<name>GOT036</name>
+</rtept>
+<rtept lat="56.409714" lon="-4.319303">
+<ele>261.522583</ele>
+<name>GOT037</name>
+</rtept>
+<rtept lat="56.410587" lon="-4.320496">
+<ele>266.493164</ele>
+<name>GOT038</name>
+</rtept>
+<rtept lat="56.412564" lon="-4.32455">
+<ele>265.141052</ele>
+<name>GOT039</name>
+</rtept>
+<rtept lat="56.414158" lon="-4.328506">
+<ele>271.772339</ele>
+<name>GOT040</name>
+</rtept>
+<rtept lat="56.414654" lon="-4.329229">
+<ele>274.77655</ele>
+<name>GOT041</name>
+</rtept>
+<rtept lat="56.416701" lon="-4.3309">
+<ele>277.173218</ele>
+<name>GOT042</name>
+</rtept>
+<rtept lat="56.416605" lon="-4.330682">
+<ele>281.738403</ele>
+<name>GOT043</name>
+</rtept>
+<rtept lat="56.416364" lon="-4.329521">
+<ele>281.616699</ele>
+<name>GOT044</name>
+</rtept>
+<rtept lat="56.416084" lon="-4.32899">
+<ele>268.453247</ele>
+<name>GOT045</name>
+</rtept>
+<rtept lat="56.415636" lon="-4.328477">
+<ele>257.153259</ele>
+<name>GOT046</name>
+</rtept>
+<rtept lat="56.415106" lon="-4.327231">
+<ele>262.824951</ele>
+<name>GOT047</name>
+</rtept>
+<rtept lat="56.414671" lon="-4.326637">
+<ele>260.717285</ele>
+<name>GOT048</name>
+</rtept>
+<rtept lat="56.414723" lon="-4.326366">
+<ele>260.755798</ele>
+<name>GOT049</name>
+</rtept>
+<rtept lat="56.414362" lon="-4.325401">
+<ele>261.275146</ele>
+<name>GOT050</name>
+</rtept>
+<rtept lat="56.414237" lon="-4.324343">
+<ele>273.792358</ele>
+<name>GOT051</name>
+</rtept>
+<rtept lat="56.413714" lon="-4.323261">
+<ele>258.469116</ele>
+<name>GOT052</name>
+</rtept>
+<rtept lat="56.413559" lon="-4.323244">
+<ele>258.086548</ele>
+<name>GOT053</name>
+</rtept>
+<rtept lat="56.411554" lon="-4.321151">
+<ele>236.785706</ele>
+<name>GOT054</name>
+</rtept>
+<rtept lat="56.410471" lon="-4.31927">
+<ele>227.209167</ele>
+<name>GOT055</name>
+</rtept>
+<rtept lat="56.410307" lon="-4.318616">
+<ele>210.105713</ele>
+<name>GOT056</name>
+</rtept>
+<rtept lat="56.410275" lon="-4.318047">
+<ele>197.428955</ele>
+<name>GOT057</name>
+</rtept>
+<rtept lat="56.410358" lon="-4.317488">
+<ele>197.72467</ele>
+<name>GOT058</name>
+</rtept>
+<rtept lat="56.410604" lon="-4.316807">
+<ele>208.536377</ele>
+<name>GOT059</name>
+</rtept>
+<rtept lat="56.410603" lon="-4.316292">
+<ele>209.496399</ele>
+<name>GOT060</name>
+</rtept>
+<rtept lat="56.410354" lon="-4.315738">
+<ele>207.159302</ele>
+<name>GOT061</name>
+</rtept>
+<rtept lat="56.409177" lon="-4.313906">
+<ele>183.880981</ele>
+<name>GOT062</name>
+</rtept>
+<rtept lat="56.40897" lon="-4.312976">
+<ele>192.562134</ele>
+<name>GOT063</name>
+</rtept>
+<rtept lat="56.408704" lon="-4.312717">
+<ele>184.012939</ele>
+<name>GOT064</name>
+</rtept>
+<rtept lat="56.408623" lon="-4.312345">
+<ele>179.115845</ele>
+<name>GOT065</name>
+</rtept>
+<rtept lat="56.408456" lon="-4.312288">
+<ele>182.494507</ele>
+<name>GOT066</name>
+</rtept>
+<rtept lat="56.408474" lon="-4.312143">
+<ele>177.557861</ele>
+<name>GOT067</name>
+</rtept>
+<rtept lat="56.407976" lon="-4.311075">
+<ele>172.768005</ele>
+<name>GOT068</name>
+</rtept>
+<rtept lat="56.407872" lon="-4.309988">
+<ele>179.63147</ele>
+<name>GOT069</name>
+</rtept>
+<rtept lat="56.407557" lon="-4.309527">
+<ele>182.393677</ele>
+<name>GOT070</name>
+</rtept>
+<rtept lat="56.40695" lon="-4.308187">
+<ele>182.823547</ele>
+<name>GOT071</name>
+</rtept>
+<rtept lat="56.404824" lon="-4.305153">
+<ele>169.335327</ele>
+<name>GOT072</name>
+</rtept>
+<rtept lat="56.404056" lon="-4.304931">
+<ele>177.238281</ele>
+<name>GOT073</name>
+</rtept>
+<rtept lat="56.403635" lon="-4.304418">
+<ele>180.472412</ele>
+<name>GOT074</name>
+</rtept>
+<rtept lat="56.403674" lon="-4.30412">
+<ele>182.776428</ele>
+<name>GOT075</name>
+</rtept>
+<rtept lat="56.403557" lon="-4.303927">
+<ele>184.97937</ele>
+<name>GOT076</name>
+</rtept>
+<rtept lat="56.402847" lon="-4.303132">
+<ele>177.088745</ele>
+<name>GOT077</name>
+</rtept>
+<rtept lat="56.402697" lon="-4.303101">
+<ele>177.600586</ele>
+<name>GOT078</name>
+</rtept>
+<rtept lat="56.402359" lon="-4.302532">
+<ele>184.761536</ele>
+<name>GOT079</name>
+</rtept>
+<rtept lat="56.402144" lon="-4.301894">
+<ele>184.665039</ele>
+<name>GOT080</name>
+</rtept>
+<rtept lat="56.402157" lon="-4.301612">
+<ele>188.100586</ele>
+<name>GOT081</name>
+</rtept>
+<rtept lat="56.402317" lon="-4.301532">
+<ele>187.605286</ele>
+<name>GOT082</name>
+</rtept>
+<rtept lat="56.40199" lon="-4.300855">
+<ele>172.487915</ele>
+<name>GOT083</name>
+</rtept>
+<rtept lat="56.401641" lon="-4.30063">
+<ele>175.724731</ele>
+<name>GOT084</name>
+</rtept>
+<rtept lat="56.401081" lon="-4.298929">
+<ele>187.174377</ele>
+<name>GOT085</name>
+</rtept>
+<rtept lat="56.400725" lon="-4.29852">
+<ele>184.555054</ele>
+<name>GOT086</name>
+</rtept>
+<rtept lat="56.400193" lon="-4.297311">
+<ele>182.272949</ele>
+<name>GOT087</name>
+</rtept>
+<rtept lat="56.400042" lon="-4.29728">
+<ele>182.039124</ele>
+<name>GOT088</name>
+</rtept>
+<rtept lat="56.399809" lon="-4.296873">
+<ele>179.891418</ele>
+<name>GOT089</name>
+</rtept>
+<rtept lat="56.3996" lon="-4.296751">
+<ele>178.447205</ele>
+<name>GOT090</name>
+</rtept>
+<rtept lat="56.399038" lon="-4.295874">
+<ele>175.773438</ele>
+<name>GOT091</name>
+</rtept>
+<rtept lat="56.398673" lon="-4.295607">
+<ele>179.325928</ele>
+<name>GOT092</name>
+</rtept>
+<rtept lat="56.398221" lon="-4.295536">
+<ele>173.217773</ele>
+<name>GOT093</name>
+</rtept>
+<rtept lat="56.397709" lon="-4.295091">
+<ele>166.421265</ele>
+<name>GOT094</name>
+</rtept>
+<rtept lat="56.397131" lon="-4.295102">
+<ele>158.429077</ele>
+<name>GOT095</name>
+</rtept>
+<rtept lat="56.396976" lon="-4.294724">
+<ele>157.067688</ele>
+<name>GOT096</name>
+</rtept>
+<rtept lat="56.395913" lon="-4.293591">
+<ele>164.991638</ele>
+<name>GOT097</name>
+</rtept>
+<rtept lat="56.395714" lon="-4.293172">
+<ele>171.380615</ele>
+<name>GOT098</name>
+</rtept>
+<rtept lat="56.394982" lon="-4.292891">
+<ele>156.571411</ele>
+<name>GOT099</name>
+</rtept>
+<rtept lat="56.394156" lon="-4.292945">
+<ele>151.512451</ele>
+<name>GOT100</name>
+</rtept>
+<rtept lat="56.393431" lon="-4.292517">
+<ele>144.103027</ele>
+<name>GOT101</name>
+</rtept>
+<rtept lat="56.393183" lon="-4.291999">
+<ele>142.202942</ele>
+<name>GOT102</name>
+</rtept>
+<rtept lat="56.393066" lon="-4.291481">
+<ele>151.187622</ele>
+<name>GOT103</name>
+</rtept>
+<rtept lat="56.392529" lon="-4.2914">
+<ele>139.43811</ele>
+<name>GOT104</name>
+</rtept>
+<rtept lat="56.392144" lon="-4.291149">
+<ele>141.788452</ele>
+<name>GOT105</name>
+</rtept>
+<rtept lat="56.391928" lon="-4.290737">
+<ele>136.126465</ele>
+<name>GOT106</name>
+</rtept>
+<rtept lat="56.391716" lon="-4.29068">
+<ele>132.220093</ele>
+<name>GOT107</name>
+</rtept>
+<rtept lat="56.391167" lon="-4.290133">
+<ele>119.861267</ele>
+<name>GOT108</name>
+</rtept>
+<rtept lat="56.39103" lon="-4.289652">
+<ele>114.261536</ele>
+<name>GOT109</name>
+</rtept>
+<rtept lat="56.390999" lon="-4.289092">
+<ele>109.343384</ele>
+<name>GOT110</name>
+</rtept>
+<rtept lat="56.390881" lon="-4.28889">
+<ele>117.642639</ele>
+<name>GOT111</name>
+</rtept>
+<rtept lat="56.389635" lon="-4.288043">
+<ele>107.898865</ele>
+<name>GOT112</name>
+</rtept>
+<rtept lat="56.389255" lon="-4.288169">
+<ele>106.23114</ele>
+<name>GOT113</name>
+</rtept>
+<rtept lat="56.389041" lon="-4.28844">
+<ele>107.264404</ele>
+<name>GOT114</name>
+</rtept>
+<rtept lat="56.389048" lon="-4.288579">
+<ele>108.205933</ele>
+<name>GOT115</name>
+</rtept>
+<rtept lat="56.388686" lon="-4.288829">
+<ele>104.34375</ele>
+<name>GOT116</name>
+</rtept>
+<rtept lat="56.388286" lon="-4.289474">
+<ele>116.800232</ele>
+<name>GOT119</name>
+</rtept>
+<rtept lat="56.387934" lon="-4.28882">
+<ele>113.508118</ele>
+<name>GOT120</name>
+</rtept>
+<rtept lat="56.38743" lon="-4.288653">
+<ele>123.367065</ele>
+<name>GOT121</name>
+</rtept>
+<rtept lat="56.387316" lon="-4.289005">
+<ele>121.246155</ele>
+<name>GOT122</name>
+</rtept>
+<rtept lat="56.3870723456037" lon="-4.28852343576617">
+<ele>112.358766241434</ele>
+<name>GOT123</name>
+</rtept>
+<rtept lat="56.3856341805181" lon="-4.28756233303196">
+<ele>107.118766241434</ele>
+<name>GOT124</name>
+</rtept>
+<rtept lat="56.3855827310265" lon="-4.28728222128717">
+<ele>106.092766241434</ele>
+<name>GOT125</name>
+</rtept>
+<rtept lat="56.3861910003827" lon="-4.2850003843699">
+<ele>101.328528999862</ele>
+<name>GOT126</name>
+</rtept>
+<rtept lat="56.3853315289669" lon="-4.28028323024631">
+<ele>98.556009086119</ele>
+<name>GOT127</name>
+</rtept>
+</rte>
+</gpx>

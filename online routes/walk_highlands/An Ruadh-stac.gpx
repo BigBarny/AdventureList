@@ -1,0 +1,654 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>An Ruadh-stac</name>
+<rtept lat="57.4498234493552" lon="-5.40741131361941">
+<ele>25</ele>
+<name>ARS001</name>
+</rtept>
+<rtept lat="57.4502139627627" lon="-5.40646715150544">
+<ele>25.5350481808305</ele>
+<name>ARS002</name>
+</rtept>
+<rtept lat="57.4500157074305" lon="-5.4054214949969">
+<ele>26.0812052720785</ele>
+<name>ARS003</name>
+</rtept>
+<rtept lat="57.4509896441501" lon="-5.40507521688148">
+<ele>29.8527970991381</ele>
+<name>ARS004</name>
+</rtept>
+<rtept lat="57.4519339746252" lon="-5.40475950749354">
+<ele>29.3490888777018</ele>
+<name>ARS005</name>
+</rtept>
+<rtept lat="57.4522722547049" lon="-5.40528126584896">
+<ele>29</ele>
+<name>ARS006</name>
+</rtept>
+<rtept lat="57.4530712797935" lon="-5.40551904881643">
+<ele>30.1626783335432</ele>
+<name>ARS007</name>
+</rtept>
+<rtept lat="57.4549997653451" lon="-5.40936427560352">
+<ele>38.0030888776958</ele>
+<name>ARS008</name>
+</rtept>
+<rtept lat="57.4555967184687" lon="-5.40916305461962">
+<ele>43.7790281481028</ele>
+<name>ARS009</name>
+</rtept>
+<rtept lat="57.4560121348821" lon="-5.41008903622233">
+<ele>44.7406989977002</ele>
+<name>ARS010</name>
+</rtept>
+<rtept lat="57.4592343962936" lon="-5.41216407758275">
+<ele>67.056972483325</ele>
+<name>ARS011</name>
+</rtept>
+<rtept lat="57.4599505789105" lon="-5.41220752028591">
+<ele>73.7752409041166</ele>
+<name>ARS012</name>
+</rtept>
+<rtept lat="57.4618302786197" lon="-5.41366726823682">
+<ele>79.5477271457672</ele>
+<name>ARS013</name>
+</rtept>
+<rtept lat="57.4626316603858" lon="-5.41474625846412">
+<ele>86.8731038455963</ele>
+<name>ARS014</name>
+</rtept>
+<rtept lat="57.4630107912534" lon="-5.41468823335661">
+<ele>97.544658932209</ele>
+<name>ARS015</name>
+</rtept>
+<rtept lat="57.4641875045637" lon="-5.41584903979409">
+<ele>115.290451872492</ele>
+<name>ARS016</name>
+</rtept>
+<rtept lat="57.4646594829259" lon="-5.41607995455386">
+<ele>128.082411175537</ele>
+<name>ARS017</name>
+</rtept>
+<rtept lat="57.4650033152714" lon="-5.41685943263217">
+<ele>126.026451872444</ele>
+<name>ARS018</name>
+</rtept>
+<rtept lat="57.4661267643983" lon="-5.4174314993685">
+<ele>138.213610119987</ele>
+<name>ARS019</name>
+</rtept>
+<rtept lat="57.4675835970087" lon="-5.41754426352886">
+<ele>150.130075697508</ele>
+<name>ARS020</name>
+</rtept>
+<rtept lat="57.467732253731" lon="-5.41809536484701">
+<ele>153.582512602019</ele>
+<name>ARS021</name>
+</rtept>
+<rtept lat="57.4684182678494" lon="-5.41832298031397">
+<ele>154.950268420792</ele>
+<name>ARS022</name>
+</rtept>
+<rtept lat="57.4685562643999" lon="-5.41880302861565">
+<ele>154.311767211241</ele>
+<name>ARS023</name>
+</rtept>
+<rtept lat="57.4693364276742" lon="-5.41903946490372">
+<ele>157.40588360562</ele>
+<name>ARS024</name>
+</rtept>
+<rtept lat="57.4701728889637" lon="-5.42021551839239">
+<ele>163.196779760027</ele>
+<name>ARS025</name>
+</rtept>
+<rtept lat="57.4718067297986" lon="-5.42029824900002">
+<ele>167.225548758984</ele>
+<name>ARS026</name>
+</rtept>
+<rtept lat="57.4742651474277" lon="-5.4212991251263">
+<ele>178.825189672804</ele>
+<name>ARS027</name>
+</rtept>
+<rtept lat="57.4758683873893" lon="-5.42065482811811">
+<ele>172.625438060834</ele>
+<name>ARS028</name>
+</rtept>
+<rtept lat="57.476252480991" lon="-5.4208776623077">
+<ele>181.53886178515</ele>
+<name>ARS029</name>
+</rtept>
+<rtept lat="57.4780030457572" lon="-5.42106482313425">
+<ele>176.498410544133</ele>
+<name>ARS030</name>
+</rtept>
+<rtept lat="57.4788338928127" lon="-5.42198367970438">
+<ele>184.360780391407</ele>
+<name>ARS031</name>
+</rtept>
+<rtept lat="57.4805519108428" lon="-5.42174729066551">
+<ele>177.374177124</ele>
+<name>ARS032</name>
+</rtept>
+<rtept lat="57.4812339565136" lon="-5.4228158568355">
+<ele>185.3802935184</ele>
+<name>ARS033</name>
+</rtept>
+<rtept lat="57.483182148317" lon="-5.42337215627433">
+<ele>187.603013180161</ele>
+<name>ARS034</name>
+</rtept>
+<rtept lat="57.4838648695596" lon="-5.42418385459607">
+<ele>192.918450609636</ele>
+<name>ARS035</name>
+</rtept>
+<rtept lat="57.4847134286725" lon="-5.42445029401025">
+<ele>201.012151395035</ele>
+<name>ARS036</name>
+</rtept>
+<rtept lat="57.4850165826227" lon="-5.4269557183686">
+<ele>232.597254609275</ele>
+<name>ARS037</name>
+</rtept>
+<rtept lat="57.4847710969623" lon="-5.42718974932227">
+<ele>226.357792308855</ele>
+<name>ARS038</name>
+</rtept>
+<rtept lat="57.4849397419366" lon="-5.42792997361274">
+<ele>242.978206428432</ele>
+<name>ARS039</name>
+</rtept>
+<rtept lat="57.484782761605" lon="-5.42814893086302">
+<ele>239.442744128036</ele>
+<name>ARS040</name>
+</rtept>
+<rtept lat="57.4848403242246" lon="-5.42880863496668">
+<ele>246.409599585628</ele>
+<name>ARS041</name>
+</rtept>
+<rtept lat="57.484522687016" lon="-5.42891904434588">
+<ele>253.866590612268</ele>
+<name>ARS042</name>
+</rtept>
+<rtept lat="57.4846247490684" lon="-5.42979323186089">
+<ele>276.076941284847</ele>
+<name>ARS043</name>
+</rtept>
+<rtept lat="57.4843246040158" lon="-5.43018568631365">
+<ele>294.802593995714</ele>
+<name>ARS044</name>
+</rtept>
+<rtept lat="57.4844174157949" lon="-5.43047480993301">
+<ele>294.720707006693</ele>
+<name>ARS045</name>
+</rtept>
+<rtept lat="57.4841731930492" lon="-5.43066219717693">
+<ele>296.596435010386</ele>
+<name>ARS046</name>
+</rtept>
+<rtept lat="57.4844052184921" lon="-5.43138500883749">
+<ele>299.628222254372</ele>
+<name>ARS047</name>
+</rtept>
+<rtept lat="57.484295906229" lon="-5.43170189471699">
+<ele>325.446299845958</ele>
+<name>ARS048</name>
+</rtept>
+<rtept lat="57.4846325034711" lon="-5.43320567849527">
+<ele>333.585751611996</ele>
+<name>ARS049</name>
+</rtept>
+<rtept lat="57.4844421512859" lon="-5.43372525884347">
+<ele>343.759158247614</ele>
+<name>ARS050</name>
+</rtept>
+<rtept lat="57.4844922134995" lon="-5.43419731941232">
+<ele>347.171655250359</ele>
+<name>ARS051</name>
+</rtept>
+<rtept lat="57.4847532896694" lon="-5.43431532196332">
+<ele>354.070978179502</ele>
+<name>ARS052</name>
+</rtept>
+<rtept lat="57.4850666554716" lon="-5.4357468619294">
+<ele>358.643635217595</ele>
+<name>ARS053</name>
+</rtept>
+<rtept lat="57.4847801573262" lon="-5.43656118156091">
+<ele>365.164819825554</ele>
+<name>ARS054</name>
+</rtept>
+<rtept lat="57.4843550258832" lon="-5.44383534689783">
+<ele>454.68427285428</ele>
+<name>ARS055</name>
+</rtept>
+<rtept lat="57.4848054739386" lon="-5.44439188947094">
+<ele>458.989985663462</ele>
+<name>ARS056</name>
+</rtept>
+<rtept lat="57.4849520971072" lon="-5.44501328237288">
+<ele>454.368080762386</ele>
+<name>ARS057</name>
+</rtept>
+<rtept lat="57.4842740905099" lon="-5.44679543826147">
+<ele>495.75338872366</ele>
+<name>ARS058</name>
+</rtept>
+<rtept lat="57.4837894243371" lon="-5.44703014441527">
+<ele>495.689771644783</ele>
+<name>ARS059</name>
+</rtept>
+<rtept lat="57.4834262609121" lon="-5.44788385447937">
+<ele>506.043128943181</ele>
+<name>ARS060</name>
+</rtept>
+<rtept lat="57.4833173573056" lon="-5.45002337125469">
+<ele>560.526463896084</ele>
+<name>ARS061</name>
+</rtept>
+<rtept lat="57.4828292825136" lon="-5.45084188205211">
+<ele>569.363101532841</ele>
+<name>ARS062</name>
+</rtept>
+<rtept lat="57.4826097062786" lon="-5.45196612804762">
+<ele>580.478570579481</ele>
+<name>ARS063</name>
+</rtept>
+<rtept lat="57.482066585195" lon="-5.45246395655086">
+<ele>586.6404329931</ele>
+<name>ARS064</name>
+</rtept>
+<rtept lat="57.4802664704704" lon="-5.45175654257804">
+<ele>561.769016966834</ele>
+<name>ARS065</name>
+</rtept>
+<rtept lat="57.4796306445023" lon="-5.45307837675824">
+<ele>551.05922653083</ele>
+<name>ARS066</name>
+</rtept>
+<rtept lat="57.478341855299" lon="-5.45483745927657">
+<ele>532.1089048164</ele>
+<name>ARS067</name>
+</rtept>
+<rtept lat="57.4783117840248" lon="-5.45518007297274">
+<ele>534.675347768192</ele>
+<name>ARS068</name>
+</rtept>
+<rtept lat="57.4774291168489" lon="-5.45720772067859">
+<ele>541.463991659102</ele>
+<name>ARS069</name>
+</rtept>
+<rtept lat="57.4775404741628" lon="-5.45767050492246">
+<ele>551.826407083678</ele>
+<name>ARS070</name>
+</rtept>
+<rtept lat="57.4774574141804" lon="-5.45833852567893">
+<ele>570.71419011532</ele>
+<name>ARS071</name>
+</rtept>
+<rtept lat="57.4773820091218" lon="-5.45902228730149">
+<ele>589.890748987413</ele>
+<name>ARS072</name>
+</rtept>
+<rtept lat="57.4774189108136" lon="-5.45944632367925">
+<ele>603.728083545324</ele>
+<name>ARS073</name>
+</rtept>
+<rtept lat="57.4774572984349" lon="-5.46011081338205">
+<ele>626.127399635693</ele>
+<name>ARS074</name>
+</rtept>
+<rtept lat="57.4773541313033" lon="-5.46062672996787">
+<ele>641.544388049988</ele>
+<name>ARS075</name>
+</rtept>
+<rtept lat="57.4772277365767" lon="-5.46081001806155">
+<ele>646.24861839377</ele>
+<name>ARS076</name>
+</rtept>
+<rtept lat="57.4768577796912" lon="-5.46220182655796">
+<ele>699.438217306988</ele>
+<name>ARS077</name>
+</rtept>
+<rtept lat="57.4765212419441" lon="-5.4629659706905">
+<ele>729.732609135826</ele>
+<name>ARS078</name>
+</rtept>
+<rtept lat="57.4764247306838" lon="-5.46382793623343">
+<ele>759.921146681828</ele>
+<name>ARS079</name>
+</rtept>
+<rtept lat="57.4765439605445" lon="-5.46419969151688">
+<ele>774.7111471934</ele>
+<name>ARS080</name>
+</rtept>
+<rtept lat="57.476365749653" lon="-5.46538433132617">
+<ele>808.157098137917</ele>
+<name>ARS081</name>
+</rtept>
+<rtept lat="57.4762978960784" lon="-5.46549805230355">
+<ele>809.309098137924</ele>
+<name>ARS082</name>
+</rtept>
+<rtept lat="57.4761821043048" lon="-5.4661779508711">
+<ele>822.876046422606</ele>
+<name>ARS083</name>
+</rtept>
+<rtept lat="57.4762906101627" lon="-5.46693919023893">
+<ele>842.224729366837</ele>
+<name>ARS084</name>
+</rtept>
+<rtept lat="57.4762411927652" lon="-5.46726492292459">
+<ele>846.640827752289</ele>
+<name>ARS085</name>
+</rtept>
+<rtept lat="57.4760035222994" lon="-5.46796329277334">
+<ele>846.710219514846</ele>
+<name>ARS086</name>
+</rtept>
+<rtept lat="57.4750074807292" lon="-5.46828933739321">
+<ele>820.056616885523</ele>
+<name>ARS087</name>
+</rtept>
+<rtept lat="57.4760035222994" lon="-5.46796329277334">
+<ele>846.710219514846</ele>
+<name>ARS088</name>
+</rtept>
+<rtept lat="57.4762420172706" lon="-5.46723496304773">
+<ele>846.076537922098</ele>
+<name>ARS089</name>
+</rtept>
+<rtept lat="57.4762748830859" lon="-5.46692267986099">
+<ele>841.223475553052</ele>
+<name>ARS090</name>
+</rtept>
+<rtept lat="57.4761821043048" lon="-5.4661779508711">
+<ele>822.876046422606</ele>
+<name>ARS091</name>
+</rtept>
+<rtept lat="57.4763063777806" lon="-5.46548383720441">
+<ele>809.165098137896</ele>
+<name>ARS092</name>
+</rtept>
+<rtept lat="57.4763746433721" lon="-5.46535513615169">
+<ele>807.572098137916</ele>
+<name>ARS093</name>
+</rtept>
+<rtept lat="57.4765443724354" lon="-5.46418471140618">
+<ele>774.163820268858</ele>
+<name>ARS094</name>
+</rtept>
+<rtept lat="57.4764408700282" lon="-5.4638294652921">
+<ele>760.487753899246</ele>
+<name>ARS095</name>
+</rtept>
+<rtept lat="57.4765369695565" lon="-5.46298247950191">
+<ele>730.308668987846</ele>
+<name>ARS096</name>
+</rtept>
+<rtept lat="57.4768586029997" lon="-5.46217186601606">
+<ele>698.203930986226</ele>
+<name>ARS097</name>
+</rtept>
+<rtept lat="57.4772273250834" lon="-5.46082499850532">
+<ele>646.750373478653</ele>
+<name>ARS098</name>
+</rtept>
+<rtept lat="57.4773622010016" lon="-5.4606274938186">
+<ele>641.665627100639</ele>
+<name>ARS099</name>
+</rtept>
+<rtept lat="57.4774653681374" lon="-5.46011157712206">
+<ele>626.279823686326</ele>
+<name>ARS100</name>
+</rtept>
+<rtept lat="57.4774112524356" lon="-5.45943057954657">
+<ele>603.050738409715</ele>
+<name>ARS101</name>
+</rtept>
+<rtept lat="57.4773820091218" lon="-5.45902228730149">
+<ele>589.890748987375</ele>
+<name>ARS102</name>
+</rtept>
+<rtept lat="57.4774574141804" lon="-5.45833852567893">
+<ele>570.714190115306</ele>
+<name>ARS103</name>
+</rtept>
+<rtept lat="57.477548543886" lon="-5.45767126812693">
+<ele>551.944243329957</ele>
+<name>ARS104</name>
+</rtept>
+<rtept lat="57.477431761084" lon="-5.45720963955432">
+<ele>541.54371935505</ele>
+<name>ARS105</name>
+</rtept>
+<rtept lat="57.4783039262028" lon="-5.455204363326">
+<ele>534.68140679456</ele>
+<name>ARS106</name>
+</rtept>
+<rtept lat="57.4783141964352" lon="-5.45482983887363">
+<ele>531.155172124766</ele>
+<name>ARS107</name>
+</rtept>
+<rtept lat="57.4796449986263" lon="-5.45306304335532">
+<ele>551.25413661589</ele>
+<name>ARS108</name>
+</rtept>
+<rtept lat="57.4802637882597" lon="-5.45173959977494">
+<ele>561.610093481524</ele>
+<name>ARS109</name>
+</rtept>
+<rtept lat="57.4808252553005" lon="-5.45132697125275">
+<ele>575.56114064328</ele>
+<name>ARS110</name>
+</rtept>
+<rtept lat="57.4812870012061" lon="-5.44923758600104">
+<ele>599.997056343355</ele>
+<name>ARS111</name>
+</rtept>
+<rtept lat="57.4807302123551" lon="-5.44533973812806">
+<ele>637.329963154153</ele>
+<name>ARS112</name>
+</rtept>
+<rtept lat="57.4808712093032" lon="-5.44491742421702">
+<ele>643.421976762964</ele>
+<name>ARS113</name>
+</rtept>
+<rtept lat="57.4808623985622" lon="-5.44168712751351">
+<ele>651.134331278057</ele>
+<name>ARS114</name>
+</rtept>
+<rtept lat="57.4806318012906" lon="-5.44005820600468">
+<ele>631.266195520723</ele>
+<name>ARS115</name>
+</rtept>
+<rtept lat="57.4801501735831" lon="-5.43962235144688">
+<ele>619.048024145644</ele>
+<name>ARS116</name>
+</rtept>
+<rtept lat="57.4794765228546" lon="-5.43792176954515">
+<ele>589.431663525256</ele>
+<name>ARS117</name>
+</rtept>
+<rtept lat="57.4790916283211" lon="-5.4366088733738">
+<ele>566.237956834038</ele>
+<name>ARS118</name>
+</rtept>
+<rtept lat="57.4782960701009" lon="-5.43492698486921">
+<ele>534.680884425852</ele>
+<name>ARS119</name>
+</rtept>
+<rtept lat="57.4776199772835" lon="-5.43435280470062">
+<ele>521.564954674226</ele>
+<name>ARS120</name>
+</rtept>
+<rtept lat="57.4769692682855" lon="-5.43388616420982">
+<ele>498.056624651927</ele>
+<name>ARS121</name>
+</rtept>
+<rtept lat="57.4768041950731" lon="-5.43400583166303">
+<ele>495.479852901087</ele>
+<name>ARS122</name>
+</rtept>
+<rtept lat="57.4766538201504" lon="-5.43358619534916">
+<ele>484.445892206758</ele>
+<name>ARS123</name>
+</rtept>
+<rtept lat="57.475069444615" lon="-5.43294180544993">
+<ele>425.637400090786</ele>
+<name>ARS124</name>
+</rtept>
+<rtept lat="57.4744504671551" lon="-5.43160715586314">
+<ele>406.855022049351</ele>
+<name>ARS125</name>
+</rtept>
+<rtept lat="57.4750283788896" lon="-5.42850755389266">
+<ele>337.249780450942</ele>
+<name>ARS126</name>
+</rtept>
+<rtept lat="57.4749042330386" lon="-5.42801532992215">
+<ele>328.054025154086</ele>
+<name>ARS127</name>
+</rtept>
+<rtept lat="57.4749790625551" lon="-5.42734652418996">
+<ele>309.712156951124</ele>
+<name>ARS128</name>
+</rtept>
+<rtept lat="57.4748867846181" lon="-5.42687231001144">
+<ele>297.990293883503</ele>
+<name>ARS129</name>
+</rtept>
+<rtept lat="57.4751060985953" lon="-5.42445990181606">
+<ele>224.567063747944</ele>
+<name>ARS130</name>
+</rtept>
+<rtept lat="57.4753944645523" lon="-5.42337554817276">
+<ele>199.067816147675</ele>
+<name>ARS131</name>
+</rtept>
+<rtept lat="57.4755762147102" lon="-5.42264164194583">
+<ele>185.380080720802</ele>
+<name>ARS132</name>
+</rtept>
+<rtept lat="57.4757863717745" lon="-5.42115946017525">
+<ele>175.555471972843</ele>
+<name>ARS133</name>
+</rtept>
+<rtept lat="57.4756194065382" lon="-5.42075335730962">
+<ele>174.113752577116</ele>
+<name>ARS134</name>
+</rtept>
+<rtept lat="57.4742586616491" lon="-5.42125680787036">
+<ele>177.642596403065</ele>
+<name>ARS135</name>
+</rtept>
+<rtept lat="57.4718131932035" lon="-5.42029218537251">
+<ele>168.244360324526</ele>
+<name>ARS136</name>
+</rtept>
+<rtept lat="57.4701652767" lon="-5.42019812780335">
+<ele>162.434008141168</ele>
+<name>ARS137</name>
+</rtept>
+<rtept lat="57.4693387171624" lon="-5.41905470083949">
+<ele>157.259841794701</ele>
+<name>ARS138</name>
+</rtept>
+<rtept lat="57.4685680560271" lon="-5.41883249961658">
+<ele>154.885126491001</ele>
+<name>ARS139</name>
+</rtept>
+<rtept lat="57.468396263365" lon="-5.41830591421586">
+<ele>154.719014272382</ele>
+<name>ARS140</name>
+</rtept>
+<rtept lat="57.4677381751931" lon="-5.41810927111836">
+<ele>152.64574857285</ele>
+<name>ARS141</name>
+</rtept>
+<rtept lat="57.4675675982595" lon="-5.41753776957993">
+<ele>156.213988446794</ele>
+<name>ARS142</name>
+</rtept>
+<rtept lat="57.466127089462" lon="-5.4174031749543">
+<ele>140.168805801737</ele>
+<name>ARS143</name>
+</rtept>
+<rtept lat="57.4650336758332" lon="-5.41685059707251">
+<ele>121.013403945258</ele>
+<name>ARS144</name>
+</rtept>
+<rtept lat="57.4646666200914" lon="-5.41606561317547">
+<ele>117.149918062237</ele>
+<name>ARS145</name>
+</rtept>
+<rtept lat="57.464190916751" lon="-5.41585603722323">
+<ele>107.532935071449</ele>
+<name>ARS146</name>
+</rtept>
+<rtept lat="57.4630326278021" lon="-5.41471196353425">
+<ele>87.7115856219752</ele>
+<name>ARS147</name>
+</rtept>
+<rtept lat="57.4626351628524" lon="-5.41474992766783">
+<ele>79.751537868307</ele>
+<name>ARS148</name>
+</rtept>
+<rtept lat="57.4618791510403" lon="-5.41368851556696">
+<ele>80.1472963874575</ele>
+<name>ARS149</name>
+</rtept>
+<rtept lat="57.4599530044903" lon="-5.41221776051443">
+<ele>68.8258985400092</ele>
+<name>ARS150</name>
+</rtept>
+<rtept lat="57.4592307277573" lon="-5.4121503977525">
+<ele>63.8286460127921</ele>
+<name>ARS151</name>
+</rtept>
+<rtept lat="57.4560295340208" lon="-5.41011067754104">
+<ele>44.5654094403224</ele>
+<name>ARS152</name>
+</rtept>
+<rtept lat="57.4555934489997" lon="-5.40918443737995">
+<ele>44.2077344870812</ele>
+<name>ARS153</name>
+</rtept>
+<rtept lat="57.4550063182915" lon="-5.40935488554967">
+<ele>39.4427090147045</ele>
+<name>ARS154</name>
+</rtept>
+<rtept lat="57.4530666209418" lon="-5.40554196878368">
+<ele>33.0675371316454</ele>
+<name>ARS155</name>
+</rtept>
+<rtept lat="57.4523088450026" lon="-5.40529134713879">
+<ele>30.6883273332506</ele>
+<name>ARS156</name>
+</rtept>
+<rtept lat="57.4519271668307" lon="-5.40474553915493">
+<ele>32.5424453419728</ele>
+<name>ARS157</name>
+</rtept>
+<rtept lat="57.4509845338529" lon="-5.40506473592872">
+<ele>29.8676527108472</ele>
+<name>ARS158</name>
+</rtept>
+<rtept lat="57.4500241434127" lon="-5.40540894562616">
+<ele>26.0213801652089</ele>
+<name>ARS159</name>
+</rtept>
+<rtept lat="57.4502217689737" lon="-5.40647788937524">
+<ele>24.7070974228073</ele>
+<name>ARS160</name>
+</rtept>
+<rtept lat="57.449833097238" lon="-5.40738720486296">
+<ele>24.4615121886272</ele>
+<name>ARS161</name>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,874 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Papa Stour: the coastal circuit</name>
+<rtept lat="60.331647" lon="-1.671639">
+<ele>9.21107700254454</ele>
+<name>PapS001</name>
+</rtept>
+<rtept lat="60.331955" lon="-1.672151">
+<ele>13.209314427598</ele>
+<name>PapS002</name>
+</rtept>
+<rtept lat="60.331885" lon="-1.673276">
+<ele>13.2063747093646</ele>
+<name>PapS003</name>
+</rtept>
+<rtept lat="60.332041" lon="-1.673794">
+<ele>11.2047922009305</ele>
+<name>PapS004</name>
+</rtept>
+<rtept lat="60.332157" lon="-1.675473">
+<ele>21.200140412432</ele>
+<name>PapS005</name>
+</rtept>
+<rtept lat="60.332055" lon="-1.678784">
+<ele>22.1913649860335</ele>
+<name>PapS006</name>
+</rtept>
+<rtept lat="60.331906" lon="-1.679191">
+<ele>19.1904402636577</ele>
+<name>PapS007</name>
+</rtept>
+<rtept lat="60.330957" lon="-1.680317">
+<ele>24.1884701962136</ele>
+<name>PapS008</name>
+</rtept>
+<rtept lat="60.330628" lon="-1.681826">
+<ele>19.1847477478132</ele>
+<name>PapS009</name>
+</rtept>
+<rtept lat="60.330422" lon="-1.682288">
+<ele>14.1837195454128</ele>
+<name>PapS010</name>
+</rtept>
+<rtept lat="60.329798" lon="-1.682519">
+<ele>10.1837675106455</ele>
+<name>PapS011</name>
+</rtept>
+<rtept lat="60.328787" lon="-1.682056">
+<ele>8.18612581449852</ele>
+<name>PapS012</name>
+</rtept>
+<rtept lat="60.327518" lon="-1.680285">
+<ele>6.19239360267289</ele>
+<name>PapS013</name>
+</rtept>
+<rtept lat="60.327074" lon="-1.679912">
+<ele>11.1939194437192</ele>
+<name>PapS014</name>
+</rtept>
+<rtept lat="60.325901" lon="-1.680191">
+<ele>12.1944590964117</ele>
+<name>PapS015</name>
+</rtept>
+<rtept lat="60.325781" lon="-1.680806">
+<ele>10.1928788641344</ele>
+<name>PapS016</name>
+</rtept>
+<rtept lat="60.325859" lon="-1.680221">
+<ele>10.1944229603961</ele>
+<name>PapS017</name>
+</rtept>
+<rtept lat="60.3245349578562" lon="-1.68047855172783">
+<ele>9.78721799541906</ele>
+<name>PapS018</name>
+</rtept>
+<rtept lat="60.324224" lon="-1.68082">
+<ele>14.1945631252408</ele>
+<name>PapS019</name>
+</rtept>
+<rtept lat="60.324559" lon="-1.680452">
+<ele>15.1952251187708</ele>
+<name>PapS020</name>
+</rtept>
+<rtept lat="60.324252" lon="-1.679717">
+<ele>8.19763206234928</ele>
+<name>PapS021</name>
+</rtept>
+<rtept lat="60.323484" lon="-1.67928">
+<ele>4.19973099408205</ele>
+<name>PapS022</name>
+</rtept>
+<rtept lat="60.323239" lon="-1.679359">
+<ele>4.1997860917104</ele>
+<name>PapS023</name>
+</rtept>
+<rtept lat="60.323144" lon="-1.680722">
+<ele>5.19603466719435</ele>
+<name>PapS024</name>
+</rtept>
+<rtept lat="60.322439" lon="-1.680956">
+<ele>0.196153803679444</ele>
+<name>PapS025</name>
+</rtept>
+<rtept lat="60.32158" lon="-1.680638">
+<ele>4.1980102289901</ele>
+<name>PapS026</name>
+</rtept>
+<rtept lat="60.321269" lon="-1.680756">
+<ele>7.19801764640005</ele>
+<name>PapS027</name>
+</rtept>
+<rtept lat="60.321098" lon="-1.681098">
+<ele>8.1972260388971</ele>
+<name>PapS028</name>
+</rtept>
+<rtept lat="60.321017" lon="-1.682041">
+<ele>10.1946170655741</ele>
+<name>PapS029</name>
+</rtept>
+<rtept lat="60.320611" lon="-1.683483">
+<ele>12.1909203335854</ele>
+<name>PapS030</name>
+</rtept>
+<rtept lat="60.320265" lon="-1.684223">
+<ele>9.18916049639254</ele>
+<name>PapS031</name>
+</rtept>
+<rtept lat="60.319484" lon="-1.685086">
+<ele>6.18748882023296</ele>
+<name>PapS032</name>
+</rtept>
+<rtept lat="60.318622" lon="-1.68537">
+<ele>6.1875588435432</ele>
+<name>PapS033</name>
+</rtept>
+<rtept lat="60.316585" lon="-1.687525">
+<ele>10.1833407281101</ele>
+<name>PapS034</name>
+</rtept>
+<rtept lat="60.315833" lon="-1.689286">
+<ele>11.1789057527631</ele>
+<name>PapS035</name>
+</rtept>
+<rtept lat="60.315593" lon="-1.690125">
+<ele>17.1766624409172</ele>
+<name>PapS036</name>
+</rtept>
+<rtept lat="60.315612" lon="-1.690414">
+<ele>18.1757921145979</ele>
+<name>PapS037</name>
+</rtept>
+<rtept lat="60.3158" lon="-1.690754">
+<ele>17.1746109678439</ele>
+<name>PapS038</name>
+</rtept>
+<rtept lat="60.31583" lon="-1.691241">
+<ele>19.1731453663048</ele>
+<name>PapS039</name>
+</rtept>
+<rtept lat="60.315568" lon="-1.692085">
+<ele>21.1709009149197</ele>
+<name>PapS040</name>
+</rtept>
+<rtept lat="60.315579" lon="-1.692577">
+<ele>22.1694403969255</ele>
+<name>PapS041</name>
+</rtept>
+<rtept lat="60.316556" lon="-1.693746">
+<ele>57.1651109909487</ele>
+<name>PapS042</name>
+</rtept>
+<rtept lat="60.316749" lon="-1.694458">
+<ele>53.1628505017946</ele>
+<name>PapS043</name>
+</rtept>
+<rtept lat="60.316646" lon="-1.695914">
+<ele>47.1586703112885</ele>
+<name>PapS044</name>
+</rtept>
+<rtept lat="60.316299" lon="-1.696366">
+<ele>40.1576411566147</ele>
+<name>PapS045</name>
+</rtept>
+<rtept lat="60.315839" lon="-1.696569">
+<ele>32.1574371733884</ele>
+<name>PapS046</name>
+</rtept>
+<rtept lat="60.315906" lon="-1.697975">
+<ele>32.1532411390636</ele>
+<name>PapS047</name>
+</rtept>
+<rtept lat="60.31576" lon="-1.70018">
+<ele>25.1468605098636</ele>
+<name>PapS048</name>
+</rtept>
+<rtept lat="60.315865" lon="-1.700415">
+<ele>28.1460844064898</ele>
+<name>PapS049</name>
+</rtept>
+<rtept lat="60.316317" lon="-1.70012">
+<ele>43.1465952615728</ele>
+<name>PapS050</name>
+</rtept>
+<rtept lat="60.31653" lon="-1.700171">
+<ele>44.1462735408184</ele>
+<name>PapS051</name>
+</rtept>
+<rtept lat="60.316957" lon="-1.701414">
+<ele>48.1422939017191</ele>
+<name>PapS052</name>
+</rtept>
+<rtept lat="60.317271" lon="-1.703429">
+<ele>48.1361574350021</ele>
+<name>PapS053</name>
+</rtept>
+<rtept lat="60.318203" lon="-1.703809">
+<ele>54.1343582661504</ele>
+<name>PapS054</name>
+</rtept>
+<rtept lat="60.318624" lon="-1.705215">
+<ele>40.1299651947476</ele>
+<name>PapS055</name>
+</rtept>
+<rtept lat="60.319139" lon="-1.705798">
+<ele>26.1279091788089</ele>
+<name>PapS056</name>
+</rtept>
+<rtept lat="60.319928" lon="-1.70567">
+<ele>16.1277213595664</ele>
+<name>PapS057</name>
+</rtept>
+<rtept lat="60.320467" lon="-1.705223">
+<ele>17.1286241337833</ele>
+<name>PapS058</name>
+</rtept>
+<rtept lat="60.320855" lon="-1.704225">
+<ele>13.1312058801925</ele>
+<name>PapS059</name>
+</rtept>
+<rtept lat="60.321422" lon="-1.701757">
+<ele>14.1378419735494</ele>
+<name>PapS060</name>
+</rtept>
+<rtept lat="60.321458" lon="-1.701132">
+<ele>8.13960034949101</ele>
+<name>PapS061</name>
+</rtept>
+<rtept lat="60.321294" lon="-1.699419">
+<ele>4.14462612324419</ele>
+<name>PapS062</name>
+</rtept>
+<rtept lat="60.321564" lon="-1.698376">
+<ele>2.14738521710324</ele>
+<name>PapS063</name>
+</rtept>
+<rtept lat="60.322008" lon="-1.697724">
+<ele>3.14887459072526</ele>
+<name>PapS064</name>
+</rtept>
+<rtept lat="60.322402" lon="-1.697479">
+<ele>5.14924307792183</ele>
+<name>PapS065</name>
+</rtept>
+<rtept lat="60.323482" lon="-1.697418">
+<ele>0.148507832321172</ele>
+<name>PapS066</name>
+</rtept>
+<rtept lat="60.324175" lon="-1.696616">
+<ele>4.15017958348265</ele>
+<name>PapS067</name>
+</rtept>
+<rtept lat="60.325038" lon="-1.69662">
+<ele>0.149430847003266</ele>
+<name>PapS068</name>
+</rtept>
+<rtept lat="60.326164" lon="-1.697761">
+<ele>6.14529551414212</ele>
+<name>PapS069</name>
+</rtept>
+<rtept lat="60.327394" lon="-1.700099">
+<ele>6.1378118988834</ele>
+<name>PapS070</name>
+</rtept>
+<rtept lat="60.328516" lon="-1.701728">
+<ele>17.1324466363523</ele>
+<name>PapS071</name>
+</rtept>
+<rtept lat="60.329136" lon="-1.704377">
+<ele>4.12472533594231</ele>
+<name>PapS072</name>
+</rtept>
+<rtept lat="60.32879" lon="-1.705101">
+<ele>6.12299414917939</ele>
+<name>PapS073</name>
+</rtept>
+<rtept lat="60.329294" lon="-1.705875">
+<ele>8.12051803636133</ele>
+<name>PapS074</name>
+</rtept>
+<rtept lat="60.329215" lon="-1.7063">
+<ele>6.1194124659696</ele>
+<name>PapS075</name>
+</rtept>
+<rtept lat="60.328807" lon="-1.706477">
+<ele>7.11921377502952</ele>
+<name>PapS076</name>
+</rtept>
+<rtept lat="60.327644" lon="-1.706348">
+<ele>4.12037822144659</ele>
+<name>PapS077</name>
+</rtept>
+<rtept lat="60.327005" lon="-1.706537">
+<ele>5.12030260559725</ele>
+<name>PapS078</name>
+</rtept>
+<rtept lat="60.326514" lon="-1.706279">
+<ele>5.12135929312493</ele>
+<name>PapS079</name>
+</rtept>
+<rtept lat="60.326078" lon="-1.705742">
+<ele>7.12315815411919</ele>
+<name>PapS080</name>
+</rtept>
+<rtept lat="60.32585" lon="-1.705808">
+<ele>8.12313705997384</ele>
+<name>PapS081</name>
+</rtept>
+<rtept lat="60.325733" lon="-1.706207">
+<ele>3.122107065777</ele>
+<name>PapS082</name>
+</rtept>
+<rtept lat="60.325624" lon="-1.707825">
+<ele>11.1176693473262</ele>
+<name>PapS083</name>
+</rtept>
+<rtept lat="60.325407" lon="-1.708299">
+<ele>5.11649051260179</ele>
+<name>PapS084</name>
+</rtept>
+<rtept lat="60.325312" lon="-1.709097">
+<ele>9.11432352847028</ele>
+<name>PapS085</name>
+</rtept>
+<rtept lat="60.325033" lon="-1.710073">
+<ele>6.11177376475975</ele>
+<name>PapS086</name>
+</rtept>
+<rtept lat="60.32422" lon="-1.71114">
+<ele>6.10929304148481</ele>
+<name>PapS087</name>
+</rtept>
+<rtept lat="60.323604" lon="-1.711344">
+<ele>8.10910016979879</ele>
+<name>PapS088</name>
+</rtept>
+<rtept lat="60.323311" lon="-1.711939">
+<ele>10.1076004034451</ele>
+<name>PapS089</name>
+</rtept>
+<rtept lat="60.323064" lon="-1.712737">
+<ele>8.10549074203485</ele>
+<name>PapS090</name>
+</rtept>
+<rtept lat="60.323189" lon="-1.713288">
+<ele>7.10385584129734</ele>
+<name>PapS091</name>
+</rtept>
+<rtept lat="60.323188" lon="-1.714094">
+<ele>11.1015782336457</ele>
+<name>PapS092</name>
+</rtept>
+<rtept lat="60.322719" lon="-1.714637">
+<ele>14.1003055502689</ele>
+<name>PapS093</name>
+</rtept>
+<rtept lat="60.322065" lon="-1.716279">
+<ele>29.0960026310023</ele>
+<name>PapS094</name>
+</rtept>
+<rtept lat="60.320955" lon="-1.716377">
+<ele>22.0963198539523</ele>
+<name>PapS095</name>
+</rtept>
+<rtept lat="60.320689" lon="-1.716018">
+<ele>16.0974925890711</ele>
+<name>PapS096</name>
+</rtept>
+<rtept lat="60.320371" lon="-1.716209">
+<ele>18.0971189111742</ele>
+<name>PapS097</name>
+</rtept>
+<rtept lat="60.320054" lon="-1.71696">
+<ele>17.0951261716327</ele>
+<name>PapS098</name>
+</rtept>
+<rtept lat="60.320302" lon="-1.718289">
+<ele>23.0911737387297</ele>
+<name>PapS099</name>
+</rtept>
+<rtept lat="60.320522" lon="-1.718513">
+<ele>26.0904210405827</ele>
+<name>PapS100</name>
+</rtept>
+<rtept lat="60.321326" lon="-1.716922">
+<ele>25.094563105941</ele>
+<name>PapS101</name>
+</rtept>
+<rtept lat="60.32148" lon="-1.716872">
+<ele>30.0946239475188</ele>
+<name>PapS102</name>
+</rtept>
+<rtept lat="60.321606" lon="-1.718272">
+<ele>37.0905603424061</ele>
+<name>PapS103</name>
+</rtept>
+<rtept lat="60.321976" lon="-1.719128">
+<ele>30.0879357038544</ele>
+<name>PapS104</name>
+</rtept>
+<rtept lat="60.322344" lon="-1.719477">
+<ele>27.0867620859263</ele>
+<name>PapS105</name>
+</rtept>
+<rtept lat="60.322726" lon="-1.721281">
+<ele>27.0814567492128</ele>
+<name>PapS106</name>
+</rtept>
+<rtept lat="60.323002" lon="-1.719588">
+<ele>33.0861244864076</ele>
+<name>PapS107</name>
+</rtept>
+<rtept lat="60.323584" lon="-1.719289">
+<ele>39.0866873380814</ele>
+<name>PapS108</name>
+</rtept>
+<rtept lat="60.323888" lon="-1.720601">
+<ele>40.0828414738635</ele>
+<name>PapS109</name>
+</rtept>
+<rtept lat="60.324249" lon="-1.720693">
+<ele>40.0824110827886</ele>
+<name>PapS110</name>
+</rtept>
+<rtept lat="60.324613" lon="-1.721114">
+<ele>45.0810591725201</ele>
+<name>PapS111</name>
+</rtept>
+<rtept lat="60.324867" lon="-1.722155">
+<ele>39.078024600638</ele>
+<name>PapS112</name>
+</rtept>
+<rtept lat="60.325418" lon="-1.72277">
+<ele>40.0760612017719</ele>
+<name>PapS113</name>
+</rtept>
+<rtept lat="60.32574" lon="-1.722295">
+<ele>38.0772464745416</ele>
+<name>PapS114</name>
+</rtept>
+<rtept lat="60.325736" lon="-1.72103">
+<ele>33.0807742410753</ele>
+<name>PapS115</name>
+</rtept>
+<rtept lat="60.325881" lon="-1.720107">
+<ele>31.0832792027239</ele>
+<name>PapS116</name>
+</rtept>
+<rtept lat="60.326242" lon="-1.719451">
+<ele>28.0849296047875</ele>
+<name>PapS117</name>
+</rtept>
+<rtept lat="60.326623" lon="-1.71975">
+<ele>29.0839142047583</ele>
+<name>PapS118</name>
+</rtept>
+<rtept lat="60.326789" lon="-1.72044">
+<ele>32.081922772852</ele>
+<name>PapS119</name>
+</rtept>
+<rtept lat="60.326683" lon="-1.721844">
+<ele>29.0780787424733</ele>
+<name>PapS120</name>
+</rtept>
+<rtept lat="60.326878" lon="-1.722846">
+<ele>30.0752154775623</ele>
+<name>PapS121</name>
+</rtept>
+<rtept lat="60.32774" lon="-1.723332">
+<ele>26.0735014622766</ele>
+<name>PapS122</name>
+</rtept>
+<rtept lat="60.328323" lon="-1.722152">
+<ele>24.0764942163457</ele>
+<name>PapS123</name>
+</rtept>
+<rtept lat="60.328393" lon="-1.722088">
+<ele>22.0766392096721</ele>
+<name>PapS124</name>
+</rtept>
+<rtept lat="60.328466" lon="-1.722381">
+<ele>24.0758014695616</ele>
+<name>PapS125</name>
+</rtept>
+<rtept lat="60.328191" lon="-1.724481">
+<ele>33.0701500107095</ele>
+<name>PapS126</name>
+</rtept>
+<rtept lat="60.328216" lon="-1.725227">
+<ele>34.068088682849</ele>
+<name>PapS127</name>
+</rtept>
+<rtept lat="60.328454" lon="-1.726247">
+<ele>35.0651946927436</ele>
+<name>PapS128</name>
+</rtept>
+<rtept lat="60.328248" lon="-1.72667">
+<ele>38.0641104198372</ele>
+<name>PapS129</name>
+</rtept>
+<rtept lat="60.329346" lon="-1.724874">
+<ele>31.0686058553906</ele>
+<name>PapS130</name>
+</rtept>
+<rtept lat="60.329641" lon="-1.724954">
+<ele>30.0682688366712</ele>
+<name>PapS131</name>
+</rtept>
+<rtept lat="60.329659" lon="-1.726394">
+<ele>37.0643375760322</ele>
+<name>PapS132</name>
+</rtept>
+<rtept lat="60.329965" lon="-1.727594">
+<ele>43.0609579100197</ele>
+<name>PapS133</name>
+</rtept>
+<rtept lat="60.331126" lon="-1.729681">
+<ele>27.0549007505002</ele>
+<name>PapS134</name>
+</rtept>
+<rtept lat="60.331436" lon="-1.730518">
+<ele>16.0525422690323</ele>
+<name>PapS135</name>
+</rtept>
+<rtept lat="60.332393" lon="-1.7307">
+<ele>3.0517558964227</ele>
+<name>PapS136</name>
+</rtept>
+<rtept lat="60.332911" lon="-1.731213">
+<ele>6.05022600631629</ele>
+<name>PapS137</name>
+</rtept>
+<rtept lat="60.333023" lon="-1.731647">
+<ele>7.04903180386228</ele>
+<name>PapS138</name>
+</rtept>
+<rtept lat="60.333251" lon="-1.731843">
+<ele>7.04844269434194</ele>
+<name>PapS139</name>
+</rtept>
+<rtept lat="60.333219" lon="-1.732171">
+<ele>5.0475779148415</ele>
+<name>PapS140</name>
+</rtept>
+<rtept lat="60.333468" lon="-1.733176">
+<ele>15.044827336206</ele>
+<name>PapS141</name>
+</rtept>
+<rtept lat="60.333776" lon="-1.73315">
+<ele>17.0448147550495</ele>
+<name>PapS142</name>
+</rtept>
+<rtept lat="60.334131" lon="-1.733417">
+<ele>22.0440108763176</ele>
+<name>PapS143</name>
+</rtept>
+<rtept lat="60.334996" lon="-1.733397">
+<ele>23.0438331670679</ele>
+<name>PapS144</name>
+</rtept>
+<rtept lat="60.335119" lon="-1.736208">
+<ele>38.0363845493172</ele>
+<name>PapS145</name>
+</rtept>
+<rtept lat="60.336302" lon="-1.737194">
+<ele>53.0335422731657</ele>
+<name>PapS146</name>
+</rtept>
+<rtept lat="60.336858" lon="-1.737281">
+<ele>52.0332000061264</ele>
+<name>PapS147</name>
+</rtept>
+<rtept lat="60.337641" lon="-1.736473">
+<ele>59.0351383431084</ele>
+<name>PapS148</name>
+</rtept>
+<rtept lat="60.337767" lon="-1.735682">
+<ele>62.0371663359036</ele>
+<name>PapS149</name>
+</rtept>
+<rtept lat="60.33751" lon="-1.733461">
+<ele>56.042999876196</ele>
+<name>PapS150</name>
+</rtept>
+<rtept lat="60.33831" lon="-1.731604">
+<ele>55.0475905175334</ele>
+<name>PapS151</name>
+</rtept>
+<rtept lat="60.338949" lon="-1.728833">
+<ele>35.0545435233172</ele>
+<name>PapS152</name>
+</rtept>
+<rtept lat="60.339315" lon="-1.728295">
+<ele>35.0558023776122</ele>
+<name>PapS153</name>
+</rtept>
+<rtept lat="60.339296" lon="-1.72699">
+<ele>35.059164861602</ele>
+<name>PapS154</name>
+</rtept>
+<rtept lat="60.339414" lon="-1.726592">
+<ele>36.0601434941426</ele>
+<name>PapS155</name>
+</rtept>
+<rtept lat="60.339891" lon="-1.726597">
+<ele>45.0599523519478</ele>
+<name>PapS156</name>
+</rtept>
+<rtept lat="60.340189" lon="-1.726034">
+<ele>53.0612803052467</ele>
+<name>PapS157</name>
+</rtept>
+<rtept lat="60.34096" lon="-1.725164">
+<ele>78.063197574454</ele>
+<name>PapS158</name>
+</rtept>
+<rtept lat="60.343316" lon="-1.727813">
+<ele>81.0556224690278</ele>
+<name>PapS159</name>
+</rtept>
+<rtept lat="60.343517" lon="-1.727283">
+<ele>78.0568771288087</ele>
+<name>PapS160</name>
+</rtept>
+<rtept lat="60.344409" lon="-1.726085">
+<ele>64.0595342161585</ele>
+<name>PapS161</name>
+</rtept>
+<rtept lat="60.344552" lon="-1.72548">
+<ele>58.0609850281071</ele>
+<name>PapS162</name>
+</rtept>
+<rtept lat="60.344475" lon="-1.724985">
+<ele>58.0622478402143</ele>
+<name>PapS163</name>
+</rtept>
+<rtept lat="60.344125" lon="-1.724355">
+<ele>60.0639582012749</ele>
+<name>PapS164</name>
+</rtept>
+<rtept lat="60.34369" lon="-1.723946">
+<ele>59.0651605828796</ele>
+<name>PapS165</name>
+</rtept>
+<rtept lat="60.343394" lon="-1.723237">
+<ele>51.0670588877502</ele>
+<name>PapS166</name>
+</rtept>
+<rtept lat="60.343581" lon="-1.722146">
+<ele>48.0697092979568</ele>
+<name>PapS167</name>
+</rtept>
+<rtept lat="60.343787" lon="-1.721891">
+<ele>39.0702559694756</ele>
+<name>PapS168</name>
+</rtept>
+<rtept lat="60.344257" lon="-1.721816">
+<ele>33.07023068886</ele>
+<name>PapS169</name>
+</rtept>
+<rtept lat="60.343968" lon="-1.721783">
+<ele>33.0704437152422</ele>
+<name>PapS170</name>
+</rtept>
+<rtept lat="60.343643" lon="-1.721267">
+<ele>38.0718811246967</ele>
+<name>PapS171</name>
+</rtept>
+<rtept lat="60.343449" lon="-1.720155">
+<ele>39.0747559315971</ele>
+<name>PapS172</name>
+</rtept>
+<rtept lat="60.343368" lon="-1.718731">
+<ele>44.0783629747753</ele>
+<name>PapS173</name>
+</rtept>
+<rtept lat="60.344086" lon="-1.715273">
+<ele>25.0866298704616</ele>
+<name>PapS174</name>
+</rtept>
+<rtept lat="60.344117" lon="-1.714637">
+<ele>22.0881988809514</ele>
+<name>PapS175</name>
+</rtept>
+<rtept lat="60.343536" lon="-1.713259">
+<ele>26.0919777297548</ele>
+<name>PapS176</name>
+</rtept>
+<rtept lat="60.342755" lon="-1.712952">
+<ele>25.0932086424904</ele>
+<name>PapS177</name>
+</rtept>
+<rtept lat="60.342386" lon="-1.711102">
+<ele>22.0980929506875</ele>
+<name>PapS178</name>
+</rtept>
+<rtept lat="60.3419" lon="-1.710217">
+<ele>24.1006363489578</ele>
+<name>PapS179</name>
+</rtept>
+<rtept lat="60.34101" lon="-1.71069">
+<ele>28.0999984061663</ele>
+<name>PapS180</name>
+</rtept>
+<rtept lat="60.340331" lon="-1.711394">
+<ele>21.0986276777292</ele>
+<name>PapS181</name>
+</rtept>
+<rtept lat="60.340051" lon="-1.711085">
+<ele>17.099591350798</ele>
+<name>PapS182</name>
+</rtept>
+<rtept lat="60.339939" lon="-1.710639">
+<ele>14.1008016144895</ele>
+<name>PapS183</name>
+</rtept>
+<rtept lat="60.340334" lon="-1.708206">
+<ele>22.1067696157228</ele>
+<name>PapS184</name>
+</rtept>
+<rtept lat="60.340196" lon="-1.70788">
+<ele>26.1076942990352</ele>
+<name>PapS185</name>
+</rtept>
+<rtept lat="60.3406430820557" lon="-1.70666005466141">
+<ele>13.0064908171436</ele>
+<name>PapS186</name>
+</rtept>
+<rtept lat="60.3409237806173" lon="-1.70367218498037">
+<ele>29.0055145612378</ele>
+<name>PapS187</name>
+</rtept>
+<rtept lat="60.3414070959471" lon="-1.70137803374075">
+<ele>28.8078387713343</ele>
+<name>PapS188</name>
+</rtept>
+<rtept lat="60.3411741135065" lon="-1.69998892063126">
+<ele>20.8688059089701</ele>
+<name>PapS189</name>
+</rtept>
+<rtept lat="60.3398802144427" lon="-1.69956605254726">
+<ele>9.43639443143411</ele>
+<name>PapS190</name>
+</rtept>
+<rtept lat="60.337924" lon="-1.70075">
+<ele>2.12771591063645</ele>
+<name>PapS191</name>
+</rtept>
+<rtept lat="60.33785" lon="-1.700506">
+<ele>3.12840766099666</ele>
+<name>PapS192</name>
+</rtept>
+<rtept lat="60.33667" lon="-1.699187">
+<ele>5.13278954322656</ele>
+<name>PapS193</name>
+</rtept>
+<rtept lat="60.336475" lon="-1.69826">
+<ele>5.1353729556464</ele>
+<name>PapS194</name>
+</rtept>
+<rtept lat="60.336516" lon="-1.697453">
+<ele>3.13744905062379</ele>
+<name>PapS195</name>
+</rtept>
+<rtept lat="60.335816" lon="-1.696307">
+<ele>5.14104875367829</ele>
+<name>PapS196</name>
+</rtept>
+<rtept lat="60.335684" lon="-1.695187">
+<ele>3.14410554362438</ele>
+<name>PapS197</name>
+</rtept>
+<rtept lat="60.335288" lon="-1.694309">
+<ele>6.14676922837499</ele>
+<name>PapS198</name>
+</rtept>
+<rtept lat="60.334931" lon="-1.693876">
+<ele>6.1482290171704</ele>
+<name>PapS199</name>
+</rtept>
+<rtept lat="60.3346933880482" lon="-1.69297765567847">
+<ele>8.13570430053332</ele>
+<name>PapS200</name>
+</rtept>
+<rtept lat="60.3339451635813" lon="-1.69246308251988">
+<ele>9.29753625391848</ele>
+<name>PapS201</name>
+</rtept>
+<rtept lat="60.3315583001059" lon="-1.69155831359798">
+<ele>22.3680584526528</ele>
+<name>PapS202</name>
+</rtept>
+<rtept lat="60.330789" lon="-1.690055">
+<ele>4.16229250131758</ele>
+<name>PapS203</name>
+</rtept>
+<rtept lat="60.330869" lon="-1.689496">
+<ele>11.1637304167018</ele>
+<name>PapS204</name>
+</rtept>
+<rtept lat="60.330434" lon="-1.686067">
+<ele>8.17345350192686</ele>
+<name>PapS205</name>
+</rtept>
+<rtept lat="60.330449" lon="-1.684122">
+<ele>2.17871612236928</ele>
+<name>PapS206</name>
+</rtept>
+<rtept lat="60.330306" lon="-1.683073">
+<ele>8.18171321284906</ele>
+<name>PapS207</name>
+</rtept>
+<rtept lat="60.329955" lon="-1.682685">
+<ele>8.18314584554764</ele>
+<name>PapS208</name>
+</rtept>
+<rtept lat="60.330458" lon="-1.682277">
+<ele>13.1837097001293</ele>
+<name>PapS209</name>
+</rtept>
+<rtept lat="60.33089" lon="-1.6805">
+<ele>14.1880512866478</ele>
+<name>PapS210</name>
+</rtept>
+<rtept lat="60.332002" lon="-1.678972">
+<ele>22.1909218337626</ele>
+<name>PapS211</name>
+</rtept>
+<rtept lat="60.332146" lon="-1.675844">
+<ele>16.199157264627</ele>
+<name>PapS212</name>
+</rtept>
+<rtept lat="60.332035" lon="-1.673809">
+<ele>8.20475927022076</ele>
+<name>PapS213</name>
+</rtept>
+<rtept lat="60.3318845769179" lon="-1.67327862407969">
+<ele>4.49795574136195</ele>
+<name>PapS214</name>
+</rtept>
+<rtept lat="60.3319535533104" lon="-1.67211889177979">
+<ele>0.652362655056212</ele>
+<name>PapS215</name>
+</rtept>
+<rtept lat="60.3316722419796" lon="-1.67164361201084">
+<ele>0</ele>
+<name>PapS216</name>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,886 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>The Silver Walk to Castle Tioram, near Kinlochmoidart</name>
+<rtept lat="56.7779503712462" lon="-5.7408800399">
+<ele>54.4094325225462</ele>
+<name>SW001</name>
+</rtept>
+<rtept lat="56.7784932758297" lon="-5.74211336196511">
+<ele>48.3460157557363</ele>
+<name>SW002</name>
+</rtept>
+<rtept lat="56.7792058242749" lon="-5.74353560918613">
+<ele>35.8399559657114</ele>
+<name>SW003</name>
+</rtept>
+<rtept lat="56.7795086729786" lon="-5.74422914163882">
+<ele>34.8208555351995</ele>
+<name>SW004</name>
+</rtept>
+<rtept lat="56.7796545738591" lon="-5.74475962206002">
+<ele>34.2654387863592</ele>
+<name>SW005</name>
+</rtept>
+<rtept lat="56.7800740179792" lon="-5.74561221532085">
+<ele>22.6940289426845</ele>
+<name>SW006</name>
+</rtept>
+<rtept lat="56.7803315448958" lon="-5.74691547328646">
+<ele>15.7773508668206</ele>
+<name>SW007</name>
+</rtept>
+<rtept lat="56.7805024815988" lon="-5.74840665465775">
+<ele>19.6532807234517</ele>
+<name>SW008</name>
+</rtept>
+<rtept lat="56.7805822223823" lon="-5.74979046672762">
+<ele>33.9336988634395</ele>
+<name>SW009</name>
+</rtept>
+<rtept lat="56.7805976643678" lon="-5.75106958587778">
+<ele>47.9606500192057</ele>
+<name>SW010</name>
+</rtept>
+<rtept lat="56.7804088434643" lon="-5.75151752492082">
+<ele>56.969015939023</ele>
+<name>SW011</name>
+</rtept>
+<rtept lat="56.7801969838208" lon="-5.75228254821927">
+<ele>55.8552123180812</ele>
+<name>SW012</name>
+</rtept>
+<rtept lat="56.7800162747243" lon="-5.75246103481714">
+<ele>57.8628576178968</ele>
+<name>SW013</name>
+</rtept>
+<rtept lat="56.7801912470698" lon="-5.75292075698004">
+<ele>50.9668402505405</ele>
+<name>SW014</name>
+</rtept>
+<rtept lat="56.7802026437184" lon="-5.7534378359061">
+<ele>50.8205629166668</ele>
+<name>SW015</name>
+</rtept>
+<rtept lat="56.7804030295124" lon="-5.75394924360355">
+<ele>44.2959987024921</ele>
+<name>SW016</name>
+</rtept>
+<rtept lat="56.7804705816463" lon="-5.75484047302227">
+<ele>43.0374211094993</ele>
+<name>SW017</name>
+</rtept>
+<rtept lat="56.7807135165242" lon="-5.75528244163892">
+<ele>33.6225195375258</ele>
+<name>SW018</name>
+</rtept>
+<rtept lat="56.7809595576946" lon="-5.75606869406184">
+<ele>26.9931825489896</ele>
+<name>SW019</name>
+</rtept>
+<rtept lat="56.7809790655808" lon="-5.75631633679944">
+<ele>26.6950237967491</ele>
+<name>SW020</name>
+</rtept>
+<rtept lat="56.781329567904" lon="-5.75676908552637">
+<ele>15.8252678046352</ele>
+<name>SW021</name>
+</rtept>
+<rtept lat="56.7813229198426" lon="-5.7569895442572">
+<ele>16.7870928801261</ele>
+<name>SW022</name>
+</rtept>
+<rtept lat="56.781747375873" lon="-5.75744970561539">
+<ele>8.69201163641771</ele>
+<name>SW023</name>
+</rtept>
+<rtept lat="56.7821939112207" lon="-5.75918972385425">
+<ele>10.7781366392738</ele>
+<name>SW024</name>
+</rtept>
+<rtept lat="56.7824213052473" lon="-5.76014615773321">
+<ele>14.9065082459281</ele>
+<name>SW025</name>
+</rtept>
+<rtept lat="56.7828706271099" lon="-5.76134597229448">
+<ele>16.866267395052</ele>
+<name>SW026</name>
+</rtept>
+<rtept lat="56.7832145842511" lon="-5.76246154384576">
+<ele>12.0677549411158</ele>
+<name>SW027</name>
+</rtept>
+<rtept lat="56.783235815064" lon="-5.76354478060916">
+<ele>11.091652103924</ele>
+<name>SW028</name>
+</rtept>
+<rtept lat="56.7831643914451" lon="-5.76456958595565">
+<ele>4.36272825709122</ele>
+<name>SW029</name>
+</rtept>
+<rtept lat="56.7828806569014" lon="-5.76503254096362">
+<ele>14.7782818939112</ele>
+<name>SW030</name>
+</rtept>
+<rtept lat="56.782599378626" lon="-5.76630655448463">
+<ele>16.986508328723</ele>
+<name>SW031</name>
+</rtept>
+<rtept lat="56.7825480454557" lon="-5.76711222245102">
+<ele>21.1969716254485</ele>
+<name>SW032</name>
+</rtept>
+<rtept lat="56.7829628871053" lon="-5.76811210293039">
+<ele>12.5802174129136</ele>
+<name>SW033</name>
+</rtept>
+<rtept lat="56.7830706760537" lon="-5.76900746458658">
+<ele>13.1050209070525</ele>
+<name>SW034</name>
+</rtept>
+<rtept lat="56.7833703092599" lon="-5.76935696937038">
+<ele>7.66732878030236</ele>
+<name>SW035</name>
+</rtept>
+<rtept lat="56.7834160461787" lon="-5.77007411659224">
+<ele>9.71521568665487</ele>
+<name>SW036</name>
+</rtept>
+<rtept lat="56.7833168342833" lon="-5.77067842234391">
+<ele>7.21053560633911</ele>
+<name>SW037</name>
+</rtept>
+<rtept lat="56.7831863753264" lon="-5.77186928316277">
+<ele>4.15999667595899</ele>
+<name>SW038</name>
+</rtept>
+<rtept lat="56.7831163671208" lon="-5.77284507611882">
+<ele>5.81753902043958</ele>
+<name>SW039</name>
+</rtept>
+<rtept lat="56.7832869014636" lon="-5.77389418966528">
+<ele>9.74625411075045</ele>
+<name>SW040</name>
+</rtept>
+<rtept lat="56.7835231739877" lon="-5.77499906606805">
+<ele>9.56930671778662</ele>
+<name>SW041</name>
+</rtept>
+<rtept lat="56.7837944960119" lon="-5.7758371999694">
+<ele>8.41204926784046</ele>
+<name>SW042</name>
+</rtept>
+<rtept lat="56.7839738349671" lon="-5.77615009480628">
+<ele>7.54575125116838</ele>
+<name>SW043</name>
+</rtept>
+<rtept lat="56.7838409379792" lon="-5.77652986510487">
+<ele>14.0727099180086</ele>
+<name>SW044</name>
+</rtept>
+<rtept lat="56.783459243622" lon="-5.77666346137464">
+<ele>21.5534620928012</ele>
+<name>SW045</name>
+</rtept>
+<rtept lat="56.7831283638925" lon="-5.77690045056809">
+<ele>22.5006897563886</ele>
+<name>SW046</name>
+</rtept>
+<rtept lat="56.7829902657809" lon="-5.77745168115285">
+<ele>15.5508035256037</ele>
+<name>SW047</name>
+</rtept>
+<rtept lat="56.7832152148285" lon="-5.77803944604636">
+<ele>5.99090289071032</ele>
+<name>SW048</name>
+</rtept>
+<rtept lat="56.7827551441477" lon="-5.77853369452783">
+<ele>1.98380641057565</ele>
+<name>SW049</name>
+</rtept>
+<rtept lat="56.782617781995" lon="-5.77906041774281">
+<ele>3.49631726530127</ele>
+<name>SW050</name>
+</rtept>
+<rtept lat="56.7826731933926" lon="-5.77990139208025">
+<ele>9.16878552998794</ele>
+<name>SW051</name>
+</rtept>
+<rtept lat="56.7831761067557" lon="-5.78110686055758">
+<ele>17.6625738784546</ele>
+<name>SW052</name>
+</rtept>
+<rtept lat="56.78349739246" lon="-5.78163064346536">
+<ele>12.6908656300234</ele>
+<name>SW053</name>
+</rtept>
+<rtept lat="56.7839263630752" lon="-5.78304985348873">
+<ele>13.5614467059455</ele>
+<name>SW054</name>
+</rtept>
+<rtept lat="56.7842484387564" lon="-5.783991460335">
+<ele>19.7053445544964</ele>
+<name>SW055</name>
+</rtept>
+<rtept lat="56.7844307329664" lon="-5.78420641045858">
+<ele>17.1147532005998</ele>
+<name>SW056</name>
+</rtept>
+<rtept lat="56.7847512090412" lon="-5.78431243486548">
+<ele>13.9490060138002</ele>
+<name>SW057</name>
+</rtept>
+<rtept lat="56.7847945760256" lon="-5.78466081392667">
+<ele>14.9182831069881</ele>
+<name>SW058</name>
+</rtept>
+<rtept lat="56.7847109223312" lon="-5.78475066684549">
+<ele>17.0009315689026</ele>
+<name>SW059</name>
+</rtept>
+<rtept lat="56.7847826688981" lon="-5.78505276403633">
+<ele>16.8706441320738</ele>
+<name>SW060</name>
+</rtept>
+<rtept lat="56.7847498710364" lon="-5.78568832621389">
+<ele>21.2845681036152</ele>
+<name>SW061</name>
+</rtept>
+<rtept lat="56.7848739566963" lon="-5.78648714458429">
+<ele>28.9904784109457</ele>
+<name>SW062</name>
+</rtept>
+<rtept lat="56.7851130527462" lon="-5.78705185134507">
+<ele>32.9498165402103</ele>
+<name>SW063</name>
+</rtept>
+<rtept lat="56.7850392393542" lon="-5.78859244764374">
+<ele>46.9932673910439</ele>
+<name>SW064</name>
+</rtept>
+<rtept lat="56.7854009597817" lon="-5.79088961649798">
+<ele>54.4697988069778</ele>
+<name>SW065</name>
+</rtept>
+<rtept lat="56.7852741247022" lon="-5.79372719628719">
+<ele>51.7468058013603</ele>
+<name>SW066</name>
+</rtept>
+<rtept lat="56.7857918860374" lon="-5.79665453353638">
+<ele>28.5889447622231</ele>
+<name>SW067</name>
+</rtept>
+<rtept lat="56.7856544580493" lon="-5.79806584512652">
+<ele>26.8638709026314</ele>
+<name>SW068</name>
+</rtept>
+<rtept lat="56.7855887248706" lon="-5.79845235524888">
+<ele>27.4576363709378</ele>
+<name>SW069</name>
+</rtept>
+<rtept lat="56.7855857384826" lon="-5.79899265026296">
+<ele>23.8451518131738</ele>
+<name>SW070</name>
+</rtept>
+<rtept lat="56.785642510038" lon="-5.79934241332414">
+<ele>16.8807930579072</ele>
+<name>SW071</name>
+</rtept>
+<rtept lat="56.7853093413726" lon="-5.80053731110289">
+<ele>14.8912565796634</ele>
+<name>SW072</name>
+</rtept>
+<rtept lat="56.7849485377512" lon="-5.80086936199121">
+<ele>26.7255235411075</ele>
+<name>SW073</name>
+</rtept>
+<rtept lat="56.7846459844895" lon="-5.80194446617298">
+<ele>23.0829475387463</ele>
+<name>SW074</name>
+</rtept>
+<rtept lat="56.7846870467773" lon="-5.80280864721766">
+<ele>8.10025933303877</ele>
+<name>SW075</name>
+</rtept>
+<rtept lat="56.7841342560838" lon="-5.80324407798605">
+<ele>7.18444493196125</ele>
+<name>SW076</name>
+</rtept>
+<rtept lat="56.7837450581781" lon="-5.80362235907855">
+<ele>9.57620198775199</ele>
+<name>SW077</name>
+</rtept>
+<rtept lat="56.7836419622529" lon="-5.80390676903614">
+<ele>10.825286634186</ele>
+<name>SW078</name>
+</rtept>
+<rtept lat="56.7839018854441" lon="-5.80467025596941">
+<ele>13.0103743195637</ele>
+<name>SW079</name>
+</rtept>
+<rtept lat="56.7840393163107" lon="-5.80502818903117">
+<ele>12.5395467720729</ele>
+<name>SW080</name>
+</rtept>
+<rtept lat="56.7839503887236" lon="-5.80573175115974">
+<ele>22.774658283516</ele>
+<name>SW081</name>
+</rtept>
+<rtept lat="56.7841946093038" lon="-5.80656738072875">
+<ele>16.8849223393703</ele>
+<name>SW082</name>
+</rtept>
+<rtept lat="56.7840653060012" lon="-5.80770913804948">
+<ele>10.686957655864</ele>
+<name>SW083</name>
+</rtept>
+<rtept lat="56.7839547447479" lon="-5.80779620926296">
+<ele>13.4395562193094</ele>
+<name>SW084</name>
+</rtept>
+<rtept lat="56.7842295531269" lon="-5.80895439055343">
+<ele>14.6435074997743</ele>
+<name>SW085</name>
+</rtept>
+<rtept lat="56.7850406831892" lon="-5.8102161752373">
+<ele>10.9830763322309</ele>
+<name>SW086</name>
+</rtept>
+<rtept lat="56.7851160726229" lon="-5.81083813883985">
+<ele>8.44973109047456</ele>
+<name>SW087</name>
+</rtept>
+<rtept lat="56.784872463784" lon="-5.81174715246821">
+<ele>15.6338436319817</ele>
+<name>SW088</name>
+</rtept>
+<rtept lat="56.7850643595367" lon="-5.81252838467905">
+<ele>10.5581565760418</ele>
+<name>SW089</name>
+</rtept>
+<rtept lat="56.7849044617809" lon="-5.81290530051394">
+<ele>18.6444872173006</ele>
+<name>SW090</name>
+</rtept>
+<rtept lat="56.7849163582015" lon="-5.81339795554045">
+<ele>28.2792804863027</ele>
+<name>SW091</name>
+</rtept>
+<rtept lat="56.7852233085146" lon="-5.8139451639032">
+<ele>18.2154480091676</ele>
+<name>SW092</name>
+</rtept>
+<rtept lat="56.78544785029" lon="-5.81630238649374">
+<ele>47.9367058118771</ele>
+<name>SW093</name>
+</rtept>
+<rtept lat="56.7859467156504" lon="-5.81718859312692">
+<ele>41.8044390306773</ele>
+<name>SW094</name>
+</rtept>
+<rtept lat="56.7861079984374" lon="-5.81764731266628">
+<ele>34.3975355840808</ele>
+<name>SW095</name>
+</rtept>
+<rtept lat="56.7862648423145" lon="-5.81781070552228">
+<ele>21.0433849141953</ele>
+<name>SW096</name>
+</rtept>
+<rtept lat="56.7861109345926" lon="-5.81799163561672">
+<ele>37.6846816937054</ele>
+<name>SW097</name>
+</rtept>
+<rtept lat="56.7860227533539" lon="-5.81822839668005">
+<ele>45.5614133901232</ele>
+<name>SW098</name>
+</rtept>
+<rtept lat="56.78610374202" lon="-5.82086596582268">
+<ele>38.4597837985716</ele>
+<name>SW099</name>
+</rtept>
+<rtept lat="56.786274699729" lon="-5.82144855551682">
+<ele>26.4780578803741</ele>
+<name>SW100</name>
+</rtept>
+<rtept lat="56.7862589194319" lon="-5.82196298825916">
+<ele>27.9385206513542</ele>
+<name>SW101</name>
+</rtept>
+<rtept lat="56.7860548989034" lon="-5.82245824978313">
+<ele>24.1469507142081</ele>
+<name>SW102</name>
+</rtept>
+<rtept lat="56.785990593893" lon="-5.82279572480685">
+<ele>7.70315156979352</ele>
+<name>SW103</name>
+</rtept>
+<rtept lat="56.785330924298" lon="-5.82319541981709">
+<ele>8.08129324894374</ele>
+<name>SW104</name>
+</rtept>
+<rtept lat="56.7851292407444" lon="-5.82317487665738">
+<ele>9.61561863201448</ele>
+<name>SW105</name>
+</rtept>
+<rtept lat="56.7846235708554" lon="-5.82295136537816">
+<ele>12.3169303743601</ele>
+<name>SW106</name>
+</rtept>
+<rtept lat="56.7841761084819" lon="-5.82302865187662">
+<ele>7.45507673546106</ele>
+<name>SW107</name>
+</rtept>
+<rtept lat="56.7838100712029" lon="-5.82308965825292">
+<ele>5.57132600169803</ele>
+<name>SW108</name>
+</rtept>
+<rtept lat="56.7836746019122" lon="-5.82442730069429">
+<ele>0.689604930733849</ele>
+<name>SW109</name>
+</rtept>
+<rtept lat="56.783438507759" lon="-5.82464896120326">
+<ele>0.55826866039657</ele>
+<name>SW110</name>
+</rtept>
+<rtept lat="56.7836746019122" lon="-5.82442730069429">
+<ele>0.689604930733849</ele>
+<name>SW111</name>
+</rtept>
+<rtept lat="56.7838100712029" lon="-5.82308965825292">
+<ele>5.57132600169803</ele>
+<name>SW112</name>
+</rtept>
+<rtept lat="56.7841761084819" lon="-5.82302865187662">
+<ele>7.45507673546106</ele>
+<name>SW113</name>
+</rtept>
+<rtept lat="56.7846235708554" lon="-5.82295136537816">
+<ele>12.3169303743601</ele>
+<name>SW114</name>
+</rtept>
+<rtept lat="56.7851292407444" lon="-5.82317487665738">
+<ele>9.61561863201448</ele>
+<name>SW115</name>
+</rtept>
+<rtept lat="56.785330924298" lon="-5.82319541981709">
+<ele>8.08129324894374</ele>
+<name>SW116</name>
+</rtept>
+<rtept lat="56.785990593893" lon="-5.82279572480685">
+<ele>7.70315156979352</ele>
+<name>SW117</name>
+</rtept>
+<rtept lat="56.7860548989034" lon="-5.82245824978313">
+<ele>24.1469507142081</ele>
+<name>SW118</name>
+</rtept>
+<rtept lat="56.7862589194319" lon="-5.82196298825916">
+<ele>27.9385206513542</ele>
+<name>SW119</name>
+</rtept>
+<rtept lat="56.786274699729" lon="-5.82144855551682">
+<ele>26.4780578803741</ele>
+<name>SW120</name>
+</rtept>
+<rtept lat="56.78610374202" lon="-5.82086596582268">
+<ele>38.4597837985716</ele>
+<name>SW121</name>
+</rtept>
+<rtept lat="56.7860227533539" lon="-5.81822839668005">
+<ele>45.5614133901232</ele>
+<name>SW122</name>
+</rtept>
+<rtept lat="56.7861109345926" lon="-5.81799163561672">
+<ele>37.6846816937054</ele>
+<name>SW123</name>
+</rtept>
+<rtept lat="56.7862648423145" lon="-5.81781070552228">
+<ele>21.0433849141953</ele>
+<name>SW124</name>
+</rtept>
+<rtept lat="56.7861079984374" lon="-5.81764731266628">
+<ele>34.3975355840808</ele>
+<name>SW125</name>
+</rtept>
+<rtept lat="56.7859467156504" lon="-5.81718859312692">
+<ele>41.8044390306773</ele>
+<name>SW126</name>
+</rtept>
+<rtept lat="56.78544785029" lon="-5.81630238649374">
+<ele>47.9367058118771</ele>
+<name>SW127</name>
+</rtept>
+<rtept lat="56.7852233085146" lon="-5.8139451639032">
+<ele>18.2154480091676</ele>
+<name>SW128</name>
+</rtept>
+<rtept lat="56.7849163582015" lon="-5.81339795554045">
+<ele>28.2792804863027</ele>
+<name>SW129</name>
+</rtept>
+<rtept lat="56.7849044617809" lon="-5.81290530051394">
+<ele>18.6444872173006</ele>
+<name>SW130</name>
+</rtept>
+<rtept lat="56.7850643595367" lon="-5.81252838467905">
+<ele>10.5581565760418</ele>
+<name>SW131</name>
+</rtept>
+<rtept lat="56.784872463784" lon="-5.81174715246821">
+<ele>15.6338436319817</ele>
+<name>SW132</name>
+</rtept>
+<rtept lat="56.7851160726229" lon="-5.81083813883985">
+<ele>8.44973109047456</ele>
+<name>SW133</name>
+</rtept>
+<rtept lat="56.7850406831892" lon="-5.8102161752373">
+<ele>10.9830763322309</ele>
+<name>SW134</name>
+</rtept>
+<rtept lat="56.7842295531269" lon="-5.80895439055343">
+<ele>14.6435074997743</ele>
+<name>SW135</name>
+</rtept>
+<rtept lat="56.7839547447479" lon="-5.80779620926296">
+<ele>13.4395562193094</ele>
+<name>SW136</name>
+</rtept>
+<rtept lat="56.7840653060012" lon="-5.80770913804948">
+<ele>10.686957655864</ele>
+<name>SW137</name>
+</rtept>
+<rtept lat="56.7841946093038" lon="-5.80656738072875">
+<ele>16.8849223393703</ele>
+<name>SW138</name>
+</rtept>
+<rtept lat="56.7839503887236" lon="-5.80573175115974">
+<ele>22.774658283516</ele>
+<name>SW139</name>
+</rtept>
+<rtept lat="56.7840393163107" lon="-5.80502818903117">
+<ele>12.5395467720729</ele>
+<name>SW140</name>
+</rtept>
+<rtept lat="56.7839018854441" lon="-5.80467025596941">
+<ele>13.0103743195637</ele>
+<name>SW141</name>
+</rtept>
+<rtept lat="56.7836419622529" lon="-5.80390676903614">
+<ele>10.825286634186</ele>
+<name>SW142</name>
+</rtept>
+<rtept lat="56.7837450581781" lon="-5.80362235907855">
+<ele>9.57620198775199</ele>
+<name>SW143</name>
+</rtept>
+<rtept lat="56.7841342560838" lon="-5.80324407798605">
+<ele>7.18444493196125</ele>
+<name>SW144</name>
+</rtept>
+<rtept lat="56.7846870467773" lon="-5.80280864721766">
+<ele>8.10025933303877</ele>
+<name>SW145</name>
+</rtept>
+<rtept lat="56.7846459844895" lon="-5.80194446617298">
+<ele>23.0829475387463</ele>
+<name>SW146</name>
+</rtept>
+<rtept lat="56.7849485377512" lon="-5.80086936199121">
+<ele>26.7255235411075</ele>
+<name>SW147</name>
+</rtept>
+<rtept lat="56.7853093413726" lon="-5.80053731110289">
+<ele>14.8912565796634</ele>
+<name>SW148</name>
+</rtept>
+<rtept lat="56.785642510038" lon="-5.79934241332414">
+<ele>16.8807930579072</ele>
+<name>SW149</name>
+</rtept>
+<rtept lat="56.7855857384826" lon="-5.79899265026296">
+<ele>23.8451518131738</ele>
+<name>SW150</name>
+</rtept>
+<rtept lat="56.7855887248706" lon="-5.79845235524888">
+<ele>27.4576363709378</ele>
+<name>SW151</name>
+</rtept>
+<rtept lat="56.7856544580493" lon="-5.79806584512652">
+<ele>26.8638709026314</ele>
+<name>SW152</name>
+</rtept>
+<rtept lat="56.7857918860374" lon="-5.79665453353638">
+<ele>28.5889447622231</ele>
+<name>SW153</name>
+</rtept>
+<rtept lat="56.7852741247022" lon="-5.79372719628719">
+<ele>51.7468058013603</ele>
+<name>SW154</name>
+</rtept>
+<rtept lat="56.7854009597817" lon="-5.79088961649798">
+<ele>54.4697988069778</ele>
+<name>SW155</name>
+</rtept>
+<rtept lat="56.7850392393542" lon="-5.78859244764374">
+<ele>46.9932673910439</ele>
+<name>SW156</name>
+</rtept>
+<rtept lat="56.7851130527462" lon="-5.78705185134507">
+<ele>32.9498165402103</ele>
+<name>SW157</name>
+</rtept>
+<rtept lat="56.7848739566963" lon="-5.78648714458429">
+<ele>28.9904784109457</ele>
+<name>SW158</name>
+</rtept>
+<rtept lat="56.7847498710364" lon="-5.78568832621389">
+<ele>21.2845681036152</ele>
+<name>SW159</name>
+</rtept>
+<rtept lat="56.7847826688981" lon="-5.78505276403633">
+<ele>16.8706441320738</ele>
+<name>SW160</name>
+</rtept>
+<rtept lat="56.7847109223312" lon="-5.78475066684549">
+<ele>17.0009315689026</ele>
+<name>SW161</name>
+</rtept>
+<rtept lat="56.7847945760256" lon="-5.78466081392667">
+<ele>14.9182831069881</ele>
+<name>SW162</name>
+</rtept>
+<rtept lat="56.7847512090412" lon="-5.78431243486548">
+<ele>13.9490060138002</ele>
+<name>SW163</name>
+</rtept>
+<rtept lat="56.7844307329664" lon="-5.78420641045858">
+<ele>17.1147532005998</ele>
+<name>SW164</name>
+</rtept>
+<rtept lat="56.7842484387564" lon="-5.783991460335">
+<ele>19.7053445544964</ele>
+<name>SW165</name>
+</rtept>
+<rtept lat="56.7839263630752" lon="-5.78304985348873">
+<ele>13.5614467059455</ele>
+<name>SW166</name>
+</rtept>
+<rtept lat="56.78349739246" lon="-5.78163064346536">
+<ele>12.6908656300234</ele>
+<name>SW167</name>
+</rtept>
+<rtept lat="56.7831761067557" lon="-5.78110686055758">
+<ele>17.6625738784546</ele>
+<name>SW168</name>
+</rtept>
+<rtept lat="56.7826731933926" lon="-5.77990139208025">
+<ele>9.16878552998794</ele>
+<name>SW169</name>
+</rtept>
+<rtept lat="56.782617781995" lon="-5.77906041774281">
+<ele>3.49631726530127</ele>
+<name>SW170</name>
+</rtept>
+<rtept lat="56.7827551441477" lon="-5.77853369452783">
+<ele>1.98380641057565</ele>
+<name>SW171</name>
+</rtept>
+<rtept lat="56.7832152148285" lon="-5.77803944604636">
+<ele>5.99090289071032</ele>
+<name>SW172</name>
+</rtept>
+<rtept lat="56.7829902657809" lon="-5.77745168115285">
+<ele>15.5508035256037</ele>
+<name>SW173</name>
+</rtept>
+<rtept lat="56.7831283638925" lon="-5.77690045056809">
+<ele>22.5006897563886</ele>
+<name>SW174</name>
+</rtept>
+<rtept lat="56.783459243622" lon="-5.77666346137464">
+<ele>21.5534620928012</ele>
+<name>SW175</name>
+</rtept>
+<rtept lat="56.7838409379792" lon="-5.77652986510487">
+<ele>14.0727099180086</ele>
+<name>SW176</name>
+</rtept>
+<rtept lat="56.7839738349671" lon="-5.77615009480628">
+<ele>7.54575125116838</ele>
+<name>SW177</name>
+</rtept>
+<rtept lat="56.7837944960119" lon="-5.7758371999694">
+<ele>8.41204926784046</ele>
+<name>SW178</name>
+</rtept>
+<rtept lat="56.7835231739877" lon="-5.77499906606805">
+<ele>9.56930671778662</ele>
+<name>SW179</name>
+</rtept>
+<rtept lat="56.7832869014636" lon="-5.77389418966528">
+<ele>9.74625411075045</ele>
+<name>SW180</name>
+</rtept>
+<rtept lat="56.7831163671208" lon="-5.77284507611882">
+<ele>5.81753902043958</ele>
+<name>SW181</name>
+</rtept>
+<rtept lat="56.7831863753264" lon="-5.77186928316277">
+<ele>4.15999667595899</ele>
+<name>SW182</name>
+</rtept>
+<rtept lat="56.7833168342833" lon="-5.77067842234391">
+<ele>7.21053560633911</ele>
+<name>SW183</name>
+</rtept>
+<rtept lat="56.7834160461787" lon="-5.77007411659224">
+<ele>9.71521568665487</ele>
+<name>SW184</name>
+</rtept>
+<rtept lat="56.7833703092599" lon="-5.76935696937038">
+<ele>7.66732878030236</ele>
+<name>SW185</name>
+</rtept>
+<rtept lat="56.7830706760537" lon="-5.76900746458658">
+<ele>13.1050209070525</ele>
+<name>SW186</name>
+</rtept>
+<rtept lat="56.7829628871053" lon="-5.76811210293039">
+<ele>12.5802174129136</ele>
+<name>SW187</name>
+</rtept>
+<rtept lat="56.7825480454557" lon="-5.76711222245102">
+<ele>21.1969716254485</ele>
+<name>SW188</name>
+</rtept>
+<rtept lat="56.782599378626" lon="-5.76630655448463">
+<ele>16.986508328723</ele>
+<name>SW189</name>
+</rtept>
+<rtept lat="56.7828806569014" lon="-5.76503254096362">
+<ele>14.7782818939112</ele>
+<name>SW190</name>
+</rtept>
+<rtept lat="56.7831643914451" lon="-5.76456958595565">
+<ele>4.36272825709122</ele>
+<name>SW191</name>
+</rtept>
+<rtept lat="56.783235815064" lon="-5.76354478060916">
+<ele>11.091652103924</ele>
+<name>SW192</name>
+</rtept>
+<rtept lat="56.7832145842511" lon="-5.76246154384576">
+<ele>12.0677549411158</ele>
+<name>SW193</name>
+</rtept>
+<rtept lat="56.7828706271099" lon="-5.76134597229448">
+<ele>16.866267395052</ele>
+<name>SW194</name>
+</rtept>
+<rtept lat="56.7824213052473" lon="-5.76014615773321">
+<ele>14.9065082459281</ele>
+<name>SW195</name>
+</rtept>
+<rtept lat="56.7821939112207" lon="-5.75918972385425">
+<ele>10.7781366392738</ele>
+<name>SW196</name>
+</rtept>
+<rtept lat="56.781747375873" lon="-5.75744970561539">
+<ele>8.69201163641771</ele>
+<name>SW197</name>
+</rtept>
+<rtept lat="56.7813229198426" lon="-5.7569895442572">
+<ele>16.7870928801261</ele>
+<name>SW198</name>
+</rtept>
+<rtept lat="56.781329567904" lon="-5.75676908552637">
+<ele>15.8252678046352</ele>
+<name>SW199</name>
+</rtept>
+<rtept lat="56.7809790655808" lon="-5.75631633679944">
+<ele>26.6950237967491</ele>
+<name>SW200</name>
+</rtept>
+<rtept lat="56.7809595576946" lon="-5.75606869406184">
+<ele>26.9931825489896</ele>
+<name>SW201</name>
+</rtept>
+<rtept lat="56.7807135165242" lon="-5.75528244163892">
+<ele>33.6225195375258</ele>
+<name>SW202</name>
+</rtept>
+<rtept lat="56.7804705816463" lon="-5.75484047302227">
+<ele>43.0374211094993</ele>
+<name>SW203</name>
+</rtept>
+<rtept lat="56.7804030295124" lon="-5.75394924360355">
+<ele>44.2959987024921</ele>
+<name>SW204</name>
+</rtept>
+<rtept lat="56.7802026437184" lon="-5.7534378359061">
+<ele>50.8205629166668</ele>
+<name>SW205</name>
+</rtept>
+<rtept lat="56.7801912470698" lon="-5.75292075698004">
+<ele>50.9668402505405</ele>
+<name>SW206</name>
+</rtept>
+<rtept lat="56.7800162747243" lon="-5.75246103481714">
+<ele>57.8628576178968</ele>
+<name>SW207</name>
+</rtept>
+<rtept lat="56.7801969838208" lon="-5.75228254821927">
+<ele>55.8552123180812</ele>
+<name>SW208</name>
+</rtept>
+<rtept lat="56.7804088434643" lon="-5.75151752492082">
+<ele>56.969015939023</ele>
+<name>SW209</name>
+</rtept>
+<rtept lat="56.7805976643678" lon="-5.75106958587778">
+<ele>47.9606500192057</ele>
+<name>SW210</name>
+</rtept>
+<rtept lat="56.7805822223823" lon="-5.74979046672762">
+<ele>33.9336988634395</ele>
+<name>SW211</name>
+</rtept>
+<rtept lat="56.7805024815988" lon="-5.74840665465775">
+<ele>19.6532807234517</ele>
+<name>SW212</name>
+</rtept>
+<rtept lat="56.7803315448958" lon="-5.74691547328646">
+<ele>15.7773508668206</ele>
+<name>SW213</name>
+</rtept>
+<rtept lat="56.7800740179792" lon="-5.74561221532085">
+<ele>22.6940289426845</ele>
+<name>SW214</name>
+</rtept>
+<rtept lat="56.7796545738591" lon="-5.74475962206002">
+<ele>34.2654387863592</ele>
+<name>SW215</name>
+</rtept>
+<rtept lat="56.7795086729786" lon="-5.74422914163882">
+<ele>34.8208555351995</ele>
+<name>SW216</name>
+</rtept>
+<rtept lat="56.7792058242749" lon="-5.74353560918613">
+<ele>35.8399559657114</ele>
+<name>SW217</name>
+</rtept>
+<rtept lat="56.7784932758297" lon="-5.74211336196511">
+<ele>48.3460157557363</ele>
+<name>SW218</name>
+</rtept>
+<rtept lat="56.7779503712462" lon="-5.7408800399">
+<ele>54.4094325225462</ele>
+<name>SW219</name>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,642 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Skye Trail 7: Torrin to Broadford</name>
+<rtept lat="57.2159310210391" lon="-6.01822235314645">
+<ele>21.870542859726</ele>
+<name>ST7 001</name>
+</rtept>
+<rtept lat="57.2159454155164" lon="-6.01687039268218">
+<ele>24.7129551559433</ele>
+<name>ST7 002</name>
+</rtept>
+<rtept lat="57.215269614797" lon="-6.01517261253147">
+<ele>34.8400427389654</ele>
+<name>ST7 003</name>
+</rtept>
+<rtept lat="57.2150940563287" lon="-6.01436460353454">
+<ele>40.561391589486</ele>
+<name>ST7 004</name>
+</rtept>
+<rtept lat="57.2145007557817" lon="-6.01402165079215">
+<ele>41.2877569556703</ele>
+<name>ST7 005</name>
+</rtept>
+<rtept lat="57.2134279559725" lon="-6.01135275529889">
+<ele>45.8353479358636</ele>
+<name>ST7 006</name>
+</rtept>
+<rtept lat="57.2123418313824" lon="-6.00831134856393">
+<ele>50.0110357963783</ele>
+<name>ST7 007</name>
+</rtept>
+<rtept lat="57.211345576336" lon="-6.00797118078594">
+<ele>46.363495353637</ele>
+<name>ST7 008</name>
+</rtept>
+<rtept lat="57.2097663866977" lon="-6.00538696996774">
+<ele>40.848937854755</ele>
+<name>ST7 009</name>
+</rtept>
+<rtept lat="57.2100557025186" lon="-6.00342314941496">
+<ele>39.4699731478066</ele>
+<name>ST7 010</name>
+</rtept>
+<rtept lat="57.2107612113782" lon="-6.00182921195047">
+<ele>41.3401236538863</ele>
+<name>ST7 011</name>
+</rtept>
+<rtept lat="57.2120865941066" lon="-5.99974554644227">
+<ele>46.6005249792816</ele>
+<name>ST7 012</name>
+</rtept>
+<rtept lat="57.2122636636881" lon="-5.99814063222991">
+<ele>43.9010511935004</ele>
+<name>ST7 013</name>
+</rtept>
+<rtept lat="57.2116746660822" lon="-5.9960815641472">
+<ele>32.9663266866371</ele>
+<name>ST7 014</name>
+</rtept>
+<rtept lat="57.2119239649216" lon="-5.99378843418947">
+<ele>39.1751284705831</ele>
+<name>ST7 015</name>
+</rtept>
+<rtept lat="57.2110749242256" lon="-5.98961329650862">
+<ele>35.4171307501421</ele>
+<name>ST7 015 - ST7 016</name>
+</rtept>
+<rtept lat="57.2101492976716" lon="-5.9878428851809">
+<ele>28.833127219493</ele>
+<name>ST7 015 - ST7 016 - ST7 016</name>
+</rtept>
+<rtept lat="57.2086274238913" lon="-5.98661137359749">
+<ele>30.4256661240731</ele>
+<name>ST7 015 - ST7 016 - ST7 016 - ST7 016</name>
+</rtept>
+<rtept lat="57.2094676641723" lon="-5.99027481539196">
+<ele>35.6217899142196</ele>
+<name>ST7 015 - ST7 016 - ST7 016 - ST7 016 - ST7 016</name>
+</rtept>
+<rtept lat="57.2086221210556" lon="-5.99231775149089">
+<ele>36.1182255608968</ele>
+<name>ST7 015 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016</name>
+</rtept>
+<rtept lat="57.2086798421374" lon="-5.9944583064592">
+<ele>31.1558075653061</ele>
+<name>ST7 015 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016</name>
+</rtept>
+<rtept lat="57.2080201885162" lon="-5.99619644527817">
+<ele>31.8363500167169</ele>
+<name>ST7 015 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016</name>
+</rtept>
+<rtept lat="57.2034566767717" lon="-6.00113047592811">
+<ele>37.7346669810439</ele>
+<name>ST7 015 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016</name>
+</rtept>
+<rtept lat="57.2012176514968" lon="-6.00422793086816">
+<ele>11.2759809619135</ele>
+<name>ST7 015 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016 - ST7 016</name>
+</rtept>
+<rtept lat="57.2006553163975" lon="-6.00291448488539">
+<ele>18.6607944285788</ele>
+<name>ST7 016</name>
+</rtept>
+<rtept lat="57.1980568324239" lon="-6.00215024283846">
+<ele>27.7134891227417</ele>
+<name>ST7 017</name>
+</rtept>
+<rtept lat="57.1966773921328" lon="-6.00288373693135">
+<ele>16.6779059680411</ele>
+<name>ST7 018</name>
+</rtept>
+<rtept lat="57.1958574595552" lon="-6.00165356087984">
+<ele>19.6131527769753</ele>
+<name>ST7 019</name>
+</rtept>
+<rtept lat="57.195718321977" lon="-6.00015260881633">
+<ele>34.0968552407592</ele>
+<name>ST7 020</name>
+</rtept>
+<rtept lat="57.1950008180808" lon="-5.99919202391249">
+<ele>41.2919320252647</ele>
+<name>ST7 021</name>
+</rtept>
+<rtept lat="57.19414902722" lon="-5.99914288834919">
+<ele>32.4725967211803</ele>
+<name>ST7 022</name>
+</rtept>
+<rtept lat="57.193763208054" lon="-5.99877812617883">
+<ele>34.4525615528714</ele>
+<name>ST7 023</name>
+</rtept>
+<rtept lat="57.1917603620975" lon="-5.9957837196935">
+<ele>65.6641926069808</ele>
+<name>ST7 024</name>
+</rtept>
+<rtept lat="57.1908407222771" lon="-5.99566273875169">
+<ele>58.840565403931</ele>
+<name>ST7 025</name>
+</rtept>
+<rtept lat="57.1889633264959" lon="-5.99423249954596">
+<ele>59.557849020684</ele>
+<name>ST7 026</name>
+</rtept>
+<rtept lat="57.1874096963418" lon="-5.99272974411226">
+<ele>34.6989230659252</ele>
+<name>ST7 027</name>
+</rtept>
+<rtept lat="57.1872142106056" lon="-5.99079250311265">
+<ele>53.2490624287726</ele>
+<name>ST7 028</name>
+</rtept>
+<rtept lat="57.1864123489938" lon="-5.98990934216023">
+<ele>57.3535990325434</ele>
+<name>ST7 029</name>
+</rtept>
+<rtept lat="57.1851284646834" lon="-5.98966309751749">
+<ele>67.6631563534476</ele>
+<name>ST7 030</name>
+</rtept>
+<rtept lat="57.1846754475735" lon="-5.98920516467866">
+<ele>74.5082041351738</ele>
+<name>ST7 031</name>
+</rtept>
+<rtept lat="57.1837871072871" lon="-5.98736556475769">
+<ele>85.6056813123438</ele>
+<name>ST7 032</name>
+</rtept>
+<rtept lat="57.1836125870269" lon="-5.98917655841072">
+<ele>87.7553398511697</ele>
+<name>ST7 033</name>
+</rtept>
+<rtept lat="57.1825449039247" lon="-5.98893216778718">
+<ele>94.527962453671</ele>
+<name>ST7 034</name>
+</rtept>
+<rtept lat="57.1819470317172" lon="-5.98916901640902">
+<ele>94.375290341962</ele>
+<name>ST7 035</name>
+</rtept>
+<rtept lat="57.181536600751" lon="-5.98957677055725">
+<ele>91.8513412839686</ele>
+<name>ST7 036</name>
+</rtept>
+<rtept lat="57.1798268569727" lon="-5.98967207170174">
+<ele>87.9410874951846</ele>
+<name>ST7 037</name>
+</rtept>
+<rtept lat="57.1791298760306" lon="-5.98916635609916">
+<ele>90.0195809523736</ele>
+<name>ST7 038</name>
+</rtept>
+<rtept lat="57.1787235420834" lon="-5.98944537591836">
+<ele>85.6662898077936</ele>
+<name>ST7 039</name>
+</rtept>
+<rtept lat="57.1776793410134" lon="-5.98791211910679">
+<ele>106.362443095712</ele>
+<name>ST7 040</name>
+</rtept>
+<rtept lat="57.1768707269163" lon="-5.98797555933657">
+<ele>104.188567299373</ele>
+<name>ST7 041</name>
+</rtept>
+<rtept lat="57.1752649521504" lon="-5.98664014410193">
+<ele>110.668780697307</ele>
+<name>ST7 042</name>
+</rtept>
+<rtept lat="57.1743929463706" lon="-5.9866752533117">
+<ele>104.321274799664</ele>
+<name>ST7 043</name>
+</rtept>
+<rtept lat="57.1733555303129" lon="-5.98731664529575">
+<ele>86.2335809489781</ele>
+<name>ST7 044</name>
+</rtept>
+<rtept lat="57.1724522519763" lon="-5.9866812221524">
+<ele>77.3636587087989</ele>
+<name>ST7 045</name>
+</rtept>
+<rtept lat="57.1721555985624" lon="-5.98718725392822">
+<ele>70.4210124233908</ele>
+<name>ST7 046</name>
+</rtept>
+<rtept lat="57.1716669882126" lon="-5.9871130485498">
+<ele>63.2549219199888</ele>
+<name>ST7 047</name>
+</rtept>
+<rtept lat="57.1712539984936" lon="-5.9863153159906">
+<ele>59.1313069965388</ele>
+<name>ST7 048</name>
+</rtept>
+<rtept lat="57.1707960251347" lon="-5.9849101991449">
+<ele>54.3846234353841</ele>
+<name>ST7 049</name>
+</rtept>
+<rtept lat="57.1706895770484" lon="-5.98347842618337">
+<ele>55.2816234353813</ele>
+<name>ST7 050</name>
+</rtept>
+<rtept lat="57.1714992346429" lon="-5.98154274872368">
+<ele>83.1956393168999</ele>
+<name>ST7 051</name>
+</rtept>
+<rtept lat="57.171532754666" lon="-5.98122355505756">
+<ele>89.6257242957424</ele>
+<name>ST7 052</name>
+</rtept>
+<rtept lat="57.1707103111081" lon="-5.98061853724903">
+<ele>83.5827213287853</ele>
+<name>ST7 053</name>
+</rtept>
+<rtept lat="57.1700100224037" lon="-5.98095202382949">
+<ele>65.7747168610746</ele>
+<name>ST7 054</name>
+</rtept>
+<rtept lat="57.1691923449522" lon="-5.98019691990118">
+<ele>46.453719704208</ele>
+<name>ST7 055</name>
+</rtept>
+<rtept lat="57.1685750558171" lon="-5.97754827214827">
+<ele>16.9877879560752</ele>
+<name>ST7 056</name>
+</rtept>
+<rtept lat="57.1686069611941" lon="-5.97617452372097">
+<ele>11.5957944614355</ele>
+<name>ST7 057</name>
+</rtept>
+<rtept lat="57.1689156440822" lon="-5.97455077977843">
+<ele>17.1722516516547</ele>
+<name>ST7 058</name>
+</rtept>
+<rtept lat="57.1689666457983" lon="-5.97294236513396">
+<ele>12.7680223094158</ele>
+<name>ST7 059</name>
+</rtept>
+<rtept lat="57.169121309041" lon="-5.97211975156858">
+<ele>10.4035071784627</ele>
+<name>ST7 060</name>
+</rtept>
+<rtept lat="57.1696615824765" lon="-5.97056385725076">
+<ele>10.4299363815524</ele>
+<name>ST7 061</name>
+</rtept>
+<rtept lat="57.1702361081918" lon="-5.96903311447484">
+<ele>8.1160573276445</ele>
+<name>ST7 062</name>
+</rtept>
+<rtept lat="57.1706452602646" lon="-5.96681747798806">
+<ele>10.731887197121</ele>
+<name>ST7 063</name>
+</rtept>
+<rtept lat="57.1705091968765" lon="-5.96557627518331">
+<ele>5.53488239600109</ele>
+<name>ST7 064</name>
+</rtept>
+<rtept lat="57.1705150746668" lon="-5.96465157038316">
+<ele>4.1572652389977</ele>
+<name>ST7 065</name>
+</rtept>
+<rtept lat="57.1707238650403" lon="-5.9639638102987">
+<ele>6.13436619592932</ele>
+<name>ST7 066</name>
+</rtept>
+<rtept lat="57.1707447721678" lon="-5.96293311360515">
+<ele>4.01395322287724</ele>
+<name>ST7 067</name>
+</rtept>
+<rtept lat="57.1711591879818" lon="-5.96239649095043">
+<ele>5.80164580357758</ele>
+<name>ST7 068</name>
+</rtept>
+<rtept lat="57.1716261792796" lon="-5.9613059686826">
+<ele>9.2656276906475</ele>
+<name>ST7 069</name>
+</rtept>
+<rtept lat="57.1718716781522" lon="-5.95982585625168">
+<ele>7.62793532339495</ele>
+<name>ST7 070</name>
+</rtept>
+<rtept lat="57.1718925517012" lon="-5.9587951237509">
+<ele>5.57812491481124</ele>
+<name>ST7 071</name>
+</rtept>
+<rtept lat="57.1724180280698" lon="-5.95659173318674">
+<ele>2.78061445254612</ele>
+<name>ST7 072</name>
+</rtept>
+<rtept lat="57.1726744454852" lon="-5.95513424982597">
+<ele>4.58036809105777</ele>
+<name>ST7 073</name>
+</rtept>
+<rtept lat="57.172734968435" lon="-5.95395709036034">
+<ele>2.83279224128326</ele>
+<name>ST7 074</name>
+</rtept>
+<rtept lat="57.1730306658506" lon="-5.95310635799893">
+<ele>3.25605177946596</ele>
+<name>ST7 075</name>
+</rtept>
+<rtept lat="57.1734531583503" lon="-5.95231220703848">
+<ele>1.28285275798208</ele>
+<name>ST7 076</name>
+</rtept>
+<rtept lat="57.1739378004207" lon="-5.95102969108192">
+<ele>4.75149199113383</ele>
+<name>ST7 077</name>
+</rtept>
+<rtept lat="57.1738378844153" lon="-5.94974926392246">
+<ele>3.23500217126958</ele>
+<name>ST7 078</name>
+</rtept>
+<rtept lat="57.1737024906009" lon="-5.94885243588505">
+<ele>2.09036582622817</ele>
+<name>ST7 079</name>
+</rtept>
+<rtept lat="57.174053373527" lon="-5.94736189631905">
+<ele>3.48030990588284</ele>
+<name>ST7 080</name>
+</rtept>
+<rtept lat="57.1746718558863" lon="-5.94516815165635">
+<ele>3.14132408897928</ele>
+<name>ST7 081</name>
+</rtept>
+<rtept lat="57.1752089955913" lon="-5.94277196464824">
+<ele>5.0686691491878</ele>
+<name>ST7 082</name>
+</rtept>
+<rtept lat="57.1755597392945" lon="-5.93979627214294">
+<ele>3.32348692605763</ele>
+<name>ST7 083</name>
+</rtept>
+<rtept lat="57.1763954082414" lon="-5.93775458637098">
+<ele>6.60551294140442</ele>
+<name>ST7 084</name>
+</rtept>
+<rtept lat="57.1769022510246" lon="-5.93724897417676">
+<ele>12.6422530286479</ele>
+<name>ST7 085</name>
+</rtept>
+<rtept lat="57.178347000578" lon="-5.93628360521274">
+<ele>40.7882340445489</ele>
+<name>ST7 086</name>
+</rtept>
+<rtept lat="57.1788015682672" lon="-5.93669791186234">
+<ele>49.6435619618412</ele>
+<name>ST7 087</name>
+</rtept>
+<rtept lat="57.1793401874178" lon="-5.93666917094712">
+<ele>61.6672769173861</ele>
+<name>ST7 088</name>
+</rtept>
+<rtept lat="57.1797762510778" lon="-5.93581157730912">
+<ele>70.4461185863538</ele>
+<name>ST7 089</name>
+</rtept>
+<rtept lat="57.1806041501619" lon="-5.93531854773193">
+<ele>82.2789582857568</ele>
+<name>ST7 090</name>
+</rtept>
+<rtept lat="57.1815785538744" lon="-5.9351855005488">
+<ele>92.9260496773235</ele>
+<name>ST7 091</name>
+</rtept>
+<rtept lat="57.1832217527573" lon="-5.93497296089202">
+<ele>110.222104626896</ele>
+<name>ST7 092</name>
+</rtept>
+<rtept lat="57.1836542038924" lon="-5.93441624979621">
+<ele>107.987411065046</ele>
+<name>ST7 093</name>
+</rtept>
+<rtept lat="57.1848085482833" lon="-5.93376413966027">
+<ele>116.769849507533</ele>
+<name>ST7 094</name>
+</rtept>
+<rtept lat="57.1863879012559" lon="-5.93335097450002">
+<ele>131.110158826211</ele>
+<name>ST7 095</name>
+</rtept>
+<rtept lat="57.1869290067369" lon="-5.93287034688543">
+<ele>131.321246574534</ele>
+<name>ST7 096</name>
+</rtept>
+<rtept lat="57.1884207178613" lon="-5.93320133096277">
+<ele>142.136630321726</ele>
+<name>ST7 097</name>
+</rtept>
+<rtept lat="57.1902495882581" lon="-5.93414955979089">
+<ele>145.558513288279</ele>
+<name>ST7 098</name>
+</rtept>
+<rtept lat="57.1910713531578" lon="-5.93496910646222">
+<ele>155.740016784242</ele>
+<name>ST7 099</name>
+</rtept>
+<rtept lat="57.1924795194702" lon="-5.93479608871064">
+<ele>157.827638877119</ele>
+<name>ST7 100</name>
+</rtept>
+<rtept lat="57.1930687045069" lon="-5.93576318665463">
+<ele>158.415223626656</ele>
+<name>ST7 101</name>
+</rtept>
+<rtept lat="57.19455318782" lon="-5.93669651185301">
+<ele>158.050058983687</ele>
+<name>ST7 102</name>
+</rtept>
+<rtept lat="57.1958605439271" lon="-5.93638360472547">
+<ele>163.572953236816</ele>
+<name>ST7 103</name>
+</rtept>
+<rtept lat="57.1968154048333" lon="-5.93687296537548">
+<ele>164.198900412201</ele>
+<name>ST7 104</name>
+</rtept>
+<rtept lat="57.19826848697" lon="-5.93806151376668">
+<ele>162.676886187628</ele>
+<name>ST7 105</name>
+</rtept>
+<rtept lat="57.1985732309891" lon="-5.93766329066282">
+<ele>160.64907192575</ele>
+<name>ST7 106</name>
+</rtept>
+<rtept lat="57.1988023859857" lon="-5.93818303644636">
+<ele>161.35554046983</ele>
+<name>ST7 107</name>
+</rtept>
+<rtept lat="57.1999304583697" lon="-5.93836791093046">
+<ele>162.523029059719</ele>
+<name>ST7 108</name>
+</rtept>
+<rtept lat="57.2013212249022" lon="-5.9396792012946">
+<ele>163.745750745506</ele>
+<name>ST7 109</name>
+</rtept>
+<rtept lat="57.2021826828959" lon="-5.93979262343722">
+<ele>163.650929821781</ele>
+<name>ST7 110</name>
+</rtept>
+<rtept lat="57.2043197995286" lon="-5.94060214500078">
+<ele>150.880707154608</ele>
+<name>ST7 111</name>
+</rtept>
+<rtept lat="57.2062290514523" lon="-5.94140898713645">
+<ele>122.315760983953</ele>
+<name>ST7 112</name>
+</rtept>
+<rtept lat="57.2094834511388" lon="-5.94070079950463">
+<ele>84.7212983338776</ele>
+<name>ST7 113</name>
+</rtept>
+<rtept lat="57.2103764843523" lon="-5.94092536115624">
+<ele>75.5712206921691</ele>
+<name>ST7 114</name>
+</rtept>
+<rtept lat="57.2110486540603" lon="-5.94073858947194">
+<ele>74.3090444624437</ele>
+<name>ST7 115</name>
+</rtept>
+<rtept lat="57.2137334645125" lon="-5.93843983370855">
+<ele>71.3113683196663</ele>
+<name>ST7 116</name>
+</rtept>
+<rtept lat="57.2148831111953" lon="-5.93793767233184">
+<ele>61.4387250880441</ele>
+<name>ST7 117</name>
+</rtept>
+<rtept lat="57.2158095082679" lon="-5.93840276578458">
+<ele>47.4063185693625</ele>
+<name>ST7 118</name>
+</rtept>
+<rtept lat="57.2161740432827" lon="-5.9383339271985">
+<ele>45.3578117366909</ele>
+<name>ST7 119</name>
+</rtept>
+<rtept lat="57.2167980715282" lon="-5.93781875607827">
+<ele>45.4502587343475</ele>
+<name>ST7 120</name>
+</rtept>
+<rtept lat="57.2176034876857" lon="-5.93822787243842">
+<ele>39.4345963017613</ele>
+<name>ST7 121</name>
+</rtept>
+<rtept lat="57.2178761677519" lon="-5.93810613646625">
+<ele>38.9701886102345</ele>
+<name>ST7 122</name>
+</rtept>
+<rtept lat="57.2184471468717" lon="-5.93704660289468">
+<ele>44.1043475102112</ele>
+<name>ST7 123</name>
+</rtept>
+<rtept lat="57.21926186258" lon="-5.9362285030616">
+<ele>53.5648677390859</ele>
+<name>ST7 124</name>
+</rtept>
+<rtept lat="57.2207648640111" lon="-5.93526827031879">
+<ele>71.2090723757767</ele>
+<name>ST7 125</name>
+</rtept>
+<rtept lat="57.2213397798157" lon="-5.93520027557606">
+<ele>58.0252498482891</ele>
+<name>ST7 126</name>
+</rtept>
+<rtept lat="57.2225024130738" lon="-5.93465620657022">
+<ele>61.6411389815788</ele>
+<name>ST7 127</name>
+</rtept>
+<rtept lat="57.2228358393969" lon="-5.93408836369231">
+<ele>67.5580745142369</ele>
+<name>ST7 128</name>
+</rtept>
+<rtept lat="57.2233993416129" lon="-5.93382518202111">
+<ele>63.853074514237</ele>
+<name>ST7 129</name>
+</rtept>
+<rtept lat="57.2250527041017" lon="-5.93216959649142">
+<ele>64.6950458428967</ele>
+<name>ST7 130</name>
+</rtept>
+<rtept lat="57.2265337920643" lon="-5.92948258582949">
+<ele>57.680141871072</ele>
+<name>ST7 131</name>
+</rtept>
+<rtept lat="57.2259999406781" lon="-5.92711973890224">
+<ele>68.4763761959242</ele>
+<name>ST7 132</name>
+</rtept>
+<rtept lat="57.2261467044678" lon="-5.92616554084425">
+<ele>71.1575191588117</ele>
+<name>ST7 133</name>
+</rtept>
+<rtept lat="57.2265450689575" lon="-5.92538895997184">
+<ele>71.7118419997694</ele>
+<name>ST7 134</name>
+</rtept>
+<rtept lat="57.2272087044006" lon="-5.92472678402978">
+<ele>71.0574916253178</ele>
+<name>ST7 135</name>
+</rtept>
+<rtept lat="57.2281492501713" lon="-5.92305950718222">
+<ele>79.8341219384766</ele>
+<name>ST7 136</name>
+</rtept>
+<rtept lat="57.2295862850919" lon="-5.92196219559321">
+<ele>70.0808160443698</ele>
+<name>ST7 137</name>
+</rtept>
+<rtept lat="57.2315742660804" lon="-5.92137599748727">
+<ele>61.5142177457046</ele>
+<name>ST7 138</name>
+</rtept>
+<rtept lat="57.2342802525036" lon="-5.91894755205">
+<ele>55.0300292548967</ele>
+<name>ST7 139</name>
+</rtept>
+<rtept lat="57.2344411331236" lon="-5.91922331748697">
+<ele>51.1344432742503</ele>
+<name>ST7 140</name>
+</rtept>
+<rtept lat="57.234984876455" lon="-5.91865594449844">
+<ele>49.5482083308447</ele>
+<name>ST7 141</name>
+</rtept>
+<rtept lat="57.2371553780479" lon="-5.91690320289662">
+<ele>30.676284541079</ele>
+<name>ST7 142</name>
+</rtept>
+<rtept lat="57.2382200017114" lon="-5.91593833372761">
+<ele>23.6396949544185</ele>
+<name>ST7 143</name>
+</rtept>
+<rtept lat="57.2404702659836" lon="-5.91462494829811">
+<ele>10.4068683257222</ele>
+<name>ST7 144</name>
+</rtept>
+<rtept lat="57.2413959422852" lon="-5.91342958474935">
+<ele>10.6446075302054</ele>
+<name>ST7 145</name>
+</rtept>
+<rtept lat="57.2421914926367" lon="-5.91284561978802">
+<ele>8.33481683973736</ele>
+<name>ST7 146</name>
+</rtept>
+<rtept lat="57.2423659952553" lon="-5.91249760012437">
+<ele>7.15827372596805</ele>
+<name>ST7 147</name>
+</rtept>
+<rtept lat="57.2418030346484" lon="-5.91105800746621">
+<ele>8.68841985323466</ele>
+<name>ST7 148</name>
+</rtept>
+<rtept lat="57.2413905795684" lon="-5.90928945122622">
+<ele>11.6413965678615</ele>
+<name>ST7 149</name>
+</rtept>
+</rte>
+</gpx>

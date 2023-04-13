@@ -1,0 +1,990 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>The Mell circuit, Glen Finglas</name>
+<rtept lat="56.2289823057401" lon="-4.34667827681274">
+<ele>119.151981588793</ele>
+<name>Mell 001</name>
+</rtept>
+<rtept lat="56.2295033423737" lon="-4.3463116156563">
+<ele>116.139890887988</ele>
+<name>Mell 002</name>
+</rtept>
+<rtept lat="56.2308824071723" lon="-4.34998280770743">
+<ele>135.643085854697</ele>
+<name>Mell 003</name>
+</rtept>
+<rtept lat="56.2312723030972" lon="-4.34790908514074">
+<ele>146.531778761101</ele>
+<name>Mell 004</name>
+</rtept>
+<rtept lat="56.2317587307305" lon="-4.34751932574423">
+<ele>164.013281985641</ele>
+<name>Mell 005</name>
+</rtept>
+<rtept lat="56.2332660277707" lon="-4.34874431598728">
+<ele>201.290287976456</ele>
+<name>Mell 006</name>
+</rtept>
+<rtept lat="56.2335477008597" lon="-4.34867765083765">
+<ele>206.126287976456</ele>
+<name>Mell 007</name>
+</rtept>
+<rtept lat="56.2345149779435" lon="-4.35003749101458">
+<ele>227.466159747267</ele>
+<name>Mell 008</name>
+</rtept>
+<rtept lat="56.2343744313361" lon="-4.35374194129598">
+<ele>209.397688060331</ele>
+<name>Mell 009</name>
+</rtept>
+<rtept lat="56.2346888281265" lon="-4.35441154596145">
+<ele>210.884751363659</ele>
+<name>Mell 010</name>
+</rtept>
+<rtept lat="56.2348830267508" lon="-4.35587094842952">
+<ele>216.224911130428</ele>
+<name>Mell 011</name>
+</rtept>
+<rtept lat="56.2347355833517" lon="-4.35747719726645">
+<ele>215.643988018394</ele>
+<name>Mell 012</name>
+</rtept>
+<rtept lat="56.2350111897952" lon="-4.36017933363343">
+<ele>221.52680430789</ele>
+<name>Mell 013</name>
+</rtept>
+<rtept lat="56.2357253903079" lon="-4.36316026795841">
+<ele>213.35054716301</ele>
+<name>Mell 014</name>
+</rtept>
+<rtept lat="56.2362852585645" lon="-4.36443250925022">
+<ele>197.333857022047</ele>
+<name>Mell 015</name>
+</rtept>
+<rtept lat="56.2386387150729" lon="-4.36661265111904">
+<ele>235.148767695999</ele>
+<name>Mell 016</name>
+</rtept>
+<rtept lat="56.2395473632373" lon="-4.36675263702856">
+<ele>249.234172625923</ele>
+<name>Mell 017</name>
+</rtept>
+<rtept lat="56.2408958952426" lon="-4.36771706855254">
+<ele>230.629765176582</ele>
+<name>Mell 018</name>
+</rtept>
+<rtept lat="56.2415015257622" lon="-4.3678174012384">
+<ele>229.035390430582</ele>
+<name>Mell 019</name>
+</rtept>
+<rtept lat="56.2425364987581" lon="-4.36746165257073">
+<ele>233.567420823407</ele>
+<name>Mell 020</name>
+</rtept>
+<rtept lat="56.2433120266778" lon="-4.36906224793999">
+<ele>209.538278323174</ele>
+<name>Mell 021</name>
+</rtept>
+<rtept lat="56.2440722015948" lon="-4.36963378581254">
+<ele>211.772030851054</ele>
+<name>Mell 022</name>
+</rtept>
+<rtept lat="56.2443712247593" lon="-4.37049159499098">
+<ele>233.676982485867</ele>
+<name>Mell 023</name>
+</rtept>
+<rtept lat="56.243966434662" lon="-4.37149474595185">
+<ele>202.547328939009</ele>
+<name>Mell 024</name>
+</rtept>
+<rtept lat="56.2442883682854" lon="-4.37176645314114">
+<ele>199.614009653282</ele>
+<name>Mell 025</name>
+</rtept>
+<rtept lat="56.2443052776704" lon="-4.37210323151844">
+<ele>208.319328939009</ele>
+<name>Mell 026</name>
+</rtept>
+<rtept lat="56.2449821132253" lon="-4.37153657164896">
+<ele>218.597331934452</ele>
+<name>Mell 027</name>
+</rtept>
+<rtept lat="56.2455978020868" lon="-4.37172153532779">
+<ele>213.413687373829</ele>
+<name>Mell 028</name>
+</rtept>
+<rtept lat="56.2458987902029" lon="-4.37125751525174">
+<ele>204.053844851088</ele>
+<name>Mell 029</name>
+</rtept>
+<rtept lat="56.2465486852811" lon="-4.37148656369225">
+<ele>215.358630747771</ele>
+<name>Mell 030</name>
+</rtept>
+<rtept lat="56.2471836593362" lon="-4.37066545437492">
+<ele>228.361270023489</ele>
+<name>Mell 031</name>
+</rtept>
+<rtept lat="56.2477796250254" lon="-4.37066032949906">
+<ele>210.674632598418</ele>
+<name>Mell 032</name>
+</rtept>
+<rtept lat="56.2481732195883" lon="-4.37206970031143">
+<ele>189.314052944171</ele>
+<name>Mell 033</name>
+</rtept>
+<rtept lat="56.2487603415976" lon="-4.37252573650298">
+<ele>172.253296276152</ele>
+<name>Mell 034</name>
+</rtept>
+<rtept lat="56.2501840484844" lon="-4.37200522495967">
+<ele>178.38414478972</ele>
+<name>Mell 035</name>
+</rtept>
+<rtept lat="56.2506488435754" lon="-4.37274753022226">
+<ele>157.820544434774</ele>
+<name>Mell 036</name>
+</rtept>
+<rtept lat="56.2507212839837" lon="-4.37323470985118">
+<ele>160.94890884096</ele>
+<name>Mell 037</name>
+</rtept>
+<rtept lat="56.2512886812974" lon="-4.37350069016195">
+<ele>160.471232036889</ele>
+<name>Mell 038</name>
+</rtept>
+<rtept lat="56.2518749792452" lon="-4.37278143914824">
+<ele>172.22287707513</ele>
+<name>Mell 039</name>
+</rtept>
+<rtept lat="56.252557859763" lon="-4.37250888632684">
+<ele>190.340249303365</ele>
+<name>Mell 040</name>
+</rtept>
+<rtept lat="56.2528230493231" lon="-4.37269320120997">
+<ele>184.539546724272</ele>
+<name>Mell 041</name>
+</rtept>
+<rtept lat="56.2532962897543" lon="-4.37603863003044">
+<ele>152.89918185984</ele>
+<name>Mell 042</name>
+</rtept>
+<rtept lat="56.2539437580907" lon="-4.37639358871775">
+<ele>157.963423341161</ele>
+<name>Mell 043</name>
+</rtept>
+<rtept lat="56.2543695079077" lon="-4.37612613738698">
+<ele>166.694529457808</ele>
+<name>Mell 044</name>
+</rtept>
+<rtept lat="56.2545175911556" lon="-4.37632421623749">
+<ele>166.078717308426</ele>
+<name>Mell 045</name>
+</rtept>
+<rtept lat="56.2546330422024" lon="-4.37822038061443">
+<ele>166.770158602572</ele>
+<name>Mell 046</name>
+</rtept>
+<rtept lat="56.2548966105628" lon="-4.378488601621">
+<ele>170.47029810741</ele>
+<name>Mell 047</name>
+</rtept>
+<rtept lat="56.2552620007658" lon="-4.37832236897594">
+<ele>173.669685770869</ele>
+<name>Mell 048</name>
+</rtept>
+<rtept lat="56.2557251640805" lon="-4.37854001146058">
+<ele>180.362640420473</ele>
+<name>Mell 049</name>
+</rtept>
+<rtept lat="56.2561931434075" lon="-4.37911478549902">
+<ele>184.406109112024</ele>
+<name>Mell 050</name>
+</rtept>
+<rtept lat="56.2577661635416" lon="-4.37872963451076">
+<ele>199.062214083922</ele>
+<name>Mell 051</name>
+</rtept>
+<rtept lat="56.2584369388091" lon="-4.37969487018343">
+<ele>195.965076887959</ele>
+<name>Mell 052</name>
+</rtept>
+<rtept lat="56.2583660241906" lon="-4.38155866987345">
+<ele>181.347111420918</ele>
+<name>Mell 053</name>
+</rtept>
+<rtept lat="56.2590946808356" lon="-4.38315731276861">
+<ele>172.323066070503</ele>
+<name>Mell 054</name>
+</rtept>
+<rtept lat="56.2605850801543" lon="-4.38463547716306">
+<ele>174.787712481761</ele>
+<name>Mell 055</name>
+</rtept>
+<rtept lat="56.261176597813" lon="-4.38486121551922">
+<ele>163.974162284493</ele>
+<name>Mell 056</name>
+</rtept>
+<rtept lat="56.2618832462353" lon="-4.38456930148418">
+<ele>174.475946827543</ele>
+<name>Mell 057</name>
+</rtept>
+<rtept lat="56.2622650612415" lon="-4.38536980725574">
+<ele>179.905851967239</ele>
+<name>Mell 058</name>
+</rtept>
+<rtept lat="56.2626598095702" lon="-4.385499345045">
+<ele>189.278851967239</ele>
+<name>Mell 059</name>
+</rtept>
+<rtept lat="56.2629709533169" lon="-4.3845110209111">
+<ele>209.971859102774</ele>
+<name>Mell 060</name>
+</rtept>
+<rtept lat="56.2639750000928" lon="-4.38394367307056">
+<ele>203.466641106987</ele>
+<name>Mell 061</name>
+</rtept>
+<rtept lat="56.2648262092435" lon="-4.38221208768084">
+<ele>219.312050177073</ele>
+<name>Mell 062</name>
+</rtept>
+<rtept lat="56.2657691067826" lon="-4.38117896092337">
+<ele>240.425514728487</ele>
+<name>Mell 063</name>
+</rtept>
+<rtept lat="56.2663256846512" lon="-4.38018477366281">
+<ele>233.632907467914</ele>
+<name>Mell 064</name>
+</rtept>
+<rtept lat="56.2671389635457" lon="-4.37981537675174">
+<ele>251.777103579521</ele>
+<name>Mell 065</name>
+</rtept>
+<rtept lat="56.2675474298777" lon="-4.37923186084747">
+<ele>244.647148013401</ele>
+<name>Mell 066</name>
+</rtept>
+<rtept lat="56.2697614534128" lon="-4.37953732911844">
+<ele>248.589981341124</ele>
+<name>Mell 067</name>
+</rtept>
+<rtept lat="56.2708825264197" lon="-4.38017390287449">
+<ele>247.154275308418</ele>
+<name>Mell 068</name>
+</rtept>
+<rtept lat="56.2736574666186" lon="-4.38108129861336">
+<ele>218.037022779679</ele>
+<name>Mell 069</name>
+</rtept>
+<rtept lat="56.2750114813908" lon="-4.38236247478685">
+<ele>222.700503224504</ele>
+<name>Mell 070</name>
+</rtept>
+<rtept lat="56.2765639121299" lon="-4.3830470612237">
+<ele>234.179795569444</ele>
+<name>Mell 071</name>
+</rtept>
+<rtept lat="56.2778330803759" lon="-4.38327303931848">
+<ele>245.533390411234</ele>
+<name>Mell 072</name>
+</rtept>
+<rtept lat="56.2781951975725" lon="-4.38388362633785">
+<ele>247.093390411234</ele>
+<name>Mell 073</name>
+</rtept>
+<rtept lat="56.2795457410985" lon="-4.38291755694438">
+<ele>253.997725588751</ele>
+<name>Mell 074</name>
+</rtept>
+<rtept lat="56.2805859586176" lon="-4.3828982683069">
+<ele>249.859999313462</ele>
+<name>Mell 075</name>
+</rtept>
+<rtept lat="56.2810611840634" lon="-4.38309586610461">
+<ele>248.545014957631</ele>
+<name>Mell 076</name>
+</rtept>
+<rtept lat="56.2828798857085" lon="-4.38512045665333">
+<ele>248.628311920273</ele>
+<name>Mell 077</name>
+</rtept>
+<rtept lat="56.2833249499741" lon="-4.38506415899458">
+<ele>257.182718453217</ele>
+<name>Mell 078</name>
+</rtept>
+<rtept lat="56.2838950286526" lon="-4.38640198115532">
+<ele>248.578008280325</ele>
+<name>Mell 079</name>
+</rtept>
+<rtept lat="56.2848470200006" lon="-4.38732254169417">
+<ele>250.417893177509</ele>
+<name>Mell 080</name>
+</rtept>
+<rtept lat="56.285730674612" lon="-4.38754568559984">
+<ele>254.927778074694</ele>
+<name>Mell 081</name>
+</rtept>
+<rtept lat="56.2883661710917" lon="-4.38962172309544">
+<ele>256.094485958034</ele>
+<name>Mell 082</name>
+</rtept>
+<rtept lat="56.2889420328432" lon="-4.38944758810343">
+<ele>280.163425630712</ele>
+<name>Mell 083</name>
+</rtept>
+<rtept lat="56.2901769060983" lon="-4.39023895338694">
+<ele>276.260310527897</ele>
+<name>Mell 084</name>
+</rtept>
+<rtept lat="56.2910312182417" lon="-4.39016624092519">
+<ele>289.412845976543</ele>
+<name>Mell 085</name>
+</rtept>
+<rtept lat="56.2927662569702" lon="-4.39107295544206">
+<ele>303.439325943804</ele>
+<name>Mell 086</name>
+</rtept>
+<rtept lat="56.2936723421965" lon="-4.39194896341161">
+<ele>306.963549013853</ele>
+<name>Mell 087</name>
+</rtept>
+<rtept lat="56.2940214312452" lon="-4.39323141809462">
+<ele>286.880318369281</ele>
+<name>Mell 088</name>
+</rtept>
+<rtept lat="56.2944936971553" lon="-4.39418542747121">
+<ele>295.107303392363</ele>
+<name>Mell 089</name>
+</rtept>
+<rtept lat="56.2956423833389" lon="-4.39520280091321">
+<ele>292.928328500205</ele>
+<name>Mell 090</name>
+</rtept>
+<rtept lat="56.2955512454598" lon="-4.39628969698963">
+<ele>295.082124527931</ele>
+<name>Mell 091</name>
+</rtept>
+<rtept lat="56.2970793173209" lon="-4.39762510026604">
+<ele>303.441344602609</ele>
+<name>Mell 092</name>
+</rtept>
+<rtept lat="56.2989413918618" lon="-4.39679615570434">
+<ele>343.876719598007</ele>
+<name>Mell 093</name>
+</rtept>
+<rtept lat="56.300254765311" lon="-4.39715159752517">
+<ele>353.943098294586</ele>
+<name>Mell 094</name>
+</rtept>
+<rtept lat="56.3008067730504" lon="-4.39760646496974">
+<ele>362.330106116676</ele>
+<name>Mell 095</name>
+</rtept>
+<rtept lat="56.3008532068313" lon="-4.39882821257517">
+<ele>366.446130060446</ele>
+<name>Mell 096</name>
+</rtept>
+<rtept lat="56.3015065723388" lon="-4.39947860028083">
+<ele>385.545630289567</ele>
+<name>Mell 097</name>
+</rtept>
+<rtept lat="56.3022361835562" lon="-4.39920912326898">
+<ele>403.252676098204</ele>
+<name>Mell 098</name>
+</rtept>
+<rtept lat="56.3024542428819" lon="-4.39941193366263">
+<ele>407.060198668063</ele>
+<name>Mell 099</name>
+</rtept>
+<rtept lat="56.3028708111784" lon="-4.39901774374411">
+<ele>415.386526004243</ele>
+<name>Mell 100</name>
+</rtept>
+<rtept lat="56.3033013624847" lon="-4.39910778542724">
+<ele>413.795034074688</ele>
+<name>Mell 101</name>
+</rtept>
+<rtept lat="56.3036431807024" lon="-4.40015900126554">
+<ele>428.762536135137</ele>
+<name>Mell 102</name>
+</rtept>
+<rtept lat="56.3034192915661" lon="-4.40085949711868">
+<ele>425.189505761623</ele>
+<name>Mell 103</name>
+</rtept>
+<rtept lat="56.301693126308" lon="-4.40371430021466">
+<ele>424.57379259336</ele>
+<name>Mell 104</name>
+</rtept>
+<rtept lat="56.3015850967421" lon="-4.40446405029622">
+<ele>432.63379259336</ele>
+<name>Mell 105</name>
+</rtept>
+<rtept lat="56.3019409860498" lon="-4.40539006198184">
+<ele>453.914361410856</ele>
+<name>Mell 106</name>
+</rtept>
+<rtept lat="56.3019507021211" lon="-4.40669360913732">
+<ele>455.588692906427</ele>
+<name>Mell 107</name>
+</rtept>
+<rtept lat="56.3031801487906" lon="-4.40775867988816">
+<ele>466.134066757029</ele>
+<name>Mell 108</name>
+</rtept>
+<rtept lat="56.3030317773247" lon="-4.40877911338264">
+<ele>461.765745392382</ele>
+<name>Mell 109</name>
+</rtept>
+<rtept lat="56.3039768708776" lon="-4.41064600714422">
+<ele>456.915430476713</ele>
+<name>Mell 110</name>
+</rtept>
+<rtept lat="56.3040020990668" lon="-4.41234991388452">
+<ele>448.820899168277</ele>
+<name>Mell 111</name>
+</rtept>
+<rtept lat="56.3043468790456" lon="-4.41384280402559">
+<ele>442.144720303817</ele>
+<name>Mell 112</name>
+</rtept>
+<rtept lat="56.3041679529726" lon="-4.41463013814911">
+<ele>441.965360724306</ele>
+<name>Mell 113</name>
+</rtept>
+<rtept lat="56.3041360085333" lon="-4.41626739827988">
+<ele>442.567286831729</ele>
+<name>Mell 114</name>
+</rtept>
+<rtept lat="56.30435972666" lon="-4.41857232420174">
+<ele>475.596159289193</ele>
+<name>Mell 115</name>
+</rtept>
+<rtept lat="56.3031405109132" lon="-4.42057582682825">
+<ele>467.717540981102</ele>
+<name>Mell 116</name>
+</rtept>
+<rtept lat="56.3019576711728" lon="-4.42310688711417">
+<ele>494.391354981089</ele>
+<name>Mell 117</name>
+</rtept>
+<rtept lat="56.3003299590325" lon="-4.4250842365268">
+<ele>515.866654939127</ele>
+<name>Mell 118</name>
+</rtept>
+<rtept lat="56.2988989050899" lon="-4.42537179558309">
+<ele>512.438331037331</ele>
+<name>Mell 119</name>
+</rtept>
+<rtept lat="56.2983808257576" lon="-4.426767864001">
+<ele>534.553369252205</ele>
+<name>Mell 120</name>
+</rtept>
+<rtept lat="56.2970101927237" lon="-4.42874018078572">
+<ele>549.708200518656</ele>
+<name>Mell 121</name>
+</rtept>
+<rtept lat="56.2967107739348" lon="-4.4297087609681">
+<ele>571.072133761597</ele>
+<name>Mell 122</name>
+</rtept>
+<rtept lat="56.2960178899333" lon="-4.43048424215532">
+<ele>607.896236863661</ele>
+<name>Mell 123</name>
+</rtept>
+<rtept lat="56.2944196150069" lon="-4.430361741066">
+<ele>576.428289807844</ele>
+<name>Mell 124</name>
+</rtept>
+<rtept lat="56.2934312865839" lon="-4.43130749564179">
+<ele>540.007005284977</ele>
+<name>Mell 125</name>
+</rtept>
+<rtept lat="56.2931699004589" lon="-4.4309337156977">
+<ele>531.899277845573</ele>
+<name>Mell 126</name>
+</rtept>
+<rtept lat="56.2925994727559" lon="-4.43142274262115">
+<ele>521.011883046579</ele>
+<name>Mell 127</name>
+</rtept>
+<rtept lat="56.2918700439321" lon="-4.43286810112086">
+<ele>493.701824569893</ele>
+<name>Mell 128</name>
+</rtept>
+<rtept lat="56.2925864556994" lon="-4.43505666676545">
+<ele>475.973224673104</ele>
+<name>Mell 129</name>
+</rtept>
+<rtept lat="56.2928050816827" lon="-4.4364152310027">
+<ele>487.534368298817</ele>
+<name>Mell 130</name>
+</rtept>
+<rtept lat="56.2926408664351" lon="-4.43882094909465">
+<ele>460.557862784767</ele>
+<name>Mell 131</name>
+</rtept>
+<rtept lat="56.2906445462219" lon="-4.44110981183443">
+<ele>422.080205803609</ele>
+<name>Mell 132</name>
+</rtept>
+<rtept lat="56.288915440593" lon="-4.4411045972401">
+<ele>406.594031079304</ele>
+<name>Mell 133</name>
+</rtept>
+<rtept lat="56.2879932436217" lon="-4.44165501816613">
+<ele>423.843003453624</ele>
+<name>Mell 134</name>
+</rtept>
+<rtept lat="56.2878099273396" lon="-4.44206347810326">
+<ele>419.553003453624</ele>
+<name>Mell 135</name>
+</rtept>
+<rtept lat="56.2869310143734" lon="-4.44219648095907">
+<ele>404.620751841372</ele>
+<name>Mell 136</name>
+</rtept>
+<rtept lat="56.2863087446786" lon="-4.4417576610034">
+<ele>393.734433013844</ele>
+<name>Mell 137</name>
+</rtept>
+<rtept lat="56.2860499533966" lon="-4.4418461898062">
+<ele>394.487629603022</ele>
+<name>Mell 138</name>
+</rtept>
+<rtept lat="56.2851511667788" lon="-4.44298621773533">
+<ele>400.351280154431</ele>
+<name>Mell 139</name>
+</rtept>
+<rtept lat="56.2849282826047" lon="-4.44362318228945">
+<ele>384.151325046581</ele>
+<name>Mell 140</name>
+</rtept>
+<rtept lat="56.2839535975708" lon="-4.44446421420166">
+<ele>391.235697733116</ele>
+<name>Mell 141</name>
+</rtept>
+<rtept lat="56.2835476634775" lon="-4.44431226857407">
+<ele>377.132433013844</ele>
+<name>Mell 142</name>
+</rtept>
+<rtept lat="56.2820658737665" lon="-4.44598205477775">
+<ele>384.212610714197</ele>
+<name>Mell 143</name>
+</rtept>
+<rtept lat="56.2816559094008" lon="-4.44721612087218">
+<ele>411.164481340337</ele>
+<name>Mell 144</name>
+</rtept>
+<rtept lat="56.2804614549233" lon="-4.4467617273182">
+<ele>353.38984093914</ele>
+<name>Mell 145</name>
+</rtept>
+<rtept lat="56.2791120388433" lon="-4.44705356592729">
+<ele>367.908830788898</ele>
+<name>Mell 146</name>
+</rtept>
+<rtept lat="56.2781293965453" lon="-4.44770485874192">
+<ele>368.926056873703</ele>
+<name>Mell 147</name>
+</rtept>
+<rtept lat="56.2771870460727" lon="-4.44690957351899">
+<ele>377.604239859009</ele>
+<name>Mell 148</name>
+</rtept>
+<rtept lat="56.2769148065464" lon="-4.44590510598612">
+<ele>345.48678223418</ele>
+<name>Mell 149</name>
+</rtept>
+<rtept lat="56.2767006159755" lon="-4.44610144263476">
+<ele>325.302190387726</ele>
+<name>Mell 150</name>
+</rtept>
+<rtept lat="56.2761087435213" lon="-4.44530760213166">
+<ele>339.169494466639</ele>
+<name>Mell 151</name>
+</rtept>
+<rtept lat="56.2755541412866" lon="-4.44262609008642">
+<ele>287.499316766262</ele>
+<name>Mell 152</name>
+</rtept>
+<rtept lat="56.2757711444747" lon="-4.44169488616612">
+<ele>273.969673350406</ele>
+<name>Mell 153</name>
+</rtept>
+<rtept lat="56.2745453389495" lon="-4.43808870394873">
+<ele>245.002852673107</ele>
+<name>Mell 154</name>
+</rtept>
+<rtept lat="56.2747639603418" lon="-4.4370736013977">
+<ele>241.81761601845</ele>
+<name>Mell 155</name>
+</rtept>
+<rtept lat="56.2741926703835" lon="-4.43523125055334">
+<ele>232.656570668066</ele>
+<name>Mell 156</name>
+</rtept>
+<rtept lat="56.2737459369162" lon="-4.43537084844721">
+<ele>226.154803869075</ele>
+<name>Mell 157</name>
+</rtept>
+<rtept lat="56.2731410861983" lon="-4.43463941237841">
+<ele>224.100803869075</ele>
+<name>Mell 158</name>
+</rtept>
+<rtept lat="56.2726466167564" lon="-4.43364202368967">
+<ele>219.128514041963</ele>
+<name>Mell 159</name>
+</rtept>
+<rtept lat="56.2723712558666" lon="-4.4321965966641">
+<ele>215.558685770869</ele>
+<name>Mell 160</name>
+</rtept>
+<rtept lat="56.2718002857511" lon="-4.432118348561">
+<ele>216.651905845577</ele>
+<name>Mell 161</name>
+</rtept>
+<rtept lat="56.2711266353958" lon="-4.43131964111272">
+<ele>210.33190815444</ele>
+<name>Mell 162</name>
+</rtept>
+<rtept lat="56.2697494356811" lon="-4.42528993176683">
+<ele>188.557045350398</ele>
+<name>Mell 163</name>
+</rtept>
+<rtept lat="56.269815428471" lon="-4.42430722334892">
+<ele>185.502045350398</ele>
+<name>Mell 164</name>
+</rtept>
+<rtept lat="56.2694578607423" lon="-4.42287777335033">
+<ele>184.259307093585</ele>
+<name>Mell 165</name>
+</rtept>
+<rtept lat="56.2695129859182" lon="-4.42185238713805">
+<ele>182.100765654218</ele>
+<name>Mell 166</name>
+</rtept>
+<rtept lat="56.2692390775375" lon="-4.42152011394555">
+<ele>180.399811004615</ele>
+<name>Mell 167</name>
+</rtept>
+<rtept lat="56.2690669568392" lon="-4.4201654182054">
+<ele>179.36198986907</ele>
+<name>Mell 168</name>
+</rtept>
+<rtept lat="56.2694240434642" lon="-4.4186341727589">
+<ele>184.762812149382</ele>
+<name>Mell 169</name>
+</rtept>
+<rtept lat="56.2694676758639" lon="-4.41699913448931">
+<ele>193.193519326878</ele>
+<name>Mell 170</name>
+</rtept>
+<rtept lat="56.2689714232516" lon="-4.41608595140677">
+<ele>182.793519326878</ele>
+<name>Mell 171</name>
+</rtept>
+<rtept lat="56.2692346949966" lon="-4.41456975824809">
+<ele>189.408357728899</ele>
+<name>Mell 172</name>
+</rtept>
+<rtept lat="56.2680872031621" lon="-4.40870239536142">
+<ele>182.025283130455</ele>
+<name>Mell 173</name>
+</rtept>
+<rtept lat="56.2675481254669" lon="-4.40818559257942">
+<ele>171.754934387743</ele>
+<name>Mell 174</name>
+</rtept>
+<rtept lat="56.2671657126066" lon="-4.40562103958492">
+<ele>179.315193822074</ele>
+<name>Mell 175</name>
+</rtept>
+<rtept lat="56.2662806414713" lon="-4.40306700660261">
+<ele>165.10197973814</ele>
+<name>Mell 176</name>
+</rtept>
+<rtept lat="56.2654133006537" lon="-4.40200485139628">
+<ele>158.185531308436</ele>
+<name>Mell 177</name>
+</rtept>
+<rtept lat="56.2648299351485" lon="-4.39955389324286">
+<ele>157.036825275701</ele>
+<name>Mell 178</name>
+</rtept>
+<rtept lat="56.2648070670832" lon="-4.39711707921011">
+<ele>165.345638569856</ele>
+<name>Mell 179</name>
+</rtept>
+<rtept lat="56.2649822213136" lon="-4.39651918819322">
+<ele>167.082654691553</ele>
+<name>Mell 180</name>
+</rtept>
+<rtept lat="56.2640678132178" lon="-4.39245210125556">
+<ele>169.324575952959</ele>
+<name>Mell 181</name>
+</rtept>
+<rtept lat="56.2632520007138" lon="-4.39053272300463">
+<ele>159.79693139236</ele>
+<name>Mell 182</name>
+</rtept>
+<rtept lat="56.2630497920314" lon="-4.38890359749898">
+<ele>160.169154462433</ele>
+<name>Mell 183</name>
+</rtept>
+<rtept lat="56.2630543137097" lon="-4.38806413319954">
+<ele>157.452154462433</ele>
+<name>Mell 184</name>
+</rtept>
+<rtept lat="56.2633919905993" lon="-4.38751834234289">
+<ele>172.124959934521</ele>
+<name>Mell 185</name>
+</rtept>
+<rtept lat="56.2635792327124" lon="-4.38629136592845">
+<ele>173.297101289976</ele>
+<name>Mell 186</name>
+</rtept>
+<rtept lat="56.2632207634455" lon="-4.38549227617026">
+<ele>186.346732724285</ele>
+<name>Mell 187</name>
+</rtept>
+<rtept lat="56.2626239919273" lon="-4.38553910229225">
+<ele>187.848851967239</ele>
+<name>Mell 188</name>
+</rtept>
+<rtept lat="56.2618474288865" lon="-4.38460905882349">
+<ele>174.527946827549</ele>
+<name>Mell 189</name>
+</rtept>
+<rtept lat="56.2611532584071" lon="-4.38485976317228">
+<ele>163.376162284493</ele>
+<name>Mell 190</name>
+</rtept>
+<rtept lat="56.2604925307366" lon="-4.38458773430017">
+<ele>179.016617621446</ele>
+<name>Mell 191</name>
+</rtept>
+<rtept lat="56.2591984967163" lon="-4.3832267423716">
+<ele>170.334066070503</ele>
+<name>Mell 192</name>
+</rtept>
+<rtept lat="56.2582899859165" lon="-4.3812600712647">
+<ele>185.169111420912</ele>
+<name>Mell 193</name>
+</rtept>
+<rtept lat="56.2584365355336" lon="-4.37971583621806">
+<ele>195.887076887959</ele>
+<name>Mell 194</name>
+</rtept>
+<rtept lat="56.2577315573621" lon="-4.37870649620458">
+<ele>198.58121408391</ele>
+<name>Mell 195</name>
+</rtept>
+<rtept lat="56.256275234899" lon="-4.37909889067362">
+<ele>185.225109112024</ele>
+<name>Mell 196</name>
+</rtept>
+<rtept lat="56.2556334181727" lon="-4.37845036058577">
+<ele>179.502857499766</ele>
+<name>Mell 197</name>
+</rtept>
+<rtept lat="56.2546672454964" lon="-4.37826448053297">
+<ele>167.420158602572</ele>
+<name>Mell 198</name>
+</rtept>
+<rtept lat="56.2545187991934" lon="-4.37626132440378">
+<ele>166.312717308426</ele>
+<name>Mell 199</name>
+</rtept>
+<rtept lat="56.2540021070323" lon="-4.37639720572297">
+<ele>158.093423341161</ele>
+<name>Mell 200</name>
+</rtept>
+<rtept lat="56.2533550413467" lon="-4.37602128309463">
+<ele>152.92518185984</ele>
+<name>Mell 201</name>
+</rtept>
+<rtept lat="56.2528117815612" lon="-4.3726715159002">
+<ele>184.513546724272</ele>
+<name>Mell 202</name>
+</rtept>
+<rtept lat="56.2524524293176" lon="-4.37252334960114">
+<ele>190.881431621456</ele>
+<name>Mell 203</name>
+</rtept>
+<rtept lat="56.2518516395995" lon="-4.37277999466057">
+<ele>172.50887707513</ele>
+<name>Mell 204</name>
+</rtept>
+<rtept lat="56.2512999489219" lon="-4.37352237483756">
+<ele>160.9392320369</ele>
+<name>Mell 205</name>
+</rtept>
+<rtept lat="56.250698748621" lon="-4.37319134134292">
+<ele>160.63690884096</ele>
+<name>Mell 206</name>
+</rtept>
+<rtept lat="56.2504375691856" lon="-4.37218880248983">
+<ele>180.828144789743</ele>
+<name>Mell 207</name>
+</rtept>
+<rtept lat="56.2502311297467" lon="-4.37198715114579">
+<ele>179.307144789743</ele>
+<name>Mell 208</name>
+</rtept>
+<rtept lat="56.2487019924426" lon="-4.37252212610109">
+<ele>173.293296276152</ele>
+<name>Mell 209</name>
+</rtept>
+<rtept lat="56.2481615497524" lon="-4.37206897838468">
+<ele>189.301052944183</ele>
+<name>Mell 210</name>
+</rtept>
+<rtept lat="56.2477220791621" lon="-4.37061480143459">
+<ele>211.493632598424</ele>
+<name>Mell 211</name>
+</rtept>
+<rtept lat="56.2472424102754" lon="-4.37064810169208">
+<ele>214.678632598412</ele>
+<name>Mell 212</name>
+</rtept>
+<rtept lat="56.2465382209061" lon="-4.37142296301518">
+<ele>215.982630747747</ele>
+<name>Mell 213</name>
+</rtept>
+<rtept lat="56.2460275603056" lon="-4.37124449370115">
+<ele>202.732868317211</ele>
+<name>Mell 214</name>
+</rtept>
+<rtept lat="56.2455511227117" lon="-4.37171864832817">
+<ele>212.373687373853</ele>
+<name>Mell 215</name>
+</rtept>
+<rtept lat="56.2450275871037" lon="-4.37160233485818">
+<ele>219.351331934452</ele>
+<name>Mell 216</name>
+</rtept>
+<rtept lat="56.2442815360605" lon="-4.37212274627087">
+<ele>206.928328939056</ele>
+<name>Mell 217</name>
+</rtept>
+<rtept lat="56.244277100303" lon="-4.37174477299456">
+<ele>198.756009653282</ele>
+<name>Mell 218</name>
+</rtept>
+<rtept lat="56.2439781045107" lon="-4.37149546758971">
+<ele>203.067328939056</ele>
+<name>Mell 219</name>
+</rtept>
+<rtept lat="56.2443704214524" lon="-4.37053351196699">
+<ele>232.948982485867</ele>
+<name>Mell 220</name>
+</rtept>
+<rtept lat="56.2440379950004" lon="-4.36958970595213">
+<ele>213.085030851054</ele>
+<name>Mell 221</name>
+</rtept>
+<rtept lat="56.2433587061596" lon="-4.36906513146433">
+<ele>208.238278323174</ele>
+<name>Mell 222</name>
+</rtept>
+<rtept lat="56.2425248288727" lon="-4.36746093219883">
+<ele>234.048420823431</ele>
+<name>Mell 223</name>
+</rtept>
+<rtept lat="56.2408830218486" lon="-4.36777921802369">
+<ele>231.149765176535</ele>
+<name>Mell 224</name>
+</rtept>
+<rtept lat="56.240771939059" lon="-4.36747862190654">
+<ele>221.665090472543</ele>
+<name>Mell 225</name>
+</rtept>
+<rtept lat="56.2395598351166" lon="-4.36671144526885">
+<ele>250.872172625923</ele>
+<name>Mell 226</name>
+</rtept>
+<rtept lat="56.2386503849729" lon="-4.36661337112741">
+<ele>235.889767695999</ele>
+<name>Mell 227</name>
+</rtept>
+<rtept lat="56.2362514505382" lon="-4.364367488969">
+<ele>193.823857022095</ele>
+<name>Mell 228</name>
+</rtept>
+<rtept lat="56.2357145211031" lon="-4.36311764133419">
+<ele>213.29854716301</ele>
+<name>Mell 229</name>
+</rtept>
+<rtept lat="56.2350011192474" lon="-4.3600948015671">
+<ele>221.38380430789</ele>
+<name>Mell 230</name>
+</rtept>
+<rtept lat="56.2347247121635" lon="-4.35743457330603">
+<ele>215.43598801837</ele>
+<name>Mell 231</name>
+</rtept>
+<rtept lat="56.2348934993403" lon="-4.35593452567228">
+<ele>216.640911130428</ele>
+<name>Mell 232</name>
+</rtept>
+<rtept lat="56.2346666847368" lon="-4.35434725328206">
+<ele>209.324751363659</ele>
+<name>Mell 233</name>
+</rtept>
+<rtept lat="56.234375627623" lon="-4.35367908144491">
+<ele>209.592688060331</ele>
+<name>Mell 234</name>
+</rtept>
+<rtept lat="56.2344807640764" lon="-4.34999343965258">
+<ele>226.439159747314</ele>
+<name>Mell 235</name>
+</rtept>
+<rtept lat="56.2335931873631" lon="-4.3487433673089">
+<ele>206.789287976456</ele>
+<name>Mell 236</name>
+</rtept>
+<rtept lat="56.2332426876504" lon="-4.34874288712802">
+<ele>203.197914125824</ele>
+<name>Mell 237</name>
+</rtept>
+<rtept lat="56.2318050133187" lon="-4.34754313379097">
+<ele>165.352281985641</ele>
+<name>Mell 238</name>
+</rtept>
+<rtept lat="56.2308142219846" lon="-4.34557372071319">
+<ele>138.461117392302</ele>
+<name>Mell 239</name>
+</rtept>
+<rtept lat="56.2306332097283" lon="-4.34587729021388">
+<ele>132.559398233223</ele>
+<name>Mell 240</name>
+</rtept>
+<rtept lat="56.2304987321445" lon="-4.34557541038898">
+<ele>124.250812149358</ele>
+<name>Mell 241</name>
+</rtept>
+<rtept lat="56.2301531463767" lon="-4.34593184205331">
+<ele>119.726812149346</ele>
+<name>Mell 242</name>
+</rtept>
+<rtept lat="56.2301689348171" lon="-4.3463313400117">
+<ele>124.064686915588</ele>
+<name>Mell 243</name>
+</rtept>
+<rtept lat="56.2295729654088" lon="-4.34633684797564">
+<ele>115.437890887988</ele>
+<name>Mell 244</name>
+</rtept>
+<rtept lat="56.2289581704688" lon="-4.34671875030611">
+<ele>119.645981588793</ele>
+<name>Mell 245</name>
+</rtept>
+</rte>
+</gpx>

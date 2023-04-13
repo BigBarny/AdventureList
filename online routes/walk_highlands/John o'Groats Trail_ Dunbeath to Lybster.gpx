@@ -1,0 +1,734 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>John o'Groats Trail: Dunbeath to Lybster</name>
+<rtept lat="58.2467757074022" lon="-3.42801986111248">
+<ele>0.209035636806312</ele>
+<name>JoG10-001</name>
+</rtept>
+<rtept lat="58.2466176834624" lon="-3.42648525998107">
+<ele>0.822815549550374</ele>
+<name>JoG10-002</name>
+</rtept>
+<rtept lat="58.2461283205145" lon="-3.42426988576275">
+<ele>0.505672971908126</ele>
+<name>JoG10-003</name>
+</rtept>
+<rtept lat="58.2458153608686" lon="-3.42325386189076">
+<ele>2.6181085230844</ele>
+<name>JoG10-004</name>
+</rtept>
+<rtept lat="58.2451601159318" lon="-3.42232126000008">
+<ele>3.86119829978239</ele>
+<name>JoG10-005</name>
+</rtept>
+<rtept lat="58.2449654796296" lon="-3.42140712404229">
+<ele>3.88121475565286</ele>
+<name>JoG10-006</name>
+</rtept>
+<rtept lat="58.2448868590448" lon="-3.41926760466047">
+<ele>13.6522013666163</ele>
+<name>JoG10-007</name>
+</rtept>
+<rtept lat="58.2450390631955" lon="-3.41901266829593">
+<ele>21.8037318820888</ele>
+<name>JoG10-008</name>
+</rtept>
+<rtept lat="58.2449137198676" lon="-3.41800421259312">
+<ele>15.371663754967</ele>
+<name>JoG10-009</name>
+</rtept>
+<rtept lat="58.2453531383504" lon="-3.41685644501752">
+<ele>11.0271175623965</ele>
+<name>JoG10-010</name>
+</rtept>
+<rtept lat="58.2459577668529" lon="-3.41620078769279">
+<ele>28.8363663762234</ele>
+<name>JoG10-011</name>
+</rtept>
+<rtept lat="58.2467084012639" lon="-3.41623071650222">
+<ele>35.1142110978195</ele>
+<name>JoG10-012</name>
+</rtept>
+<rtept lat="58.2470226502208" lon="-3.41559582223484">
+<ele>33.0720490147938</ele>
+<name>JoG10-013</name>
+</rtept>
+<rtept lat="58.2469956984552" lon="-3.41494732439892">
+<ele>16.2483194103336</ele>
+<name>JoG10-014</name>
+</rtept>
+<rtept lat="58.2476931361399" lon="-3.4136154924749">
+<ele>29.324749109708</ele>
+<name>JoG10-015</name>
+</rtept>
+<rtept lat="58.2487897316353" lon="-3.41168439786078">
+<ele>32.5961919575525</ele>
+<name>JoG10-016</name>
+</rtept>
+<rtept lat="58.2497881409674" lon="-3.41091474089576">
+<ele>16.2105464549621</ele>
+<name>JoG10-017</name>
+</rtept>
+<rtept lat="58.2505885269983" lon="-3.41107603675284">
+<ele>35.675160533073</ele>
+<name>JoG10-018</name>
+</rtept>
+<rtept lat="58.2511390887186" lon="-3.41067703860106">
+<ele>42.5845342695584</ele>
+<name>JoG10-019</name>
+</rtept>
+<rtept lat="58.2514049871674" lon="-3.40978109611188">
+<ele>14.7738580505588</ele>
+<name>JoG10-020</name>
+</rtept>
+<rtept lat="58.2522352088794" lon="-3.41033207002048">
+<ele>46.0281835184857</ele>
+<name>JoG10-021</name>
+</rtept>
+<rtept lat="58.252647503607" lon="-3.41008943401279">
+<ele>47.8390231569371</ele>
+<name>JoG10-022</name>
+</rtept>
+<rtept lat="58.2528309533119" lon="-3.40893116574617">
+<ele>52.4987497116826</ele>
+<name>JoG10-023</name>
+</rtept>
+<rtept lat="58.2529248141173" lon="-3.40815785266428">
+<ele>54.757725031228</ele>
+<name>JoG10-024</name>
+</rtept>
+<rtept lat="58.2537636485095" lon="-3.40637798820857">
+<ele>60.2875528183506</ele>
+<name>JoG10-025</name>
+</rtept>
+<rtept lat="58.254143240405" lon="-3.40600449070603">
+<ele>66.1091657211012</ele>
+<name>JoG10-026</name>
+</rtept>
+<rtept lat="58.2549575150931" lon="-3.4049034901114">
+<ele>73.6000409688161</ele>
+<name>JoG10-027</name>
+</rtept>
+<rtept lat="58.2563027655357" lon="-3.40207493469">
+<ele>70.2789624571497</ele>
+<name>JoG10-028</name>
+</rtept>
+<rtept lat="58.2571955634993" lon="-3.40159210456291">
+<ele>69.0353536803586</ele>
+<name>JoG10-029</name>
+</rtept>
+<rtept lat="58.2577112663065" lon="-3.4012562733717">
+<ele>66.8725090901562</ele>
+<name>JoG10-030</name>
+</rtept>
+<rtept lat="58.258524819481" lon="-3.40177410740091">
+<ele>73.1290808276507</ele>
+<name>JoG10-031</name>
+</rtept>
+<rtept lat="58.2585141650235" lon="-3.40274513491557">
+<ele>82.3392472064774</ele>
+<name>JoG10-032</name>
+</rtept>
+<rtept lat="58.2588450573371" lon="-3.40369728438274">
+<ele>88.1326993270329</ele>
+<name>JoG10-033</name>
+</rtept>
+<rtept lat="58.2592153977405" lon="-3.40416527871642">
+<ele>89.0196093795554</ele>
+<name>JoG10-034</name>
+</rtept>
+<rtept lat="58.2592882600058" lon="-3.4037471903646">
+<ele>87.8462860877865</ele>
+<name>JoG10-035</name>
+</rtept>
+<rtept lat="58.2589463468715" lon="-3.40224409897109">
+<ele>77.9403507923949</ele>
+<name>JoG10-036</name>
+</rtept>
+<rtept lat="58.2595732849918" lon="-3.40110308939067">
+<ele>76.5592649754408</ele>
+<name>JoG10-037</name>
+</rtept>
+<rtept lat="58.2607062940625" lon="-3.39894572230312">
+<ele>50.0655654815566</ele>
+<name>JoG10-038</name>
+</rtept>
+<rtept lat="58.2613982562965" lon="-3.39809861736843">
+<ele>49.6171009654544</ele>
+<name>JoG10-039</name>
+</rtept>
+<rtept lat="58.2621097500084" lon="-3.3970255545502">
+<ele>55.9492517155168</ele>
+<name>JoG10-040</name>
+</rtept>
+<rtept lat="58.2626961568687" lon="-3.39646569615254">
+<ele>60.6417900761336</ele>
+<name>JoG10-041</name>
+</rtept>
+<rtept lat="58.2631467885874" lon="-3.39583570848884">
+<ele>61.4808769141025</ele>
+<name>JoG10-042</name>
+</rtept>
+<rtept lat="58.2630514978449" lon="-3.39518424727675">
+<ele>44.170659930285</ele>
+<name>JoG10-043</name>
+</rtept>
+<rtept lat="58.2633598821019" lon="-3.39351229746465">
+<ele>32.4633743978889</ele>
+<name>JoG10-044</name>
+</rtept>
+<rtept lat="58.2648503196118" lon="-3.39143324847078">
+<ele>36.0718552477425</ele>
+<name>JoG10-045</name>
+</rtept>
+<rtept lat="58.2652799912982" lon="-3.39115860318542">
+<ele>35.8760822709935</ele>
+<name>JoG10-046</name>
+</rtept>
+<rtept lat="58.2661199991722" lon="-3.38924821961575">
+<ele>22.645817328959</ele>
+<name>JoG10-047</name>
+</rtept>
+<rtept lat="58.2665253937716" lon="-3.38806570102472">
+<ele>18.3982392384371</ele>
+<name>JoG10-048</name>
+</rtept>
+<rtept lat="58.267157475171" lon="-3.38643856242443">
+<ele>16.1289198426933</ele>
+<name>JoG10-049</name>
+</rtept>
+<rtept lat="58.2678354537617" lon="-3.38529900751493">
+<ele>14.1966516505279</ele>
+<name>JoG10-050</name>
+</rtept>
+<rtept lat="58.2680653026219" lon="-3.38456300441709">
+<ele>9.79970950995382</ele>
+<name>JoG10-051</name>
+</rtept>
+<rtept lat="58.2684970634446" lon="-3.38409398986732">
+<ele>15.4252003039775</ele>
+<name>JoG10-052</name>
+</rtept>
+<rtept lat="58.268951138727" lon="-3.38313996880236">
+<ele>17.8062695152312</ele>
+<name>JoG10-053</name>
+</rtept>
+<rtept lat="58.2695218262437" lon="-3.3824495976486">
+<ele>17.1345074879392</ele>
+<name>JoG10-054</name>
+</rtept>
+<rtept lat="58.2700346784168" lon="-3.38237240049712">
+<ele>22.2580467423854</ele>
+<name>JoG10-055</name>
+</rtept>
+<rtept lat="58.2702519063797" lon="-3.38280196107753">
+<ele>22.9788922420258</ele>
+<name>JoG10-056</name>
+</rtept>
+<rtept lat="58.2702707176565" lon="-3.38264073301634">
+<ele>21.2235020908184</ele>
+<name>JoG10-057</name>
+</rtept>
+<rtept lat="58.270948566005" lon="-3.38308825093011">
+<ele>13.4910538129891</ele>
+<name>JoG10-058</name>
+</rtept>
+<rtept lat="58.2713761181901" lon="-3.38300773569792">
+<ele>12.8219238715209</ele>
+<name>JoG10-059</name>
+</rtept>
+<rtept lat="58.271813722652" lon="-3.38357548290756">
+<ele>18.2335740729843</ele>
+<name>JoG10-060</name>
+</rtept>
+<rtept lat="58.2718523981198" lon="-3.38315587328188">
+<ele>19.4964127022801</ele>
+<name>JoG10-061</name>
+</rtept>
+<rtept lat="58.2714952845291" lon="-3.38145750028989">
+<ele>23.388033569325</ele>
+<name>JoG10-062</name>
+</rtept>
+<rtept lat="58.2711088507006" lon="-3.38089177584249">
+<ele>20.7839489759024</ele>
+<name>JoG10-063</name>
+</rtept>
+<rtept lat="58.2706308887395" lon="-3.37931833531326">
+<ele>19.2517476752166</ele>
+<name>JoG10-064</name>
+</rtept>
+<rtept lat="58.2705682375219" lon="-3.37879762069349">
+<ele>18.4054536433861</ele>
+<name>JoG10-065</name>
+</rtept>
+<rtept lat="58.27122804167" lon="-3.37775428644764">
+<ele>22.9299362021473</ele>
+<name>JoG10-066</name>
+</rtept>
+<rtept lat="58.2717701602892" lon="-3.37654438016745">
+<ele>23.551774389596</ele>
+<name>JoG10-067</name>
+</rtept>
+<rtept lat="58.2723550843248" lon="-3.37611355423522">
+<ele>26.4026987763324</ele>
+<name>JoG10-068</name>
+</rtept>
+<rtept lat="58.2731764168829" lon="-3.37433129744442">
+<ele>29.1412949953762</ele>
+<name>JoG10-069</name>
+</rtept>
+<rtept lat="58.2735545240008" lon="-3.37408678131586">
+<ele>37.4681536738207</ele>
+<name>JoG10-070</name>
+</rtept>
+<rtept lat="58.2746240805826" lon="-3.37302673391973">
+<ele>45.0469668310252</ele>
+<name>JoG10-071</name>
+</rtept>
+<rtept lat="58.2751779652522" lon="-3.3707156110663">
+<ele>27.9701717234557</ele>
+<name>JoG10-072</name>
+</rtept>
+<rtept lat="58.2751942756538" lon="-3.3691935994374">
+<ele>21.646080384183</ele>
+<name>JoG10-073</name>
+</rtept>
+<rtept lat="58.2752708379486" lon="-3.36841903331946">
+<ele>18.3859435645927</ele>
+<name>JoG10-074</name>
+</rtept>
+<rtept lat="58.2758469893183" lon="-3.36721016101019">
+<ele>28.6727099249567</ele>
+<name>JoG10-075</name>
+</rtept>
+<rtept lat="58.2758775503891" lon="-3.36594784646821">
+<ele>24.5977780278681</ele>
+<name>JoG10-076</name>
+</rtept>
+<rtept lat="58.2767787277648" lon="-3.36306671863966">
+<ele>38.0180961779704</ele>
+<name>JoG10-077</name>
+</rtept>
+<rtept lat="58.2774349541174" lon="-3.36234676290501">
+<ele>39.8985833463601</ele>
+<name>JoG10-078</name>
+</rtept>
+<rtept lat="58.2780746103072" lon="-3.36318130729558">
+<ele>40.8713514208455</ele>
+<name>JoG10-079</name>
+</rtept>
+<rtept lat="58.278838864188" lon="-3.36353467400123">
+<ele>41.4229539036793</ele>
+<name>JoG10-080</name>
+</rtept>
+<rtept lat="58.2790837090169" lon="-3.36458088984755">
+<ele>46.6643576104541</ele>
+<name>JoG10-081</name>
+</rtept>
+<rtept lat="58.2794336734578" lon="-3.3653719632617">
+<ele>51.4205184221375</ele>
+<name>JoG10-082</name>
+</rtept>
+<rtept lat="58.2796366657354" lon="-3.36554177963827">
+<ele>50.6660368773007</ele>
+<name>JoG10-083</name>
+</rtept>
+<rtept lat="58.2799820193336" lon="-3.36516626218873">
+<ele>44.175644633217</ele>
+<name>JoG10-084</name>
+</rtept>
+<rtept lat="58.2797256473411" lon="-3.36360116056791">
+<ele>39.9529986184521</ele>
+<name>JoG10-085</name>
+</rtept>
+<rtept lat="58.2796545025146" lon="-3.36226999854425">
+<ele>44.1387469712217</ele>
+<name>JoG10-086</name>
+</rtept>
+<rtept lat="58.2788947295624" lon="-3.36149562328916">
+<ele>39.7807875563057</ele>
+<name>JoG10-087</name>
+</rtept>
+<rtept lat="58.2781882003304" lon="-3.36052892791702">
+<ele>40.1362248790108</ele>
+<name>JoG10-088</name>
+</rtept>
+<rtept lat="58.2779514254277" lon="-3.360325452935">
+<ele>37.1504628466914</ele>
+<name>JoG10-089</name>
+</rtept>
+<rtept lat="58.2777232613388" lon="-3.35931233879719">
+<ele>36.051023469026</ele>
+<name>JoG10-090</name>
+</rtept>
+<rtept lat="58.2783566993331" lon="-3.35752224064108">
+<ele>39.1255748392753</ele>
+<name>JoG10-091</name>
+</rtept>
+<rtept lat="58.2783721662009" lon="-3.35606485696316">
+<ele>35.3131584665317</ele>
+<name>JoG10-092</name>
+</rtept>
+<rtept lat="58.2785298299012" lon="-3.35568208857178">
+<ele>41.0110336374848</ele>
+<name>JoG10-093</name>
+</rtept>
+<rtept lat="58.2789635457387" lon="-3.3550182633315">
+<ele>41.5621847572885</ele>
+<name>JoG10-094</name>
+</rtept>
+<rtept lat="58.2792181703641" lon="-3.35353757933519">
+<ele>41.5832347784726</ele>
+<name>JoG10-095</name>
+</rtept>
+<rtept lat="58.2795338243095" lon="-3.35273961088788">
+<ele>46.3222327105447</ele>
+<name>JoG10-096</name>
+</rtept>
+<rtept lat="58.2794686671764" lon="-3.35244552235469">
+<ele>47.5278483022342</ele>
+<name>JoG10-097</name>
+</rtept>
+<rtept lat="58.2792472266163" lon="-3.35240467983224">
+<ele>41.9930240738481</ele>
+<name>JoG10-098</name>
+</rtept>
+<rtept lat="58.2791554817621" lon="-3.3513967778122">
+<ele>43.7508185374722</ele>
+<name>JoG10-099</name>
+</rtept>
+<rtept lat="58.2791469775464" lon="-3.35058645061087">
+<ele>45.3390493059622</ele>
+<name>JoG10-100</name>
+</rtept>
+<rtept lat="58.2798836807768" lon="-3.34870285205064">
+<ele>52.2373559542191</ele>
+<name>JoG10-101</name>
+</rtept>
+<rtept lat="58.2798935855985" lon="-3.34776360557402">
+<ele>51.2622759791467</ele>
+<name>JoG10-102</name>
+</rtept>
+<rtept lat="58.2803453359851" lon="-3.34538308068203">
+<ele>48.2757037168042</ele>
+<name>JoG10-103</name>
+</rtept>
+<rtept lat="58.28060155163" lon="-3.34374032579773">
+<ele>44.9856808817057</ele>
+<name>JoG10-104</name>
+</rtept>
+<rtept lat="58.2805311520155" lon="-3.34069193287999">
+<ele>38.4686882171309</ele>
+<name>JoG10-105</name>
+</rtept>
+<rtept lat="58.2807730529623" lon="-3.34040946158265">
+<ele>43.6930476485039</ele>
+<name>JoG10-106</name>
+</rtept>
+<rtept lat="58.2808610708646" lon="-3.34015357449058">
+<ele>42.898155148872</ele>
+<name>JoG10-107</name>
+</rtept>
+<rtept lat="58.2812514211405" lon="-3.34036273409858">
+<ele>48.2978665780697</ele>
+<name>JoG10-108</name>
+</rtept>
+<rtept lat="58.2821668194914" lon="-3.33932803183306">
+<ele>46.1986722756399</ele>
+<name>JoG10-109</name>
+</rtept>
+<rtept lat="58.282189646708" lon="-3.33877804551225">
+<ele>43.1360035786686</ele>
+<name>JoG10-110</name>
+</rtept>
+<rtept lat="58.2813941324469" lon="-3.33651227587293">
+<ele>19.0779732431936</ele>
+<name>JoG10-111</name>
+</rtept>
+<rtept lat="58.2812504046798" lon="-3.33556720358435">
+<ele>32.5178916436276</ele>
+<name>JoG10-112</name>
+</rtept>
+<rtept lat="58.2812666356654" lon="-3.33401252015329">
+<ele>26.7815871340227</ele>
+<name>JoG10-113</name>
+</rtept>
+<rtept lat="58.282081984664" lon="-3.33274707600947">
+<ele>41.5023245052469</ele>
+<name>JoG10-114</name>
+</rtept>
+<rtept lat="58.2822493640864" lon="-3.33142484808078">
+<ele>34.9322552273693</ele>
+<name>JoG10-115</name>
+</rtept>
+<rtept lat="58.2830635392697" lon="-3.33190906011236">
+<ele>42.5065321222941</ele>
+<name>JoG10-116</name>
+</rtept>
+<rtept lat="58.2833218066942" lon="-3.33169193155235">
+<ele>39.4844877911136</ele>
+<name>JoG10-117</name>
+</rtept>
+<rtept lat="58.2836944357404" lon="-3.33196515549433">
+<ele>38.7378808974723</ele>
+<name>JoG10-118</name>
+</rtept>
+<rtept lat="58.2837392040334" lon="-3.33258251676382">
+<ele>40.5807388749115</ele>
+<name>JoG10-119</name>
+</rtept>
+<rtept lat="58.2839395390054" lon="-3.33301130077223">
+<ele>41.5860036196863</ele>
+<name>JoG10-120</name>
+</rtept>
+<rtept lat="58.2846543856922" lon="-3.33320019294913">
+<ele>41.5117690995611</ele>
+<name>JoG10-121</name>
+</rtept>
+<rtept lat="58.2850417067138" lon="-3.33370083355574">
+<ele>49.8035313565083</ele>
+<name>JoG10-122</name>
+</rtept>
+<rtept lat="58.2856258129914" lon="-3.33333392755674">
+<ele>46.8508271142474</ele>
+<name>JoG10-123</name>
+</rtept>
+<rtept lat="58.2868549907428" lon="-3.33166256586126">
+<ele>49.1709407826979</ele>
+<name>JoG10-124</name>
+</rtept>
+<rtept lat="58.2869193768638" lon="-3.33091449119684">
+<ele>49.0228959857783</ele>
+<name>JoG10-125</name>
+</rtept>
+<rtept lat="58.2866157292056" lon="-3.33083145971934">
+<ele>39.4970003752161</ele>
+<name>JoG10-126</name>
+</rtept>
+<rtept lat="58.2866854415582" lon="-3.32879244154268">
+<ele>32.9262152252566</ele>
+<name>JoG10-127</name>
+</rtept>
+<rtept lat="58.2865290780933" lon="-3.32828001436687">
+<ele>24.3811616132909</ele>
+<name>JoG10-128</name>
+</rtept>
+<rtept lat="58.2864519314567" lon="-3.32792406283153">
+<ele>19.0556275380705</ele>
+<name>JoG10-129</name>
+</rtept>
+<rtept lat="58.2868639865467" lon="-3.32751480077406">
+<ele>35.4258462703395</ele>
+<name>JoG10-130</name>
+</rtept>
+<rtept lat="58.2865127790735" lon="-3.32682111326785">
+<ele>33.8068583188241</ele>
+<name>JoG10-131</name>
+</rtept>
+<rtept lat="58.2866951432578" lon="-3.32569369519814">
+<ele>34.6370828086487</ele>
+<name>JoG10-132</name>
+</rtept>
+<rtept lat="58.28720494018" lon="-3.32590719624281">
+<ele>40.0504180994168</ele>
+<name>JoG10-133</name>
+</rtept>
+<rtept lat="58.2873491473947" lon="-3.32516721595013">
+<ele>37.2276799880435</ele>
+<name>JoG10-134</name>
+</rtept>
+<rtept lat="58.2873036723717" lon="-3.3246145904118">
+<ele>35.6558320469604</ele>
+<name>JoG10-135</name>
+</rtept>
+<rtept lat="58.2871759115603" lon="-3.32376722840977">
+<ele>33.241652127247</ele>
+<name>JoG10-136</name>
+</rtept>
+<rtept lat="58.2869571440853" lon="-3.32346739854833">
+<ele>31.3800492983055</ele>
+<name>JoG10-137</name>
+</rtept>
+<rtept lat="58.2870655406909" lon="-3.32288811415121">
+<ele>30.915288072896</ele>
+<name>JoG10-138</name>
+</rtept>
+<rtept lat="58.2872271258682" lon="-3.32211636542128">
+<ele>26.768300305935</ele>
+<name>JoG10-139</name>
+</rtept>
+<rtept lat="58.2872184367842" lon="-3.32130585819704">
+<ele>26.8422765891651</ele>
+<name>JoG10-140</name>
+</rtept>
+<rtept lat="58.2867317155561" lon="-3.32050995912711">
+<ele>20.6923551133713</ele>
+<name>JoG10-141</name>
+</rtept>
+<rtept lat="58.2866738407943" lon="-3.31950319264012">
+<ele>30.7707226053315</ele>
+<name>JoG10-142</name>
+</rtept>
+<rtept lat="58.286839748159" lon="-3.31831030760466">
+<ele>27.6926251376242</ele>
+<name>JoG10-143</name>
+</rtept>
+<rtept lat="58.2876757106546" lon="-3.31834138356898">
+<ele>32.9307277971002</ele>
+<name>JoG10-144</name>
+</rtept>
+<rtept lat="58.2878325532883" lon="-3.31637033429667">
+<ele>24.1457979478056</ele>
+<name>JoG10-145</name>
+</rtept>
+<rtept lat="58.2880506126141" lon="-3.31508210632774">
+<ele>23.326686765325</ele>
+<name>JoG10-146</name>
+</rtept>
+<rtept lat="58.2878870026993" lon="-3.31439547318677">
+<ele>8.47634871058127</ele>
+<name>JoG10-147</name>
+</rtept>
+<rtept lat="58.2878896664635" lon="-3.31413630870271">
+<ele>4.27885163241742</ele>
+<name>JoG10-148</name>
+</rtept>
+<rtept lat="58.2878448093279" lon="-3.31351889714672">
+<ele>4.97949105402627</ele>
+<name>JoG10-149</name>
+</rtept>
+<rtept lat="58.2880689249862" lon="-3.31330034183461">
+<ele>10.0024123304612</ele>
+<name>JoG10-150</name>
+</rtept>
+<rtept lat="58.2878869147039" lon="-3.3127426672729">
+<ele>15.9147913556772</ele>
+<name>JoG10-151</name>
+</rtept>
+<rtept lat="58.2880567460588" lon="-3.31116095999693">
+<ele>15.6904419163371</ele>
+<name>JoG10-152</name>
+</rtept>
+<rtept lat="58.2886575173551" lon="-3.31082667828777">
+<ele>34.2062853686312</ele>
+<name>JoG10-153</name>
+</rtept>
+<rtept lat="58.2889388066843" lon="-3.30668874598779">
+<ele>26.3618174956286</ele>
+<name>JoG10-154</name>
+</rtept>
+<rtept lat="58.2894782729872" lon="-3.30567152680287">
+<ele>35.5826344641777</ele>
+<name>JoG10-155</name>
+</rtept>
+<rtept lat="58.2894862098025" lon="-3.3048939956212">
+<ele>38.2760236824327</ele>
+<name>JoG10-156</name>
+</rtept>
+<rtept lat="58.2901655516002" lon="-3.30187246235357">
+<ele>45.9575984125147</ele>
+<name>JoG10-157</name>
+</rtept>
+<rtept lat="58.2900379697108" lon="-3.30099271397753">
+<ele>43.2608028410957</ele>
+<name>JoG10-158</name>
+</rtept>
+<rtept lat="58.2904215981119" lon="-3.29851120889437">
+<ele>48.1031095722856</ele>
+<name>JoG10-159</name>
+</rtept>
+<rtept lat="58.290646378331" lon="-3.29654241046986">
+<ele>47.0698522775421</ele>
+<name>JoG10-160</name>
+</rtept>
+<rtept lat="58.2911601746772" lon="-3.29468137192601">
+<ele>43.4706566914339</ele>
+<name>JoG10-161</name>
+</rtept>
+<rtept lat="58.2919183839696" lon="-3.29396359295021">
+<ele>30.8844755663452</ele>
+<name>JoG10-162</name>
+</rtept>
+<rtept lat="58.2924636678162" lon="-3.29404831647238">
+<ele>29.9840807470529</ele>
+<name>JoG10-163</name>
+</rtept>
+<rtept lat="58.293627395366" lon="-3.29373424679583">
+<ele>44.9075202520972</ele>
+<name>JoG10-164</name>
+</rtept>
+<rtept lat="58.2953852934377" lon="-3.29373356579544">
+<ele>50.7449115276504</ele>
+<name>JoG10-165</name>
+</rtept>
+<rtept lat="58.2956920565034" lon="-3.29377717516215">
+<ele>52.8112408137998</ele>
+<name>JoG10-166</name>
+</rtept>
+<rtept lat="58.2957976978019" lon="-3.29345688026951">
+<ele>49.2098447942361</ele>
+<name>JoG10-167</name>
+</rtept>
+<rtept lat="58.2963439648681" lon="-3.29344439544739">
+<ele>45.0434989263422</ele>
+<name>JoG10-168</name>
+</rtept>
+<rtept lat="58.2966064268557" lon="-3.29280565647727">
+<ele>33.6545919060191</ele>
+<name>JoG10-169</name>
+</rtept>
+<rtept lat="58.2977862290139" lon="-3.29258934784538">
+<ele>15.385138745608</ele>
+<name>JoG10-170</name>
+</rtept>
+<rtept lat="58.2984204187522" lon="-3.29232071612027">
+<ele>20.4338281366648</ele>
+<name>JoG10-171</name>
+</rtept>
+<rtept lat="58.2985276932056" lon="-3.29183836445732">
+<ele>24.6388553319685</ele>
+<name>JoG10-172</name>
+</rtept>
+<rtept lat="58.2983993888883" lon="-3.29102325423174">
+<ele>19.4069406505663</ele>
+<name>JoG10-173</name>
+</rtept>
+<rtept lat="58.2989272266193" lon="-3.28945400332004">
+<ele>35.8732505959597</ele>
+<name>JoG10-174</name>
+</rtept>
+<rtept lat="58.2997713629078" lon="-3.28867424505192">
+<ele>47.080711275564</ele>
+<name>JoG10-175</name>
+</rtept>
+<rtept lat="58.2998448288435" lon="-3.28815821698963">
+<ele>49.7796259995694</ele>
+<name>JoG10-176</name>
+</rtept>
+<rtept lat="58.3005685542343" lon="-3.28747129286905">
+<ele>55.5711261131301</ele>
+<name>JoG10-177</name>
+</rtept>
+<rtept lat="58.3010498399915" lon="-3.28713215705866">
+<ele>59.7170802297548</ele>
+<name>JoG10-178</name>
+</rtept>
+<rtept lat="58.3012076402842" lon="-3.28725050395919">
+<ele>59.9390802297508</ele>
+<name>JoG10-179</name>
+</rtept>
+<rtept lat="58.3013288509044" lon="-3.28484387970952">
+<ele>61</ele>
+<name>JoG10-180</name>
+</rtept>
+<rtept lat="58.3013968021974" lon="-3.28487535035139">
+<ele>61</ele>
+<name>JoG10-181</name>
+</rtept>
+</rte>
+</gpx>

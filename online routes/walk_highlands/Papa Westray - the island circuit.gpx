@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Papa Westray - the island circuit</name>
+<rtept lat="59.32733228709" lon="-2.89003581883683">
+<ele>0.791363365758648</ele>
+<name>Papay001</name>
+</rtept>
+<rtept lat="59.326237576613" lon="-2.88858377445372">
+<ele>1.19641325564388</ele>
+<name>Papay002</name>
+</rtept>
+<rtept lat="59.3254465244489" lon="-2.88803594494006">
+<ele>0.674715628781235</ele>
+<name>Papay003</name>
+</rtept>
+<rtept lat="59.3251010087264" lon="-2.8873416035092">
+<ele>0.771407245931839</ele>
+<name>Papay004</name>
+</rtept>
+<rtept lat="59.3254465077141" lon="-2.88605901611235">
+<ele>3.54314347273019</ele>
+<name>Papay005</name>
+</rtept>
+<rtept lat="59.32543930641" lon="-2.88513626246023">
+<ele>1.81300726559342</ele>
+<name>Papay006</name>
+</rtept>
+<rtept lat="59.3260557632923" lon="-2.88362343996258">
+<ele>4.1306935267855</ele>
+<name>Papay007</name>
+</rtept>
+<rtept lat="59.3263522504107" lon="-2.88360477633967">
+<ele>8.46806239613022</ele>
+<name>Papay008</name>
+</rtept>
+<rtept lat="59.3271269226384" lon="-2.8825968321735">
+<ele>6.22420025051282</ele>
+<name>Papay009</name>
+</rtept>
+<rtept lat="59.3287146905366" lon="-2.88087177822394">
+<ele>5.14796769675178</ele>
+<name>Papay010</name>
+</rtept>
+<rtept lat="59.3299660204959" lon="-2.88108870083521">
+<ele>8.81240217495992</ele>
+<name>Papay011</name>
+</rtept>
+<rtept lat="59.3313144804084" lon="-2.88088633786672">
+<ele>6.84386109385187</ele>
+<name>Papay012</name>
+</rtept>
+<rtept lat="59.333787097224" lon="-2.87778648308243">
+<ele>0.872194008659571</ele>
+<name>Papay013</name>
+</rtept>
+<rtept lat="59.3345003989256" lon="-2.87788398041694">
+<ele>0.823448279211298</ele>
+<name>Papay014</name>
+</rtept>
+<rtept lat="59.3348812155449" lon="-2.87934395250037">
+<ele>2.16739064819987</ele>
+<name>Papay015</name>
+</rtept>
+<rtept lat="59.335707546694" lon="-2.88065728764464">
+<ele>1.91485424089832</ele>
+<name>Papay016</name>
+</rtept>
+<rtept lat="59.3360974224444" lon="-2.88077284694286">
+<ele>1.21294392705684</ele>
+<name>Papay017</name>
+</rtept>
+<rtept lat="59.3366234085033" lon="-2.88068099109018">
+<ele>1.19752687509175</ele>
+<name>Papay018</name>
+</rtept>
+<rtept lat="59.3381511602911" lon="-2.88185439553493">
+<ele>1.9801536716373</ele>
+<name>Papay019</name>
+</rtept>
+<rtept lat="59.339435307214" lon="-2.88120206297179">
+<ele>0.936986361064264</ele>
+<name>Papay020</name>
+</rtept>
+<rtept lat="59.3396995792599" lon="-2.87996951462388">
+<ele>0.786551720788702</ele>
+<name>Papay021</name>
+</rtept>
+<rtept lat="59.340346781469" lon="-2.87988077204931">
+<ele>2.06219400865957</ele>
+<name>Papay022</name>
+</rtept>
+<rtept lat="59.3404707811761" lon="-2.88146621877451">
+<ele>3.81640853949233</ele>
+<name>Papay023</name>
+</rtept>
+<rtept lat="59.3406423060272" lon="-2.8819980788232">
+<ele>3.74479845113541</ele>
+<name>Papay024</name>
+</rtept>
+<rtept lat="59.341206493855" lon="-2.88620573355055">
+<ele>3.82273188364568</ele>
+<name>Papay025</name>
+</rtept>
+<rtept lat="59.3414036809137" lon="-2.88692289809283">
+<ele>3.6575833515365</ele>
+<name>Papay026</name>
+</rtept>
+<rtept lat="59.3412874842213" lon="-2.88618147195924">
+<ele>3.88203025358074</ele>
+<name>Papay027</name>
+</rtept>
+<rtept lat="59.3413722367476" lon="-2.88560350927016">
+<ele>4</ele>
+<name>Papay028</name>
+</rtept>
+<rtept lat="59.3422354222467" lon="-2.8834634722713">
+<ele>3.96000836364816</ele>
+<name>Papay029</name>
+</rtept>
+<rtept lat="59.342434692007" lon="-2.88188631566937">
+<ele>3.34927174335789</ele>
+<name>Papay030</name>
+</rtept>
+<rtept lat="59.3426406424136" lon="-2.88131146294681">
+<ele>3.22184434445199</ele>
+<name>Papay031</name>
+</rtept>
+<rtept lat="59.3427052007484" lon="-2.87973079173048">
+<ele>2</ele>
+<name>Papay032</name>
+</rtept>
+<rtept lat="59.3431115695209" lon="-2.87939845546338">
+<ele>1.78619167688663</ele>
+<name>Papay033</name>
+</rtept>
+<rtept lat="59.3435000228126" lon="-2.87972497354025">
+<ele>1.74095908390439</ele>
+<name>Papay034</name>
+</rtept>
+<rtept lat="59.344416239571" lon="-2.87969592099173">
+<ele>1.44564228787087</ele>
+<name>Papay035</name>
+</rtept>
+<rtept lat="59.3445246333609" lon="-2.88159763821169">
+<ele>2.73128418573359</ele>
+<name>Papay036</name>
+</rtept>
+<rtept lat="59.3452717351946" lon="-2.88267197694361">
+<ele>2.57051386121226</ele>
+<name>Papay037</name>
+</rtept>
+<rtept lat="59.3462375406265" lon="-2.88327729290972">
+<ele>0.752194008659571</ele>
+<name>Papay038</name>
+</rtept>
+<rtept lat="59.3463135267241" lon="-2.88399139662461">
+<ele>1.56219400865957</ele>
+<name>Papay039</name>
+</rtept>
+<rtept lat="59.3463614982334" lon="-2.88486302639876">
+<ele>2.71975633037811</ele>
+<name>Papay040</name>
+</rtept>
+<rtept lat="59.3467030836744" lon="-2.88613793737981">
+<ele>4.98810797592488</ele>
+<name>Papay041</name>
+</rtept>
+<rtept lat="59.3496843042646" lon="-2.88750812791585">
+<ele>3.78783629653044</ele>
+<name>Papay042</name>
+</rtept>
+<rtept lat="59.3506678422521" lon="-2.88550264384859">
+<ele>0.748581674373024</ele>
+<name>Papay043</name>
+</rtept>
+<rtept lat="59.3508531768344" lon="-2.8859822868184">
+<ele>0.779441087235944</ele>
+<name>Papay044</name>
+</rtept>
+<rtept lat="59.3508644946916" lon="-2.88629912657654">
+<ele>1</ele>
+<name>Papay045</name>
+</rtept>
+<rtept lat="59.3514614283431" lon="-2.8876600236445">
+<ele>0.582194008659571</ele>
+<name>Papay046</name>
+</rtept>
+<rtept lat="59.3526127131243" lon="-2.88871890026845">
+<ele>0.752194008659571</ele>
+<name>Papay047</name>
+</rtept>
+<rtept lat="59.3536727680928" lon="-2.8893269860487">
+<ele>1.41219400865957</ele>
+<name>Papay048</name>
+</rtept>
+<rtept lat="59.3545895245369" lon="-2.88921905523266">
+<ele>1.26219400865957</ele>
+<name>Papay049</name>
+</rtept>
+<rtept lat="59.356213292205" lon="-2.88815343984768">
+<ele>1.00219400865957</ele>
+<name>Papay050</name>
+</rtept>
+<rtept lat="59.3567001334517" lon="-2.88787594124556">
+<ele>0.672194008659572</ele>
+<name>Papay051</name>
+</rtept>
+<rtept lat="59.3576244252926" lon="-2.88666003164431">
+<ele>0.857272700583409</ele>
+<name>Papay052</name>
+</rtept>
+<rtept lat="59.3585308956784" lon="-2.88409797324106">
+<ele>0.855323477509278</ele>
+<name>Papay053</name>
+</rtept>
+<rtept lat="59.3596245256859" lon="-2.88373063120244">
+<ele>1</ele>
+<name>Papay054</name>
+</rtept>
+<rtept lat="59.3613707803318" lon="-2.88446208749696">
+<ele>0.652194008659571</ele>
+<name>Papay055</name>
+</rtept>
+<rtept lat="59.3633122103015" lon="-2.88422233196293">
+<ele>2.34849064543859</ele>
+<name>Papay056</name>
+</rtept>
+<rtept lat="59.3637047635207" lon="-2.88394226814189">
+<ele>1.29874572944827</ele>
+<name>Papay057</name>
+</rtept>
+<rtept lat="59.364357148487" lon="-2.88308839058365">
+<ele>1.0038319495998</ele>
+<name>Papay058</name>
+</rtept>
+<rtept lat="59.364441530922" lon="-2.88256279761714">
+<ele>0.402194008659571</ele>
+<name>Papay059</name>
+</rtept>
+<rtept lat="59.3658274445938" lon="-2.88080424285522">
+<ele>0.357323122502458</ele>
+<name>Papay060</name>
+</rtept>
+<rtept lat="59.3663614398706" lon="-2.8795249352541">
+<ele>0.156551720788702</ele>
+<name>Papay061</name>
+</rtept>
+<rtept lat="59.3667634018234" lon="-2.87784631001303">
+<ele>1.02455915331865</ele>
+<name>Papay062</name>
+</rtept>
+<rtept lat="59.3672245308819" lon="-2.87537742870893">
+<ele>1.01907079352575</ele>
+<name>Papay063</name>
+</rtept>
+<rtept lat="59.3672163721726" lon="-2.87458547670692">
+<ele>2.4620502959347</ele>
+<name>Papay064</name>
+</rtept>
+<rtept lat="59.3668870848824" lon="-2.87346857517791">
+<ele>0.236551720788702</ele>
+<name>Papay065</name>
+</rtept>
+<rtept lat="59.3670141293308" lon="-2.87260092970433">
+<ele>0.506551720788702</ele>
+<name>Papay066</name>
+</rtept>
+<rtept lat="59.3677486621136" lon="-2.87153772590875">
+<ele>0.772194008659571</ele>
+<name>Papay067</name>
+</rtept>
+<rtept lat="59.3681130173878" lon="-2.87144150157367">
+<ele>0.652194008659571</ele>
+<name>Papay068</name>
+</rtept>
+<rtept lat="59.3684518454401" lon="-2.87113348195807">
+<ele>0.978745729448274</ele>
+<name>Papay069</name>
+</rtept>
+<rtept lat="59.3690058168105" lon="-2.8708837548812">
+<ele>0.992194008659571</ele>
+<name>Papay070</name>
+</rtept>
+<rtept lat="59.3698031016113" lon="-2.87050828659426">
+<ele>2.1431839677544</ele>
+<name>Papay071</name>
+</rtept>
+<rtept lat="59.3709785599204" lon="-2.86998411889935">
+<ele>3.27760743190099</ele>
+<name>Papay072</name>
+</rtept>
+<rtept lat="59.3720620223976" lon="-2.86911442452009">
+<ele>2.48583708803678</ele>
+<name>Papay073</name>
+</rtept>
+<rtept lat="59.3730461035346" lon="-2.86900761670671">
+<ele>8.5695255714214</ele>
+<name>Papay074</name>
+</rtept>
+<rtept lat="59.373370402726" lon="-2.86885753410716">
+<ele>8.45132682076266</ele>
+<name>Papay075</name>
+</rtept>
+<rtept lat="59.3735040332391" lon="-2.86901932884724">
+<ele>12.2705143824619</ele>
+<name>Papay076</name>
+</rtept>
+<rtept lat="59.373871198232" lon="-2.86850078896364">
+<ele>6.30905102558149</ele>
+<name>Papay077</name>
+</rtept>
+<rtept lat="59.3741549155887" lon="-2.86837605754788">
+<ele>8.70393638041515</ele>
+<name>Papay078</name>
+</rtept>
+<rtept lat="59.3744797409202" lon="-2.86814678653235">
+<ele>10.3029691373123</ele>
+<name>Papay079</name>
+</rtept>
+<rtept lat="59.3755040509369" lon="-2.86806736939356">
+<ele>11.6264974332922</ele>
+<name>Papay080</name>
+</rtept>
+<rtept lat="59.3759065257785" lon="-2.8683152361612">
+<ele>12.0437962830298</ele>
+<name>Papay081</name>
+</rtept>
+<rtept lat="59.3764910543052" lon="-2.86954451075213">
+<ele>18.0716764491399</ele>
+<name>Papay082</name>
+</rtept>
+<rtept lat="59.3773587620427" lon="-2.87072828792884">
+<ele>13.9361340379059</ele>
+<name>Papay083</name>
+</rtept>
+<rtept lat="59.3780004921487" lon="-2.87145752995966">
+<ele>12.7728600379049</ele>
+<name>Papay084</name>
+</rtept>
+<rtept lat="59.3782004036767" lon="-2.87177945734387">
+<ele>11.6088888656199</ele>
+<name>Papay085</name>
+</rtept>
+<rtept lat="59.3785351758135" lon="-2.87207845057845">
+<ele>9.87542911659814</ele>
+<name>Papay086</name>
+</rtept>
+<rtept lat="59.378813425336" lon="-2.87277200414214">
+<ele>10.4993845226224</ele>
+<name>Papay087</name>
+</rtept>
+<rtept lat="59.3791040792805" lon="-2.87362429186492">
+<ele>10.2511255139119</ele>
+<name>Papay088</name>
+</rtept>
+<rtept lat="59.3794951957446" lon="-2.87355514794139">
+<ele>5.12807554082927</ele>
+<name>Papay089</name>
+</rtept>
+<rtept lat="59.3803796961239" lon="-2.87423793523294">
+<ele>5.04441868188506</ele>
+<name>Papay090</name>
+</rtept>
+<rtept lat="59.3805657782668" lon="-2.87461234923901">
+<ele>7.06514547551678</ele>
+<name>Papay091</name>
+</rtept>
+<rtept lat="59.381723714002" lon="-2.87469497097621">
+<ele>2.62201324552645</ele>
+<name>Papay092</name>
+</rtept>
+<rtept lat="59.3823567326627" lon="-2.87471127296314">
+<ele>1.27941969331646</ele>
+<name>Papay093</name>
+</rtept>
+<rtept lat="59.3825410426458" lon="-2.87534969885211">
+<ele>3.47715700534986</ele>
+<name>Papay094</name>
+</rtept>
+<rtept lat="59.3832809233641" lon="-2.8755007871865">
+<ele>1.32770523002716</ele>
+<name>Papay095</name>
+</rtept>
+<rtept lat="59.3834999598648" lon="-2.8769850603715">
+<ele>5.9391239956341</ele>
+<name>Papay096</name>
+</rtept>
+<rtept lat="59.383822493394" lon="-2.87709900597834">
+<ele>5.33657701556488</ele>
+<name>Papay097</name>
+</rtept>
+<rtept lat="59.3841439618545" lon="-2.87737135360815">
+<ele>4.71874140815037</ele>
+<name>Papay098</name>
+</rtept>
+<rtept lat="59.3843672427868" lon="-2.87822207319872">
+<ele>9.22915117746219</ele>
+<name>Papay099</name>
+</rtept>
+<rtept lat="59.3848850454645" lon="-2.87934447897624">
+<ele>11.3491208722722</ele>
+<name>Papay100</name>
+</rtept>
+<rtept lat="59.3851397006913" lon="-2.87953591003137">
+<ele>10.4791208722722</ele>
+<name>Papay101</name>
+</rtept>
+<rtept lat="59.3848718656575" lon="-2.88129811753532">
+<ele>14.3294354047161</ele>
+<name>Papay102</name>
+</rtept>
+<rtept lat="59.3850051235776" lon="-2.88151281750157">
+<ele>13.0694354047161</ele>
+<name>Papay103</name>
+</rtept>
+<rtept lat="59.3849476817755" lon="-2.88203943045498">
+<ele>14.3530321696632</ele>
+<name>Papay104</name>
+</rtept>
+<rtept lat="59.384567530743" lon="-2.88247844071639">
+<ele>19.184732854953</ele>
+<name>Papay105</name>
+</rtept>
+<rtept lat="59.3842488227792" lon="-2.88379039227804">
+<ele>20.7497932441837</ele>
+<name>Papay106</name>
+</rtept>
+<rtept lat="59.3840373119533" lon="-2.88518432663767">
+<ele>21.6159462543645</ele>
+<name>Papay107</name>
+</rtept>
+<rtept lat="59.3840624576869" lon="-2.8854490272275">
+<ele>21.3337931168452</ele>
+<name>Papay108</name>
+</rtept>
+<rtept lat="59.3838704949119" lon="-2.88594570561627">
+<ele>23.0137931168452</ele>
+<name>Papay109</name>
+</rtept>
+<rtept lat="59.3832845325726" lon="-2.88891406394319">
+<ele>20.2721385896588</ele>
+<name>Papay110</name>
+</rtept>
+<rtept lat="59.3832387296659" lon="-2.88970498197644">
+<ele>10.154344062076</ele>
+<name>Papay111</name>
+</rtept>
+<rtept lat="59.3824965260935" lon="-2.88989676642235">
+<ele>11.562684758807</ele>
+<name>Papay112</name>
+</rtept>
+<rtept lat="59.3818119763038" lon="-2.88953559498233">
+<ele>13.8433876688313</ele>
+<name>Papay113</name>
+</rtept>
+<rtept lat="59.3808830145435" lon="-2.88945846278262">
+<ele>11.5321333982795</ele>
+<name>Papay114</name>
+</rtept>
+<rtept lat="59.3799287348754" lon="-2.88914306026223">
+<ele>9.29583042264019</ele>
+<name>Papay115</name>
+</rtept>
+<rtept lat="59.3792278366023" lon="-2.88920391648034">
+<ele>9.99040410653192</ele>
+<name>Papay116</name>
+</rtept>
+<rtept lat="59.3786330663732" lon="-2.88950515136527">
+<ele>10.0838333596283</ele>
+<name>Papay117</name>
+</rtept>
+<rtept lat="59.3770976645218" lon="-2.8894649488864">
+<ele>11.2723921662567</ele>
+<name>Papay118</name>
+</rtept>
+<rtept lat="59.3754765915928" lon="-2.89013525014894">
+<ele>10.2531246165144</ele>
+<name>Papay119</name>
+</rtept>
+<rtept lat="59.3749604676384" lon="-2.8907552668959">
+<ele>7.02495647182688</ele>
+<name>Papay120</name>
+</rtept>
+<rtept lat="59.3738255138166" lon="-2.89125344347019">
+<ele>10.1150821029177</ele>
+<name>Papay121</name>
+</rtept>
+<rtept lat="59.372414330365" lon="-2.89274736624928">
+<ele>10.9006851278924</ele>
+<name>Papay122</name>
+</rtept>
+<rtept lat="59.3715944744439" lon="-2.89444149180233">
+<ele>8.3675221914112</ele>
+<name>Papay123</name>
+</rtept>
+<rtept lat="59.3705498013052" lon="-2.89552254404958">
+<ele>8.04630232826801</ele>
+<name>Papay124</name>
+</rtept>
+<rtept lat="59.3696181241688" lon="-2.89584110496964">
+<ele>8.68645630575449</ele>
+<name>Papay125</name>
+</rtept>
+<rtept lat="59.3679200142871" lon="-2.89595469387632">
+<ele>9.59701812216124</ele>
+<name>Papay126</name>
+</rtept>
+<rtept lat="59.3670507809374" lon="-2.89698743196626">
+<ele>4.50025392206386</ele>
+<name>Papay127</name>
+</rtept>
+<rtept lat="59.3657543630793" lon="-2.89745463330626">
+<ele>2.77704019874005</ele>
+<name>Papay128</name>
+</rtept>
+<rtept lat="59.3646787033453" lon="-2.89716233596318">
+<ele>2.40751389301978</ele>
+<name>Papay129</name>
+</rtept>
+<rtept lat="59.3634965649776" lon="-2.89668252783933">
+<ele>3.16361604809715</ele>
+<name>Papay130</name>
+</rtept>
+<rtept lat="59.3626753527655" lon="-2.89660808861618">
+<ele>5.29654938814134</ele>
+<name>Papay131</name>
+</rtept>
+<rtept lat="59.3618516010774" lon="-2.89690300845736">
+<ele>8.23451102393019</ele>
+<name>Papay132</name>
+</rtept>
+<rtept lat="59.360712627831" lon="-2.89798118733331">
+<ele>10.0157491295466</ele>
+<name>Papay133</name>
+</rtept>
+<rtept lat="59.3593232072613" lon="-2.9002136266051">
+<ele>3.21906253631081</ele>
+<name>Papay134</name>
+</rtept>
+<rtept lat="59.3579350262201" lon="-2.90226122750533">
+<ele>7.48707885787636</ele>
+<name>Papay135</name>
+</rtept>
+<rtept lat="59.3577644972546" lon="-2.90159709816717">
+<ele>8.93647049597008</ele>
+<name>Papay136</name>
+</rtept>
+<rtept lat="59.3575868540678" lon="-2.90196176343599">
+<ele>7.40876634572229</ele>
+<name>Papay137</name>
+</rtept>
+<rtept lat="59.3578045378283" lon="-2.90165092836426">
+<ele>8.75044218805013</ele>
+<name>Papay138</name>
+</rtept>
+<rtept lat="59.3577996118868" lon="-2.90236317051278">
+<ele>6.22841345676904</ele>
+<name>Papay139</name>
+</rtept>
+<rtept lat="59.3572790448089" lon="-2.90361577537474">
+<ele>1.91406861592109</ele>
+<name>Papay140</name>
+</rtept>
+<rtept lat="59.3561278285058" lon="-2.90450858076328">
+<ele>2.04631873250336</ele>
+<name>Papay141</name>
+</rtept>
+<rtept lat="59.3552876615817" lon="-2.90522493318785">
+<ele>3.47123650427566</ele>
+<name>Papay142</name>
+</rtept>
+<rtept lat="59.3536025463139" lon="-2.90734330952506">
+<ele>1.37493420920052</ele>
+<name>Papay143</name>
+</rtept>
+<rtept lat="59.3531427845834" lon="-2.90759484744525">
+<ele>1.47869214179438</ele>
+<name>Papay144</name>
+</rtept>
+<rtept lat="59.3520598016633" lon="-2.90835733548373">
+<ele>1.35290075848208</ele>
+<name>Papay145</name>
+</rtept>
+<rtept lat="59.3513423000136" lon="-2.90886575400494">
+<ele>2.23923415510238</ele>
+<name>Papay146</name>
+</rtept>
+<rtept lat="59.3505166811445" lon="-2.90942401729319">
+<ele>4.29200758325231</ele>
+<name>Papay147</name>
+</rtept>
+<rtept lat="59.3503521165734" lon="-2.90984167142031">
+<ele>2.0084541676056</ele>
+<name>Papay148</name>
+</rtept>
+<rtept lat="59.3498113553571" lon="-2.91011736244742">
+<ele>2.71686625323258</ele>
+<name>Papay149</name>
+</rtept>
+<rtept lat="59.3492838778292" lon="-2.91041977798595">
+<ele>2.59215349623232</ele>
+<name>Papay150</name>
+</rtept>
+<rtept lat="59.3494838783725" lon="-2.9107152872446">
+<ele>1.36686625323258</ele>
+<name>Papay151</name>
+</rtept>
+<rtept lat="59.3482560087941" lon="-2.90907342343226">
+<ele>11.6168662532326</ele>
+<name>Papay152</name>
+</rtept>
+<rtept lat="59.347788473524" lon="-2.90850702186106">
+<ele>13.7934179740213</ele>
+<name>Papay153</name>
+</rtept>
+<rtept lat="59.346601859667" lon="-2.90285734461009">
+<ele>20.4943577121291</ele>
+<name>Papay154</name>
+</rtept>
+<rtept lat="59.3465032350075" lon="-2.90153595597851">
+<ele>21.884383238532</ele>
+<name>Papay155</name>
+</rtept>
+<rtept lat="59.3468976480124" lon="-2.90099252009307">
+<ele>24.2704443229659</ele>
+<name>Papay156</name>
+</rtept>
+<rtept lat="59.3468051906911" lon="-2.90072631449201">
+<ele>24.301596564026</ele>
+<name>Papay157</name>
+</rtept>
+<rtept lat="59.3416811605036" lon="-2.90146091019646">
+<ele>19.8556119826809</ele>
+<name>Papay158</name>
+</rtept>
+<rtept lat="59.3416212154035" lon="-2.90815771790574">
+<ele>0.807805991340429</ele>
+<name>Papay159</name>
+</rtept>
+<rtept lat="59.3409217744767" lon="-2.90800719138298">
+<ele>0.957805991340429</ele>
+<name>Papay160</name>
+</rtept>
+<rtept lat="59.3402616369771" lon="-2.90801594355397">
+<ele>0.927805991340429</ele>
+<name>Papay161</name>
+</rtept>
+<rtept lat="59.3390714539404" lon="-2.90869616104894">
+<ele>0.526866253232583</ele>
+<name>Papay162</name>
+</rtept>
+<rtept lat="59.3380212824762" lon="-2.90861537645534">
+<ele>1.28906986643762</ele>
+<name>Papay163</name>
+</rtept>
+<rtept lat="59.3363971093671" lon="-2.90778097826105">
+<ele>1.544641939383</ele>
+<name>Papay164</name>
+</rtept>
+<rtept lat="59.3355192728867" lon="-2.90810032986339">
+<ele>1.69698341429078</ele>
+<name>Papay165</name>
+</rtept>
+<rtept lat="59.3338542002976" lon="-2.90926871635217">
+<ele>1.78018003094873</ele>
+<name>Papay166</name>
+</rtept>
+<rtept lat="59.3325756160855" lon="-2.90910273191857">
+<ele>4.204641939383</ele>
+<name>Papay167</name>
+</rtept>
+<rtept lat="59.3322512699979" lon="-2.90925225412961">
+<ele>3.39628026818816</ele>
+<name>Papay168</name>
+</rtept>
+<rtept lat="59.3310887524135" lon="-2.90982755673962">
+<ele>3.48771644782896</ele>
+<name>Papay169</name>
+</rtept>
+<rtept lat="59.3297832314668" lon="-2.90966084585671">
+<ele>4.42683594804257</ele>
+<name>Papay170</name>
+</rtept>
+<rtept lat="59.3291937451746" lon="-2.90919693693131">
+<ele>8.20044285248282</ele>
+<name>Papay171</name>
+</rtept>
+<rtept lat="59.3280099905808" lon="-2.90895442879226">
+<ele>2.92321899851785</ele>
+<name>Papay172</name>
+</rtept>
+<rtept lat="59.3264444628272" lon="-2.90743647174415">
+<ele>3.122043440156</ele>
+<name>Papay173</name>
+</rtept>
+<rtept lat="59.3259723321235" lon="-2.90752932423789">
+<ele>1.87126265296527</ele>
+<name>Papay174</name>
+</rtept>
+<rtept lat="59.3249402115254" lon="-2.90679012370524">
+<ele>0.857805991340429</ele>
+<name>Papay175</name>
+</rtept>
+<rtept lat="59.3245636439874" lon="-2.90670101796771">
+<ele>0.461156636060528</ele>
+<name>Papay176</name>
+</rtept>
+<rtept lat="59.3242316965646" lon="-2.9060068645815">
+<ele>0.727805991340429</ele>
+<name>Papay177</name>
+</rtept>
+<rtept lat="59.3237881523071" lon="-2.90586327154213">
+<ele>0.65532757335383</ele>
+<name>Papay178</name>
+</rtept>
+<rtept lat="59.3236957041943" lon="-2.9055972341124">
+<ele>0.441149610168454</ele>
+<name>Papay179</name>
+</rtept>
+<rtept lat="59.3240783127445" lon="-2.90481667037336">
+<ele>0.347253740861793</ele>
+<name>Papay180</name>
+</rtept>
+<rtept lat="59.3253496544318" lon="-2.90408604967073">
+<ele>2.13934062992223</ele>
+<name>Papay181</name>
+</rtept>
+<rtept lat="59.3278175341817" lon="-2.90175275168075">
+<ele>2.77931217521043</ele>
+<name>Papay182</name>
+</rtept>
+<rtept lat="59.3285353746381" lon="-2.9011918164052">
+<ele>4.13857125163124</ele>
+<name>Papay183</name>
+</rtept>
+<rtept lat="59.3298683941186" lon="-2.89932901020582">
+<ele>2.06705578052656</ele>
+<name>Papay184</name>
+</rtept>
+<rtept lat="59.3306040527779" lon="-2.89813574723123">
+<ele>2.25171461071434</ele>
+<name>Papay185</name>
+</rtept>
+<rtept lat="59.3307831374606" lon="-2.89756048230803">
+<ele>2.23353922650621</ele>
+<name>Papay186</name>
+</rtept>
+<rtept lat="59.3310639311711" lon="-2.89590699139362">
+<ele>1.82452785167104</ele>
+<name>Papay187</name>
+</rtept>
+<rtept lat="59.3310491198408" lon="-2.89414025291968">
+<ele>2.7955701978708</ele>
+<name>Papay188</name>
+</rtept>
+<rtept lat="59.3304141910778" lon="-2.89243634618971">
+<ele>6.71816716308714</ele>
+<name>Papay189</name>
+</rtept>
+<rtept lat="59.3296768497566" lon="-2.89191612850357">
+<ele>7.88545623775007</ele>
+<name>Papay190</name>
+</rtept>
+<rtept lat="59.3292458568265" lon="-2.89190483457819">
+<ele>4.84885663256919</ele>
+<name>Papay191</name>
+</rtept>
+<rtept lat="59.3278158946121" lon="-2.89023299023004">
+<ele>3.55388490675328</ele>
+<name>Papay192</name>
+</rtept>
+<rtept lat="59.32733228709" lon="-2.89003581883683">
+<ele>0.791363365758648</ele>
+<name>Papay193</name>
+</rtept>
+</rte>
+</gpx>

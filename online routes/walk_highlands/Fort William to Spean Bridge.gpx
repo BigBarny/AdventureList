@@ -1,0 +1,794 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Fort William to Spean Bridge</name>
+<rtept lat="56.8182345640169" lon="-5.1106981291086">
+<ele>6.16340739505418</ele>
+<name>EHW1-001</name>
+</rtept>
+<rtept lat="56.8192339683536" lon="-5.10901072078838">
+<ele>4.98099623544491</ele>
+<name>EHW1-002</name>
+</rtept>
+<rtept lat="56.8192266293434" lon="-5.10876423748066">
+<ele>5.34099623544491</ele>
+<name>EHW1-003</name>
+</rtept>
+<rtept lat="56.8196364035913" lon="-5.10692953512662">
+<ele>6.06694831694625</ele>
+<name>EHW1-004</name>
+</rtept>
+<rtept lat="56.8195660500875" lon="-5.10596478686383">
+<ele>7.59099623544491</ele>
+<name>EHW1-005</name>
+</rtept>
+<rtept lat="56.8196712388872" lon="-5.10553091868786">
+<ele>7.42684053324503</ele>
+<name>EHW1-006</name>
+</rtept>
+<rtept lat="56.8197776312676" lon="-5.10450704022583">
+<ele>7.61507622102956</ele>
+<name>EHW1-007</name>
+</rtept>
+<rtept lat="56.8217961305899" lon="-5.097076106229">
+<ele>3.84368458652869</ele>
+<name>EHW1-008</name>
+</rtept>
+<rtept lat="56.8214221936282" lon="-5.09475846505669">
+<ele>12.0547383461148</ele>
+<name>EHW1-009</name>
+</rtept>
+<rtept lat="56.8214392622031" lon="-5.09461397999293">
+<ele>11.8147383461148</ele>
+<name>EHW1-010</name>
+</rtept>
+<rtept lat="56.8227182814845" lon="-5.09251629632146">
+<ele>13.7234206235186</ele>
+<name>EHW1-011</name>
+</rtept>
+<rtept lat="56.8228187519071" lon="-5.09252458187269">
+<ele>13.291991062707</ele>
+<name>EHW1-012</name>
+</rtept>
+<rtept lat="56.8230065169767" lon="-5.09218433383717">
+<ele>12.9115220995101</ele>
+<name>EHW1-013</name>
+</rtept>
+<rtept lat="56.823002508928" lon="-5.09209220136445">
+<ele>13.3190628801614</ele>
+<name>EHW1-014</name>
+</rtept>
+<rtept lat="56.8246984905428" lon="-5.08814668474502">
+<ele>11.100887147708</ele>
+<name>EHW1-015</name>
+</rtept>
+<rtept lat="56.8250080838092" lon="-5.08758691415291">
+<ele>11.3846014801109</ele>
+<name>EHW1-016</name>
+</rtept>
+<rtept lat="56.8254061967297" lon="-5.08726394147803">
+<ele>11.7897541821811</ele>
+<name>EHW1-017</name>
+</rtept>
+<rtept lat="56.8256162093682" lon="-5.08691400027191">
+<ele>13.8879962379881</ele>
+<name>EHW1-018</name>
+</rtept>
+<rtept lat="56.8266213303023" lon="-5.08609012117737">
+<ele>13.1366294289753</ele>
+<name>EHW1-019</name>
+</rtept>
+<rtept lat="56.8267971544946" lon="-5.08610459297565">
+<ele>12.8366272626003</ele>
+<name>EHW1-020</name>
+</rtept>
+<rtept lat="56.8269147182611" lon="-5.0859306468563">
+<ele>13.1248854007661</ele>
+<name>EHW1-021</name>
+</rtept>
+<rtept lat="56.827039977953" lon="-5.08569995077034">
+<ele>13.2833116489172</ele>
+<name>EHW1-022</name>
+</rtept>
+<rtept lat="56.827610417225" lon="-5.08502387049165">
+<ele>16.0430610925163</ele>
+<name>EHW1-023</name>
+</rtept>
+<rtept lat="56.829230196502" lon="-5.08211572093412">
+<ele>14.2493767021666</ele>
+<name>EHW1-024</name>
+</rtept>
+<rtept lat="56.8291068818096" lon="-5.08073981198775">
+<ele>10.5244474142736</ele>
+<name>EHW1-025</name>
+</rtept>
+<rtept lat="56.8289281155579" lon="-5.08033490398741">
+<ele>9.99273573244729</ele>
+<name>EHW1-026</name>
+</rtept>
+<rtept lat="56.8288577379779" lon="-5.07961754848132">
+<ele>11.0571539421839</ele>
+<name>EHW1-027</name>
+</rtept>
+<rtept lat="56.8292388533581" lon="-5.07870773218403">
+<ele>10.8348577090981</ele>
+<name>EHW1-028</name>
+</rtept>
+<rtept lat="56.8294182324475" lon="-5.07806826500181">
+<ele>10.0769586778495</ele>
+<name>EHW1-029</name>
+</rtept>
+<rtept lat="56.8295871517338" lon="-5.07785258969915">
+<ele>10.1490706874963</ele>
+<name>EHW1-030</name>
+</rtept>
+<rtept lat="56.8297169185075" lon="-5.07743858532187">
+<ele>11.0531165525974</ele>
+<name>EHW1-031</name>
+</rtept>
+<rtept lat="56.8300170777138" lon="-5.07700413133077">
+<ele>9.51792681571522</ele>
+<name>EHW1-032</name>
+</rtept>
+<rtept lat="56.8300440777295" lon="-5.07654725390747">
+<ele>11.0237725922332</ele>
+<name>EHW1-033</name>
+</rtept>
+<rtept lat="56.8299610535933" lon="-5.07557634677435">
+<ele>13.7328756526434</ele>
+<name>EHW1-034</name>
+</rtept>
+<rtept lat="56.8299899913112" lon="-5.07491303656363">
+<ele>16.230830580579</ele>
+<name>EHW1-035</name>
+</rtept>
+<rtept lat="56.8304993414757" lon="-5.07237238490235">
+<ele>20</ele>
+<name>EHW1-036</name>
+</rtept>
+<rtept lat="56.8306611112662" lon="-5.07116902711884">
+<ele>20</ele>
+<name>EHW1-037</name>
+</rtept>
+<rtept lat="56.8306558843912" lon="-5.07087018394119">
+<ele>20</ele>
+<name>EHW1-038</name>
+</rtept>
+<rtept lat="56.8306627803337" lon="-5.07007880137657">
+<ele>20</ele>
+<name>EHW1-039</name>
+</rtept>
+<rtept lat="56.8304260994566" lon="-5.06895758654573">
+<ele>19.7452487710399</ele>
+<name>EHW1-040</name>
+</rtept>
+<rtept lat="56.8298338100851" lon="-5.06796796812887">
+<ele>20.3168073060269</ele>
+<name>EHW1-041</name>
+</rtept>
+<rtept lat="56.8296957242974" lon="-5.0664187248386">
+<ele>24.2696195332869</ele>
+<name>EHW1-042</name>
+</rtept>
+<rtept lat="56.829744578079" lon="-5.06571113436237">
+<ele>26.7360742653555</ele>
+<name>EHW1-043</name>
+</rtept>
+<rtept lat="56.8301723648876" lon="-5.06469020228304">
+<ele>27.5656981603532</ele>
+<name>EHW1-044</name>
+</rtept>
+<rtept lat="56.8303654586427" lon="-5.06348938490955">
+<ele>30.0325039306182</ele>
+<name>EHW1-045</name>
+</rtept>
+<rtept lat="56.830631738745" lon="-5.06263885756295">
+<ele>31.1676366404413</ele>
+<name>EHW1-046</name>
+</rtept>
+<rtept lat="56.8312425462447" lon="-5.06185088988145">
+<ele>30.9684360370677</ele>
+<name>EHW1-047</name>
+</rtept>
+<rtept lat="56.8314322403865" lon="-5.0607874797992">
+<ele>36.4112126958268</ele>
+<name>EHW1-048</name>
+</rtept>
+<rtept lat="56.8316761079226" lon="-5.06033680250815">
+<ele>36.9528202941473</ele>
+<name>EHW1-049</name>
+</rtept>
+<rtept lat="56.8318231532848" lon="-5.0597290049627">
+<ele>39.1240957433247</ele>
+<name>EHW1-050</name>
+</rtept>
+<rtept lat="56.8325800590318" lon="-5.05888401984584">
+<ele>36.8335767579408</ele>
+<name>EHW1-051</name>
+</rtept>
+<rtept lat="56.832770672566" lon="-5.05803871691311">
+<ele>37.9689885503419</ele>
+<name>EHW1-052</name>
+</rtept>
+<rtept lat="56.8327312084174" lon="-5.05785184827025">
+<ele>38.8734636891896</ele>
+<name>EHW1-053</name>
+</rtept>
+<rtept lat="56.8324303218336" lon="-5.05703532355739">
+<ele>44.2300866466837</ele>
+<name>EHW1-054</name>
+</rtept>
+<rtept lat="56.8325484793562" lon="-5.05632184419226">
+<ele>46.4006657203572</ele>
+<name>EHW1-055</name>
+</rtept>
+<rtept lat="56.8327363759447" lon="-5.05584360654465">
+<ele>45.9566311874581</ele>
+<name>EHW1-056</name>
+</rtept>
+<rtept lat="56.8330800965462" lon="-5.05465494004048">
+<ele>47.0470406257004</ele>
+<name>EHW1-057</name>
+</rtept>
+<rtept lat="56.8330781960378" lon="-5.05421861470776">
+<ele>49.0780406736602</ele>
+<name>EHW1-058</name>
+</rtept>
+<rtept lat="56.8332896353941" lon="-5.05342088763489">
+<ele>52.3561247810639</ele>
+<name>EHW1-059</name>
+</rtept>
+<rtept lat="56.8337575808631" lon="-5.05306874033019">
+<ele>48.984121403933</ele>
+<name>EHW1-060</name>
+</rtept>
+<rtept lat="56.8346695089228" lon="-5.05051440691522">
+<ele>53.9819391399126</ele>
+<name>EHW1-061</name>
+</rtept>
+<rtept lat="56.8349356578671" lon="-5.05018022653131">
+<ele>53.480657204336</ele>
+<name>EHW1-062</name>
+</rtept>
+<rtept lat="56.8349803380787" lon="-5.04989689399804">
+<ele>54.8655984525978</ele>
+<name>EHW1-063</name>
+</rtept>
+<rtept lat="56.8351497703033" lon="-5.04965814695078">
+<ele>54.570309226577</ele>
+<name>EHW1-064</name>
+</rtept>
+<rtept lat="56.8352466467151" lon="-5.04929870689781">
+<ele>58.5632708117489</ele>
+<name>EHW1-065</name>
+</rtept>
+<rtept lat="56.836014121906" lon="-5.04801809548002">
+<ele>56.6682088379235</ele>
+<name>EHW1-066</name>
+</rtept>
+<rtept lat="56.8392758785772" lon="-5.04160199191916">
+<ele>76.8508510707825</ele>
+<name>EHW1-067</name>
+</rtept>
+<rtept lat="56.8402681461191" lon="-5.04129219448047">
+<ele>60.3271772842542</ele>
+<name>EHW1-068</name>
+</rtept>
+<rtept lat="56.8404495633009" lon="-5.04107730968807">
+<ele>58.84861598352</ele>
+<name>EHW1-069</name>
+</rtept>
+<rtept lat="56.840711498962" lon="-5.04091487817793">
+<ele>55.7695818437656</ele>
+<name>EHW1-070</name>
+</rtept>
+<rtept lat="56.8407523846614" lon="-5.04104448093907">
+<ele>54.1481655890041</ele>
+<name>EHW1-071</name>
+</rtept>
+<rtept lat="56.8407306082149" lon="-5.04142156897053">
+<ele>52.194715013791</ele>
+<name>EHW1-072</name>
+</rtept>
+<rtept lat="56.842337372401" lon="-5.04377928339071">
+<ele>50.9544684843645</ele>
+<name>EHW1-073</name>
+</rtept>
+<rtept lat="56.8425543652636" lon="-5.04391171928184">
+<ele>50.4441539421887</ele>
+<name>EHW1-074</name>
+</rtept>
+<rtept lat="56.8434963353344" lon="-5.04347157880833">
+<ele>50.576996235461</ele>
+<name>EHW1-075</name>
+</rtept>
+<rtept lat="56.8451784665226" lon="-5.04312597442156">
+<ele>51.6840890871895</ele>
+<name>EHW1-076</name>
+</rtept>
+<rtept lat="56.845672389526" lon="-5.04338424788642">
+<ele>47.2393318874442</ele>
+<name>EHW1-077</name>
+</rtept>
+<rtept lat="56.84591172489" lon="-5.0431166368463">
+<ele>45.3528667066084</ele>
+<name>EHW1-078</name>
+</rtept>
+<rtept lat="56.8465644161362" lon="-5.04241182038587">
+<ele>40.653781748086</ele>
+<name>EHW1-079</name>
+</rtept>
+<rtept lat="56.8473828764624" lon="-5.04213380816515">
+<ele>36.8866411781031</ele>
+<name>EHW1-080</name>
+</rtept>
+<rtept lat="56.8484124099573" lon="-5.04158585176908">
+<ele>38.7356270623708</ele>
+<name>EHW1-081</name>
+</rtept>
+<rtept lat="56.8486404444062" lon="-5.04100725515681">
+<ele>40.4156270623684</ele>
+<name>EHW1-082</name>
+</rtept>
+<rtept lat="56.8492586542238" lon="-5.0404258682144">
+<ele>47.8452465956705</ele>
+<name>EHW1-083</name>
+</rtept>
+<rtept lat="56.8493274514513" lon="-5.04044293475479">
+<ele>47.7892465956695</ele>
+<name>EHW1-084</name>
+</rtept>
+<rtept lat="56.849941886285" lon="-5.04027462005794">
+<ele>46.524139725147</ele>
+<name>EHW1-085</name>
+</rtept>
+<rtept lat="56.8503725347336" lon="-5.04016028587526">
+<ele>45.3567171814675</ele>
+<name>EHW1-086</name>
+</rtept>
+<rtept lat="56.8507038296673" lon="-5.03947519443237">
+<ele>46.5363078843826</ele>
+<name>EHW1-087</name>
+</rtept>
+<rtept lat="56.8522629141766" lon="-5.03604166598445">
+<ele>50.6141336345104</ele>
+<name>EHW1-088</name>
+</rtept>
+<rtept lat="56.8534122802221" lon="-5.03302257478335">
+<ele>55.8645126152866</ele>
+<name>EHW1-089</name>
+</rtept>
+<rtept lat="56.8536448846136" lon="-5.03251312789222">
+<ele>55.1774717928486</ele>
+<name>EHW1-090</name>
+</rtept>
+<rtept lat="56.8538174746705" lon="-5.03188397251983">
+<ele>56.2329464426631</ele>
+<name>EHW1-091</name>
+</rtept>
+<rtept lat="56.8545695669794" lon="-5.02954455735425">
+<ele>61.11656508344</ele>
+<name>EHW1-092</name>
+</rtept>
+<rtept lat="56.8556662941959" lon="-5.0279105193997">
+<ele>59.6617865669374</ele>
+<name>EHW1-093</name>
+</rtept>
+<rtept lat="56.8560282502238" lon="-5.02751483288821">
+<ele>56.181295557304</ele>
+<name>EHW1-094</name>
+</rtept>
+<rtept lat="56.8563721519222" lon="-5.02656639031284">
+<ele>60.1921240763308</ele>
+<name>EHW1-095</name>
+</rtept>
+<rtept lat="56.857042316114" lon="-5.02565577350511">
+<ele>57.862008695635</ele>
+<name>EHW1-096</name>
+</rtept>
+<rtept lat="56.8579514093211" lon="-5.02436242351632">
+<ele>57.7342353020876</ele>
+<name>EHW1-097</name>
+</rtept>
+<rtept lat="56.8582352195774" lon="-5.02407522745181">
+<ele>56.5041023894375</ele>
+<name>EHW1-098</name>
+</rtept>
+<rtept lat="56.8582188803044" lon="-5.0239705363349">
+<ele>57.6502688258512</ele>
+<name>EHW1-099</name>
+</rtept>
+<rtept lat="56.859236919169" lon="-5.02090556178971">
+<ele>59.4842038162226</ele>
+<name>EHW1-100</name>
+</rtept>
+<rtept lat="56.8594802953224" lon="-5.01994887392353">
+<ele>60.5061202110358</ele>
+<name>EHW1-101</name>
+</rtept>
+<rtept lat="56.8598829569429" lon="-5.01943000606373">
+<ele>58.4567083501304</ele>
+<name>EHW1-102</name>
+</rtept>
+<rtept lat="56.8599346812925" lon="-5.01911256138399">
+<ele>60.1315227127708</ele>
+<name>EHW1-103</name>
+</rtept>
+<rtept lat="56.8597070434344" lon="-5.01889894402701">
+<ele>64.0829968128214</ele>
+<name>EHW1-104</name>
+</rtept>
+<rtept lat="56.859635290892" lon="-5.01874383964253">
+<ele>65.6729094604058</ele>
+<name>EHW1-105</name>
+</rtept>
+<rtept lat="56.8593442018499" lon="-5.01881226375899">
+<ele>69.1571621905261</ele>
+<name>EHW1-106</name>
+</rtept>
+<rtept lat="56.8593063437488" lon="-5.01855651864606">
+<ele>71.4458181263597</ele>
+<name>EHW1-107</name>
+</rtept>
+<rtept lat="56.8597125071048" lon="-5.01815278245916">
+<ele>67.7590401732466</ele>
+<name>EHW1-108</name>
+</rtept>
+<rtept lat="56.8597942411122" lon="-5.01789518700145">
+<ele>68.1077733629149</ele>
+<name>EHW1-109</name>
+</rtept>
+<rtept lat="56.8601867340658" lon="-5.01753628242343">
+<ele>64.2118663432148</ele>
+<name>EHW1-110</name>
+</rtept>
+<rtept lat="56.8605385019015" lon="-5.01690990130907">
+<ele>63.0360621965668</ele>
+<name>EHW1-111</name>
+</rtept>
+<rtept lat="56.8608012393595" lon="-5.01671282487251">
+<ele>61.4789927735512</ele>
+<name>EHW1-112</name>
+</rtept>
+<rtept lat="56.861662584746" lon="-5.0146571634235">
+<ele>62.9048481998222</ele>
+<name>EHW1-113</name>
+</rtept>
+<rtept lat="56.8626313127805" lon="-5.01310399248035">
+<ele>64.1015493469532</ele>
+<name>EHW1-114</name>
+</rtept>
+<rtept lat="56.8631199046827" lon="-5.0118912039037">
+<ele>66.3807697109791</ele>
+<name>EHW1-115</name>
+</rtept>
+<rtept lat="56.863404666904" lon="-5.01065050802178">
+<ele>70.9728121231554</ele>
+<name>EHW1-116</name>
+</rtept>
+<rtept lat="56.8638357288056" lon="-5.0099959231207">
+<ele>71.9516120042518</ele>
+<name>EHW1-117</name>
+</rtept>
+<rtept lat="56.8643411497579" lon="-5.00808366786589">
+<ele>73.6504505330056</ele>
+<name>EHW1-118</name>
+</rtept>
+<rtept lat="56.8651162275975" lon="-5.00646872039027">
+<ele>75.876387863973</ele>
+<name>EHW1-119</name>
+</rtept>
+<rtept lat="56.8652933834052" lon="-5.00564433310512">
+<ele>80.723919888644</ele>
+<name>EHW1-120</name>
+</rtept>
+<rtept lat="56.8659045341116" lon="-5.00430334394616">
+<ele>80.2916933010457</ele>
+<name>EHW1-121</name>
+</rtept>
+<rtept lat="56.8660069351174" lon="-5.00318573158659">
+<ele>84.864325402482</ele>
+<name>EHW1-122</name>
+</rtept>
+<rtept lat="56.866285926801" lon="-5.00231203603325">
+<ele>88.9161299051113</ele>
+<name>EHW1-123</name>
+</rtept>
+<rtept lat="56.8664032276662" lon="-5.00162066423104">
+<ele>92.4485183620754</ele>
+<name>EHW1-124</name>
+</rtept>
+<rtept lat="56.8668005312977" lon="-5.00092875540206">
+<ele>94.2684653463632</ele>
+<name>EHW1-125</name>
+</rtept>
+<rtept lat="56.8674915000868" lon="-5.00019143520968">
+<ele>85.9050819355736</ele>
+<name>EHW1-126</name>
+</rtept>
+<rtept lat="56.8679832187193" lon="-4.99910495394405">
+<ele>84.9492860591894</ele>
+<name>EHW1-127</name>
+</rtept>
+<rtept lat="56.8681138324935" lon="-4.99864438156625">
+<ele>84.4865193507867</ele>
+<name>EHW1-128</name>
+</rtept>
+<rtept lat="56.8707694364244" lon="-4.99220469892156">
+<ele>85.0802353021124</ele>
+<name>EHW1-129</name>
+</rtept>
+<rtept lat="56.8711968730328" lon="-4.99143459427676">
+<ele>85.1921897225418</ele>
+<name>EHW1-130</name>
+</rtept>
+<rtept lat="56.8713849208431" lon="-4.99015129155708">
+<ele>93.3241365680408</ele>
+<name>EHW1-131</name>
+</rtept>
+<rtept lat="56.8719022233578" lon="-4.98904363435416">
+<ele>85.3721876814886</ele>
+<name>EHW1-132</name>
+</rtept>
+<rtept lat="56.8721933690637" lon="-4.98844642928853">
+<ele>83.2548275820352</ele>
+<name>EHW1-133</name>
+</rtept>
+<rtept lat="56.872481745843" lon="-4.98586122901963">
+<ele>85.0269236531819</ele>
+<name>EHW1-134</name>
+</rtept>
+<rtept lat="56.8734181998146" lon="-4.98261524996967">
+<ele>89.1501550984957</ele>
+<name>EHW1-135</name>
+</rtept>
+<rtept lat="56.8736232918536" lon="-4.98219496140092">
+<ele>87.7927475269024</ele>
+<name>EHW1-136</name>
+</rtept>
+<rtept lat="56.8749715828011" lon="-4.97816573589743">
+<ele>87.7679285557331</ele>
+<name>EHW1-137</name>
+</rtept>
+<rtept lat="56.8766229708372" lon="-4.97368917528478">
+<ele>85.0054618265986</ele>
+<name>EHW1-138</name>
+</rtept>
+<rtept lat="56.8772097596313" lon="-4.9720350781718">
+<ele>85.9728385287669</ele>
+<name>EHW1-139</name>
+</rtept>
+<rtept lat="56.87829809184" lon="-4.96913367036195">
+<ele>85.684996235483</ele>
+<name>EHW1-140</name>
+</rtept>
+<rtept lat="56.8786674904085" lon="-4.96788738934808">
+<ele>85.7269962354814</ele>
+<name>EHW1-141</name>
+</rtept>
+<rtept lat="56.8793672788667" lon="-4.96425395691744">
+<ele>87.4294840350793</ele>
+<name>EHW1-142</name>
+</rtept>
+<rtept lat="56.880713074069" lon="-4.96003942347368">
+<ele>87.8853457570652</ele>
+<name>EHW1-143</name>
+</rtept>
+<rtept lat="56.8810169164919" lon="-4.95943137223992">
+<ele>88.9391776271516</ele>
+<name>EHW1-144</name>
+</rtept>
+<rtept lat="56.8819583135079" lon="-4.95634531813852">
+<ele>89.2194684034589</ele>
+<name>EHW1-145</name>
+</rtept>
+<rtept lat="56.883636009435" lon="-4.95045540933878">
+<ele>90.1635210701644</ele>
+<name>EHW1-146</name>
+</rtept>
+<rtept lat="56.8842393920902" lon="-4.94861806812039">
+<ele>88.0193485925664</ele>
+<name>EHW1-147</name>
+</rtept>
+<rtept lat="56.8850076576028" lon="-4.94672469361415">
+<ele>92.2653705688047</ele>
+<name>EHW1-148</name>
+</rtept>
+<rtept lat="56.8848409642913" lon="-4.94605642975787">
+<ele>93.3093195250874</ele>
+<name>EHW1-149</name>
+</rtept>
+<rtept lat="56.8848712282691" lon="-4.94584043424791">
+<ele>92.2142217320718</ele>
+<name>EHW1-150</name>
+</rtept>
+<rtept lat="56.8851770081367" lon="-4.94568061107415">
+<ele>89.4917879952054</ele>
+<name>EHW1-151</name>
+</rtept>
+<rtept lat="56.8857006397771" lon="-4.944687391196">
+<ele>87.7560202895133</ele>
+<name>EHW1-152</name>
+</rtept>
+<rtept lat="56.8863791174111" lon="-4.94206267748256">
+<ele>83.0891501776921</ele>
+<name>EHW1-153</name>
+</rtept>
+<rtept lat="56.8863020704083" lon="-4.94186122006914">
+<ele>84.1111501776904</ele>
+<name>EHW1-154</name>
+</rtept>
+<rtept lat="56.8847836894369" lon="-4.940879813297">
+<ele>95.2026808220561</ele>
+<name>EHW1-155</name>
+</rtept>
+<rtept lat="56.8832269764053" lon="-4.9400563799309">
+<ele>103.021153942202</ele>
+<name>EHW1-156</name>
+</rtept>
+<rtept lat="56.882519538629" lon="-4.93910435072699">
+<ele>106.341677724444</ele>
+<name>EHW1-157</name>
+</rtept>
+<rtept lat="56.8816657579753" lon="-4.9382213155669">
+<ele>112.558797099212</ele>
+<name>EHW1-158</name>
+</rtept>
+<rtept lat="56.8812688807402" lon="-4.93770746873167">
+<ele>117.853834764257</ele>
+<name>EHW1-159</name>
+</rtept>
+<rtept lat="56.8807067272505" lon="-4.93739901375073">
+<ele>125.267677057538</ele>
+<name>EHW1-160</name>
+</rtept>
+<rtept lat="56.8802125501556" lon="-4.93754409709984">
+<ele>130.844834764252</ele>
+<name>EHW1-161</name>
+</rtept>
+<rtept lat="56.8781301974717" lon="-4.93873664164555">
+<ele>143.25810501078</ele>
+<name>EHW1-162</name>
+</rtept>
+<rtept lat="56.8768201334523" lon="-4.93986332115349">
+<ele>152.633083701365</ele>
+<name>EHW1-163</name>
+</rtept>
+<rtept lat="56.8763146735651" lon="-4.94075438446848">
+<ele>154.769992470969</ele>
+<name>EHW1-164</name>
+</rtept>
+<rtept lat="56.8762354623401" lon="-4.94064474217199">
+<ele>155.749992470967</ele>
+<name>EHW1-165</name>
+</rtept>
+<rtept lat="56.8772150574187" lon="-4.93618267887706">
+<ele>167.597925464344</ele>
+<name>EHW1-166</name>
+</rtept>
+<rtept lat="56.8774186472643" lon="-4.93581943935699">
+<ele>167.699612004288</ele>
+<name>EHW1-167</name>
+</rtept>
+<rtept lat="56.8777794697317" lon="-4.93438833880923">
+<ele>170.322536152165</ele>
+<name>EHW1-168</name>
+</rtept>
+<rtept lat="56.8782054395246" lon="-4.93179018391297">
+<ele>170.804838528766</ele>
+<name>EHW1-169</name>
+</rtept>
+<rtept lat="56.8791533316859" lon="-4.93054288794485">
+<ele>169.216218021199</ele>
+<name>EHW1-170</name>
+</rtept>
+<rtept lat="56.8798822062558" lon="-4.92843946966085">
+<ele>170.422176251537</ele>
+<name>EHW1-171</name>
+</rtept>
+<rtept lat="56.8799085633355" lon="-4.92691309540728">
+<ele>172.283113294467</ele>
+<name>EHW1-172</name>
+</rtept>
+<rtept lat="56.8805325897719" lon="-4.92283620911446">
+<ele>172.218996235487</ele>
+<name>EHW1-173</name>
+</rtept>
+<rtept lat="56.8807301889247" lon="-4.92192077187401">
+<ele>172.345937601926</ele>
+<name>EHW1-174</name>
+</rtept>
+<rtept lat="56.8827802654829" lon="-4.91644936002877">
+<ele>157.780372937651</ele>
+<name>EHW1-175</name>
+</rtept>
+<rtept lat="56.8840890327327" lon="-4.91294249641364">
+<ele>149.265341723462</ele>
+<name>EHW1-176</name>
+</rtept>
+<rtept lat="56.8850588244764" lon="-4.90993773560067">
+<ele>145.022046562508</ele>
+<name>EHW1-177</name>
+</rtept>
+<rtept lat="56.8872866785865" lon="-4.9108581427341">
+<ele>130.277992470979</ele>
+<name>EHW1-178</name>
+</rtept>
+<rtept lat="56.88760258675" lon="-4.91091720553296">
+<ele>127.369992470958</ele>
+<name>EHW1-179</name>
+</rtept>
+<rtept lat="56.8877499961529" lon="-4.91084000465929">
+<ele>126.289992470961</ele>
+<name>EHW1-180</name>
+</rtept>
+<rtept lat="56.8878827963863" lon="-4.91104245800517">
+<ele>124.438834764238</ele>
+<name>EHW1-181</name>
+</rtept>
+<rtept lat="56.8879125075807" lon="-4.91150290381804">
+<ele>122.432146413158</ele>
+<name>EHW1-182</name>
+</rtept>
+<rtept lat="56.8883308563167" lon="-4.91125466752803">
+<ele>118.533830999729</ele>
+<name>EHW1-183</name>
+</rtept>
+<rtept lat="56.8884736437856" lon="-4.91033471918506">
+<ele>118.955332812433</ele>
+<name>EHW1-184</name>
+</rtept>
+<rtept lat="56.8885995791774" lon="-4.91013761356626">
+<ele>117.253070699735</ele>
+<name>EHW1-185</name>
+</rtept>
+<rtept lat="56.8885220028236" lon="-4.91153658514985">
+<ele>114.478419708349</ele>
+<name>EHW1-186</name>
+</rtept>
+<rtept lat="56.888793617978" lon="-4.9136109623452">
+<ele>104.235677057517</ele>
+<name>EHW1-187</name>
+</rtept>
+<rtept lat="56.8892270394349" lon="-4.91600936781732">
+<ele>94.7055768750067</ele>
+<name>EHW1-188</name>
+</rtept>
+<rtept lat="56.8892620370689" lon="-4.91901224897726">
+<ele>88.2399119037022</ele>
+<name>EHW1-189</name>
+</rtept>
+<rtept lat="56.8893185154846" lon="-4.91986337459979">
+<ele>85.3353563859861</ele>
+<name>EHW1-190</name>
+</rtept>
+<rtept lat="56.8896359647597" lon="-4.92170169071305">
+<ele>77.2305231153179</ele>
+<name>EHW1-191</name>
+</rtept>
+<rtept lat="56.8899422473176" lon="-4.92209509702603">
+<ele>73.6883602050271</ele>
+<name>EHW1-192</name>
+</rtept>
+<rtept lat="56.8901707553408" lon="-4.92200949084715">
+<ele>71.7007611471332</ele>
+<name>EHW1-193</name>
+</rtept>
+<rtept lat="56.8909640116771" lon="-4.92164284298543">
+<ele>66.2354602525785</ele>
+<name>EHW1-194</name>
+</rtept>
+<rtept lat="56.8916568435838" lon="-4.92211079994764">
+<ele>63.7356845865585</ele>
+<name>EHW1-195</name>
+</rtept>
+<rtept lat="56.8916568435838" lon="-4.92211079994764">
+<ele>63.7356845865585</ele>
+<name>EHW1-196</name>
+</rtept>
+</rte>
+</gpx>

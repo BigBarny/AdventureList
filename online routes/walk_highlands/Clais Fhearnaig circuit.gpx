@@ -1,0 +1,602 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Clais Fhearnaig circuit</name>
+<rtept lat="57.0019177828247" lon="-3.45494853570035">
+<ele>333.256621849338</ele>
+<name>CF001</name>
+</rtept>
+<rtept lat="57.0023032264842" lon="-3.45425231541286">
+<ele>336.270148460446</ele>
+<name>CF002</name>
+</rtept>
+<rtept lat="57.001868" lon="-3.457755">
+<ele>348.881817</ele>
+<name>CF003</name>
+</rtept>
+<rtept lat="57.002123" lon="-3.45898">
+<ele>356.611013</ele>
+<name>CF004</name>
+</rtept>
+<rtept lat="57.002307" lon="-3.459205">
+<ele>364.394084</ele>
+<name>CF005</name>
+</rtept>
+<rtept lat="57.002425" lon="-3.459737">
+<ele>370.286658</ele>
+<name>CF006</name>
+</rtept>
+<rtept lat="57.003588" lon="-3.459635">
+<ele>378.469114</ele>
+<name>CF007</name>
+</rtept>
+<rtept lat="57.004625268474" lon="-3.46038907023813">
+<ele>352.073863350491</ele>
+<name>CF008</name>
+</rtept>
+<rtept lat="57.004421" lon="-3.459605">
+<ele>346.11565</ele>
+<name>CF009</name>
+</rtept>
+<rtept lat="57.004242" lon="-3.459146">
+<ele>347.91769</ele>
+<name>CF010</name>
+</rtept>
+<rtept lat="57.004453" lon="-3.458815">
+<ele>354.62122</ele>
+<name>CF011</name>
+</rtept>
+<rtept lat="57.004224" lon="-3.459169">
+<ele>352.160841</ele>
+<name>CF012</name>
+</rtept>
+<rtept lat="57.0044194120719" lon="-3.45955114450206">
+<ele>346.631864105077</ele>
+<name>CF013</name>
+</rtept>
+<rtept lat="57.005142" lon="-3.461798">
+<ele>364.481536</ele>
+<name>CF014</name>
+</rtept>
+<rtept lat="57.005448" lon="-3.463374">
+<ele>379.101642</ele>
+<name>CF015</name>
+</rtept>
+<rtept lat="57.005392" lon="-3.464061">
+<ele>382.60332</ele>
+<name>CF016</name>
+</rtept>
+<rtept lat="57.006373" lon="-3.465328">
+<ele>378.263789</ele>
+<name>CF017</name>
+</rtept>
+<rtept lat="57.006613" lon="-3.465863">
+<ele>376.610301</ele>
+<name>CF018</name>
+</rtept>
+<rtept lat="57.007494" lon="-3.468734">
+<ele>381.841151</ele>
+<name>CF019</name>
+</rtept>
+<rtept lat="57.008255" lon="-3.470438">
+<ele>389.043822</ele>
+<name>CF020</name>
+</rtept>
+<rtept lat="57.00875" lon="-3.472214">
+<ele>388.25212</ele>
+<name>CF021</name>
+</rtept>
+<rtept lat="57.010882" lon="-3.478084">
+<ele>400.422517</ele>
+<name>CF022</name>
+</rtept>
+<rtept lat="57.011161" lon="-3.479384">
+<ele>401.478963</ele>
+<name>CF023</name>
+</rtept>
+<rtept lat="57.011114" lon="-3.48059">
+<ele>386.884982</ele>
+<name>CF024</name>
+</rtept>
+<rtept lat="57.011406" lon="-3.481269">
+<ele>400.503296</ele>
+<name>CF025</name>
+</rtept>
+<rtept lat="57.011445" lon="-3.482076">
+<ele>395.989366</ele>
+<name>CF026</name>
+</rtept>
+<rtept lat="57.011692" lon="-3.482862">
+<ele>386.725618</ele>
+<name>CF027</name>
+</rtept>
+<rtept lat="57.011705" lon="-3.483902">
+<ele>377.055688</ele>
+<name>CF028</name>
+</rtept>
+<rtept lat="57.012075" lon="-3.485377">
+<ele>375.465594</ele>
+<name>CF029</name>
+</rtept>
+<rtept lat="57.012084" lon="-3.486032">
+<ele>384.358291</ele>
+<name>CF030</name>
+</rtept>
+<rtept lat="57.011777" lon="-3.486963">
+<ele>386.719864</ele>
+<name>CF031</name>
+</rtept>
+<rtept lat="57.011954" lon="-3.487454">
+<ele>395.980305</ele>
+<name>CF032</name>
+</rtept>
+<rtept lat="57.012022" lon="-3.488948">
+<ele>386.110097</ele>
+<name>CF033</name>
+</rtept>
+<rtept lat="57.012715" lon="-3.491674">
+<ele>396.282578</ele>
+<name>CF034</name>
+</rtept>
+<rtept lat="57.012721" lon="-3.492076">
+<ele>399.898341</ele>
+<name>CF035</name>
+</rtept>
+<rtept lat="57.0128720919968" lon="-3.49375127222161">
+<ele>397.217807243978</ele>
+<name>CF036</name>
+</rtept>
+<rtept lat="57.0128943114561" lon="-3.49520146217186">
+<ele>404.817499540691</ele>
+<name>CF037</name>
+</rtept>
+<rtept lat="57.0131476126932" lon="-3.49633484279189">
+<ele>410.039664272479</ele>
+<name>CF038</name>
+</rtept>
+<rtept lat="57.013820992235" lon="-3.49705032364273">
+<ele>404.41760557129</ele>
+<name>CF039</name>
+</rtept>
+<rtept lat="57.0142647821494" lon="-3.49795588622136">
+<ele>405.033081407221</ele>
+<name>CF040</name>
+</rtept>
+<rtept lat="57.014458571193" lon="-3.49910505024292">
+<ele>405.79709254707</ele>
+<name>CF041</name>
+</rtept>
+<rtept lat="57.014246" lon="-3.499899">
+<ele>419.240318</ele>
+<name>CF042</name>
+</rtept>
+<rtept lat="57.014173" lon="-3.500277">
+<ele>418.735291</ele>
+<name>CF043</name>
+</rtept>
+<rtept lat="57.014261" lon="-3.501894">
+<ele>418.045044</ele>
+<name>CF044</name>
+</rtept>
+<rtept lat="57.014529" lon="-3.503945">
+<ele>421.432861</ele>
+<name>CF045</name>
+</rtept>
+<rtept lat="57.014814" lon="-3.505139">
+<ele>423.87915</ele>
+<name>CF046</name>
+</rtept>
+<rtept lat="57.014867" lon="-3.506733">
+<ele>418.524292</ele>
+<name>CF047</name>
+</rtept>
+<rtept lat="57.01549" lon="-3.509189">
+<ele>429.864258</ele>
+<name>CF048</name>
+</rtept>
+<rtept lat="57.016173" lon="-3.510501">
+<ele>428.423035</ele>
+<name>CF049</name>
+</rtept>
+<rtept lat="57.017028" lon="-3.511299">
+<ele>436.025879</ele>
+<name>CF050</name>
+</rtept>
+<rtept lat="57.019595" lon="-3.513074">
+<ele>437.859558</ele>
+<name>CF051</name>
+</rtept>
+<rtept lat="57.02125" lon="-3.513524">
+<ele>433.125916</ele>
+<name>CF052</name>
+</rtept>
+<rtept lat="57.022887" lon="-3.516074">
+<ele>442.457825</ele>
+<name>CF053</name>
+</rtept>
+<rtept lat="57.02377" lon="-3.517046">
+<ele>443.567078</ele>
+<name>CF054</name>
+</rtept>
+<rtept lat="57.024143" lon="-3.517231">
+<ele>437.650818</ele>
+<name>CF055</name>
+</rtept>
+<rtept lat="57.025393" lon="-3.517132">
+<ele>433.731812</ele>
+<name>CF056</name>
+</rtept>
+<rtept lat="57.025359" lon="-3.517941">
+<ele>439.740112</ele>
+<name>CF057</name>
+</rtept>
+<rtept lat="57.025012" lon="-3.51888">
+<ele>450.425476</ele>
+<name>CF058</name>
+</rtept>
+<rtept lat="57.025222" lon="-3.51991">
+<ele>452.19397</ele>
+<name>CF059</name>
+</rtept>
+<rtept lat="57.025938" lon="-3.521688">
+<ele>473.739258</ele>
+<name>CF060</name>
+</rtept>
+<rtept lat="57.02597" lon="-3.5221">
+<ele>475.74707</ele>
+<name>CF061</name>
+</rtept>
+<rtept lat="57.025839" lon="-3.523455">
+<ele>492.855347</ele>
+<name>CF062</name>
+</rtept>
+<rtept lat="57.025203" lon="-3.525905">
+<ele>495.49585</ele>
+<name>CF063</name>
+</rtept>
+<rtept lat="57.025019" lon="-3.527079">
+<ele>494.285767</ele>
+<name>CF064</name>
+</rtept>
+<rtept lat="57.02429" lon="-3.529037">
+<ele>488.508057</ele>
+<name>CF065</name>
+</rtept>
+<rtept lat="57.024193" lon="-3.529234">
+<ele>488.174194</ele>
+<name>CF066</name>
+</rtept>
+<rtept lat="57.022769" lon="-3.532644">
+<ele>487.878296</ele>
+<name>CF067</name>
+</rtept>
+<rtept lat="57.022646" lon="-3.533335">
+<ele>494.780029</ele>
+<name>CF068</name>
+</rtept>
+<rtept lat="57.019467" lon="-3.540865">
+<ele>486.820068</ele>
+<name>CF069</name>
+</rtept>
+<rtept lat="57.019357" lon="-3.541392">
+<ele>492.442871</ele>
+<name>CF070</name>
+</rtept>
+<rtept lat="57.019541" lon="-3.542683">
+<ele>495.565552</ele>
+<name>CF071</name>
+</rtept>
+<rtept lat="57.019107" lon="-3.544052">
+<ele>504.507813</ele>
+<name>CF072</name>
+</rtept>
+<rtept lat="57.01909" lon="-3.544491">
+<ele>502.922241</ele>
+<name>CF073</name>
+</rtept>
+<rtept lat="57.018702" lon="-3.545008">
+<ele>501.679443</ele>
+<name>CF074</name>
+</rtept>
+<rtept lat="57.018508" lon="-3.545678">
+<ele>501.866943</ele>
+<name>CF075</name>
+</rtept>
+<rtept lat="57.018084" lon="-3.546408">
+<ele>508.418945</ele>
+<name>CF076</name>
+</rtept>
+<rtept lat="57.017769" lon="-3.546438">
+<ele>511.307617</ele>
+<name>CF077</name>
+</rtept>
+<rtept lat="57.017346" lon="-3.547047">
+<ele>510.154297</ele>
+<name>CF078</name>
+</rtept>
+<rtept lat="57.016861" lon="-3.548233">
+<ele>501.565552</ele>
+<name>CF079</name>
+</rtept>
+<rtept lat="57.016295" lon="-3.55023">
+<ele>496.468262</ele>
+<name>CF080</name>
+</rtept>
+<rtept lat="57.015876" lon="-3.550689">
+<ele>490.622314</ele>
+<name>CF081</name>
+</rtept>
+<rtept lat="57.014919" lon="-3.550946">
+<ele>464.632935</ele>
+<name>CF082</name>
+</rtept>
+<rtept lat="57.014624" lon="-3.550796">
+<ele>459.966309</ele>
+<name>CF083</name>
+</rtept>
+<rtept lat="57.013736" lon="-3.551458">
+<ele>448.688171</ele>
+<name>CF084</name>
+</rtept>
+<rtept lat="57.012501" lon="-3.551386">
+<ele>430.356628</ele>
+<name>CF085</name>
+</rtept>
+<rtept lat="57.011892" lon="-3.551703">
+<ele>416.851929</ele>
+<name>CF086</name>
+</rtept>
+<rtept lat="57.009674" lon="-3.547706">
+<ele>403.21875</ele>
+<name>CF087</name>
+</rtept>
+<rtept lat="57.009076" lon="-3.546924">
+<ele>401.970093</ele>
+<name>CF088</name>
+</rtept>
+<rtept lat="57.008601" lon="-3.546397">
+<ele>400.723206</ele>
+<name>CF089</name>
+</rtept>
+<rtept lat="57.006845" lon="-3.545238">
+<ele>403.690063</ele>
+<name>CF090</name>
+</rtept>
+<rtept lat="57.006118" lon="-3.543998">
+<ele>400.945374</ele>
+<name>CF091</name>
+</rtept>
+<rtept lat="57.005063" lon="-3.542736">
+<ele>397.223572</ele>
+<name>CF092</name>
+</rtept>
+<rtept lat="57.004876" lon="-3.542926">
+<ele>396.783936</ele>
+<name>CF093</name>
+</rtept>
+<rtept lat="57.004798" lon="-3.542714">
+<ele>398.227295</ele>
+<name>CF094</name>
+</rtept>
+<rtept lat="57.004188" lon="-3.542411">
+<ele>400.372864</ele>
+<name>CF095</name>
+</rtept>
+<rtept lat="57.004024" lon="-3.541187">
+<ele>405.911621</ele>
+<name>CF096</name>
+</rtept>
+<rtept lat="57.003644" lon="-3.540195">
+<ele>415.265381</ele>
+<name>CF097</name>
+</rtept>
+<rtept lat="57.003178" lon="-3.540144">
+<ele>416.97699</ele>
+<name>CF098</name>
+</rtept>
+<rtept lat="57.00282" lon="-3.539834">
+<ele>420.882751</ele>
+<name>CF099</name>
+</rtept>
+<rtept lat="57.000663" lon="-3.537237">
+<ele>417.203003</ele>
+<name>CF100</name>
+</rtept>
+<rtept lat="56.999579" lon="-3.535104">
+<ele>408.916084</ele>
+<name>CF101</name>
+</rtept>
+<rtept lat="56.999368" lon="-3.534375">
+<ele>408.783527</ele>
+<name>CF102</name>
+</rtept>
+<rtept lat="56.998599" lon="-3.532904">
+<ele>405.679133</ele>
+<name>CF103</name>
+</rtept>
+<rtept lat="56.997407" lon="-3.528952">
+<ele>408.613118</ele>
+<name>CF104</name>
+</rtept>
+<rtept lat="56.997034" lon="-3.527535">
+<ele>401.585241</ele>
+<name>CF105</name>
+</rtept>
+<rtept lat="56.996468" lon="-3.523896">
+<ele>400.581779</ele>
+<name>CF106</name>
+</rtept>
+<rtept lat="56.995361" lon="-3.520546">
+<ele>410.828797</ele>
+<name>CF107</name>
+</rtept>
+<rtept lat="56.995095" lon="-3.518845">
+<ele>404.413499</ele>
+<name>CF108</name>
+</rtept>
+<rtept lat="56.995029" lon="-3.517609">
+<ele>400.165225</ele>
+<name>CF109</name>
+</rtept>
+<rtept lat="56.993487" lon="-3.51294">
+<ele>389.360468</ele>
+<name>CF110</name>
+</rtept>
+<rtept lat="56.9923" lon="-3.506056">
+<ele>355.158434</ele>
+<name>CF111</name>
+</rtept>
+<rtept lat="56.992152" lon="-3.504439">
+<ele>350.176567</ele>
+<name>CF112</name>
+</rtept>
+<rtept lat="56.992252" lon="-3.502281">
+<ele>348.735557</ele>
+<name>CF113</name>
+</rtept>
+<rtept lat="56.992" lon="-3.500562">
+<ele>352.981373</ele>
+<name>CF114</name>
+</rtept>
+<rtept lat="56.991566" lon="-3.499575">
+<ele>347.618835</ele>
+<name>CF115</name>
+</rtept>
+<rtept lat="56.991211" lon="-3.497734">
+<ele>338.367432</ele>
+<name>CF116</name>
+</rtept>
+<rtept lat="56.990853" lon="-3.496995">
+<ele>338.544739</ele>
+<name>CF117</name>
+</rtept>
+<rtept lat="56.990737" lon="-3.495726">
+<ele>332.922485</ele>
+<name>CF118</name>
+</rtept>
+<rtept lat="56.990387" lon="-3.494907">
+<ele>333.97699</ele>
+<name>CF119</name>
+</rtept>
+<rtept lat="56.988561" lon="-3.491906">
+<ele>346.177002</ele>
+<name>CF120</name>
+</rtept>
+<rtept lat="56.98888" lon="-3.49001">
+<ele>329.869141</ele>
+<name>CF121</name>
+</rtept>
+<rtept lat="56.988512" lon="-3.489107">
+<ele>334.705505</ele>
+<name>CF122</name>
+</rtept>
+<rtept lat="56.987952" lon="-3.488292">
+<ele>333.883789</ele>
+<name>CF123</name>
+</rtept>
+<rtept lat="56.987878" lon="-3.487711">
+<ele>333.632935</ele>
+<name>CF124</name>
+</rtept>
+<rtept lat="56.988124" lon="-3.486354">
+<ele>329.724487</ele>
+<name>CF125</name>
+</rtept>
+<rtept lat="56.988779" lon="-3.484297">
+<ele>336.742188</ele>
+<name>CF126</name>
+</rtept>
+<rtept lat="56.989092" lon="-3.48227">
+<ele>334.859131</ele>
+<name>CF127</name>
+</rtept>
+<rtept lat="56.989559" lon="-3.480382">
+<ele>327.428101</ele>
+<name>CF128</name>
+</rtept>
+<rtept lat="56.989624" lon="-3.476952">
+<ele>331.341431</ele>
+<name>CF129</name>
+</rtept>
+<rtept lat="56.990005" lon="-3.475598">
+<ele>330.293091</ele>
+<name>CF130</name>
+</rtept>
+<rtept lat="56.990722" lon="-3.474122">
+<ele>323.370056</ele>
+<name>CF131</name>
+</rtept>
+<rtept lat="56.99105" lon="-3.47253">
+<ele>322.953796</ele>
+<name>CF132</name>
+</rtept>
+<rtept lat="56.991018" lon="-3.471778">
+<ele>319.019714</ele>
+<name>CF133</name>
+</rtept>
+<rtept lat="56.990695" lon="-3.47027">
+<ele>320.673218</ele>
+<name>CF134</name>
+</rtept>
+<rtept lat="56.990763" lon="-3.46963">
+<ele>327.219482</ele>
+<name>CF135</name>
+</rtept>
+<rtept lat="56.991029" lon="-3.469265">
+<ele>328.845337</ele>
+<name>CF136</name>
+</rtept>
+<rtept lat="56.992415" lon="-3.468967">
+<ele>328.364563</ele>
+<name>CF137</name>
+</rtept>
+<rtept lat="56.992774" lon="-3.468688">
+<ele>331.21228</ele>
+<name>CF138</name>
+</rtept>
+<rtept lat="56.993648" lon="-3.466687">
+<ele>324.544617</ele>
+<name>CF139</name>
+</rtept>
+<rtept lat="56.993807" lon="-3.465868">
+<ele>332.896423</ele>
+<name>CF140</name>
+</rtept>
+<rtept lat="56.994396" lon="-3.464898">
+<ele>326.663879</ele>
+<name>CF141</name>
+</rtept>
+<rtept lat="56.995402" lon="-3.463796">
+<ele>330.592041</ele>
+<name>CF142</name>
+</rtept>
+<rtept lat="56.995949" lon="-3.463436">
+<ele>345.694946</ele>
+<name>CF143</name>
+</rtept>
+<rtept lat="56.998592" lon="-3.458892">
+<ele>330.576965</ele>
+<name>CF144</name>
+</rtept>
+<rtept lat="57.000006" lon="-3.457035">
+<ele>331.58588</ele>
+<name>CF145</name>
+</rtept>
+<rtept lat="57.001162" lon="-3.456216">
+<ele>327.578756</ele>
+<name>CF146</name>
+</rtept>
+<rtept lat="57.0016967402827" lon="-3.45541407725048">
+<ele>330.646205363269</ele>
+<name>CF147</name>
+</rtept>
+<rtept lat="57.0019173236923" lon="-3.45498803218696">
+<ele>333.343840533179</ele>
+<name>CF148</name>
+</rtept>
+</rte>
+</gpx>

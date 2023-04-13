@@ -1,0 +1,990 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Inverlael to Oykel Bridge</name>
+<rtept lat="57.81979" lon="-5.062091">
+<ele>11</ele>
+<name>SNT35-001</name>
+</rtept>
+<rtept lat="57.820285" lon="-5.060561">
+<ele>15</ele>
+<name>SNT35-002</name>
+</rtept>
+<rtept lat="57.820811" lon="-5.057174">
+<ele>24</ele>
+<name>SNT35-003</name>
+</rtept>
+<rtept lat="57.820542" lon="-5.055222">
+<ele>29</ele>
+<name>SNT35-004</name>
+</rtept>
+<rtept lat="57.821058" lon="-5.052245">
+<ele>37</ele>
+<name>SNT35-005</name>
+</rtept>
+<rtept lat="57.820843" lon="-5.049816">
+<ele>42</ele>
+<name>SNT35-006</name>
+</rtept>
+<rtept lat="57.821076" lon="-5.048105">
+<ele>48</ele>
+<name>SNT35-007</name>
+</rtept>
+<rtept lat="57.821717" lon="-5.047572">
+<ele>48</ele>
+<name>SNT35-008</name>
+</rtept>
+<rtept lat="57.822089" lon="-5.048171">
+<ele>48</ele>
+<name>SNT35-009</name>
+</rtept>
+<rtept lat="57.822741" lon="-5.052688">
+<ele>40</ele>
+<name>SNT35-010</name>
+</rtept>
+<rtept lat="57.823369" lon="-5.053559">
+<ele>42</ele>
+<name>SNT35-011</name>
+</rtept>
+<rtept lat="57.823566" lon="-5.053381">
+<ele>44</ele>
+<name>SNT35-012</name>
+</rtept>
+<rtept lat="57.823525" lon="-5.051799">
+<ele>53</ele>
+<name>SNT35-013</name>
+</rtept>
+<rtept lat="57.822928" lon="-5.048015">
+<ele>75</ele>
+<name>SNT35-014</name>
+</rtept>
+<rtept lat="57.822878" lon="-5.046174">
+<ele>87</ele>
+<name>SNT35-015</name>
+</rtept>
+<rtept lat="57.824007" lon="-5.048376">
+<ele>106</ele>
+<name>SNT35-016</name>
+</rtept>
+<rtept lat="57.824428" lon="-5.049659">
+<ele>114</ele>
+<name>SNT35-017</name>
+</rtept>
+<rtept lat="57.826561" lon="-5.052875">
+<ele>135</ele>
+<name>SNT35-018</name>
+</rtept>
+<rtept lat="57.82868" lon="-5.055543">
+<ele>142</ele>
+<name>SNT35-019</name>
+</rtept>
+<rtept lat="57.827934" lon="-5.053789">
+<ele>151</ele>
+<name>SNT35-020</name>
+</rtept>
+<rtept lat="57.826591" lon="-5.051724">
+<ele>161</ele>
+<name>SNT35-021</name>
+</rtept>
+<rtept lat="57.825879" lon="-5.049978">
+<ele>159</ele>
+<name>SNT35-022</name>
+</rtept>
+<rtept lat="57.825463" lon="-5.049577">
+<ele>157</ele>
+<name>SNT35-023</name>
+</rtept>
+<rtept lat="57.824859" lon="-5.047761">
+<ele>158</ele>
+<name>SNT35-024</name>
+</rtept>
+<rtept lat="57.824413" lon="-5.045452">
+<ele>163</ele>
+<name>SNT35-025</name>
+</rtept>
+<rtept lat="57.824652" lon="-5.038264">
+<ele>181</ele>
+<name>SNT35-026</name>
+</rtept>
+<rtept lat="57.824815" lon="-5.037384">
+<ele>183</ele>
+<name>SNT35-027</name>
+</rtept>
+<rtept lat="57.824599" lon="-5.035743">
+<ele>185</ele>
+<name>SNT35-028</name>
+</rtept>
+<rtept lat="57.824821" lon="-5.031958">
+<ele>190</ele>
+<name>SNT35-029</name>
+</rtept>
+<rtept lat="57.824709" lon="-5.023026">
+<ele>199</ele>
+<name>SNT35-030</name>
+</rtept>
+<rtept lat="57.825364" lon="-5.023446">
+<ele>207</ele>
+<name>SNT35-031</name>
+</rtept>
+<rtept lat="57.825831" lon="-5.022185">
+<ele>232</ele>
+<name>SNT35-032</name>
+</rtept>
+<rtept lat="57.826476" lon="-5.021513">
+<ele>245</ele>
+<name>SNT35-033</name>
+</rtept>
+<rtept lat="57.826786" lon="-5.021694">
+<ele>253</ele>
+<name>SNT35-034</name>
+</rtept>
+<rtept lat="57.826961" lon="-5.022666">
+<ele>262</ele>
+<name>SNT35-035</name>
+</rtept>
+<rtept lat="57.827287" lon="-5.023151">
+<ele>268</ele>
+<name>SNT35-036</name>
+</rtept>
+<rtept lat="57.827936" lon="-5.022032">
+<ele>283</ele>
+<name>SNT35-037</name>
+</rtept>
+<rtept lat="57.828712" lon="-5.018019">
+<ele>332</ele>
+<name>SNT35-038</name>
+</rtept>
+<rtept lat="57.830063" lon="-5.01355">
+<ele>386</ele>
+<name>SNT35-039</name>
+</rtept>
+<rtept lat="57.830038" lon="-5.012974">
+<ele>389</ele>
+<name>SNT35-040</name>
+</rtept>
+<rtept lat="57.831006" lon="-5.008292">
+<ele>416</ele>
+<name>SNT35-041</name>
+</rtept>
+<rtept lat="57.832217" lon="-5.0068">
+<ele>437</ele>
+<name>SNT35-042</name>
+</rtept>
+<rtept lat="57.833384" lon="-5.004274">
+<ele>450</ele>
+<name>SNT35-043</name>
+</rtept>
+<rtept lat="57.834337" lon="-5.003519">
+<ele>457</ele>
+<name>SNT35-044</name>
+</rtept>
+<rtept lat="57.834768" lon="-5.002809">
+<ele>460</ele>
+<name>SNT35-045</name>
+</rtept>
+<rtept lat="57.835309" lon="-5.002574">
+<ele>461</ele>
+<name>SNT35-046</name>
+</rtept>
+<rtept lat="57.8374" lon="-5.002558">
+<ele>471</ele>
+<name>SNT35-047</name>
+</rtept>
+<rtept lat="57.838314" lon="-5.00336">
+<ele>473</ele>
+<name>SNT35-048</name>
+</rtept>
+<rtept lat="57.840327" lon="-5.000103">
+<ele>485</ele>
+<name>SNT35-049</name>
+</rtept>
+<rtept lat="57.841913" lon="-4.996196">
+<ele>499</ele>
+<name>SNT35-050</name>
+</rtept>
+<rtept lat="57.843336" lon="-4.9915">
+<ele>518</ele>
+<name>SNT35-051</name>
+</rtept>
+<rtept lat="57.844487" lon="-4.986133">
+<ele>541</ele>
+<name>SNT35-052</name>
+</rtept>
+<rtept lat="57.845712" lon="-4.982145">
+<ele>550</ele>
+<name>SNT35-053</name>
+</rtept>
+<rtept lat="57.84602" lon="-4.979403">
+<ele>553</ele>
+<name>SNT35-054</name>
+</rtept>
+<rtept lat="57.846581" lon="-4.976846">
+<ele>554</ele>
+<name>SNT35-055</name>
+</rtept>
+<rtept lat="57.847141" lon="-4.975937">
+<ele>558</ele>
+<name>SNT35-056</name>
+</rtept>
+<rtept lat="57.847944" lon="-4.973124">
+<ele>548</ele>
+<name>SNT35-057</name>
+</rtept>
+<rtept lat="57.849422" lon="-4.969978">
+<ele>534</ele>
+<name>SNT35-058</name>
+</rtept>
+<rtept lat="57.8516" lon="-4.968686">
+<ele>520</ele>
+<name>SNT35-059</name>
+</rtept>
+<rtept lat="57.852322" lon="-4.96864">
+<ele>514</ele>
+<name>SNT35-060</name>
+</rtept>
+<rtept lat="57.852484" lon="-4.968314">
+<ele>510</ele>
+<name>SNT35-061</name>
+</rtept>
+<rtept lat="57.853264" lon="-4.968311">
+<ele>506</ele>
+<name>SNT35-062</name>
+</rtept>
+<rtept lat="57.853408" lon="-4.96858">
+<ele>501</ele>
+<name>SNT35-063</name>
+</rtept>
+<rtept lat="57.854408" lon="-4.968328">
+<ele>493</ele>
+<name>SNT35-064</name>
+</rtept>
+<rtept lat="57.855562" lon="-4.966941">
+<ele>469</ele>
+<name>SNT35-065</name>
+</rtept>
+<rtept lat="57.856556" lon="-4.967495">
+<ele>452</ele>
+<name>SNT35-066</name>
+</rtept>
+<rtept lat="57.85851" lon="-4.967305">
+<ele>410</ele>
+<name>SNT35-067</name>
+</rtept>
+<rtept lat="57.863645" lon="-4.963027">
+<ele>314</ele>
+<name>SNT35-068</name>
+</rtept>
+<rtept lat="57.864642" lon="-4.961743">
+<ele>304</ele>
+<name>SNT35-069</name>
+</rtept>
+<rtept lat="57.865356" lon="-4.961495">
+<ele>290</ele>
+<name>SNT35-070</name>
+</rtept>
+<rtept lat="57.86586" lon="-4.960711">
+<ele>284</ele>
+<name>SNT35-071</name>
+</rtept>
+<rtept lat="57.866552" lon="-4.960478">
+<ele>282</ele>
+<name>SNT35-072</name>
+</rtept>
+<rtept lat="57.867899" lon="-4.958099">
+<ele>276</ele>
+<name>SNT35-073</name>
+</rtept>
+<rtept lat="57.868391" lon="-4.957612">
+<ele>273</ele>
+<name>SNT35-074</name>
+</rtept>
+<rtept lat="57.870221" lon="-4.956807">
+<ele>269</ele>
+<name>SNT35-075</name>
+</rtept>
+<rtept lat="57.871971" lon="-4.956781">
+<ele>260</ele>
+<name>SNT35-076</name>
+</rtept>
+<rtept lat="57.872424" lon="-4.956393">
+<ele>261</ele>
+<name>SNT35-077</name>
+</rtept>
+<rtept lat="57.872963" lon="-4.956392">
+<ele>261</ele>
+<name>SNT35-078</name>
+</rtept>
+<rtept lat="57.873186" lon="-4.955936">
+<ele>262</ele>
+<name>SNT35-079</name>
+</rtept>
+<rtept lat="57.873335" lon="-4.954612">
+<ele>262</ele>
+<name>SNT35-080</name>
+</rtept>
+<rtept lat="57.874231" lon="-4.952464">
+<ele>259</ele>
+<name>SNT35-081</name>
+</rtept>
+<rtept lat="57.874656" lon="-4.952193">
+<ele>256</ele>
+<name>SNT35-082</name>
+</rtept>
+<rtept lat="57.875055" lon="-4.952754">
+<ele>254</ele>
+<name>SNT35-083</name>
+</rtept>
+<rtept lat="57.875311" lon="-4.952446">
+<ele>255</ele>
+<name>SNT35-084</name>
+</rtept>
+<rtept lat="57.875323" lon="-4.951399">
+<ele>254</ele>
+<name>SNT35-085</name>
+</rtept>
+<rtept lat="57.87486" lon="-4.949612">
+<ele>253</ele>
+<name>SNT35-086</name>
+</rtept>
+<rtept lat="57.875025" lon="-4.948614">
+<ele>254</ele>
+<name>SNT35-087</name>
+</rtept>
+<rtept lat="57.875539" lon="-4.947709">
+<ele>254</ele>
+<name>SNT35-088</name>
+</rtept>
+<rtept lat="57.876172" lon="-4.947471">
+<ele>257</ele>
+<name>SNT35-089</name>
+</rtept>
+<rtept lat="57.877658" lon="-4.944703">
+<ele>258</ele>
+<name>SNT35-090</name>
+</rtept>
+<rtept lat="57.878212" lon="-4.944151">
+<ele>254</ele>
+<name>SNT35-091</name>
+</rtept>
+<rtept lat="57.878835" lon="-4.944448">
+<ele>251</ele>
+<name>SNT35-092</name>
+</rtept>
+<rtept lat="57.879283" lon="-4.943877">
+<ele>249</ele>
+<name>SNT35-093</name>
+</rtept>
+<rtept lat="57.88187" lon="-4.942723">
+<ele>234</ele>
+<name>SNT35-094</name>
+</rtept>
+<rtept lat="57.882784" lon="-4.941847">
+<ele>228</ele>
+<name>SNT35-095</name>
+</rtept>
+<rtept lat="57.883295" lon="-4.940612">
+<ele>218</ele>
+<name>SNT35-096</name>
+</rtept>
+<rtept lat="57.883774" lon="-4.940609">
+<ele>216</ele>
+<name>SNT35-097</name>
+</rtept>
+<rtept lat="57.884857" lon="-4.939638">
+<ele>202</ele>
+<name>SNT35-098</name>
+</rtept>
+<rtept lat="57.885581" lon="-4.939643">
+<ele>201</ele>
+<name>SNT35-099</name>
+</rtept>
+<rtept lat="57.885856" lon="-4.939356">
+<ele>201</ele>
+<name>SNT35-100</name>
+</rtept>
+<rtept lat="57.886512" lon="-4.939798">
+<ele>203</ele>
+<name>SNT35-101</name>
+</rtept>
+<rtept lat="57.887052" lon="-4.939196">
+<ele>210</ele>
+<name>SNT35-102</name>
+</rtept>
+<rtept lat="57.888155" lon="-4.938923">
+<ele>209</ele>
+<name>SNT35-103</name>
+</rtept>
+<rtept lat="57.888862" lon="-4.939262">
+<ele>203</ele>
+<name>SNT35-104</name>
+</rtept>
+<rtept lat="57.88947" lon="-4.939072">
+<ele>201</ele>
+<name>SNT35-105</name>
+</rtept>
+<rtept lat="57.88995" lon="-4.938518">
+<ele>196</ele>
+<name>SNT35-106</name>
+</rtept>
+<rtept lat="57.891065" lon="-4.938326">
+<ele>193</ele>
+<name>SNT35-107</name>
+</rtept>
+<rtept lat="57.891593" lon="-4.939263">
+<ele>192</ele>
+<name>SNT35-108</name>
+</rtept>
+<rtept lat="57.892034" lon="-4.939491">
+<ele>189</ele>
+<name>SNT35-109</name>
+</rtept>
+<rtept lat="57.89279" lon="-4.938139">
+<ele>182</ele>
+<name>SNT35-110</name>
+</rtept>
+<rtept lat="57.892784" lon="-4.936475">
+<ele>177</ele>
+<name>SNT35-111</name>
+</rtept>
+<rtept lat="57.893237" lon="-4.936513">
+<ele>184</ele>
+<name>SNT35-112</name>
+</rtept>
+<rtept lat="57.893410708" lon="-4.9350772959">
+<ele>197.419861965997</ele>
+<name>SNT35-113</name>
+</rtept>
+<rtept lat="57.894038509" lon="-4.932976569">
+<ele>215.955412070689</ele>
+<name>SNT35-114</name>
+</rtept>
+<rtept lat="57.8953476449" lon="-4.9294543405">
+<ele>224.161217809077</ele>
+<name>SNT35-115</name>
+</rtept>
+<rtept lat="57.8963925224" lon="-4.9278513888">
+<ele>221.763468231913</ele>
+<name>SNT35-116</name>
+</rtept>
+<rtept lat="57.8974019892" lon="-4.9268784131">
+<ele>208.5073754108</ele>
+<name>SNT35-117</name>
+</rtept>
+<rtept lat="57.898038" lon="-4.927215">
+<ele>204</ele>
+<name>SNT35-118</name>
+</rtept>
+<rtept lat="57.898674" lon="-4.92702">
+<ele>203</ele>
+<name>SNT35-119</name>
+</rtept>
+<rtept lat="57.898537315524" lon="-4.92872129885441">
+<ele>208.074549830163</ele>
+<name>SNT35-120</name>
+</rtept>
+<rtept lat="57.898973" lon="-4.929924">
+<ele>211</ele>
+<name>SNT35-121</name>
+</rtept>
+<rtept lat="57.898688" lon="-4.931085">
+<ele>215</ele>
+<name>SNT35-122</name>
+</rtept>
+<rtept lat="57.899143" lon="-4.933311">
+<ele>223</ele>
+<name>SNT35-123</name>
+</rtept>
+<rtept lat="57.899153" lon="-4.934177">
+<ele>228</ele>
+<name>SNT35-124</name>
+</rtept>
+<rtept lat="57.899601" lon="-4.935627">
+<ele>236</ele>
+<name>SNT35-125</name>
+</rtept>
+<rtept lat="57.899631" lon="-4.936789">
+<ele>243</ele>
+<name>SNT35-126</name>
+</rtept>
+<rtept lat="57.900609" lon="-4.935166">
+<ele>247</ele>
+<name>SNT35-127</name>
+</rtept>
+<rtept lat="57.901886" lon="-4.931284">
+<ele>252</ele>
+<name>SNT35-128</name>
+</rtept>
+<rtept lat="57.902349" lon="-4.929289">
+<ele>257</ele>
+<name>SNT35-129</name>
+</rtept>
+<rtept lat="57.903966" lon="-4.924829">
+<ele>251</ele>
+<name>SNT35-130</name>
+</rtept>
+<rtept lat="57.905564" lon="-4.918463">
+<ele>243</ele>
+<name>SNT35-131</name>
+</rtept>
+<rtept lat="57.906054" lon="-4.915826">
+<ele>234</ele>
+<name>SNT35-132</name>
+</rtept>
+<rtept lat="57.906375" lon="-4.91536">
+<ele>233</ele>
+<name>SNT35-133</name>
+</rtept>
+<rtept lat="57.907026" lon="-4.912922">
+<ele>230</ele>
+<name>SNT35-134</name>
+</rtept>
+<rtept lat="57.907181" lon="-4.91148">
+<ele>226</ele>
+<name>SNT35-135</name>
+</rtept>
+<rtept lat="57.908705" lon="-4.906257">
+<ele>209</ele>
+<name>SNT35-136</name>
+</rtept>
+<rtept lat="57.909327" lon="-4.904929">
+<ele>207</ele>
+<name>SNT35-137</name>
+</rtept>
+<rtept lat="57.909682" lon="-4.90304">
+<ele>207</ele>
+<name>SNT35-138</name>
+</rtept>
+<rtept lat="57.910093" lon="-4.90256">
+<ele>206</ele>
+<name>SNT35-139</name>
+</rtept>
+<rtept lat="57.910416" lon="-4.901302">
+<ele>205</ele>
+<name>SNT35-140</name>
+</rtept>
+<rtept lat="57.912428" lon="-4.898103">
+<ele>210</ele>
+<name>SNT35-141</name>
+</rtept>
+<rtept lat="57.913225" lon="-4.89617">
+<ele>212</ele>
+<name>SNT35-142</name>
+</rtept>
+<rtept lat="57.914332" lon="-4.894831">
+<ele>216</ele>
+<name>SNT35-143</name>
+</rtept>
+<rtept lat="57.915013" lon="-4.894856">
+<ele>199</ele>
+<name>SNT35-144</name>
+</rtept>
+<rtept lat="57.914882" lon="-4.893828">
+<ele>225</ele>
+<name>SNT35-145</name>
+</rtept>
+<rtept lat="57.918345" lon="-4.888279">
+<ele>220</ele>
+<name>SNT35-146</name>
+</rtept>
+<rtept lat="57.919341" lon="-4.885662">
+<ele>220</ele>
+<name>SNT35-147</name>
+</rtept>
+<rtept lat="57.92142" lon="-4.883039">
+<ele>222</ele>
+<name>SNT35-148</name>
+</rtept>
+<rtept lat="57.92236" lon="-4.880525">
+<ele>226</ele>
+<name>SNT35-149</name>
+</rtept>
+<rtept lat="57.92321" lon="-4.879102">
+<ele>229</ele>
+<name>SNT35-150</name>
+</rtept>
+<rtept lat="57.923469" lon="-4.8775">
+<ele>227</ele>
+<name>SNT35-151</name>
+</rtept>
+<rtept lat="57.923364" lon="-4.876791">
+<ele>225</ele>
+<name>SNT35-152</name>
+</rtept>
+<rtept lat="57.92405" lon="-4.875271">
+<ele>223</ele>
+<name>SNT35-153</name>
+</rtept>
+<rtept lat="57.925385" lon="-4.874243">
+<ele>225</ele>
+<name>SNT35-154</name>
+</rtept>
+<rtept lat="57.926807" lon="-4.87198">
+<ele>231</ele>
+<name>SNT35-155</name>
+</rtept>
+<rtept lat="57.926938" lon="-4.871167">
+<ele>230</ele>
+<name>SNT35-156</name>
+</rtept>
+<rtept lat="57.928327" lon="-4.868898">
+<ele>224</ele>
+<name>SNT35-157</name>
+</rtept>
+<rtept lat="57.928516" lon="-4.868102">
+<ele>223</ele>
+<name>SNT35-158</name>
+</rtept>
+<rtept lat="57.930331" lon="-4.866317">
+<ele>221</ele>
+<name>SNT35-159</name>
+</rtept>
+<rtept lat="57.930801" lon="-4.865508">
+<ele>221</ele>
+<name>SNT35-160</name>
+</rtept>
+<rtept lat="57.931968" lon="-4.86249">
+<ele>217</ele>
+<name>SNT35-161</name>
+</rtept>
+<rtept lat="57.932456" lon="-4.861943">
+<ele>215</ele>
+<name>SNT35-162</name>
+</rtept>
+<rtept lat="57.932759" lon="-4.85992">
+<ele>211</ele>
+<name>SNT35-163</name>
+</rtept>
+<rtept lat="57.933685" lon="-4.858017">
+<ele>203</ele>
+<name>SNT35-164</name>
+</rtept>
+<rtept lat="57.933706" lon="-4.85701">
+<ele>200</ele>
+<name>SNT35-165</name>
+</rtept>
+<rtept lat="57.934566" lon="-4.855165">
+<ele>191</ele>
+<name>SNT35-166</name>
+</rtept>
+<rtept lat="57.934958" lon="-4.852987">
+<ele>187</ele>
+<name>SNT35-167</name>
+</rtept>
+<rtept lat="57.936044" lon="-4.850025">
+<ele>172</ele>
+<name>SNT35-168</name>
+</rtept>
+<rtept lat="57.936193" lon="-4.848148">
+<ele>165</ele>
+<name>SNT35-169</name>
+</rtept>
+<rtept lat="57.936836" lon="-4.847333">
+<ele>156</ele>
+<name>SNT35-170</name>
+</rtept>
+<rtept lat="57.936618" lon="-4.846551">
+<ele>152</ele>
+<name>SNT35-171</name>
+</rtept>
+<rtept lat="57.936839" lon="-4.843695">
+<ele>146</ele>
+<name>SNT35-172</name>
+</rtept>
+<rtept lat="57.936716" lon="-4.842846">
+<ele>143</ele>
+<name>SNT35-173</name>
+</rtept>
+<rtept lat="57.937713" lon="-4.839292">
+<ele>123</ele>
+<name>SNT35-174</name>
+</rtept>
+<rtept lat="57.937426" lon="-4.837934">
+<ele>119</ele>
+<name>SNT35-175</name>
+</rtept>
+<rtept lat="57.937668" lon="-4.836668">
+<ele>119</ele>
+<name>SNT35-176</name>
+</rtept>
+<rtept lat="57.93727" lon="-4.835822">
+<ele>120</ele>
+<name>SNT35-177</name>
+</rtept>
+<rtept lat="57.937318" lon="-4.834278">
+<ele>121</ele>
+<name>SNT35-178</name>
+</rtept>
+<rtept lat="57.936848" lon="-4.831672">
+<ele>126</ele>
+<name>SNT35-179</name>
+</rtept>
+<rtept lat="57.936838" lon="-4.83017">
+<ele>129</ele>
+<name>SNT35-180</name>
+</rtept>
+<rtept lat="57.935914" lon="-4.827331">
+<ele>139</ele>
+<name>SNT35-181</name>
+</rtept>
+<rtept lat="57.933823" lon="-4.825041">
+<ele>140</ele>
+<name>SNT35-182</name>
+</rtept>
+<rtept lat="57.933358" lon="-4.822603">
+<ele>134</ele>
+<name>SNT35-183</name>
+</rtept>
+<rtept lat="57.933325" lon="-4.820091">
+<ele>132</ele>
+<name>SNT35-184</name>
+</rtept>
+<rtept lat="57.932811" lon="-4.818447">
+<ele>132</ele>
+<name>SNT35-185</name>
+</rtept>
+<rtept lat="57.932106" lon="-4.818101">
+<ele>142</ele>
+<name>SNT35-186</name>
+</rtept>
+<rtept lat="57.932545" lon="-4.817085">
+<ele>142</ele>
+<name>SNT35-187</name>
+</rtept>
+<rtept lat="57.93296" lon="-4.814321">
+<ele>139</ele>
+<name>SNT35-188</name>
+</rtept>
+<rtept lat="57.933262" lon="-4.813374">
+<ele>134</ele>
+<name>SNT35-189</name>
+</rtept>
+<rtept lat="57.933381" lon="-4.811196">
+<ele>129</ele>
+<name>SNT35-190</name>
+</rtept>
+<rtept lat="57.934056" lon="-4.808158">
+<ele>115</ele>
+<name>SNT35-191</name>
+</rtept>
+<rtept lat="57.933992" lon="-4.807904">
+<ele>113</ele>
+<name>SNT35-192</name>
+</rtept>
+<rtept lat="57.933596" lon="-4.807905">
+<ele>115</ele>
+<name>SNT35-193</name>
+</rtept>
+<rtept lat="57.933512" lon="-4.807514">
+<ele>114</ele>
+<name>SNT35-194</name>
+</rtept>
+<rtept lat="57.934926" lon="-4.806365">
+<ele>99</ele>
+<name>SNT35-195</name>
+</rtept>
+<rtept lat="57.935397" lon="-4.805148">
+<ele>104</ele>
+<name>SNT35-196</name>
+</rtept>
+<rtept lat="57.935292" lon="-4.805397">
+<ele>104</ele>
+<name>SNT35-197</name>
+</rtept>
+<rtept lat="57.93528" lon="-4.805049">
+<ele>104</ele>
+<name>SNT35-198</name>
+</rtept>
+<rtept lat="57.936229" lon="-4.800227">
+<ele>109</ele>
+<name>SNT35-199</name>
+</rtept>
+<rtept lat="57.936811" lon="-4.797974">
+<ele>116</ele>
+<name>SNT35-200</name>
+</rtept>
+<rtept lat="57.937987" lon="-4.794923">
+<ele>122</ele>
+<name>SNT35-201</name>
+</rtept>
+<rtept lat="57.938927" lon="-4.793684">
+<ele>118</ele>
+<name>SNT35-202</name>
+</rtept>
+<rtept lat="57.940201" lon="-4.793462">
+<ele>116</ele>
+<name>SNT35-203</name>
+</rtept>
+<rtept lat="57.942486" lon="-4.78847">
+<ele>103</ele>
+<name>SNT35-204</name>
+</rtept>
+<rtept lat="57.942486" lon="-4.78593">
+<ele>103</ele>
+<name>SNT35-205</name>
+</rtept>
+<rtept lat="57.942879" lon="-4.783732">
+<ele>105</ele>
+<name>SNT35-206</name>
+</rtept>
+<rtept lat="57.94414" lon="-4.780933">
+<ele>100</ele>
+<name>SNT35-207</name>
+</rtept>
+<rtept lat="57.944127" lon="-4.779163">
+<ele>100</ele>
+<name>SNT35-208</name>
+</rtept>
+<rtept lat="57.944418" lon="-4.777142">
+<ele>98</ele>
+<name>SNT35-209</name>
+</rtept>
+<rtept lat="57.945391" lon="-4.773275">
+<ele>98</ele>
+<name>SNT35-210</name>
+</rtept>
+<rtept lat="57.946069" lon="-4.772357">
+<ele>96</ele>
+<name>SNT35-211</name>
+</rtept>
+<rtept lat="57.946429" lon="-4.771069">
+<ele>94</ele>
+<name>SNT35-212</name>
+</rtept>
+<rtept lat="57.946607" lon="-4.767973">
+<ele>92</ele>
+<name>SNT35-213</name>
+</rtept>
+<rtept lat="57.947135" lon="-4.766634">
+<ele>89</ele>
+<name>SNT35-214</name>
+</rtept>
+<rtept lat="57.947307" lon="-4.765148">
+<ele>90</ele>
+<name>SNT35-215</name>
+</rtept>
+<rtept lat="57.947087" lon="-4.763686">
+<ele>96</ele>
+<name>SNT35-216</name>
+</rtept>
+<rtept lat="57.946439" lon="-4.762248">
+<ele>100</ele>
+<name>SNT35-217</name>
+</rtept>
+<rtept lat="57.94607" lon="-4.760858">
+<ele>101</ele>
+<name>SNT35-218</name>
+</rtept>
+<rtept lat="57.94528" lon="-4.759974">
+<ele>102</ele>
+<name>SNT35-219</name>
+</rtept>
+<rtept lat="57.945265" lon="-4.759422">
+<ele>101</ele>
+<name>SNT35-220</name>
+</rtept>
+<rtept lat="57.945788" lon="-4.758762">
+<ele>101</ele>
+<name>SNT35-221</name>
+</rtept>
+<rtept lat="57.946981" lon="-4.75878">
+<ele>101</ele>
+<name>SNT35-222</name>
+</rtept>
+<rtept lat="57.948073" lon="-4.757416">
+<ele>97</ele>
+<name>SNT35-223</name>
+</rtept>
+<rtept lat="57.949502" lon="-4.756393">
+<ele>92</ele>
+<name>SNT35-224</name>
+</rtept>
+<rtept lat="57.951236" lon="-4.752168">
+<ele>91</ele>
+<name>SNT35-225</name>
+</rtept>
+<rtept lat="57.952932" lon="-4.749413">
+<ele>91</ele>
+<name>SNT35-226</name>
+</rtept>
+<rtept lat="57.953535" lon="-4.749014">
+<ele>90</ele>
+<name>SNT35-227</name>
+</rtept>
+<rtept lat="57.954101" lon="-4.7466">
+<ele>85</ele>
+<name>SNT35-228</name>
+</rtept>
+<rtept lat="57.95535" lon="-4.743172">
+<ele>76</ele>
+<name>SNT35-229</name>
+</rtept>
+<rtept lat="57.956571" lon="-4.74104">
+<ele>67</ele>
+<name>SNT35-230</name>
+</rtept>
+<rtept lat="57.957158" lon="-4.740502">
+<ele>62</ele>
+<name>SNT35-231</name>
+</rtept>
+<rtept lat="57.957769" lon="-4.738777">
+<ele>53</ele>
+<name>SNT35-232</name>
+</rtept>
+<rtept lat="57.958939" lon="-4.737085">
+<ele>46</ele>
+<name>SNT35-233</name>
+</rtept>
+<rtept lat="57.960061" lon="-4.733882">
+<ele>36</ele>
+<name>SNT35-234</name>
+</rtept>
+<rtept lat="57.9599539964" lon="-4.7335159635">
+<ele>33.2314205769087</ele>
+<name>SNT35-235</name>
+</rtept>
+<rtept lat="57.9611625425" lon="-4.7295502126">
+<ele>30.4683150871098</ele>
+<name>SNT35-236</name>
+</rtept>
+<rtept lat="57.9622894375" lon="-4.7293822892">
+<ele>30.1127086138994</ele>
+<name>SNT35-237</name>
+</rtept>
+<rtept lat="57.9630347889" lon="-4.7260573087">
+<ele>30.0945653132279</ele>
+<name>SNT35-238</name>
+</rtept>
+<rtept lat="57.9638784457" lon="-4.7244305192">
+<ele>27.5629912284919</ele>
+<name>SNT35-239</name>
+</rtept>
+<rtept lat="57.9641494059" lon="-4.7243665435">
+<ele>27.4629949037638</ele>
+<name>SNT35-240</name>
+</rtept>
+<rtept lat="57.9649351355" lon="-4.7254407385">
+<ele>27.6629746719624</ele>
+<name>SNT35-241</name>
+</rtept>
+<rtept lat="57.9655736011" lon="-4.7270956257">
+<ele>31.7336850816688</ele>
+<name>SNT35-242</name>
+</rtept>
+<rtept lat="57.9655518582" lon="-4.7281085426">
+<ele>37.2434118936155</ele>
+<name>SNT35-243</name>
+</rtept>
+<rtept lat="57.9658835339" lon="-4.7294019792">
+<ele>40.7848619624712</ele>
+<name>SNT35-244</name>
+</rtept>
+<rtept lat="57.9679206558626" lon="-4.73136988051061">
+<ele>31.1637621249704</ele>
+<name>SNT35-245</name>
+</rtept>
+</rte>
+</gpx>

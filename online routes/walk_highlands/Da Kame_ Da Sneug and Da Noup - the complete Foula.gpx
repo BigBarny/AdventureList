@@ -1,0 +1,574 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Da Kame, Da Sneug and Da Noup - the complete Foula</name>
+<rtept lat="60.1232136834176" lon="-2.05449302475289">
+<ele>45.7936987650104</ele>
+<name>CFou001</name>
+</rtept>
+<rtept lat="60.1239679558599" lon="-2.05440789286704">
+<ele>46.0242084124521</ele>
+<name>CFou002</name>
+</rtept>
+<rtept lat="60.1243135055495" lon="-2.05253690795025">
+<ele>40.0658560106252</ele>
+<name>CFou003</name>
+</rtept>
+<rtept lat="60.1247450112886" lon="-2.05122748982756">
+<ele>31.6664441080855</ele>
+<name>CFou004</name>
+</rtept>
+<rtept lat="60.1247955207573" lon="-2.05063729998678">
+<ele>25.3944879826753</ele>
+<name>CFou005</name>
+</rtept>
+<rtept lat="60.1254274993682" lon="-2.05101259435843">
+<ele>24.9810685445235</ele>
+<name>CFou006</name>
+</rtept>
+<rtept lat="60.1259016076576" lon="-2.05097013617058">
+<ele>24.5982288487324</ele>
+<name>CFou007</name>
+</rtept>
+<rtept lat="60.1263974363968" lon="-2.05048138819361">
+<ele>27.7316515756843</ele>
+<name>CFou008</name>
+</rtept>
+<rtept lat="60.1271305252256" lon="-2.04941707300974">
+<ele>27.0090913615995</ele>
+<name>CFou009</name>
+</rtept>
+<rtept lat="60.1275399410466" lon="-2.04948967669243">
+<ele>30.0799617659172</ele>
+<name>CFou010</name>
+</rtept>
+<rtept lat="60.1278635105521" lon="-2.04861187665712">
+<ele>26.9894493867451</ele>
+<name>CFou011</name>
+</rtept>
+<rtept lat="60.1278421135385" lon="-2.04819429966232">
+<ele>24.5564962407652</ele>
+<name>CFou012</name>
+</rtept>
+<rtept lat="60.1282305937207" lon="-2.04655346277444">
+<ele>33.3924228841661</ele>
+<name>CFou013</name>
+</rtept>
+<rtept lat="60.1283384024093" lon="-2.04638083500598">
+<ele>31.8497716601413</ele>
+<name>CFou014</name>
+</rtept>
+<rtept lat="60.1291503596" lon="-2.0456476443024">
+<ele>27.5405643359476</ele>
+<name>CFou015</name>
+</rtept>
+<rtept lat="60.1292868355058" lon="-2.04566223204871">
+<ele>29.8492537906294</ele>
+<name>CFou016</name>
+</rtept>
+<rtept lat="60.1292867209151" lon="-2.04599340312605">
+<ele>32.1629391757758</ele>
+<name>CFou017</name>
+</rtept>
+<rtept lat="60.1290780745892" lon="-2.04694342344731">
+<ele>34.7417419852341</ele>
+<name>CFou018</name>
+</rtept>
+<rtept lat="60.1292646995164" lon="-2.04733245520604">
+<ele>29.7355482512995</ele>
+<name>CFou019</name>
+</rtept>
+<rtept lat="60.1292644350458" lon="-2.04806679055878">
+<ele>31.0806031406998</ele>
+<name>CFou020</name>
+</rtept>
+<rtept lat="60.1294008320973" lon="-2.04829737024946">
+<ele>28.9581429246944</ele>
+<name>CFou021</name>
+</rtept>
+<rtept lat="60.1299320926111" lon="-2.04910449445389">
+<ele>24.6585056558716</ele>
+<name>CFou022</name>
+</rtept>
+<rtept lat="60.1302480249381" lon="-2.04945054519172">
+<ele>22.1001789992305</ele>
+<name>CFou023</name>
+</rtept>
+<rtept lat="60.1311174591952" lon="-2.04873187214074">
+<ele>11.1544864049337</ele>
+<name>CFou024</name>
+</rtept>
+<rtept lat="60.1312757107582" lon="-2.04812732213981">
+<ele>8.20694885731472</ele>
+<name>CFou025</name>
+</rtept>
+<rtept lat="60.1312401110095" lon="-2.04724889437891">
+<ele>5.01760445712566</ele>
+<name>CFou026</name>
+</rtept>
+<rtept lat="60.1312258572376" lon="-2.04693208281961">
+<ele>6.10594763475477</ele>
+<name>CFou027</name>
+</rtept>
+<rtept lat="60.1316999994539" lon="-2.04678875993226">
+<ele>12.2654103118693</ele>
+<name>CFou028</name>
+</rtept>
+<rtept lat="60.1319441262272" lon="-2.04707710470517">
+<ele>13.4494103118684</ele>
+<name>CFou029</name>
+</rtept>
+<rtept lat="60.1327772283451" lon="-2.047495902668">
+<ele>12.6993310115043</ele>
+<name>CFou030</name>
+</rtept>
+<rtept lat="60.1329924169411" lon="-2.0483458345264">
+<ele>13.8349151518526</ele>
+<name>CFou031</name>
+</rtept>
+<rtept lat="60.1332723820898" lon="-2.04883586190801">
+<ele>10.6173019532791</ele>
+<name>CFou032</name>
+</rtept>
+<rtept lat="60.1335306179948" lon="-2.0498010850249">
+<ele>8.97627117039518</ele>
+<name>CFou033</name>
+</rtept>
+<rtept lat="60.1334154470703" lon="-2.05043453535042">
+<ele>12.8865641235067</ele>
+<name>CFou034</name>
+</rtept>
+<rtept lat="60.1336235780239" lon="-2.05091007513217">
+<ele>10.884431941832</ele>
+<name>CFou035</name>
+</rtept>
+<rtept lat="60.133731148076" lon="-2.05137106343688">
+<ele>11.5085530028648</ele>
+<name>CFou036</name>
+</rtept>
+<rtept lat="60.1337095201371" lon="-2.05157263927627">
+<ele>12.5269045557177</ele>
+<name>CFou037</name>
+</rtept>
+<rtept lat="60.1338172905234" lon="-2.05151520500584">
+<ele>11.1996483798532</ele>
+<name>CFou038</name>
+</rtept>
+<rtept lat="60.1341474696706" lon="-2.05214935956817">
+<ele>10.3548452586169</ele>
+<name>CFou039</name>
+</rtept>
+<rtept lat="60.1341549064207" lon="-2.05150133187361">
+<ele>9.58572435944447</ele>
+<name>CFou040</name>
+</rtept>
+<rtept lat="60.1345788934454" lon="-2.05104116047308">
+<ele>10.0078293975942</ele>
+<name>CFou041</name>
+</rtept>
+<rtept lat="60.1347371005583" lon="-2.05058056930544">
+<ele>11.5812828571382</ele>
+<name>CFou042</name>
+</rtept>
+<rtept lat="60.1350170406947" lon="-2.05111384535242">
+<ele>13.4411072876518</ele>
+<name>CFou043</name>
+</rtept>
+<rtept lat="60.1352035802652" lon="-2.05169018808888">
+<ele>15.9810160101042</ele>
+<name>CFou044</name>
+</rtept>
+<rtept lat="60.1353037191198" lon="-2.05277044858609">
+<ele>19.1202800326057</ele>
+<name>CFou045</name>
+</rtept>
+<rtept lat="60.1355043376605" lon="-2.05403809892251">
+<ele>21.6992705288656</ele>
+<name>CFou046</name>
+</rtept>
+<rtept lat="60.1358629803727" lon="-2.05529162829368">
+<ele>23.7088254018397</ele>
+<name>CFou047</name>
+</rtept>
+<rtept lat="60.1363155577037" lon="-2.05520597673788">
+<ele>27.6515965903022</ele>
+<name>CFou048</name>
+</rtept>
+<rtept lat="60.1387140498528" lon="-2.05685192243238">
+<ele>39.8998689954453</ele>
+<name>CFou049</name>
+</rtept>
+<rtept lat="60.1400712616071" lon="-2.05780489287554">
+<ele>41.3289391455649</ele>
+<name>CFou050</name>
+</rtept>
+<rtept lat="60.1430581598682" lon="-2.06073430194545">
+<ele>30.5180870197282</ele>
+<name>CFou051</name>
+</rtept>
+<rtept lat="60.1439345151996" lon="-2.06072151245549">
+<ele>34.0246808682801</ele>
+<name>CFou052</name>
+</rtept>
+<rtept lat="60.1451409314796" lon="-2.061501643012">
+<ele>34.6021953863627</ele>
+<name>CFou053</name>
+</rtept>
+<rtept lat="60.1455501783858" lon="-2.06192017701997">
+<ele>35.4329934869567</ele>
+<name>CFou054</name>
+</rtept>
+<rtept lat="60.1466553470894" lon="-2.06411201869599">
+<ele>37.2082042748005</ele>
+<name>CFou055</name>
+</rtept>
+<rtept lat="60.1475805081975" lon="-2.06708160958334">
+<ele>37.1340784010051</ele>
+<name>CFou056</name>
+</rtept>
+<rtept lat="60.1482326341418" lon="-2.07006519373998">
+<ele>43.0037099044362</ele>
+<name>CFou057</name>
+</rtept>
+<rtept lat="60.1490573898059" lon="-2.07250179800399">
+<ele>47.6676056982111</ele>
+<name>CFou058</name>
+</rtept>
+<rtept lat="60.1499171771064" lon="-2.07640819682147">
+<ele>69.436798588164</ele>
+<name>CFou059</name>
+</rtept>
+<rtept lat="60.1502752340762" lon="-2.07829646618583">
+<ele>82.0617970087916</ele>
+<name>CFou060</name>
+</rtept>
+<rtept lat="60.1505766456582" lon="-2.07877264876072">
+<ele>88.7274198088842</ele>
+<name>CFou061</name>
+</rtept>
+<rtept lat="60.1506479952831" lon="-2.07957967257892">
+<ele>93.0459720858826</ele>
+<name>CFou062</name>
+</rtept>
+<rtept lat="60.1508201920516" lon="-2.07991147652301">
+<ele>98.6758053425644</ele>
+<name>CFou063</name>
+</rtept>
+<rtept lat="60.1508125899765" lon="-2.08060304996663">
+<ele>104.534254680666</ele>
+<name>CFou064</name>
+</rtept>
+<rtept lat="60.1511775004636" lon="-2.08292368328234">
+<ele>136.4471654496</ele>
+<name>CFou065</name>
+</rtept>
+<rtept lat="60.1520803992564" lon="-2.08634082339943">
+<ele>178.387090775</ele>
+<name>CFou066</name>
+</rtept>
+<rtept lat="60.152302359536" lon="-2.08743647545898">
+<ele>188.589605515511</ele>
+<name>CFou067</name>
+</rtept>
+<rtept lat="60.1524516843431" lon="-2.08971347545309">
+<ele>208.761767151319</ele>
+<name>CFou068</name>
+</rtept>
+<rtept lat="60.1527241059361" lon="-2.09050671274377">
+<ele>185.40380282734</ele>
+<name>CFou069</name>
+</rtept>
+<rtept lat="60.1528028841653" lon="-2.09085274614676">
+<ele>142.390658517649</ele>
+<name>CFou070</name>
+</rtept>
+<rtept lat="60.1523642347027" lon="-2.09154316055916">
+<ele>184.020535996262</ele>
+<name>CFou071</name>
+</rtept>
+<rtept lat="60.15175202175" lon="-2.09389005694328">
+<ele>191.79382559734</ele>
+<name>CFou072</name>
+</rtept>
+<rtept lat="60.1509240624295" lon="-2.09652440004255">
+<ele>188.489299271653</ele>
+<name>CFou073</name>
+</rtept>
+<rtept lat="60.1504567773685" lon="-2.09704171893614">
+<ele>207.616783480474</ele>
+<name>CFou074</name>
+</rtept>
+<rtept lat="60.1499457090784" lon="-2.09848099193878">
+<ele>189.256554055742</ele>
+<name>CFou075</name>
+</rtept>
+<rtept lat="60.1488310971981" lon="-2.10010568423297">
+<ele>206.197164197007</ele>
+<name>CFou076</name>
+</rtept>
+<rtept lat="60.1465997994945" lon="-2.10590465248695">
+<ele>225.981023038198</ele>
+<name>CFou077</name>
+</rtept>
+<rtept lat="60.1464271611317" lon="-2.10620662871211">
+<ele>243.346502320149</ele>
+<name>CFou078</name>
+</rtept>
+<rtept lat="60.1462397494296" lon="-2.1070127699417">
+<ele>263.748769923206</ele>
+<name>CFou079</name>
+</rtept>
+<rtept lat="60.1455275968621" lon="-2.10826376607838">
+<ele>308.612395306958</ele>
+<name>CFou080</name>
+</rtept>
+<rtept lat="60.1452905873815" lon="-2.10821976985943">
+<ele>330.630880768674</ele>
+<name>CFou081</name>
+</rtept>
+<rtept lat="60.1452615718194" lon="-2.10856541234867">
+<ele>329.727893221833</ele>
+<name>CFou082</name>
+</rtept>
+<rtept lat="60.1450462652224" lon="-2.10833421238954">
+<ele>350.686995726028</ele>
+<name>CFou083</name>
+</rtept>
+<rtept lat="60.1446508719305" lon="-2.10872185990806">
+<ele>358.23856426688</ele>
+<name>CFou084</name>
+</rtept>
+<rtept lat="60.1448013632738" lon="-2.10915452282647">
+<ele>338.301627121877</ele>
+<name>CFou085</name>
+</rtept>
+<rtept lat="60.1446365055782" lon="-2.10872181249319">
+<ele>358.328134255493</ele>
+<name>CFou086</name>
+</rtept>
+<rtept lat="60.1441268068763" lon="-2.10834559391322">
+<ele>352.158629757615</ele>
+<name>CFou087</name>
+</rtept>
+<rtept lat="60.1428357803415" lon="-2.10593576627208">
+<ele>334.109229660169</ele>
+<name>CFou088</name>
+</rtept>
+<rtept lat="60.142391464915" lon="-2.10462352928804">
+<ele>330.347932314334</ele>
+<name>CFou089</name>
+</rtept>
+<rtept lat="60.1418261489203" lon="-2.10185612019433">
+<ele>313.02319887843</ele>
+<name>CFou090</name>
+</rtept>
+<rtept lat="60.1412596570381" lon="-2.10057241367165">
+<ele>323.662744607362</ele>
+<name>CFou091</name>
+</rtept>
+<rtept lat="60.1409508567238" lon="-2.10047064404821">
+<ele>329.491428403544</ele>
+<name>CFou092</name>
+</rtept>
+<rtept lat="60.1401123758915" lon="-2.09786105575014">
+<ele>381.196822714167</ele>
+<name>CFou093</name>
+</rtept>
+<rtept lat="60.1397608030783" lon="-2.09731268481668">
+<ele>398.11341117007</ele>
+<name>CFou094</name>
+</rtept>
+<rtept lat="60.1400995046385" lon="-2.0958157230025">
+<ele>414.396227551743</ele>
+<name>CFou095</name>
+</rtept>
+<rtept lat="60.1394752311155" lon="-2.09489210220311">
+<ele>401.247873951348</ele>
+<name>CFou096</name>
+</rtept>
+<rtept lat="60.1394324921517" lon="-2.09438786744922">
+<ele>398.107504092367</ele>
+<name>CFou097</name>
+</rtept>
+<rtept lat="60.137272364154" lon="-2.09151563291652">
+<ele>338.94288754075</ele>
+<name>CFou098</name>
+</rtept>
+<rtept lat="60.1365836279567" lon="-2.09027515293753">
+<ele>333.333161618159</ele>
+<name>CFou099</name>
+</rtept>
+<rtept lat="60.1363839149573" lon="-2.08817193471727">
+<ele>334.217853299382</ele>
+<name>CFou100</name>
+</rtept>
+<rtept lat="60.1349479819438" lon="-2.08710240185066">
+<ele>301.616502496564</ele>
+<name>CFou101</name>
+</rtept>
+<rtept lat="60.1331105981685" lon="-2.08476467682933">
+<ele>225.519515844016</ele>
+<name>CFou102</name>
+</rtept>
+<rtept lat="60.1323062644054" lon="-2.08447460669709">
+<ele>203.152045230916</ele>
+<name>CFou103</name>
+</rtept>
+<rtept lat="60.1307981594216" lon="-2.08389476492126">
+<ele>148.541073794184</ele>
+<name>CFou104</name>
+</rtept>
+<rtept lat="60.1300364478905" lon="-2.0843535968112">
+<ele>111.637284581343</ele>
+<name>CFou105</name>
+</rtept>
+<rtept lat="60.1295184259896" lon="-2.08564816819822">
+<ele>87.3095828409581</ele>
+<name>CFou106</name>
+</rtept>
+<rtept lat="60.1292012936402" lon="-2.08728879803021">
+<ele>81.3275538046581</ele>
+<name>CFou107</name>
+</rtept>
+<rtept lat="60.1292715677468" lon="-2.08962158147862">
+<ele>77.548414855957</ele>
+<name>CFou108</name>
+</rtept>
+<rtept lat="60.1290265743123" lon="-2.09074400948047">
+<ele>62.4945366201373</ele>
+<name>CFou109</name>
+</rtept>
+<rtept lat="60.1290264558163" lon="-2.09091679286421">
+<ele>58.7040017170832</ele>
+<name>CFou110</name>
+</rtept>
+<rtept lat="60.1291837504395" lon="-2.09198273134975">
+<ele>36.8411257556098</ele>
+<name>CFou111</name>
+</rtept>
+<rtept lat="60.1290264755813" lon="-2.09088799563369">
+<ele>59.7462401975429</ele>
+<name>CFou112</name>
+</rtept>
+<rtept lat="60.1287971249574" lon="-2.09013863905467">
+<ele>62.7865717472288</ele>
+<name>CFou113</name>
+</rtept>
+<rtept lat="60.1284239699201" lon="-2.08959048025612">
+<ele>59.3421239030317</ele>
+<name>CFou114</name>
+</rtept>
+<rtept lat="60.1284679969182" lon="-2.08820835369088">
+<ele>72.3367642681784</ele>
+<name>CFou115</name>
+</rtept>
+<rtept lat="60.1269162915193" lon="-2.08840576973498">
+<ele>66.1110574846589</ele>
+<name>CFou116</name>
+</rtept>
+<rtept lat="60.126327747678" lon="-2.08768431827405">
+<ele>85.7864884164286</ele>
+<name>CFou117</name>
+</rtept>
+<rtept lat="60.1253651414982" lon="-2.08776814026787">
+<ele>104.962515553766</ele>
+<name>CFou118</name>
+</rtept>
+<rtept lat="60.1246615301605" lon="-2.08724798464875">
+<ele>150.305771634137</ele>
+<name>CFou119</name>
+</rtept>
+<rtept lat="60.1237138948177" lon="-2.08641049026505">
+<ele>188.306596588912</ele>
+<name>CFou120</name>
+</rtept>
+<rtept lat="60.1229675695068" lon="-2.08528564663089">
+<ele>220.61435556039</ele>
+<name>CFou121</name>
+</rtept>
+<rtept lat="60.1222646257471" lon="-2.08370030265988">
+<ele>235.521931108408</ele>
+<name>CFou122</name>
+</rtept>
+<rtept lat="60.1210022400214" lon="-2.08070290974165">
+<ele>205.419394377527</ele>
+<name>CFou123</name>
+</rtept>
+<rtept lat="60.1202998053832" lon="-2.07816770056028">
+<ele>162.27899619916</ele>
+<name>CFou124</name>
+</rtept>
+<rtept lat="60.119999069112" lon="-2.0765259920894">
+<ele>138.733061056281</ele>
+<name>CFou125</name>
+</rtept>
+<rtept lat="60.1199281426157" lon="-2.07494241414882">
+<ele>117.173804859485</ele>
+<name>CFou126</name>
+</rtept>
+<rtept lat="60.1187232110631" lon="-2.07160023524742">
+<ele>61.6060636506153</ele>
+<name>CFou127</name>
+</rtept>
+<rtept lat="60.1187521612283" lon="-2.0711972618304">
+<ele>63.0967900515152</ele>
+<name>CFou128</name>
+</rtept>
+<rtept lat="60.1182639650392" lon="-2.07070681387477">
+<ele>45.0661394024742</ele>
+<name>CFou129</name>
+</rtept>
+<rtept lat="60.1177184079954" lon="-2.07001474649774">
+<ele>29.6232663517607</ele>
+<name>CFou130</name>
+</rtept>
+<rtept lat="60.117359580687" lon="-2.06938066872581">
+<ele>23.741511429065</ele>
+<name>CFou131</name>
+</rtept>
+<rtept lat="60.1176189522738" lon="-2.06788427400931">
+<ele>36.58567823169</ele>
+<name>CFou132</name>
+</rtept>
+<rtept lat="60.1181790059647" lon="-2.06834603175009">
+<ele>39.1161178297341</ele>
+<name>CFou133</name>
+</rtept>
+<rtept lat="60.1187253290389" lon="-2.06756988045338">
+<ele>33.6402794978909</ele>
+<name>CFou134</name>
+</rtept>
+<rtept lat="60.1192720946851" lon="-2.06590125285836">
+<ele>26.2664467760694</ele>
+<name>CFou135</name>
+</rtept>
+<rtept lat="60.1197033300617" lon="-2.06541269940524">
+<ele>26.7451207302909</ele>
+<name>CFou136</name>
+</rtept>
+<rtept lat="60.1210123360424" lon="-2.06196046302854">
+<ele>38.5490263611915</ele>
+<name>CFou137</name>
+</rtept>
+<rtept lat="60.1222773780378" lon="-2.06023535746087">
+<ele>48.6817233442336</ele>
+<name>CFou138</name>
+</rtept>
+<rtept lat="60.1227808241026" lon="-2.0588542698772">
+<ele>51.4917099044379</ele>
+<name>CFou139</name>
+</rtept>
+<rtept lat="60.1240028870166" lon="-2.05675457069163">
+<ele>54.6108206237061</ele>
+<name>CFou140</name>
+</rtept>
+<rtept lat="60.1232280676007" lon="-2.05444986021369">
+<ele>45.7489724084286</ele>
+<name>CFou141</name>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,910 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Beinn Mhor and Hecla, South Uist</name>
+<rtept lat="57.28730271511" lon="-7.36658168758472">
+<ele>19.0077687969677</ele>
+<name>BMU 001</name>
+</rtept>
+<rtept lat="57.2875812572061" lon="-7.3666971359511">
+<ele>16.6411334189872</ele>
+<name>BMU 002</name>
+</rtept>
+<rtept lat="57.2872901589922" lon="-7.3658236536213">
+<ele>18.2977564771456</ele>
+<name>BMU 003</name>
+</rtept>
+<rtept lat="57.2872848968964" lon="-7.36500020580191">
+<ele>17.6608143513049</ele>
+<name>BMU 004</name>
+</rtept>
+<rtept lat="57.2871632308173" lon="-7.36458357821342">
+<ele>18.320450109953</ele>
+<name>BMU 005</name>
+</rtept>
+<rtept lat="57.2863737541214" lon="-7.36326348270168">
+<ele>22.1482916360814</ele>
+<name>BMU 006</name>
+</rtept>
+<rtept lat="57.2865201687636" lon="-7.36215472022776">
+<ele>21.6760629163234</ele>
+<name>BMU 007</name>
+</rtept>
+<rtept lat="57.2865125263235" lon="-7.36159685559148">
+<ele>22.5560629163234</ele>
+<name>BMU 008</name>
+</rtept>
+<rtept lat="57.2866205593362" lon="-7.36128022083733">
+<ele>22.5838341965654</ele>
+<name>BMU 009</name>
+</rtept>
+<rtept lat="57.2866197383131" lon="-7.36077320809969">
+<ele>23.9538341965654</ele>
+<name>BMU 010</name>
+</rtept>
+<rtept lat="57.2866538657274" lon="-7.36071170624189">
+<ele>23.9038341965654</ele>
+<name>BMU 011</name>
+</rtept>
+<rtept lat="57.2866318600734" lon="-7.3603844185937">
+<ele>24.6140181775876</ele>
+<name>BMU 012</name>
+</rtept>
+<rtept lat="57.2862204451518" lon="-7.35921925728321">
+<ele>29.7035735356966</ele>
+<name>BMU 013</name>
+</rtept>
+<rtept lat="57.2860916965171" lon="-7.3586520579498">
+<ele>30</ele>
+<name>BMU 014</name>
+</rtept>
+<rtept lat="57.2855102286271" lon="-7.35804381828052">
+<ele>30</ele>
+<name>BMU 015</name>
+</rtept>
+<rtept lat="57.2853761816423" lon="-7.35760050394685">
+<ele>30.1377638786938</ele>
+<name>BMU 016</name>
+</rtept>
+<rtept lat="57.2853736961304" lon="-7.35702679192452">
+<ele>30.1977638786938</ele>
+<name>BMU 017</name>
+</rtept>
+<rtept lat="57.2851332645044" lon="-7.3566510785188">
+<ele>30.7677638786938</ele>
+<name>BMU 018</name>
+</rtept>
+<rtept lat="57.2849524855938" lon="-7.35598492463232">
+<ele>31.2327638786938</ele>
+<name>BMU 019</name>
+</rtept>
+<rtept lat="57.2840274735489" lon="-7.35488633103162">
+<ele>33.7855277573876</ele>
+<name>BMU 020</name>
+</rtept>
+<rtept lat="57.2837563318893" lon="-7.35475544568474">
+<ele>35.0155277573876</ele>
+<name>BMU 021</name>
+</rtept>
+<rtept lat="57.2828388412514" lon="-7.35369125196124">
+<ele>39.1477638786938</ele>
+<name>BMU 022</name>
+</rtept>
+<rtept lat="57.2827837822136" lon="-7.35202978346431">
+<ele>39.717771280242</ele>
+<name>BMU 023</name>
+</rtept>
+<rtept lat="57.2826156767589" lon="-7.35122429320971">
+<ele>40.5773678702386</ele>
+<name>BMU 024</name>
+</rtept>
+<rtept lat="57.2825014001013" lon="-7.35110795875328">
+<ele>40.9205351589358</ele>
+<name>BMU 025</name>
+</rtept>
+<rtept lat="57.2821243556292" lon="-7.34971540124242">
+<ele>41.9562734063938</ele>
+<name>BMU 026</name>
+</rtept>
+<rtept lat="57.2818663652048" lon="-7.34932890939166">
+<ele>41.4161720963948</ele>
+<name>BMU 027</name>
+</rtept>
+<rtept lat="57.2818865225032" lon="-7.34843451489668">
+<ele>41.4931731561533</ele>
+<name>BMU 028</name>
+</rtept>
+<rtept lat="57.2817472358808" lon="-7.34663622915068">
+<ele>35.1451624851414</ele>
+<name>BMU 029</name>
+</rtept>
+<rtept lat="57.2810993195588" lon="-7.34494681997109">
+<ele>33.4919374369223</ele>
+<name>BMU 030</name>
+</rtept>
+<rtept lat="57.2810550780449" lon="-7.344084628017">
+<ele>35.0460629163234</ele>
+<name>BMU 031</name>
+</rtept>
+<rtept lat="57.2805811114013" lon="-7.3419553070457">
+<ele>46.7488341965654</ele>
+<name>BMU 032</name>
+</rtept>
+<rtept lat="57.280365906138" lon="-7.33993008142568">
+<ele>57.4539826447966</ele>
+<name>BMU 033</name>
+</rtept>
+<rtept lat="57.2800980731769" lon="-7.33861174178173">
+<ele>70.4510791709449</ele>
+<name>BMU 034</name>
+</rtept>
+<rtept lat="57.2796944125573" lon="-7.33662568550527">
+<ele>94.5864061583557</ele>
+<name>BMU 035</name>
+</rtept>
+<rtept lat="57.279580028879" lon="-7.33603583671235">
+<ele>101.623342053176</ele>
+<name>BMU 036</name>
+</rtept>
+<rtept lat="57.2785574619951" lon="-7.33415946665424">
+<ele>127.691108530526</ele>
+<name>BMU 037</name>
+</rtept>
+<rtept lat="57.2782852079133" lon="-7.33389567401526">
+<ele>132.828659048244</ele>
+<name>BMU 038</name>
+</rtept>
+<rtept lat="57.2775572739955" lon="-7.33001019474763">
+<ele>176.537690597776</ele>
+<name>BMU 039</name>
+</rtept>
+<rtept lat="57.2774452352522" lon="-7.32904690790046">
+<ele>184.88046808672</ele>
+<name>BMU 040</name>
+</rtept>
+<rtept lat="57.2770646768289" lon="-7.32868439804619">
+<ele>189.416539349593</ele>
+<name>BMU 041</name>
+</rtept>
+<rtept lat="57.2771294889386" lon="-7.32811227055903">
+<ele>194.03976302324</ele>
+<name>BMU 042</name>
+</rtept>
+<rtept lat="57.2768241286306" lon="-7.32688009110572">
+<ele>203.899368668189</ele>
+<name>BMU 043</name>
+</rtept>
+<rtept lat="57.2770402618524" lon="-7.32380444366444">
+<ele>227.688938676728</ele>
+<name>BMU 044</name>
+</rtept>
+<rtept lat="57.27684087922" lon="-7.32139970043493">
+<ele>247.97428937681</ele>
+<name>BMU 045</name>
+</rtept>
+<rtept lat="57.2763312253125" lon="-7.31930732806248">
+<ele>265.962279288098</ele>
+<name>BMU 046</name>
+</rtept>
+<rtept lat="57.2752595230201" lon="-7.31534779009352">
+<ele>293.464999563492</ele>
+<name>BMU 047</name>
+</rtept>
+<rtept lat="57.2745883053502" lon="-7.31388019056481">
+<ele>301.584003969725</ele>
+<name>BMU 048</name>
+</rtept>
+<rtept lat="57.2742506888021" lon="-7.31329979479261">
+<ele>310.101355065195</ele>
+<name>BMU 049</name>
+</rtept>
+<rtept lat="57.2731845263338" lon="-7.31249790628977">
+<ele>336.258680983642</ele>
+<name>BMU 050</name>
+</rtept>
+<rtept lat="57.272556646893" lon="-7.31149354756595">
+<ele>362.856407576596</ele>
+<name>BMU 051</name>
+</rtept>
+<rtept lat="57.2722395673326" lon="-7.31079988612822">
+<ele>378.928899369644</ele>
+<name>BMU 052</name>
+</rtept>
+<rtept lat="57.2719317580786" lon="-7.31063086008723">
+<ele>387.044261766763</ele>
+<name>BMU 053</name>
+</rtept>
+<rtept lat="57.2712345509125" lon="-7.30935077441155">
+<ele>410.689694365385</ele>
+<name>BMU 054</name>
+</rtept>
+<rtept lat="57.2704746513664" lon="-7.30790388482725">
+<ele>435.454601911845</ele>
+<name>BMU 055</name>
+</rtept>
+<rtept lat="57.2685654816469" lon="-7.30341767013273">
+<ele>504.33835363329</ele>
+<name>BMU 056</name>
+</rtept>
+<rtept lat="57.2678976817658" lon="-7.30202581428434">
+<ele>531.876004438502</ele>
+<name>BMU 057</name>
+</rtept>
+<rtept lat="57.2667648449382" lon="-7.30125632794051">
+<ele>548.088419004209</ele>
+<name>BMU 058</name>
+</rtept>
+<rtept lat="57.265021709617" lon="-7.30124604427368">
+<ele>586.490628528026</ele>
+<name>BMU 059</name>
+</rtept>
+<rtept lat="57.2640252286975" lon="-7.3011357158798">
+<ele>596.364224088189</ele>
+<name>BMU 060</name>
+</rtept>
+<rtept lat="57.262690199921" lon="-7.29988050810779">
+<ele>600.827785151745</ele>
+<name>BMU 061</name>
+</rtept>
+<rtept lat="57.2623224885754" lon="-7.29974451702414">
+<ele>591.160626834737</ele>
+<name>BMU 062</name>
+</rtept>
+<rtept lat="57.2618192615034" lon="-7.2992485611805">
+<ele>590.757938621571</ele>
+<name>BMU 063</name>
+</rtept>
+<rtept lat="57.2616737051673" lon="-7.29928572946641">
+<ele>583.717405312415</ele>
+<name>BMU 064</name>
+</rtept>
+<rtept lat="57.261158787175" lon="-7.29848087279293">
+<ele>587.489078717869</ele>
+<name>BMU 065</name>
+</rtept>
+<rtept lat="57.2608880693366" lon="-7.29839207929534">
+<ele>582.503522821962</ele>
+<name>BMU 066</name>
+</rtept>
+<rtept lat="57.260581269308" lon="-7.29793274031687">
+<ele>589.913788939484</ele>
+<name>BMU 067</name>
+</rtept>
+<rtept lat="57.2597680912921" lon="-7.29705179076137">
+<ele>580.103532260789</ele>
+<name>BMU 068</name>
+</rtept>
+<rtept lat="57.258583043889" lon="-7.29576034671892">
+<ele>575.34347164393</ele>
+<name>BMU 069</name>
+</rtept>
+<rtept lat="57.2582331690371" lon="-7.29509559367782">
+<ele>579.313437275666</ele>
+<name>BMU 070</name>
+</rtept>
+<rtept lat="57.2582881820777" lon="-7.29453890775318">
+<ele>594.408589049049</ele>
+<name>BMU 071</name>
+</rtept>
+<rtept lat="57.2587272782476" lon="-7.29500891546407">
+<ele>603.894448971026</ele>
+<name>BMU 072</name>
+</rtept>
+<rtept lat="57.258297126764" lon="-7.29454019432636">
+<ele>594.92832394179</ele>
+<name>BMU 073</name>
+</rtept>
+<rtept lat="57.2582414164233" lon="-7.29511338593059">
+<ele>579.405819229704</ele>
+<name>BMU 074</name>
+</rtept>
+<rtept lat="57.2585785715548" lon="-7.29575970327736">
+<ele>575.140815633547</ele>
+<name>BMU 075</name>
+</rtept>
+<rtept lat="57.2597856318073" lon="-7.29706261836507">
+<ele>580.619040180762</ele>
+<name>BMU 076</name>
+</rtept>
+<rtept lat="57.2605857416249" lon="-7.2979333840711">
+<ele>590.054011226682</ele>
+<name>BMU 077</name>
+</rtept>
+<rtept lat="57.2608989012476" lon="-7.29840194216318">
+<ele>582.515300901169</ele>
+<name>BMU 078</name>
+</rtept>
+<rtept lat="57.261160674452" lon="-7.29848944809157">
+<ele>587.284748814106</ele>
+<name>BMU 079</name>
+</rtept>
+<rtept lat="57.261696066699" lon="-7.29928894919388">
+<ele>584.532962492355</ele>
+<name>BMU 080</name>
+</rtept>
+<rtept lat="57.2618405762368" lon="-7.29927654147216">
+<ele>590.308622771904</ele>
+<name>BMU 081</name>
+</rtept>
+<rtept lat="57.2622978909112" lon="-7.29974097493556">
+<ele>590.553175243003</ele>
+<name>BMU 082</name>
+</rtept>
+<rtept lat="57.2626838404454" lon="-7.29987128834157">
+<ele>600.660979985143</ele>
+<name>BMU 083</name>
+</rtept>
+<rtept lat="57.2640357112956" lon="-7.30115383442572">
+<ele>595.865625849869</ele>
+<name>BMU 084</name>
+</rtept>
+<rtept lat="57.2652101022412" lon="-7.30120674744448">
+<ele>583.626920586016</ele>
+<name>BMU 085</name>
+</rtept>
+<rtept lat="57.2666751706294" lon="-7.30077003143675">
+<ele>549.474347150857</ele>
+<name>BMU 086</name>
+</rtept>
+<rtept lat="57.2672152874386" lon="-7.29970175046014">
+<ele>531.151159837524</ele>
+<name>BMU 087</name>
+</rtept>
+<rtept lat="57.2672544635773" lon="-7.29920078853661">
+<ele>517.310205039658</ele>
+<name>BMU 088</name>
+</rtept>
+<rtept lat="57.2679504639154" lon="-7.29806355810959">
+<ele>491.729136020687</ele>
+<name>BMU 089</name>
+</rtept>
+<rtept lat="57.2683528424449" lon="-7.29626112546767">
+<ele>453.063907687811</ele>
+<name>BMU 090</name>
+</rtept>
+<rtept lat="57.2685264333025" lon="-7.29470811373448">
+<ele>418.865139160288</ele>
+<name>BMU 091</name>
+</rtept>
+<rtept lat="57.2690052824206" lon="-7.29359765964758">
+<ele>398.034589198256</ele>
+<name>BMU 092</name>
+</rtept>
+<rtept lat="57.2692340190869" lon="-7.2924428959133">
+<ele>372.155295802698</ele>
+<name>BMU 093</name>
+</rtept>
+<rtept lat="57.2694788951098" lon="-7.29197148655805">
+<ele>360.130811028211</ele>
+<name>BMU 094</name>
+</rtept>
+<rtept lat="57.2695494623698" lon="-7.29125906073946">
+<ele>348.429317036656</ele>
+<name>BMU 095</name>
+</rtept>
+<rtept lat="57.2695317444783" lon="-7.29093259990025">
+<ele>343.848895134348</ele>
+<name>BMU 096</name>
+</rtept>
+<rtept lat="57.2697059321142" lon="-7.29075001087274">
+<ele>340.27071557835</ele>
+<name>BMU 097</name>
+</rtept>
+<rtept lat="57.2698075070141" lon="-7.28994237094388">
+<ele>323.455186727363</ele>
+<name>BMU 098</name>
+</rtept>
+<rtept lat="57.2700719701308" lon="-7.28916644839368">
+<ele>309.310690156878</ele>
+<name>BMU 099</name>
+</rtept>
+<rtept lat="57.2701219011178" lon="-7.28840951304437">
+<ele>302.601315052831</ele>
+<name>BMU 100</name>
+</rtept>
+<rtept lat="57.2700285481691" lon="-7.28795590070786">
+<ele>298.863457377063</ele>
+<name>BMU 101</name>
+</rtept>
+<rtept lat="57.2701776682703" lon="-7.28698066258893">
+<ele>298.141972567244</ele>
+<name>BMU 102</name>
+</rtept>
+<rtept lat="57.2701356483836" lon="-7.28637662352525">
+<ele>297.032064879383</ele>
+<name>BMU 103</name>
+</rtept>
+<rtept lat="57.27013516406" lon="-7.28596127561887">
+<ele>296.834481448761</ele>
+<name>BMU 104</name>
+</rtept>
+<rtept lat="57.2702532922" lon="-7.28572077354774">
+<ele>296.343772973076</ele>
+<name>BMU 105</name>
+</rtept>
+<rtept lat="57.2702749760017" lon="-7.28499299645788">
+<ele>292.805560007649</ele>
+<name>BMU 106</name>
+</rtept>
+<rtept lat="57.269946127421" lon="-7.28340093520178">
+<ele>300.779108443322</ele>
+<name>BMU 107</name>
+</rtept>
+<rtept lat="57.2698895289077" lon="-7.2830356716089">
+<ele>307.881017806707</ele>
+<name>BMU 108</name>
+</rtept>
+<rtept lat="57.270039206091" lon="-7.2830073301506">
+<ele>310.357524357916</ele>
+<name>BMU 109</name>
+</rtept>
+<rtept lat="57.2695767076123" lon="-7.28170341532381">
+<ele>334.254495181821</ele>
+<name>BMU 110</name>
+</rtept>
+<rtept lat="57.269350886447" lon="-7.2804418060226">
+<ele>351.147047863925</ele>
+<name>BMU 111</name>
+</rtept>
+<rtept lat="57.2691880787747" lon="-7.27982045830743">
+<ele>352.406128477285</ele>
+<name>BMU 112</name>
+</rtept>
+<rtept lat="57.2694150826622" lon="-7.27998591827291">
+<ele>361.369529660928</ele>
+<name>BMU 113</name>
+</rtept>
+<rtept lat="57.2693643371453" lon="-7.27958828454451">
+<ele>366.848139905052</ele>
+<name>BMU 114</name>
+</rtept>
+<rtept lat="57.2696663298074" lon="-7.27978942072028">
+<ele>381.854507055631</ele>
+<name>BMU 115</name>
+</rtept>
+<rtept lat="57.2698870121615" lon="-7.2794639527011">
+<ele>402.52111622256</ele>
+<name>BMU 116</name>
+</rtept>
+<rtept lat="57.2704850704116" lon="-7.27925907272148">
+<ele>437.564544874762</ele>
+<name>BMU 117</name>
+</rtept>
+<rtept lat="57.2708924105199" lon="-7.27930921556973">
+<ele>453.019597579103</ele>
+<name>BMU 118</name>
+</rtept>
+<rtept lat="57.2713304729484" lon="-7.27991195107188">
+<ele>462.855345163388</ele>
+<name>BMU 119</name>
+</rtept>
+<rtept lat="57.2718931548713" lon="-7.27995947871922">
+<ele>473.91295926528</ele>
+<name>BMU 120</name>
+</rtept>
+<rtept lat="57.2735369033161" lon="-7.27912387863873">
+<ele>475.916287024143</ele>
+<name>BMU 121</name>
+</rtept>
+<rtept lat="57.274495226846" lon="-7.27843075079701">
+<ele>490.744995927099</ele>
+<name>BMU 122</name>
+</rtept>
+<rtept lat="57.275202776079" lon="-7.27883131665016">
+<ele>504.14885023353</ele>
+<name>BMU 123</name>
+</rtept>
+<rtept lat="57.2753008932908" lon="-7.2778901270798">
+<ele>508.853164439066</ele>
+<name>BMU 124</name>
+</rtept>
+<rtept lat="57.2752847140524" lon="-7.27709867088756">
+<ele>499.882582929753</ele>
+<name>BMU 125</name>
+</rtept>
+<rtept lat="57.2754855359598" lon="-7.27735176137589">
+<ele>504.268847336745</ele>
+<name>BMU 126</name>
+</rtept>
+<rtept lat="57.27583019503" lon="-7.27835649033852">
+<ele>515.862097956185</ele>
+<name>BMU 127</name>
+</rtept>
+<rtept lat="57.2760389161997" lon="-7.27863564597911">
+<ele>497.03630510571</ele>
+<name>BMU 128</name>
+</rtept>
+<rtept lat="57.2762743440117" lon="-7.27999022995198">
+<ele>457.254298121211</ele>
+<name>BMU 129</name>
+</rtept>
+<rtept lat="57.2763361711957" lon="-7.28060551090865">
+<ele>441.986408126285</ele>
+<name>BMU 130</name>
+</rtept>
+<rtept lat="57.2770008294626" lon="-7.28149010204129">
+<ele>411.432168702514</ele>
+<name>BMU 131</name>
+</rtept>
+<rtept lat="57.2772929775889" lon="-7.28139082834645">
+<ele>403.028622462491</ele>
+<name>BMU 132</name>
+</rtept>
+<rtept lat="57.2782043090048" lon="-7.28192043694106">
+<ele>373.458501826485</ele>
+<name>BMU 133</name>
+</rtept>
+<rtept lat="57.2791932571665" lon="-7.28274367908044">
+<ele>351.395337446091</ele>
+<name>BMU 134</name>
+</rtept>
+<rtept lat="57.2801962149939" lon="-7.28339451583198">
+<ele>329.32512769051</ele>
+<name>BMU 135</name>
+</rtept>
+<rtept lat="57.2803714877403" lon="-7.2830790719292">
+<ele>331.755539677092</ele>
+<name>BMU 136</name>
+</rtept>
+<rtept lat="57.2818401585545" lon="-7.28437011629504">
+<ele>317.186406179208</ele>
+<name>BMU 137</name>
+</rtept>
+<rtept lat="57.2823167800196" lon="-7.28379055426356">
+<ele>319.515194920113</ele>
+<name>BMU 138</name>
+</rtept>
+<rtept lat="57.2831314992801" lon="-7.2859182698824">
+<ele>319.424815297375</ele>
+<name>BMU 139</name>
+</rtept>
+<rtept lat="57.2835143838705" lon="-7.28601484874576">
+<ele>315.742457822661</ele>
+<name>BMU 140</name>
+</rtept>
+<rtept lat="57.284184316972" lon="-7.28554615454162">
+<ele>303.814977795355</ele>
+<name>BMU 141</name>
+</rtept>
+<rtept lat="57.2842745351625" lon="-7.28468670213951">
+<ele>300.884904931785</ele>
+<name>BMU 142</name>
+</rtept>
+<rtept lat="57.284527582564" lon="-7.2843408626674">
+<ele>299.607327419922</ele>
+<name>BMU 143</name>
+</rtept>
+<rtept lat="57.2845794228215" lon="-7.28385809166746">
+<ele>299.838663088719</ele>
+<name>BMU 144</name>
+</rtept>
+<rtept lat="57.2858520792771" lon="-7.28350087520307">
+<ele>317.382926669696</ele>
+<name>BMU 145</name>
+</rtept>
+<rtept lat="57.2864171869848" lon="-7.2838645896002">
+<ele>312.918449673358</ele>
+<name>BMU 146</name>
+</rtept>
+<rtept lat="57.2869889252804" lon="-7.28294962624726">
+<ele>321.160564765129</ele>
+<name>BMU 147</name>
+</rtept>
+<rtept lat="57.2876981096495" lon="-7.28202945204763">
+<ele>337.977440597341</ele>
+<name>BMU 148</name>
+</rtept>
+<rtept lat="57.2883003925835" lon="-7.28236526575977">
+<ele>350.653444796938</ele>
+<name>BMU 149</name>
+</rtept>
+<rtept lat="57.2888142776247" lon="-7.28154164148056">
+<ele>380.417753395456</ele>
+<name>BMU 150</name>
+</rtept>
+<rtept lat="57.2892350325054" lon="-7.28159377392817">
+<ele>397.428733186024</ele>
+<name>BMU 151</name>
+</rtept>
+<rtept lat="57.2900742069157" lon="-7.28079191207793">
+<ele>445.58962307582</ele>
+<name>BMU 152</name>
+</rtept>
+<rtept lat="57.2902007338963" lon="-7.27789325138411">
+<ele>480.688478794336</ele>
+<name>BMU 153</name>
+</rtept>
+<rtept lat="57.2902104798816" lon="-7.274346257296">
+<ele>528.378479061726</ele>
+<name>BMU 154</name>
+</rtept>
+<rtept lat="57.2901783916812" lon="-7.27371840124618">
+<ele>536.300293656953</ele>
+<name>BMU 155</name>
+</rtept>
+<rtept lat="57.2903446110622" lon="-7.27361759342214">
+<ele>546.986194419704</ele>
+<name>BMU 156</name>
+</rtept>
+<rtept lat="57.2905412674251" lon="-7.27311395505643">
+<ele>561.316735111405</ele>
+<name>BMU 157</name>
+</rtept>
+<rtept lat="57.2904306676794" lon="-7.2726410371646">
+<ele>563.924720870439</ele>
+<name>BMU 158</name>
+</rtept>
+<rtept lat="57.2905268000508" lon="-7.27228086933812">
+<ele>574.021334007418</ele>
+<name>BMU 159</name>
+</rtept>
+<rtept lat="57.2903379001385" lon="-7.2714227741663">
+<ele>575.372842659848</ele>
+<name>BMU 160</name>
+</rtept>
+<rtept lat="57.2902956057493" lon="-7.27135853960342">
+<ele>572.986122060315</ele>
+<name>BMU 161</name>
+</rtept>
+<rtept lat="57.2903423726257" lon="-7.27142341543926">
+<ele>575.62322037265</ele>
+<name>BMU 162</name>
+</rtept>
+<rtept lat="57.2905264527791" lon="-7.27228912964158">
+<ele>573.89222345227</ele>
+<name>BMU 163</name>
+</rtept>
+<rtept lat="57.2904299730889" lon="-7.27265755771867">
+<ele>563.668118368604</ele>
+<name>BMU 164</name>
+</rtept>
+<rtept lat="57.2905367949503" lon="-7.2731133135735">
+<ele>561.163335696184</ele>
+<name>BMU 165</name>
+</rtept>
+<rtept lat="57.2903401385908" lon="-7.27361695188296">
+<ele>546.748127558111</ele>
+<name>BMU 166</name>
+</rtept>
+<rtept lat="57.2901876839871" lon="-7.27371142413296">
+<ele>536.9258602965</ele>
+<name>BMU 167</name>
+</rtept>
+<rtept lat="57.2902104798816" lon="-7.274346257296">
+<ele>528.378479061726</ele>
+<name>BMU 168</name>
+</rtept>
+<rtept lat="57.290195218537" lon="-7.27791738979328">
+<ele>480.460189201451</ele>
+<name>BMU 169</name>
+</rtept>
+<rtept lat="57.2900566650647" lon="-7.28078108238283">
+<ele>445.25415760583</ele>
+<name>BMU 170</name>
+</rtept>
+<rtept lat="57.289234684627" lon="-7.28160203381818">
+<ele>397.240512075728</ele>
+<name>BMU 171</name>
+</rtept>
+<rtept lat="57.288798276298" lon="-7.28154765265475">
+<ele>379.656021123198</ele>
+<name>BMU 172</name>
+</rtept>
+<rtept lat="57.2883141577377" lon="-7.28235893373735">
+<ele>351.284939297318</ele>
+<name>BMU 173</name>
+</rtept>
+<rtept lat="57.2877025820621" lon="-7.28203009454224">
+<ele>338.076506874155</ele>
+<name>BMU 174</name>
+</rtept>
+<rtept lat="57.2864082421843" lon="-7.28386330422946">
+<ele>312.955183396544</ele>
+<name>BMU 175</name>
+</rtept>
+<rtept lat="57.2862459114654" lon="-7.2851528315338">
+<ele>303.599799675119</ele>
+<name>BMU 176</name>
+</rtept>
+<rtept lat="57.2863851735744" lon="-7.28601208177586">
+<ele>289.647543458879</ele>
+<name>BMU 177</name>
+</rtept>
+<rtept lat="57.2858813793745" lon="-7.2882495977435">
+<ele>281.681201289976</ele>
+<name>BMU 178</name>
+</rtept>
+<rtept lat="57.2859534298402" lon="-7.28995502916267">
+<ele>273.963641432019</ele>
+<name>BMU 179</name>
+</rtept>
+<rtept lat="57.2858751782459" lon="-7.29703149368294">
+<ele>252.428508808452</ele>
+<name>BMU 180</name>
+</rtept>
+<rtept lat="57.2860191276387" lon="-7.2996945659868">
+<ele>198.861948994583</ele>
+<name>BMU 181</name>
+</rtept>
+<rtept lat="57.2857965341148" lon="-7.30080915182914">
+<ele>184.584828326646</ele>
+<name>BMU 182</name>
+</rtept>
+<rtept lat="57.2859341683252" lon="-7.30244929305591">
+<ele>140.120808421539</ele>
+<name>BMU 183</name>
+</rtept>
+<rtept lat="57.2856027504337" lon="-7.30368942127883">
+<ele>118.754201848174</ele>
+<name>BMU 184</name>
+</rtept>
+<rtept lat="57.2843708500895" lon="-7.30664419486192">
+<ele>103.805535158936</ele>
+<name>BMU 185</name>
+</rtept>
+<rtept lat="57.2841873366082" lon="-7.30736550957459">
+<ele>103.245535158936</ele>
+<name>BMU 186</name>
+</rtept>
+<rtept lat="57.2842000230005" lon="-7.31195384346791">
+<ele>106.005520355839</ele>
+<name>BMU 187</name>
+</rtept>
+<rtept lat="57.2835676097262" lon="-7.31678958698686">
+<ele>97.1954322718247</ele>
+<name>BMU 188</name>
+</rtept>
+<rtept lat="57.283297982497" lon="-7.31916844212322">
+<ele>91.7493471508566</ele>
+<name>BMU 189</name>
+</rtept>
+<rtept lat="57.2834928686578" lon="-7.32252845518758">
+<ele>94.7378540713962</ele>
+<name>BMU 190</name>
+</rtept>
+<rtept lat="57.2836730027128" lon="-7.3235848242126">
+<ele>87.6669386480002</ele>
+<name>BMU 191</name>
+</rtept>
+<rtept lat="57.2835819099703" lon="-7.32647141790224">
+<ele>81.6298881114521</ele>
+<name>BMU 192</name>
+</rtept>
+<rtept lat="57.2841811058124" lon="-7.33095366658755">
+<ele>74.2243471508566</ele>
+<name>BMU 193</name>
+</rtept>
+<rtept lat="57.283981878326" lon="-7.33415696984306">
+<ele>66.1613562788428</ele>
+<name>BMU 194</name>
+</rtept>
+<rtept lat="57.2834831984855" lon="-7.33741648713833">
+<ele>55.1699119159853</ele>
+<name>BMU 195</name>
+</rtept>
+<rtept lat="57.2826148932492" lon="-7.3405308458633">
+<ele>40.1613791088009</ele>
+<name>BMU 196</name>
+</rtept>
+<rtept lat="57.2818825986142" lon="-7.34398886225658">
+<ele>29.8066338945154</ele>
+<name>BMU 197</name>
+</rtept>
+<rtept lat="57.2817382919859" lon="-7.34663492878666">
+<ele>35.1662733363511</ele>
+<name>BMU 198</name>
+</rtept>
+<rtept lat="57.2818824028081" lon="-7.34842560714618">
+<ele>41.5129892109213</ele>
+<name>BMU 199</name>
+</rtept>
+<rtept lat="57.2818663652048" lon="-7.34932890939166">
+<ele>41.4161720963948</ele>
+<name>BMU 200</name>
+</rtept>
+<rtept lat="57.282125060277" lon="-7.34969888647457">
+<ele>41.95401812882</ele>
+<name>BMU 201</name>
+</rtept>
+<rtept lat="57.2825055195978" lon="-7.35111686694686">
+<ele>40.9005351589358</ele>
+<name>BMU 202</name>
+</rtept>
+<rtept lat="57.2826048494007" lon="-7.35121440883888">
+<ele>40.6028397910316</ele>
+<name>BMU 203</name>
+</rtept>
+<rtept lat="57.2827904900745" lon="-7.35203075975759">
+<ele>39.717771280242</ele>
+<name>BMU 204</name>
+</rtept>
+<rtept lat="57.2828433131464" lon="-7.35369190302622">
+<ele>39.1377638786938</ele>
+<name>BMU 205</name>
+</rtept>
+<rtept lat="57.2837522126641" lon="-7.35474653678783">
+<ele>35.0355277573876</ele>
+<name>BMU 206</name>
+</rtept>
+<rtept lat="57.2840297094916" lon="-7.35488665665138">
+<ele>33.7755277573876</ele>
+<name>BMU 207</name>
+</rtept>
+<rtept lat="57.2849480137171" lon="-7.35598427323664">
+<ele>31.2427638786938</ele>
+<name>BMU 208</name>
+</rtept>
+<rtept lat="57.285139972312" lon="-7.35665205574062">
+<ele>30.7527638786938</ele>
+<name>BMU 209</name>
+</rtept>
+<rtept lat="57.2853711073785" lon="-7.35703472417018">
+<ele>30.2027638786938</ele>
+<name>BMU 210</name>
+</rtept>
+<rtept lat="57.2853694738453" lon="-7.35759952654366">
+<ele>30.1527638786938</ele>
+<name>BMU 211</name>
+</rtept>
+<rtept lat="57.2855035208352" lon="-7.35804284079167">
+<ele>30</ele>
+<name>BMU 212</name>
+</rtept>
+<rtept lat="57.2860961683736" lon="-7.35865270969756">
+<ele>30</ele>
+<name>BMU 213</name>
+</rtept>
+<rtept lat="57.2862204451518" lon="-7.35921925728321">
+<ele>29.7035735356966</ele>
+<name>BMU 214</name>
+</rtept>
+<rtept lat="57.2866340959951" lon="-7.36038474457936">
+<ele>24.5973293211864</ele>
+<name>BMU 215</name>
+</rtept>
+<rtept lat="57.2866516298069" lon="-7.36071138023616">
+<ele>23.9188341965654</ele>
+<name>BMU 216</name>
+</rtept>
+<rtept lat="57.2866133836201" lon="-7.36076397183321">
+<ele>24.0188341965654</ele>
+<name>BMU 217</name>
+</rtept>
+<rtept lat="57.2866134984794" lon="-7.3612875009508">
+<ele>22.6088341965654</ele>
+<name>BMU 218</name>
+</rtept>
+<rtept lat="57.2865195871969" lon="-7.3615895755573">
+<ele>22.5210629163234</ele>
+<name>BMU 219</name>
+</rtept>
+<rtept lat="57.2865268765092" lon="-7.3621556985027">
+<ele>21.6310629163234</ele>
+<name>BMU 220</name>
+</rtept>
+<rtept lat="57.2863890522687" lon="-7.36327402395721">
+<ele>22.0432916360814</ele>
+<name>BMU 221</name>
+</rtept>
+<rtept lat="57.2871625241753" lon="-7.36460009483521">
+<ele>18.3303948323793</ele>
+<name>BMU 222</name>
+</rtept>
+<rtept lat="57.2872879553077" lon="-7.36503389168259">
+<ele>17.6645260833548</ele>
+<name>BMU 223</name>
+</rtept>
+<rtept lat="57.2872946307952" lon="-7.36582430626875">
+<ele>18.2777564771456</ele>
+<name>BMU 224</name>
+</rtept>
+<rtept lat="57.2875764319486" lon="-7.36670474156563">
+<ele>16.6963834930027</ele>
+<name>BMU 225</name>
+</rtept>
+</rte>
+</gpx>

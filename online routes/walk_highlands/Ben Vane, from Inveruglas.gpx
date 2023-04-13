@@ -1,0 +1,1007 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.1" creator="Quo v2" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <desc>GPX file generated with Quo.</desc>
+    <link href="http://www.mapyx.com">
+      <text>Mapyx</text>
+    </link>
+    <time>2020-09-04T13:49:55.1381483+01:00</time>
+  </metadata>
+  <rte>
+    <name>Ben Vane</name>
+    <desc />
+    <extensions>
+      <drawing v="True" pv="True" pw="4" pc="255|255|255" pt="0" lv="True" lw="4" lc="0|0|255" lt="0" ls="0" lcs="3" fc="255|255|255" ft="120" fs="-1" fsc="0|0|0" xmlns="" />
+    </extensions>
+    <rtept lat="56.251541" lon="-4.709141">
+      <ele>-2.076309</ele>
+      <time>2019-05-13T09:21:08</time>
+      <name>BV001</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.251611" lon="-4.709393">
+      <ele>10.386975</ele>
+      <time>2019-05-13T09:21:36</time>
+      <name>BV002</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.251481" lon="-4.710042">
+      <ele>15.297406</ele>
+      <time>2019-05-13T09:22:02</time>
+      <name>BV003</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250998" lon="-4.710759">
+      <ele>8.388896</ele>
+      <time>2019-05-13T09:22:47</time>
+      <name>BV004</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250266" lon="-4.711505">
+      <ele>-0.593456</ele>
+      <time>2019-05-13T09:23:48</time>
+      <name>BV005</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249776" lon="-4.711651">
+      <ele>1.518127</ele>
+      <time>2019-05-13T09:24:27</time>
+      <name>BV006</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.248581" lon="-4.712565">
+      <ele>13.399134</ele>
+      <time>2019-05-13T09:25:51</time>
+      <name>BV007</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247769" lon="-4.713421">
+      <ele>10.769765</ele>
+      <time>2019-05-13T09:27:21</time>
+      <name>BV008</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247737" lon="-4.713963">
+      <ele>13.994712</ele>
+      <time>2019-05-13T09:28:41</time>
+      <name>BV009</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247493" lon="-4.713886">
+      <ele>19.403138</ele>
+      <time>2019-05-13T09:29:01</time>
+      <name>BV010</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247187" lon="-4.714178">
+      <ele>16.493299</ele>
+      <time>2019-05-13T09:29:24</time>
+      <name>BV011</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245905" lon="-4.715723">
+      <ele>19.138095</ele>
+      <time>2019-05-13T09:31:27</time>
+      <name>BV012</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245782" lon="-4.7161">
+      <ele>22.085949</ele>
+      <time>2019-05-13T09:31:53</time>
+      <name>BV013</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245671" lon="-4.716747">
+      <ele>40.539948</ele>
+      <time>2019-05-13T09:34:11</time>
+      <name>BV014</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245813" lon="-4.717403">
+      <ele>43.707062</ele>
+      <time>2019-05-13T09:34:39</time>
+      <name>BV015</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246743" lon="-4.71746">
+      <ele>48.432238</ele>
+      <time>2019-05-13T09:35:49</time>
+      <name>BV016</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.24691" lon="-4.718142">
+      <ele>55.819642</ele>
+      <time>2019-05-13T09:36:25</time>
+      <name>BV017</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246769" lon="-4.718504">
+      <ele>62.952421</ele>
+      <time>2019-05-13T09:36:45</time>
+      <name>BV018</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246096" lon="-4.718905">
+      <ele>64.546021</ele>
+      <time>2019-05-13T09:37:42</time>
+      <name>BV019</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245656" lon="-4.719822">
+      <ele>64.217734</ele>
+      <time>2019-05-13T09:38:46</time>
+      <name>BV020</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245904" lon="-4.721116">
+      <ele>81.860224</ele>
+      <time>2019-05-13T09:39:37</time>
+      <name>BV021</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245739" lon="-4.722937">
+      <ele>96.444665</ele>
+      <time>2019-05-13T09:41:06</time>
+      <name>BV022</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245772" lon="-4.7239">
+      <ele>103.610082</ele>
+      <time>2019-05-13T09:42:06</time>
+      <name>BV023</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246447" lon="-4.727904">
+      <ele>129.545134</ele>
+      <time>2019-05-13T09:49:42</time>
+      <name>BV024</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245291" lon="-4.731632">
+      <ele>123.2226</ele>
+      <time>2019-05-13T09:52:41</time>
+      <name>BV025</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245068" lon="-4.733705">
+      <ele>123.333181</ele>
+      <time>2019-05-13T09:54:06</time>
+      <name>BV026</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245037" lon="-4.735926">
+      <ele>124.099489</ele>
+      <time>2019-05-13T09:55:28</time>
+      <name>BV027</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245131" lon="-4.736843">
+      <ele>132.430203</ele>
+      <time>2019-05-13T09:55:59</time>
+      <name>BV028</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.244883" lon="-4.738087">
+      <ele>127.480636</ele>
+      <time>2019-05-13T09:56:56</time>
+      <name>BV029</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245283" lon="-4.739387">
+      <ele>123.850611</ele>
+      <time>2019-05-13T09:58:07</time>
+      <name>BV030</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246096" lon="-4.740587">
+      <ele>133.418474</ele>
+      <time>2019-05-13T09:59:17</time>
+      <name>BV031</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246355" lon="-4.741231">
+      <ele>138.307085</ele>
+      <time>2019-05-13T09:59:50</time>
+      <name>BV032</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247166" lon="-4.745995">
+      <ele>147.031159</ele>
+      <time>2019-05-13T10:03:16</time>
+      <name>BV033</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247702592345" lon="-4.74684550541592">
+      <ele>157.300515498528</ele>
+      <time>2019-05-13T10:04:06</time>
+      <name>BV034</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.2474571021742" lon="-4.74757861825753">
+      <ele>155.482702234645</ele>
+      <time>2019-05-13T10:04:37</time>
+      <name>BV035</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247143" lon="-4.748109">
+      <ele>156.358431</ele>
+      <time>2019-05-13T10:06:01</time>
+      <name>BV036</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246238" lon="-4.748957">
+      <ele>158.711812</ele>
+      <time>2019-05-13T10:07:19</time>
+      <name>BV037</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.24583" lon="-4.749692">
+      <ele>167.975883</ele>
+      <time>2019-05-13T10:08:18</time>
+      <name>BV038</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245238" lon="-4.752078">
+      <ele>189.317749</ele>
+      <time>2019-05-13T10:11:07</time>
+      <name>BV039</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245019" lon="-4.752424">
+      <ele>202.850464</ele>
+      <time>2019-05-13T10:12:29</time>
+      <name>BV040</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.244666156373" lon="-4.75272040424283">
+      <ele>199.163972731618</ele>
+      <time>2019-05-13T10:14:20</time>
+      <name>BV041</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.2444367846551" lon="-4.75333350922481">
+      <ele>213.542393127903</ele>
+      <time>2019-05-13T10:16:01</time>
+      <name>BV042</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.244524014695" lon="-4.75353348831638">
+      <ele>217.32400312433</ele>
+      <time>2019-05-13T10:17:57</time>
+      <name>BV043</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.244436573937" lon="-4.75431175316578">
+      <ele>238.471378986918</ele>
+      <time>2019-05-13T10:30:46</time>
+      <name>BV044</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.2439504637706" lon="-4.75458677331917">
+      <ele>247.399465430481</ele>
+      <time>2020-09-04T13:47:58.6769395+01:00</time>
+      <name>BV044 - BV045</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.243746926306" lon="-4.75549227946661">
+      <ele>269.767236359695</ele>
+      <time>2020-09-04T13:48:04.8894263+01:00</time>
+      <name>BV044 - BV045 - BV045</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.2438332909351" lon="-4.75573094011017">
+      <ele>275.468099522235</ele>
+      <time>2020-09-04T13:48:10.4806315+01:00</time>
+      <name>BV044 - BV045 - BV045 - BV045</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.2448104553124" lon="-4.75641137966421">
+      <ele>293.508802268138</ele>
+      <time>2020-09-04T13:48:15.4417197+01:00</time>
+      <name>BV044 - BV045 - BV045 - BV045 - BV045</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245267" lon="-4.758496">
+      <ele>297.672974</ele>
+      <time>2019-05-13T10:32:20</time>
+      <name>BV045</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245502" lon="-4.758811">
+      <ele>303.804321</ele>
+      <time>2019-05-13T10:33:09</time>
+      <name>BV046</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245704" lon="-4.759883">
+      <ele>323.168152</ele>
+      <time>2019-05-13T10:36:12</time>
+      <name>BV047</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246043" lon="-4.760847">
+      <ele>344.19281</ele>
+      <time>2019-05-13T10:38:47</time>
+      <name>BV048</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.24594" lon="-4.761249">
+      <ele>355.056152</ele>
+      <time>2019-05-13T10:39:53</time>
+      <name>BV049</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245955" lon="-4.76225">
+      <ele>376.820251</ele>
+      <time>2019-05-13T10:42:07</time>
+      <name>BV050</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246654" lon="-4.765025">
+      <ele>416.109253</ele>
+      <time>2019-05-13T10:49:30</time>
+      <name>BV051</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247048" lon="-4.765547">
+      <ele>438.296265</ele>
+      <time>2019-05-13T10:51:14</time>
+      <name>BV052</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247167" lon="-4.766708">
+      <ele>482.761475</ele>
+      <time>2019-05-13T11:44:43</time>
+      <name>BV053</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247778" lon="-4.767136">
+      <ele>510.75</ele>
+      <time>2019-05-13T11:55:41</time>
+      <name>BV054</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247832" lon="-4.767549">
+      <ele>526.88269</ele>
+      <time>2019-05-13T11:58:09</time>
+      <name>BV055</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.248562" lon="-4.768003">
+      <ele>574.604004</ele>
+      <time>2019-05-13T12:03:45</time>
+      <name>BV056</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.248697" lon="-4.768369">
+      <ele>584.588135</ele>
+      <time>2019-05-13T12:05:04</time>
+      <name>BV057</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.248333" lon="-4.768619">
+      <ele>600.199585</ele>
+      <time>2019-05-13T12:07:33</time>
+      <name>BV058</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.24843" lon="-4.769334">
+      <ele>619.581055</ele>
+      <time>2019-05-13T12:09:55</time>
+      <name>BV059</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.248345" lon="-4.769878">
+      <ele>638.598755</ele>
+      <time>2019-05-13T12:13:35</time>
+      <name>BV060</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249331" lon="-4.771646">
+      <ele>709.829346</ele>
+      <time>2019-05-13T12:23:35</time>
+      <name>BV061</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249398" lon="-4.77155">
+      <ele>720.18689</ele>
+      <time>2019-05-13T12:23:53</time>
+      <name>BV062</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249652" lon="-4.77187">
+      <ele>734.204712</ele>
+      <time>2019-05-13T12:25:48</time>
+      <name>BV063</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249695" lon="-4.772662">
+      <ele>761.03772</ele>
+      <time>2019-05-13T12:30:08</time>
+      <name>BV064</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249952" lon="-4.773238">
+      <ele>781.024902</ele>
+      <time>2019-05-13T12:32:06</time>
+      <name>BV065</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249796" lon="-4.773515">
+      <ele>792.651123</ele>
+      <time>2019-05-13T12:33:51</time>
+      <name>BV066</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249808" lon="-4.774288">
+      <ele>804.814941</ele>
+      <time>2019-05-13T12:48:33</time>
+      <name>BV067</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249948" lon="-4.77443">
+      <ele>813.130859</ele>
+      <time>2019-05-13T12:48:55</time>
+      <name>BV068</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.24983" lon="-4.774799">
+      <ele>814.529785</ele>
+      <time>2019-05-13T12:49:45</time>
+      <name>BV069</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250161" lon="-4.775634">
+      <ele>832.180664</ele>
+      <time>2019-05-13T12:51:54</time>
+      <name>BV070</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250253" lon="-4.777444">
+      <ele>843.838379</ele>
+      <time>2019-05-13T12:56:48</time>
+      <name>BV071</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249895" lon="-4.777952">
+      <ele>844.953857</ele>
+      <time>2019-05-13T12:58:59</time>
+      <name>BV072</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250103" lon="-4.778643">
+      <ele>874.630371</ele>
+      <time>2019-05-13T13:04:28</time>
+      <name>BV073</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249925" lon="-4.77895">
+      <ele>880.701294</ele>
+      <time>2019-05-13T13:05:53</time>
+      <name>BV074</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250062" lon="-4.779907">
+      <ele>886.377319</ele>
+      <time>2019-05-13T13:07:38</time>
+      <name>BV075</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249951" lon="-4.78031">
+      <ele>891.991699</ele>
+      <time>2019-05-13T13:08:52</time>
+      <name>BV076</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250066" lon="-4.780515">
+      <ele>895.779907</ele>
+      <time>2019-05-13T13:10:23</time>
+      <name>BV077</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249798" lon="-4.780817">
+      <ele>906.253174</ele>
+      <time>2019-05-13T13:11:43</time>
+      <name>BV078</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249799" lon="-4.781562">
+      <ele>917.196777</ele>
+      <time>2019-05-13T13:13:22</time>
+      <name>BV079</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249798" lon="-4.780817">
+      <ele>906.253174</ele>
+      <time>2019-05-13T13:11:43</time>
+      <name>BV080</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250066" lon="-4.780515">
+      <ele>895.779907</ele>
+      <time>2019-05-13T13:10:23</time>
+      <name>BV081</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249951" lon="-4.78031">
+      <ele>891.991699</ele>
+      <time>2019-05-13T13:08:52</time>
+      <name>BV082</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250062" lon="-4.779907">
+      <ele>886.377319</ele>
+      <time>2019-05-13T13:07:38</time>
+      <name>BV083</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249925" lon="-4.77895">
+      <ele>880.701294</ele>
+      <time>2019-05-13T13:05:53</time>
+      <name>BV084</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250103" lon="-4.778643">
+      <ele>874.630371</ele>
+      <time>2019-05-13T13:04:28</time>
+      <name>BV085</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249895" lon="-4.777952">
+      <ele>844.953857</ele>
+      <time>2019-05-13T12:58:59</time>
+      <name>BV086</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250253" lon="-4.777444">
+      <ele>843.838379</ele>
+      <time>2019-05-13T12:56:48</time>
+      <name>BV087</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250161" lon="-4.775634">
+      <ele>832.180664</ele>
+      <time>2019-05-13T12:51:54</time>
+      <name>BV088</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.24983" lon="-4.774799">
+      <ele>814.529785</ele>
+      <time>2019-05-13T12:49:45</time>
+      <name>BV089</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249948" lon="-4.77443">
+      <ele>813.130859</ele>
+      <time>2019-05-13T12:48:55</time>
+      <name>BV090</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249808" lon="-4.774288">
+      <ele>804.814941</ele>
+      <time>2019-05-13T12:48:33</time>
+      <name>BV091</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249796" lon="-4.773515">
+      <ele>792.651123</ele>
+      <time>2019-05-13T12:33:51</time>
+      <name>BV092</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249952" lon="-4.773238">
+      <ele>781.024902</ele>
+      <time>2019-05-13T12:32:06</time>
+      <name>BV093</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249695" lon="-4.772662">
+      <ele>761.03772</ele>
+      <time>2019-05-13T12:30:08</time>
+      <name>BV094</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249652" lon="-4.77187">
+      <ele>734.204712</ele>
+      <time>2019-05-13T12:25:48</time>
+      <name>BV095</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249398" lon="-4.77155">
+      <ele>720.18689</ele>
+      <time>2019-05-13T12:23:53</time>
+      <name>BV096</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249331" lon="-4.771646">
+      <ele>709.829346</ele>
+      <time>2019-05-13T12:23:35</time>
+      <name>BV097</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.248345" lon="-4.769878">
+      <ele>638.598755</ele>
+      <time>2019-05-13T12:13:35</time>
+      <name>BV098</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.24843" lon="-4.769334">
+      <ele>619.581055</ele>
+      <time>2019-05-13T12:09:55</time>
+      <name>BV099</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.248333" lon="-4.768619">
+      <ele>600.199585</ele>
+      <time>2019-05-13T12:07:33</time>
+      <name>BV100</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.248697" lon="-4.768369">
+      <ele>584.588135</ele>
+      <time>2019-05-13T12:05:04</time>
+      <name>BV101</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.248562" lon="-4.768003">
+      <ele>574.604004</ele>
+      <time>2019-05-13T12:03:45</time>
+      <name>BV102</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247832" lon="-4.767549">
+      <ele>526.88269</ele>
+      <time>2019-05-13T11:58:09</time>
+      <name>BV103</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247778" lon="-4.767136">
+      <ele>510.75</ele>
+      <time>2019-05-13T11:55:41</time>
+      <name>BV104</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247167" lon="-4.766708">
+      <ele>482.761475</ele>
+      <time>2019-05-13T11:44:43</time>
+      <name>BV105</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247048" lon="-4.765547">
+      <ele>438.296265</ele>
+      <time>2019-05-13T10:51:14</time>
+      <name>BV106</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246654" lon="-4.765025">
+      <ele>416.109253</ele>
+      <time>2019-05-13T10:49:30</time>
+      <name>BV107</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245955" lon="-4.76225">
+      <ele>376.820251</ele>
+      <time>2019-05-13T10:42:07</time>
+      <name>BV108</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.24594" lon="-4.761249">
+      <ele>355.056152</ele>
+      <time>2019-05-13T10:39:53</time>
+      <name>BV109</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246043" lon="-4.760847">
+      <ele>344.19281</ele>
+      <time>2019-05-13T10:38:47</time>
+      <name>BV110</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245704" lon="-4.759883">
+      <ele>323.168152</ele>
+      <time>2019-05-13T10:36:12</time>
+      <name>BV111</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245502" lon="-4.758811">
+      <ele>303.804321</ele>
+      <time>2019-05-13T10:33:09</time>
+      <name>BV112</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245267" lon="-4.758496">
+      <ele>297.672974</ele>
+      <time>2019-05-13T10:32:20</time>
+      <name>BV113</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.244795379596" lon="-4.75636186668991">
+      <ele>293.191648969735</ele>
+      <time>2019-05-13T10:30:46</time>
+      <name>BV114</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.243827906469" lon="-4.75573055312344">
+      <ele>275.325355479689</ele>
+      <time>2020-09-04T13:48:21.5518446+01:00</time>
+      <name>BV114 - BV115</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.243751664385" lon="-4.75552167666287">
+      <ele>270.424598208477</ele>
+      <time>2020-09-04T13:48:25.6803739+01:00</time>
+      <name>BV114 - BV115 - BV115</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.2439396948283" lon="-4.75458599966352">
+      <ele>247.382753473032</ele>
+      <time>2020-09-04T13:48:35.6888311+01:00</time>
+      <name>BV114 - BV115 - BV115 - BV114 - BV115 - BV115 - BV115</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.2444471275094" lon="-4.75432219702522">
+      <ele>238.689097176188</ele>
+      <time>2020-09-04T13:48:30.4568705+01:00</time>
+      <name>BV114 - BV115 - BV115 - BV115</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.2445352142653" lon="-4.75351492110406">
+      <ele>216.779881803399</ele>
+      <time>2019-05-13T10:17:57</time>
+      <name>BV115</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.2444363540644" lon="-4.75335284976778">
+      <ele>214.001834491369</ele>
+      <time>2019-05-13T10:16:01</time>
+      <name>BV116</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.2446547416702" lon="-4.75274864208458">
+      <ele>199.741960736931</ele>
+      <time>2019-05-13T10:14:20</time>
+      <name>BV117</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245019" lon="-4.752424">
+      <ele>202.850464</ele>
+      <time>2019-05-13T10:12:29</time>
+      <name>BV118</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245238" lon="-4.752078">
+      <ele>189.317749</ele>
+      <time>2019-05-13T10:11:07</time>
+      <name>BV119</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.24583" lon="-4.749692">
+      <ele>167.975883</ele>
+      <time>2019-05-13T10:08:18</time>
+      <name>BV120</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246238" lon="-4.748957">
+      <ele>158.711812</ele>
+      <time>2019-05-13T10:07:19</time>
+      <name>BV121</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247143" lon="-4.748109">
+      <ele>156.358431</ele>
+      <time>2019-05-13T10:06:01</time>
+      <name>BV122</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.2474571021742" lon="-4.74757861825753">
+      <ele>155.482702234645</ele>
+      <time>2019-05-13T10:04:37</time>
+      <name>BV123</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247702592345" lon="-4.74684550541592">
+      <ele>157.300515498528</ele>
+      <time>2019-05-13T10:04:06</time>
+      <name>BV124</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247166" lon="-4.745995">
+      <ele>147.031159</ele>
+      <time>2019-05-13T10:03:16</time>
+      <name>BV125</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246355" lon="-4.741231">
+      <ele>138.307085</ele>
+      <time>2019-05-13T09:59:50</time>
+      <name>BV126</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246096" lon="-4.740587">
+      <ele>133.418474</ele>
+      <time>2019-05-13T09:59:17</time>
+      <name>BV127</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245283" lon="-4.739387">
+      <ele>123.850611</ele>
+      <time>2019-05-13T09:58:07</time>
+      <name>BV128</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.244883" lon="-4.738087">
+      <ele>127.480636</ele>
+      <time>2019-05-13T09:56:56</time>
+      <name>BV129</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245131" lon="-4.736843">
+      <ele>132.430203</ele>
+      <time>2019-05-13T09:55:59</time>
+      <name>BV130</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245037" lon="-4.735926">
+      <ele>124.099489</ele>
+      <time>2019-05-13T09:55:28</time>
+      <name>BV131</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245068" lon="-4.733705">
+      <ele>123.333181</ele>
+      <time>2019-05-13T09:54:06</time>
+      <name>BV132</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245291" lon="-4.731632">
+      <ele>123.2226</ele>
+      <time>2019-05-13T09:52:41</time>
+      <name>BV133</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246447" lon="-4.727904">
+      <ele>129.545134</ele>
+      <time>2019-05-13T09:49:42</time>
+      <name>BV134</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245772" lon="-4.7239">
+      <ele>103.610082</ele>
+      <time>2019-05-13T09:42:06</time>
+      <name>BV135</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245739" lon="-4.722937">
+      <ele>96.444665</ele>
+      <time>2019-05-13T09:41:06</time>
+      <name>BV136</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245904" lon="-4.721116">
+      <ele>81.860224</ele>
+      <time>2019-05-13T09:39:37</time>
+      <name>BV137</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245656" lon="-4.719822">
+      <ele>64.217734</ele>
+      <time>2019-05-13T09:38:46</time>
+      <name>BV138</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246096" lon="-4.718905">
+      <ele>64.546021</ele>
+      <time>2019-05-13T09:37:42</time>
+      <name>BV139</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246769" lon="-4.718504">
+      <ele>62.952421</ele>
+      <time>2019-05-13T09:36:45</time>
+      <name>BV140</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.24691" lon="-4.718142">
+      <ele>55.819642</ele>
+      <time>2019-05-13T09:36:25</time>
+      <name>BV141</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.246743" lon="-4.71746">
+      <ele>48.432238</ele>
+      <time>2019-05-13T09:35:49</time>
+      <name>BV142</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245813" lon="-4.717403">
+      <ele>43.707062</ele>
+      <time>2019-05-13T09:34:39</time>
+      <name>BV143</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245671" lon="-4.716747">
+      <ele>40.539948</ele>
+      <time>2019-05-13T09:34:11</time>
+      <name>BV144</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245782" lon="-4.7161">
+      <ele>22.085949</ele>
+      <time>2019-05-13T09:31:53</time>
+      <name>BV145</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.245905" lon="-4.715723">
+      <ele>19.138095</ele>
+      <time>2019-05-13T09:31:27</time>
+      <name>BV146</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247187" lon="-4.714178">
+      <ele>16.493299</ele>
+      <time>2019-05-13T09:29:24</time>
+      <name>BV147</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247493" lon="-4.713886">
+      <ele>19.403138</ele>
+      <time>2019-05-13T09:29:01</time>
+      <name>BV148</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247737" lon="-4.713963">
+      <ele>13.994712</ele>
+      <time>2019-05-13T09:28:41</time>
+      <name>BV149</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.247769" lon="-4.713421">
+      <ele>10.769765</ele>
+      <time>2019-05-13T09:27:21</time>
+      <name>BV150</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.248581" lon="-4.712565">
+      <ele>13.399134</ele>
+      <time>2019-05-13T09:25:51</time>
+      <name>BV151</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.249776" lon="-4.711651">
+      <ele>1.518127</ele>
+      <time>2019-05-13T09:24:27</time>
+      <name>BV152</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250266" lon="-4.711505">
+      <ele>-0.593456</ele>
+      <time>2019-05-13T09:23:48</time>
+      <name>BV153</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.250998" lon="-4.710759">
+      <ele>8.388896</ele>
+      <time>2019-05-13T09:22:47</time>
+      <name>BV154</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.251481" lon="-4.710042">
+      <ele>15.297406</ele>
+      <time>2019-05-13T09:22:02</time>
+      <name>BV155</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.251611" lon="-4.709393">
+      <ele>10.386975</ele>
+      <time>2019-05-13T09:21:36</time>
+      <name>BV156</name>
+      <desc />
+    </rtept>
+    <rtept lat="56.251541" lon="-4.709141">
+      <ele>-2.076309</ele>
+      <time>2019-05-13T09:21:08</time>
+      <name>BV157</name>
+      <desc />
+    </rtept>
+  </rte>
+</gpx>

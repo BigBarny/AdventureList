@@ -1,0 +1,570 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Duncolm and the Slacks, Old Kilpatrick</name>
+<rtept lat="55.9246568458778" lon="-4.45153947017015">
+<ele>27.5911204933171</ele>
+<name>DUNC001</name>
+</rtept>
+<rtept lat="55.9248855045119" lon="-4.45161154196185">
+<ele>28.5972678882431</ele>
+<name>DUNC002</name>
+</rtept>
+<rtept lat="55.9250317937774" lon="-4.45139666650198">
+<ele>28.353267888244</ele>
+<name>DUNC003</name>
+</rtept>
+<rtept lat="55.9252916609939" lon="-4.45134584413589">
+<ele>28.642705173759</ele>
+<name>DUNC004</name>
+</rtept>
+<rtept lat="55.9252514861544" lon="-4.45065494809854">
+<ele>27.9985627144878</ele>
+<name>DUNC005</name>
+</rtept>
+<rtept lat="55.9254983795696" lon="-4.45003660256819">
+<ele>28</ele>
+<name>DUNC006</name>
+</rtept>
+<rtept lat="55.9260396155389" lon="-4.44966734968623">
+<ele>28.7085627144878</ele>
+<name>DUNC007</name>
+</rtept>
+<rtept lat="55.9273999863844" lon="-4.44919129015612">
+<ele>32.0181465920895</ele>
+<name>DUNC008</name>
+</rtept>
+<rtept lat="55.927889375265" lon="-4.44939507599757">
+<ele>34.1390842504226</ele>
+<name>DUNC009</name>
+</rtept>
+<rtept lat="55.9281714084478" lon="-4.45026298276726">
+<ele>35.8222570239736</ele>
+<name>DUNC010</name>
+</rtept>
+<rtept lat="55.9283216488807" lon="-4.4516556986159">
+<ele>38.3414947895733</ele>
+<name>DUNC011</name>
+</rtept>
+<rtept lat="55.9290338082373" lon="-4.45204650230899">
+<ele>43.9065250738342</ele>
+<name>DUNC012</name>
+</rtept>
+<rtept lat="55.9314910087496" lon="-4.4574181326568">
+<ele>77.3157546939191</ele>
+<name>DUNC013</name>
+</rtept>
+<rtept lat="55.9320107232621" lon="-4.45812831808462">
+<ele>81.1786490579155</ele>
+<name>DUNC014</name>
+</rtept>
+<rtept lat="55.9331401049187" lon="-4.46354615218031">
+<ele>99.0078939445082</ele>
+<name>DUNC015</name>
+</rtept>
+<rtept lat="55.9347528280876" lon="-4.46824569032131">
+<ele>127.94325752766</ele>
+<name>DUNC016</name>
+</rtept>
+<rtept lat="55.935472429531" lon="-4.46947320222043">
+<ele>146.097650844888</ele>
+<name>DUNC017</name>
+</rtept>
+<rtept lat="55.9354908830754" lon="-4.47056964232107">
+<ele>145.994866534984</ele>
+<name>DUNC018</name>
+</rtept>
+<rtept lat="55.9363601318903" lon="-4.4740117498183">
+<ele>171.840895118661</ele>
+<name>DUNC019</name>
+</rtept>
+<rtept lat="55.9365034677039" lon="-4.47533236248509">
+<ele>179.702746456482</ele>
+<name>DUNC020</name>
+</rtept>
+<rtept lat="55.9368470510808" lon="-4.47634870651888">
+<ele>190.677295798747</ele>
+<name>DUNC021</name>
+</rtept>
+<rtept lat="55.9393914339175" lon="-4.47894690208007">
+<ele>239.46849553427</ele>
+<name>DUNC022</name>
+</rtept>
+<rtept lat="55.940134401506" lon="-4.47900879419546">
+<ele>259.55143901714</ele>
+<name>DUNC023</name>
+</rtept>
+<rtept lat="55.9404596188262" lon="-4.47852511337625">
+<ele>277.653383718216</ele>
+<name>DUNC024</name>
+</rtept>
+<rtept lat="55.9418369684991" lon="-4.47600422883328">
+<ele>290.939036845691</ele>
+<name>DUNC025</name>
+</rtept>
+<rtept lat="55.9422039919348" lon="-4.47585469038453">
+<ele>293.909036845694</ele>
+<name>DUNC026</name>
+</rtept>
+<rtept lat="55.9426968048135" lon="-4.47588614709444">
+<ele>295.709468545844</ele>
+<name>DUNC027</name>
+</rtept>
+<rtept lat="55.9458633938769" lon="-4.46965909253151">
+<ele>338.251376286899</ele>
+<name>DUNC028</name>
+</rtept>
+<rtept lat="55.9460186257346" lon="-4.46958248575278">
+<ele>340.101125428965</ele>
+<name>DUNC029</name>
+</rtept>
+<rtept lat="55.9463694738286" lon="-4.47023910607013">
+<ele>341.077374811881</ele>
+<name>DUNC030</name>
+</rtept>
+<rtept lat="55.9465405751271" lon="-4.47017792693773">
+<ele>339.509862966807</ele>
+<name>DUNC031</name>
+</rtept>
+<rtept lat="55.947005987626" lon="-4.46955886615736">
+<ele>338.62781644403</ele>
+<name>DUNC032</name>
+</rtept>
+<rtept lat="55.9478929420018" lon="-4.46929819613841">
+<ele>331.406717976384</ele>
+<name>DUNC033</name>
+</rtept>
+<rtept lat="55.9486047497986" lon="-4.46970392763673">
+<ele>324.129024038419</ele>
+<name>DUNC034</name>
+</rtept>
+<rtept lat="55.9498541083768" lon="-4.46790932394115">
+<ele>318.211183189604</ele>
+<name>DUNC035</name>
+</rtept>
+<rtept lat="55.9507698498909" lon="-4.4641903382201">
+<ele>322.249678565962</ele>
+<name>DUNC036</name>
+</rtept>
+<rtept lat="55.9515793924893" lon="-4.46213685332802">
+<ele>323.509339853501</ele>
+<name>DUNC037</name>
+</rtept>
+<rtept lat="55.9522660848774" lon="-4.46177676544614">
+<ele>323.948737139974</ele>
+<name>DUNC038</name>
+</rtept>
+<rtept lat="55.953508826916" lon="-4.46233146693908">
+<ele>326.891282593012</ele>
+<name>DUNC039</name>
+</rtept>
+<rtept lat="55.9540550475125" lon="-4.46292846912502">
+<ele>327.125210127599</ele>
+<name>DUNC040</name>
+</rtept>
+<rtept lat="55.9545536695846" lon="-4.46388292529979">
+<ele>327.648305244169</ele>
+<name>DUNC041</name>
+</rtept>
+<rtept lat="55.955789159822" lon="-4.46358655271322">
+<ele>337.538081460636</ele>
+<name>DUNC042</name>
+</rtept>
+<rtept lat="55.95731838662" lon="-4.46356837757576">
+<ele>355.834811924901</ele>
+<name>DUNC043</name>
+</rtept>
+<rtept lat="55.9603912024974" lon="-4.46200435529694">
+<ele>366.079657241627</ele>
+<name>DUNC044</name>
+</rtept>
+<rtept lat="55.9617455048718" lon="-4.46061942469175">
+<ele>361.354604475965</ele>
+<name>DUNC045</name>
+</rtept>
+<rtept lat="55.9622707910789" lon="-4.4586193678171">
+<ele>376.753211368109</ele>
+<name>DUNC046</name>
+</rtept>
+<rtept lat="55.9632822207628" lon="-4.45657796320587">
+<ele>383.940137097864</ele>
+<name>DUNC047</name>
+</rtept>
+<rtept lat="55.9634968698598" lon="-4.45636082032153">
+<ele>376.76545527085</ele>
+<name>DUNC048</name>
+</rtept>
+<rtept lat="55.9639734922969" lon="-4.45598721400688">
+<ele>359.505258865154</ele>
+<name>DUNC049</name>
+</rtept>
+<rtept lat="55.9641924865441" lon="-4.45595782555448">
+<ele>355.814851100028</ele>
+<name>DUNC050</name>
+</rtept>
+<rtept lat="55.9651634783715" lon="-4.45391369269241">
+<ele>368.624643842282</ele>
+<name>DUNC051</name>
+</rtept>
+<rtept lat="55.9655982173319" lon="-4.45320567141561">
+<ele>383.580959421339</ele>
+<name>DUNC052</name>
+</rtept>
+<rtept lat="55.9655312426371" lon="-4.45291298194199">
+<ele>391.441981117624</ele>
+<name>DUNC053</name>
+</rtept>
+<rtept lat="55.9658895373793" lon="-4.45238760007606">
+<ele>394.265778520919</ele>
+<name>DUNC054</name>
+</rtept>
+<rtept lat="55.9660582336059" lon="-4.45163387292247">
+<ele>398.669299200976</ele>
+<name>DUNC055</name>
+</rtept>
+<rtept lat="55.9658892506372" lon="-4.45240200455677">
+<ele>394.040363361176</ele>
+<name>DUNC056</name>
+</rtept>
+<rtept lat="55.9655390348433" lon="-4.45292789763534">
+<ele>391.030718642206</ele>
+<name>DUNC057</name>
+</rtept>
+<rtept lat="55.9655895646501" lon="-4.45323396872633">
+<ele>382.873851510187</ele>
+<name>DUNC058</name>
+</rtept>
+<rtept lat="55.9641665266224" lon="-4.4560427124984">
+<ele>356.342421232245</ele>
+<name>DUNC059</name>
+</rtept>
+<rtept lat="55.9640995973405" lon="-4.45615384692581">
+<ele>357.844387165265</ele>
+<name>DUNC060</name>
+</rtept>
+<rtept lat="55.9641363311258" lon="-4.45715129222739">
+<ele>356.338993269204</ele>
+<name>DUNC061</name>
+</rtept>
+<rtept lat="55.9640443356397" lon="-4.45770791618082">
+<ele>355.786243185179</ele>
+<name>DUNC062</name>
+</rtept>
+<rtept lat="55.963604684733" lon="-4.45866071896023">
+<ele>357.957317905803</ele>
+<name>DUNC063</name>
+</rtept>
+<rtept lat="55.9628825501985" lon="-4.45958115247683">
+<ele>361.546626005274</ele>
+<name>DUNC064</name>
+</rtept>
+<rtept lat="55.962594609668" lon="-4.45982246583633">
+<ele>360.572435785204</ele>
+<name>DUNC065</name>
+</rtept>
+<rtept lat="55.9623260156993" lon="-4.46031016624601">
+<ele>360.770335222803</ele>
+<name>DUNC066</name>
+</rtept>
+<rtept lat="55.9617538715274" lon="-4.46060553471674">
+<ele>361.335445822857</ele>
+<name>DUNC067</name>
+</rtept>
+<rtept lat="55.9604728556351" lon="-4.46196627964637">
+<ele>365.708290953134</ele>
+<name>DUNC068</name>
+</rtept>
+<rtept lat="55.95734319952" lon="-4.46354111543336">
+<ele>355.957339142928</ele>
+<name>DUNC069</name>
+</rtept>
+<rtept lat="55.9558543675063" lon="-4.46356185852685">
+<ele>338.330081460644</ele>
+<name>DUNC070</name>
+</rtept>
+<rtept lat="55.9545536695846" lon="-4.46388292529979">
+<ele>327.648305244169</ele>
+<name>DUNC071</name>
+</rtept>
+<rtept lat="55.9540391775187" lon="-4.46291304273171">
+<ele>327.107210127601</ele>
+<name>DUNC072</name>
+</rtept>
+<rtept lat="55.9535013236687" lon="-4.46230215431329">
+<ele>326.971157988726</ele>
+<name>DUNC073</name>
+</rtept>
+<rtept lat="55.952290609587" lon="-4.46176390493472">
+<ele>324.057187318311</ele>
+<name>DUNC074</name>
+</rtept>
+<rtept lat="55.9516039172347" lon="-4.46212399326059">
+<ele>323.509753675161</ele>
+<name>DUNC075</name>
+</rtept>
+<rtept lat="55.950771290219" lon="-4.46411834451824">
+<ele>322.284109210265</ele>
+<name>DUNC076</name>
+</rtept>
+<rtept lat="55.9498965225391" lon="-4.46781110616401">
+<ele>318.13847801584</ele>
+<name>DUNC077</name>
+</rtept>
+<rtept lat="55.9486633232121" lon="-4.46960674398803">
+<ele>324.305470610189</ele>
+<name>DUNC078</name>
+</rtept>
+<rtept lat="55.9478692825141" lon="-4.46926785766064">
+<ele>331.82653678673</ele>
+<name>DUNC079</name>
+</rtept>
+<rtept lat="55.9476727949999" lon="-4.468577798753">
+<ele>339.161435467463</ele>
+<name>DUNC080</name>
+</rtept>
+<rtept lat="55.9472650970952" lon="-4.46793196934115">
+<ele>347.234624102976</ele>
+<name>DUNC081</name>
+</rtept>
+<rtept lat="55.9470913991166" lon="-4.46771909598344">
+<ele>349.151928388339</ele>
+<name>DUNC082</name>
+</rtept>
+<rtept lat="55.9468962949784" lon="-4.46453524631743">
+<ele>349.202537040368</ele>
+<name>DUNC083</name>
+</rtept>
+<rtept lat="55.9464813145443" lon="-4.45818049702301">
+<ele>336.668112287022</ele>
+<name>DUNC084</name>
+</rtept>
+<rtept lat="55.9461036457363" lon="-4.45845928019778">
+<ele>339.416790012001</ele>
+<name>DUNC085</name>
+</rtept>
+<rtept lat="55.9454616361142" lon="-4.45820235815739">
+<ele>353.878887255843</ele>
+<name>DUNC086</name>
+</rtept>
+<rtept lat="55.9452652204827" lon="-4.45588351378363">
+<ele>360</ele>
+<name>DUNC087</name>
+</rtept>
+<rtept lat="55.9451841018377" lon="-4.4554891739908">
+<ele>359.892997614766</ele>
+<name>DUNC088</name>
+</rtept>
+<rtept lat="55.9446249272312" lon="-4.45554026086458">
+<ele>358.67165300971</ele>
+<name>DUNC089</name>
+</rtept>
+<rtept lat="55.9445011585203" lon="-4.45566215705278">
+<ele>358.293819048422</ele>
+<name>DUNC090</name>
+</rtept>
+<rtept lat="55.9441474039008" lon="-4.45555327232047">
+<ele>355.875040730326</ele>
+<name>DUNC091</name>
+</rtept>
+<rtept lat="55.9438539334892" lon="-4.45526081838508">
+<ele>353.426059909995</ele>
+<name>DUNC092</name>
+</rtept>
+<rtept lat="55.9432610496256" lon="-4.45578544271116">
+<ele>352.288230349929</ele>
+<name>DUNC093</name>
+</rtept>
+<rtept lat="55.9431156272521" lon="-4.45577623541989">
+<ele>351.503305017181</ele>
+<name>DUNC094</name>
+</rtept>
+<rtept lat="55.9427679829864" lon="-4.45617223204962">
+<ele>350.203434654622</ele>
+<name>DUNC095</name>
+</rtept>
+<rtept lat="55.9422692090692" lon="-4.45725051538854">
+<ele>340.033406942903</ele>
+<name>DUNC096</name>
+</rtept>
+<rtept lat="55.9419856177514" lon="-4.45767937639957">
+<ele>334.539318526263</ele>
+<name>DUNC097</name>
+</rtept>
+<rtept lat="55.9416368182562" lon="-4.45813292622278">
+<ele>327.593006669704</ele>
+<name>DUNC098</name>
+</rtept>
+<rtept lat="55.9411893120681" lon="-4.45826311570136">
+<ele>318.429117560482</ele>
+<name>DUNC099</name>
+</rtept>
+<rtept lat="55.9410046771552" lon="-4.45859733621988">
+<ele>315.024859323641</ele>
+<name>DUNC100</name>
+</rtept>
+<rtept lat="55.9406561303263" lon="-4.45863289805507">
+<ele>309.915386222363</ele>
+<name>DUNC101</name>
+</rtept>
+<rtept lat="55.9404654273825" lon="-4.45886583532212">
+<ele>307.410982442032</ele>
+<name>DUNC102</name>
+</rtept>
+<rtept lat="55.9394549767593" lon="-4.4588306133221">
+<ele>293.369164607649</ele>
+<name>DUNC103</name>
+</rtept>
+<rtept lat="55.9391831959888" lon="-4.45907281583494">
+<ele>290.659957724768</ele>
+<name>DUNC104</name>
+</rtept>
+<rtept lat="55.938324809256" lon="-4.45911929137295">
+<ele>275.646351370288</ele>
+<name>DUNC105</name>
+</rtept>
+<rtept lat="55.9379499820097" lon="-4.45885052346321">
+<ele>267.529688567855</ele>
+<name>DUNC106</name>
+</rtept>
+<rtept lat="55.9374265707455" lon="-4.45873087739015">
+<ele>256.598894785878</ele>
+<name>DUNC107</name>
+</rtept>
+<rtept lat="55.9371648486857" lon="-4.45846928709633">
+<ele>250.137596891354</ele>
+<name>DUNC108</name>
+</rtept>
+<rtept lat="55.9370041304896" lon="-4.45841586686298">
+<ele>242.2416369842</ele>
+<name>DUNC109</name>
+</rtept>
+<rtept lat="55.937076586761" lon="-4.45883840427026">
+<ele>244.203908199794</ele>
+<name>DUNC110</name>
+</rtept>
+<rtept lat="55.9369171090114" lon="-4.45993801131882">
+<ele>229.303536549033</ele>
+<name>DUNC111</name>
+</rtept>
+<rtept lat="55.9367918984323" lon="-4.46013183784182">
+<ele>221.280073521069</ele>
+<name>DUNC112</name>
+</rtept>
+<rtept lat="55.9365111461045" lon="-4.46001315308024">
+<ele>209.033883764525</ele>
+<name>DUNC113</name>
+</rtept>
+<rtept lat="55.9363496195751" lon="-4.46080996462725">
+<ele>201.710969034993</ele>
+<name>DUNC114</name>
+</rtept>
+<rtept lat="55.9364315850206" lon="-4.46116104435816">
+<ele>206.248882464159</ele>
+<name>DUNC115</name>
+</rtept>
+<rtept lat="55.9361561224807" lon="-4.46280090444635">
+<ele>196.18222170525</ele>
+<name>DUNC116</name>
+</rtept>
+<rtept lat="55.9363351128147" lon="-4.46557930892513">
+<ele>194.805467955607</ele>
+<name>DUNC117</name>
+</rtept>
+<rtept lat="55.9362485742906" lon="-4.46666909511575">
+<ele>184.556176653372</ele>
+<name>DUNC118</name>
+</rtept>
+<rtept lat="55.9364921118076" lon="-4.46864457718729">
+<ele>185.691819756665</ele>
+<name>DUNC119</name>
+</rtept>
+<rtept lat="55.9362197132775" lon="-4.47093310998048">
+<ele>174.830847271236</ele>
+<name>DUNC120</name>
+</rtept>
+<rtept lat="55.9361827320006" lon="-4.47277544632856">
+<ele>167.072935988372</ele>
+<name>DUNC121</name>
+</rtept>
+<rtept lat="55.9360814493483" lon="-4.47298516529819">
+<ele>162.183592214253</ele>
+<name>DUNC122</name>
+</rtept>
+<rtept lat="55.9354917493591" lon="-4.47052646330999">
+<ele>146.066764148401</ele>
+<name>DUNC123</name>
+</rtept>
+<rtept lat="55.9354646392179" lon="-4.46945829499771">
+<ele>145.82765084488</ele>
+<name>DUNC124</name>
+</rtept>
+<rtept lat="55.9347366701751" lon="-4.46824466242579">
+<ele>127.475257527648</ele>
+<name>DUNC125</name>
+</rtept>
+<rtept lat="55.9331323138664" lon="-4.46353124703641">
+<ele>98.8424440427711</ele>
+<name>DUNC126</name>
+</rtept>
+<rtept lat="55.93199427792" lon="-4.45814168634698">
+<ele>80.9148590077772</ele>
+<name>DUNC127</name>
+</rtept>
+<rtept lat="55.9314759995396" lon="-4.45735954276356">
+<ele>76.9955267796201</ele>
+<name>DUNC128</name>
+</rtept>
+<rtept lat="55.9290493932005" lon="-4.45207630487567">
+<ele>44.1647231721437</ele>
+<name>DUNC129</name>
+</rtept>
+<rtept lat="55.9283057772796" lon="-4.45164028732717">
+<ele>38.2654856115616</ele>
+<name>DUNC130</name>
+</rtept>
+<rtept lat="55.9281719811792" lon="-4.45023420174754">
+<ele>35.8034852816896</ele>
+<name>DUNC131</name>
+</rtept>
+<rtept lat="55.9278899477917" lon="-4.44936629516822">
+<ele>34.2178319927019</ele>
+<name>DUNC132</name>
+</rtept>
+<rtept lat="55.92739995458" lon="-4.44919288907115">
+<ele>32.0132883412211</ele>
+<name>DUNC133</name>
+</rtept>
+<rtept lat="55.9260459628881" lon="-4.44966454856946">
+<ele>28.7225627144799</ele>
+<name>DUNC134</name>
+</rtept>
+<rtept lat="55.9255061405006" lon="-4.45005310091024">
+<ele>28</ele>
+<name>DUNC135</name>
+</rtept>
+<rtept lat="55.9252498817395" lon="-4.45064524179322">
+<ele>27.9945627144794</ele>
+<name>DUNC136</name>
+</rtept>
+<rtept lat="55.9252903749474" lon="-4.45132014953734">
+<ele>28.5787051737565</ele>
+<name>DUNC137</name>
+</rtept>
+<rtept lat="55.9250264713941" lon="-4.45139312870238">
+<ele>28.333267888237</ele>
+<name>DUNC138</name>
+</rtept>
+<rtept lat="55.9249000583122" lon="-4.45160285630227">
+<ele>28.6052678882377</ele>
+<name>DUNC139</name>
+</rtept>
+<rtept lat="55.9246603729082" lon="-4.45154289455926">
+<ele>27.6147146364115</ele>
+<name>DUNC140</name>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,566 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Culloden Battlefield and Clava Cairns</name>
+<rtept lat="57.4827547178266" lon="-4.13971989612752">
+<ele>51.2216634276373</ele>
+<name>Cu001</name>
+</rtept>
+<rtept lat="57.4825884780964" lon="-4.13934982540433">
+<ele>53.729433857734</ele>
+<name>Cu002</name>
+</rtept>
+<rtept lat="57.4830009415466" lon="-4.13855314965445">
+<ele>53.7857528431434</ele>
+<name>Cu003</name>
+</rtept>
+<rtept lat="57.4830218873398" lon="-4.13795378959076">
+<ele>56.5612759199857</ele>
+<name>Cu004</name>
+</rtept>
+<rtept lat="57.4834417985297" lon="-4.13671709059367">
+<ele>58.1470262398501</ele>
+<name>Cu005</name>
+</rtept>
+<rtept lat="57.483814207366" lon="-4.13573784927671">
+<ele>57.542730139109</ele>
+<name>Cu006</name>
+</rtept>
+<rtept lat="57.4837755236522" lon="-4.13547533209717">
+<ele>58.7259983636589</ele>
+<name>Cu007</name>
+</rtept>
+<rtept lat="57.483552364732" lon="-4.13528212612186">
+<ele>60.9772784483796</ele>
+<name>Cu008</name>
+</rtept>
+<rtept lat="57.48354464083" lon="-4.13510149742672">
+<ele>61.5049393026846</ele>
+<name>Cu009</name>
+</rtept>
+<rtept lat="57.4828572794293" lon="-4.13494126069048">
+<ele>70.8279026614222</ele>
+<name>Cu010</name>
+</rtept>
+<rtept lat="57.4823739656812" lon="-4.13419236487747">
+<ele>80.7797765557287</ele>
+<name>Cu011</name>
+</rtept>
+<rtept lat="57.4820929424784" lon="-4.13359541970985">
+<ele>85.5710262398515</ele>
+<name>Cu012</name>
+</rtept>
+<rtept lat="57.481690720277" lon="-4.13315156678421">
+<ele>90.7310262398596</ele>
+<name>Cu013</name>
+</rtept>
+<rtept lat="57.4814527791398" lon="-4.13255715256413">
+<ele>95.0270262398571</ele>
+<name>Cu014</name>
+</rtept>
+<rtept lat="57.4800017246231" lon="-4.13101126695714">
+<ele>109.962299424034</ele>
+<name>Cu015</name>
+</rtept>
+<rtept lat="57.4792504427606" lon="-4.13016681046989">
+<ele>114.304876421571</ele>
+<name>Cu016</name>
+</rtept>
+<rtept lat="57.4787044586522" lon="-4.12993485008917">
+<ele>117.232876421569</ele>
+<name>Cu017</name>
+</rtept>
+<rtept lat="57.4766606099596" lon="-4.12773421043686">
+<ele>130.274149818283</ele>
+<name>Cu018</name>
+</rtept>
+<rtept lat="57.4764788385854" lon="-4.1276435765447">
+<ele>131.186149818284</ele>
+<name>Cu019</name>
+</rtept>
+<rtept lat="57.47633812992" lon="-4.12767542589027">
+<ele>131.762149818284</ele>
+<name>Cu020</name>
+</rtept>
+<rtept lat="57.4751828906469" lon="-4.1264874028495">
+<ele>138.419626158526</ele>
+<name>Cu021</name>
+</rtept>
+<rtept lat="57.4750694586218" lon="-4.12618058465675">
+<ele>139.226149818283</ele>
+<name>Cu022</name>
+</rtept>
+<rtept lat="57.4743494467714" lon="-4.12539820504358">
+<ele>142.616438210786</ele>
+<name>Cu023</name>
+</rtept>
+<rtept lat="57.4751388486169" lon="-4.12142102442705">
+<ele>145.832438210786</ele>
+<name>Cu024</name>
+</rtept>
+<rtept lat="57.4753027622106" lon="-4.12000945086974">
+<ele>146.224438210786</ele>
+<name>Cu025</name>
+</rtept>
+<rtept lat="57.4744271819278" lon="-4.11885791492803">
+<ele>150.536438210786</ele>
+<name>Cu026</name>
+</rtept>
+<rtept lat="57.4743258469114" lon="-4.11847176932404">
+<ele>151.085411600582</ele>
+<name>Cu027</name>
+</rtept>
+<rtept lat="57.472785751212" lon="-4.11708171558773">
+<ele>156.826149818286</ele>
+<name>Cu028</name>
+</rtept>
+<rtept lat="57.4723359858805" lon="-4.11625515485424">
+<ele>158.5857116075</ele>
+<name>Cu029</name>
+</rtept>
+<rtept lat="57.4719353407137" lon="-4.11507121489957">
+<ele>160.558610497391</ele>
+<name>Cu030</name>
+</rtept>
+<rtept lat="57.4716229145654" lon="-4.11441273821044">
+<ele>162.11941986275</ele>
+<name>Cu031</name>
+</rtept>
+<rtept lat="57.4718662221408" lon="-4.11340612029486">
+<ele>161.783985750842</ele>
+<name>Cu032</name>
+</rtept>
+<rtept lat="57.472528957578" lon="-4.11246372766059">
+<ele>159.763078137467</ele>
+<name>Cu033</name>
+</rtept>
+<rtept lat="57.4727329014441" lon="-4.1118750892117">
+<ele>159.695692356383</ele>
+<name>Cu034</name>
+</rtept>
+<rtept lat="57.4732680360539" lon="-4.11082521650793">
+<ele>158.500348484782</ele>
+<name>Cu035</name>
+</rtept>
+<rtept lat="57.4735926728509" lon="-4.10882251139054">
+<ele>158.744438210785</ele>
+<name>Cu036</name>
+</rtept>
+<rtept lat="57.4738093779066" lon="-4.10811448577422">
+<ele>158.973969711847</ele>
+<name>Cu037</name>
+</rtept>
+<rtept lat="57.4746252987948" lon="-4.10768113882359">
+<ele>156.619423214998</ele>
+<name>Cu038</name>
+</rtept>
+<rtept lat="57.4750652783159" lon="-4.10780655683027">
+<ele>154.650149818285</ele>
+<name>Cu039</name>
+</rtept>
+<rtept lat="57.4758430100375" lon="-4.10901225165932">
+<ele>150.079872962261</ele>
+<name>Cu040</name>
+</rtept>
+<rtept lat="57.4758901113384" lon="-4.10877478145748">
+<ele>149.953711607498</ele>
+<name>Cu041</name>
+</rtept>
+<rtept lat="57.4760214071113" lon="-4.10608025761654">
+<ele>152.523423214997</ele>
+<name>Cu042</name>
+</rtept>
+<rtept lat="57.4763365324658" lon="-4.10399675326516">
+<ele>151.839986365274</ele>
+<name>Cu043</name>
+</rtept>
+<rtept lat="57.4766240787842" lon="-4.10227191411827">
+<ele>152.448951664019</ele>
+<name>Cu044</name>
+</rtept>
+<rtept lat="57.4773209383642" lon="-4.10057054766042">
+<ele>150.916915624962</ele>
+<name>Cu045</name>
+</rtept>
+<rtept lat="57.4774951757426" lon="-4.09981993325693">
+<ele>150.713711607498</ele>
+<name>Cu046</name>
+</rtept>
+<rtept lat="57.47747796071" lon="-4.09955873411059">
+<ele>150.816438210787</ele>
+<name>Cu047</name>
+</rtept>
+<rtept lat="57.4777113776585" lon="-4.09849124483344">
+<ele>151.281711607501</ele>
+<name>Cu048</name>
+</rtept>
+<rtept lat="57.4776169672344" lon="-4.09768517749908">
+<ele>150.900258400929</ele>
+<name>Cu049</name>
+</rtept>
+<rtept lat="57.4778329454408" lon="-4.09701700187818">
+<ele>149.310837405256</ele>
+<name>Cu050</name>
+</rtept>
+<rtept lat="57.4780550372557" lon="-4.0966294003874">
+<ele>150.125022020747</ele>
+<name>Cu051</name>
+</rtept>
+<rtept lat="57.4782002590725" lon="-4.09567692469816">
+<ele>151.056438210786</ele>
+<name>Cu052</name>
+</rtept>
+<rtept lat="57.4781247167799" lon="-4.09503206734189">
+<ele>151.758494079177</ele>
+<name>Cu053</name>
+</rtept>
+<rtept lat="57.477929017676" lon="-4.09448041685193">
+<ele>152</ele>
+<name>Cu054</name>
+</rtept>
+<rtept lat="57.4778014138094" lon="-4.09437303009095">
+<ele>152.2337116075</ele>
+<name>Cu055</name>
+</rtept>
+<rtept lat="57.4776983431167" lon="-4.09408690136576">
+<ele>152.4737116075</ele>
+<name>Cu056</name>
+</rtept>
+<rtept lat="57.4770091167991" lon="-4.09338692797408">
+<ele>153</ele>
+<name>Cu057</name>
+</rtept>
+<rtept lat="57.4772079936965" lon="-4.09309806573934">
+<ele>153</ele>
+<name>Cu058</name>
+</rtept>
+<rtept lat="57.477291846478" lon="-4.09324297543988">
+<ele>153</ele>
+<name>Cu059</name>
+</rtept>
+<rtept lat="57.4774125119618" lon="-4.09246924822497">
+<ele>152.449273396714</ele>
+<name>Cu060</name>
+</rtept>
+<rtept lat="57.4774380381584" lon="-4.09223051389631">
+<ele>152.161273396714</ele>
+<name>Cu061</name>
+</rtept>
+<rtept lat="57.4777734756598" lon="-4.09150909021818">
+<ele>152</ele>
+<name>Cu062</name>
+</rtept>
+<rtept lat="57.4785690741832" lon="-4.09359628519518">
+<ele>151.5537116075</ele>
+<name>Cu063</name>
+</rtept>
+<rtept lat="57.4789201165292" lon="-4.09193494572889">
+<ele>151</ele>
+<name>Cu064</name>
+</rtept>
+<rtept lat="57.4800208613639" lon="-4.08797435324154">
+<ele>150</ele>
+<name>Cu065</name>
+</rtept>
+<rtept lat="57.480002959655" lon="-4.08775313837235">
+<ele>150</ele>
+<name>Cu066</name>
+</rtept>
+<rtept lat="57.4794689582403" lon="-4.08614130137629">
+<ele>149.721273396714</ele>
+<name>Cu067</name>
+</rtept>
+<rtept lat="57.4787750069518" lon="-4.08442031468945">
+<ele>146.104661534812</ele>
+<name>Cu068</name>
+</rtept>
+<rtept lat="57.478206791278" lon="-4.08226618777063">
+<ele>143.035849204109</ele>
+<name>Cu069</name>
+</rtept>
+<rtept lat="57.4775403824072" lon="-4.07952607779424">
+<ele>138.531085462985</ele>
+<name>Cu070</name>
+</rtept>
+<rtept lat="57.4766483561668" lon="-4.0767332327158">
+<ele>129.385367182224</ele>
+<name>Cu071</name>
+</rtept>
+<rtept lat="57.4762469168018" lon="-4.0762300775036">
+<ele>126.310864716386</ele>
+<name>Cu072</name>
+</rtept>
+<rtept lat="57.4760950564946" lon="-4.07432000180488">
+<ele>117.250536141039</ele>
+<name>Cu073</name>
+</rtept>
+<rtept lat="57.4761930751545" lon="-4.0736050041183">
+<ele>114.392241530026</ele>
+<name>Cu074</name>
+</rtept>
+<rtept lat="57.4768710329577" lon="-4.07106139222711">
+<ele>104.842574002667</ele>
+<name>Cu075</name>
+</rtept>
+<rtept lat="57.4749913789966" lon="-4.06799282579055">
+<ele>101.5422883925</ele>
+<name>Cu076</name>
+</rtept>
+<rtept lat="57.4748719003924" lon="-4.06804611740097">
+<ele>101.278288392501</ele>
+<name>Cu077</name>
+</rtept>
+<rtept lat="57.4733683501938" lon="-4.07162367792861">
+<ele>102.9377116075</ele>
+<name>Cu078</name>
+</rtept>
+<rtept lat="57.4733349763689" lon="-4.07234228637764">
+<ele>102.9857116075</ele>
+<name>Cu079</name>
+</rtept>
+<rtept lat="57.4734043887392" lon="-4.07336692459694">
+<ele>102.145032226028</ele>
+<name>Cu080</name>
+</rtept>
+<rtept lat="57.4731147744269" lon="-4.0739309133237">
+<ele>102.4177116075</ele>
+<name>Cu081</name>
+</rtept>
+<rtept lat="57.4726175247393" lon="-4.07466324387787">
+<ele>103.072438210787</ele>
+<name>Cu082</name>
+</rtept>
+<rtept lat="57.4725006755355" lon="-4.07455655251308">
+<ele>103.456438210786</ele>
+<name>Cu083</name>
+</rtept>
+<rtept lat="57.4733797794847" lon="-4.07158429725301">
+<ele>102.9137116075</ele>
+<name>Cu084</name>
+</rtept>
+<rtept lat="57.4748823446598" lon="-4.06806672232612">
+<ele>101.3022883925</ele>
+<name>Cu085</name>
+</rtept>
+<rtept lat="57.4750240236966" lon="-4.06797465598426">
+<ele>101.6142883925</ele>
+<name>Cu086</name>
+</rtept>
+<rtept lat="57.4768814767158" lon="-4.0710819991404">
+<ele>105.253359349143</ele>
+<name>Cu087</name>
+</rtept>
+<rtept lat="57.4761930751545" lon="-4.0736050041183">
+<ele>114.392241530026</ele>
+<name>Cu088</name>
+</rtept>
+<rtept lat="57.4762465875226" lon="-4.076250074262">
+<ele>126.360907952137</ele>
+<name>Cu089</name>
+</rtept>
+<rtept lat="57.4766695711705" lon="-4.07675445251254">
+<ele>129.460611137763</ele>
+<name>Cu090</name>
+</rtept>
+<rtept lat="57.4775615969237" lon="-4.07954729972864">
+<ele>138.614393418524</ele>
+<name>Cu091</name>
+</rtept>
+<rtept lat="57.478807653914" lon="-4.08440215779387">
+<ele>146.116122297954</ele>
+<name>Cu092</name>
+</rtept>
+<rtept lat="57.4800235104879" lon="-4.08781436385686">
+<ele>150</ele>
+<name>Cu093</name>
+</rtept>
+<rtept lat="57.4803864504148" lon="-4.08803525423518">
+<ele>150</ele>
+<name>Cu094</name>
+</rtept>
+<rtept lat="57.4832067366254" lon="-4.09222012263303">
+<ele>139.810149818287</ele>
+<name>Cu095</name>
+</rtept>
+<rtept lat="57.4842133002063" lon="-4.09393934715907">
+<ele>132.481487367557</ele>
+<name>Cu096</name>
+</rtept>
+<rtept lat="57.4844361919529" lon="-4.09415230696319">
+<ele>131.495414373702</ele>
+<name>Cu097</name>
+</rtept>
+<rtept lat="57.4845921256738" lon="-4.09450157629757">
+<ele>130.675718460659</ele>
+<name>Cu098</name>
+</rtept>
+<rtept lat="57.4857592401135" lon="-4.09629019433798">
+<ele>128.662914551018</ele>
+<name>Cu099</name>
+</rtept>
+<rtept lat="57.4863539555883" lon="-4.09748550296314">
+<ele>127.301453206572</ele>
+<name>Cu100</name>
+</rtept>
+<rtept lat="57.4864621330669" lon="-4.09811236231013">
+<ele>127</ele>
+<name>Cu101</name>
+</rtept>
+<rtept lat="57.4884462933094" lon="-4.10263108529351">
+<ele>124.467423215001</ele>
+<name>Cu102</name>
+</rtept>
+<rtept lat="57.4894133844871" lon="-4.1047690586386">
+<ele>117.266588029074</ele>
+<name>Cu103</name>
+</rtept>
+<rtept lat="57.4897278622313" lon="-4.10530775544994">
+<ele>113.145131277636</ele>
+<name>Cu104</name>
+</rtept>
+<rtept lat="57.4894511908636" lon="-4.10831527626708">
+<ele>107.908299636571</ele>
+<name>Cu105</name>
+</rtept>
+<rtept lat="57.4879468893045" lon="-4.11251327189675">
+<ele>104.163072172667</ele>
+<name>Cu106</name>
+</rtept>
+<rtept lat="57.4876355573074" lon="-4.11307592332409">
+<ele>105.949134822504</ele>
+<name>Cu107</name>
+</rtept>
+<rtept lat="57.4870455765864" lon="-4.11482375554948">
+<ele>110.005573033292</ele>
+<name>Cu108</name>
+</rtept>
+<rtept lat="57.4866019845159" lon="-4.11619959868584">
+<ele>109.048652648145</ele>
+<name>Cu109</name>
+</rtept>
+<rtept lat="57.4842542051547" lon="-4.12245016584428">
+<ele>106.634588029077</ele>
+<name>Cu110</name>
+</rtept>
+<rtept lat="57.4834614609088" lon="-4.12150328389969">
+<ele>113.353314632355</ele>
+<name>Cu111</name>
+</rtept>
+<rtept lat="57.4832985370365" lon="-4.12157391290662">
+<ele>114.145314632356</ele>
+<name>Cu112</name>
+</rtept>
+<rtept lat="57.4833988485621" lon="-4.12137953491614">
+<ele>114.21731463236</ele>
+<name>Cu113</name>
+</rtept>
+<rtept lat="57.4828491402176" lon="-4.1207270572807">
+<ele>119.128876421568</ele>
+<name>Cu114</name>
+</rtept>
+<rtept lat="57.4825004039743" lon="-4.12094706872662">
+<ele>120.037174333235</ele>
+<name>Cu115</name>
+</rtept>
+<rtept lat="57.4803823802165" lon="-4.12442750552836">
+<ele>120.970640528537</ele>
+<name>Cu116</name>
+</rtept>
+<rtept lat="57.4803631840487" lon="-4.12492683972852">
+<ele>120.134660022338</ele>
+<name>Cu117</name>
+</rtept>
+<rtept lat="57.480537879021" lon="-4.12543743826935">
+<ele>118.46316481407</ele>
+<name>Cu118</name>
+</rtept>
+<rtept lat="57.4803735870472" lon="-4.1262286119151">
+<ele>117.690107794379</ele>
+<name>Cu119</name>
+</rtept>
+<rtept lat="57.4798709777658" lon="-4.12726033870901">
+<ele>117.810149818286</ele>
+<name>Cu120</name>
+</rtept>
+<rtept lat="57.4796174622456" lon="-4.12822645832696">
+<ele>117.520876421568</ele>
+<name>Cu121</name>
+</rtept>
+<rtept lat="57.47968743154" lon="-4.12919137394154">
+<ele>114.917142704347</ele>
+<name>Cu122</name>
+</rtept>
+<rtept lat="57.4796173599214" lon="-4.13014813948148">
+<ele>112.911164814068</ele>
+<name>Cu123</name>
+</rtept>
+<rtept lat="57.4794944778966" lon="-4.13040121227764">
+<ele>112.672876421572</ele>
+<name>Cu124</name>
+</rtept>
+<rtept lat="57.4800017246231" lon="-4.13101126695714">
+<ele>109.962299424028</ele>
+<name>Cu125</name>
+</rtept>
+<rtept lat="57.481464227374" lon="-4.13251778274154">
+<ele>95.0750262398529</ele>
+<name>Cu126</name>
+</rtept>
+<rtept lat="57.481712263844" lon="-4.1331528230463">
+<ele>90.5390262398578</ele>
+<name>Cu127</name>
+</rtept>
+<rtept lat="57.4821249194224" lon="-4.13361730375848">
+<ele>85.2110262398526</ele>
+<name>Cu128</name>
+</rtept>
+<rtept lat="57.4823739656812" lon="-4.13419236487747">
+<ele>80.7797765557287</ele>
+<name>Cu129</name>
+</rtept>
+<rtept lat="57.4828788229671" lon="-4.13494251806248">
+<ele>70.5399026614195</ele>
+<name>Cu130</name>
+</rtept>
+<rtept lat="57.4835547353155" lon="-4.1351421261673">
+<ele>61.3291188983206</ele>
+<name>Cu131</name>
+</rtept>
+<rtept lat="57.4835853573543" lon="-4.13524401251187">
+<ele>60.8398246066586</ele>
+<name>Cu132</name>
+</rtept>
+<rtept lat="57.4837755236522" lon="-4.13547533209717">
+<ele>58.7259983636589</ele>
+<name>Cu133</name>
+</rtept>
+<rtept lat="57.4838037743416" lon="-4.13571722021031">
+<ele>57.6999676220562</ele>
+<name>Cu134</name>
+</rtept>
+<rtept lat="57.4834195772269" lon="-4.13675583195103">
+<ele>58.195026239854</ele>
+<name>Cu135</name>
+</rtept>
+<rtept lat="57.4830323199982" lon="-4.13797441884011">
+<ele>56.3541184370479</ele>
+<name>Cu136</name>
+</rtept>
+<rtept lat="57.483001619905" lon="-4.13851315035763">
+<ele>53.9777528431453</ele>
+<name>Cu137</name>
+</rtept>
+<rtept lat="57.4826211326177" lon="-4.13933171590626">
+<ele>53.5306546208799</ele>
+<name>Cu138</name>
+</rtept>
+<rtept lat="57.4827547178266" lon="-4.13971989612752">
+<ele>51.2216634276373</ele>
+<name>Cu139</name>
+</rtept>
+</rte>
+</gpx>

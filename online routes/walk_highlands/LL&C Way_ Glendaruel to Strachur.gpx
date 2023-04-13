@@ -1,0 +1,794 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>LL&amp;C Way: Glendaruel to Strachur</name>
+<rtept lat="56.0312634130133" lon="-5.21463837038977">
+<ele>31.1330974492261</ele>
+<name>CW3001</name>
+</rtept>
+<rtept lat="56.0326980229364" lon="-5.21443979786524">
+<ele>31.6071588265404</ele>
+<name>CW3002</name>
+</rtept>
+<rtept lat="56.0343618340088" lon="-5.21393270691183">
+<ele>37.2438972487953</ele>
+<name>CW3003</name>
+</rtept>
+<rtept lat="56.0363313395748" lon="-5.21245859739916">
+<ele>37.686168948723</ele>
+<name>CW3004</name>
+</rtept>
+<rtept lat="56.043145826859" lon="-5.20264665211093">
+<ele>55.4547419544136</ele>
+<name>CW3005</name>
+</rtept>
+<rtept lat="56.0429854655923" lon="-5.20238280345728">
+<ele>49.5266733224883</ele>
+<name>CW3006</name>
+</rtept>
+<rtept lat="56.0427125460751" lon="-5.20167598121045">
+<ele>42.8687802740455</ele>
+<name>CW3007</name>
+</rtept>
+<rtept lat="56.0425173038163" lon="-5.20026250616773">
+<ele>36.9982524441779</ele>
+<name>CW3008</name>
+</rtept>
+<rtept lat="56.0427248903119" lon="-5.19662745884625">
+<ele>27.4885047745361</ele>
+<name>CW3009</name>
+</rtept>
+<rtept lat="56.0434335513324" lon="-5.19488404558643">
+<ele>25.2832971679567</ele>
+<name>CW3010</name>
+</rtept>
+<rtept lat="56.04355325373" lon="-5.19317860978988">
+<ele>22.3517986511969</ele>
+<name>CW3011</name>
+</rtept>
+<rtept lat="56.044370513105" lon="-5.19140552438701">
+<ele>30.5623420413355</ele>
+<name>CW3012</name>
+</rtept>
+<rtept lat="56.0470963278192" lon="-5.18925029025271">
+<ele>33.8118788284506</ele>
+<name>CW3013</name>
+</rtept>
+<rtept lat="56.0490394218292" lon="-5.18586395405926">
+<ele>32.7203851254733</ele>
+<name>CW3014</name>
+</rtept>
+<rtept lat="56.0501872185822" lon="-5.18256595251344">
+<ele>26.6742195730128</ele>
+<name>CW3015</name>
+</rtept>
+<rtept lat="56.0518120182626" lon="-5.18001066318742">
+<ele>27.0620261311184</ele>
+<name>CW3016</name>
+</rtept>
+<rtept lat="56.0536990596563" lon="-5.178161128609">
+<ele>29.243067112583</ele>
+<name>CW3017</name>
+</rtept>
+<rtept lat="56.054563136405" lon="-5.1762368976995">
+<ele>27.1805190552344</ele>
+<name>CW3018</name>
+</rtept>
+<rtept lat="56.0579848042309" lon="-5.17239238899334">
+<ele>24.4469290216788</ele>
+<name>CW3019</name>
+</rtept>
+<rtept lat="56.0638273558432" lon="-5.16858205023318">
+<ele>29.0742838759281</ele>
+<name>CW3020</name>
+</rtept>
+<rtept lat="56.0647953225007" lon="-5.16743699392736">
+<ele>28.6235033351641</ele>
+<name>CW3021</name>
+</rtept>
+<rtept lat="56.0655029711044" lon="-5.16718652499238">
+<ele>30.3704431195363</ele>
+<name>CW3022</name>
+</rtept>
+<rtept lat="56.0662172373311" lon="-5.16688837896123">
+<ele>32.675824720264</ele>
+<name>CW3023</name>
+</rtept>
+<rtept lat="56.0677831548338" lon="-5.1657729803128">
+<ele>36.0918494487967</ele>
+<name>CW3024</name>
+</rtept>
+<rtept lat="56.0690970056302" lon="-5.16270822067617">
+<ele>31.3936683766885</ele>
+<name>CW3025</name>
+</rtept>
+<rtept lat="56.0699900568906" lon="-5.16153744318536">
+<ele>28.6854067736743</ele>
+<name>CW3026</name>
+</rtept>
+<rtept lat="56.0698881648998" lon="-5.16088300090443">
+<ele>30.0593466919603</ele>
+<name>CW3027</name>
+</rtept>
+<rtept lat="56.0710958718741" lon="-5.15690274129661">
+<ele>40.2202707807637</ele>
+<name>CW3028</name>
+</rtept>
+<rtept lat="56.0713054818948" lon="-5.15587838984775">
+<ele>39.7355053860085</ele>
+<name>CW3029</name>
+</rtept>
+<rtept lat="56.0719138608699" lon="-5.15507950705508">
+<ele>46.8589989615179</ele>
+<name>CW3030</name>
+</rtept>
+<rtept lat="56.0718441983848" lon="-5.15463984593634">
+<ele>43.9117473327937</ele>
+<name>CW3031</name>
+</rtept>
+<rtept lat="56.0708047483818" lon="-5.15552290570814">
+<ele>34.6096257666359</ele>
+<name>CW3032</name>
+</rtept>
+<rtept lat="56.0668123000278" lon="-5.15626192907983">
+<ele>30.4588739665345</ele>
+<name>CW3033</name>
+</rtept>
+<rtept lat="56.0653649320182" lon="-5.15710454886008">
+<ele>32.2593126587902</ele>
+<name>CW3034</name>
+</rtept>
+<rtept lat="56.0653740045778" lon="-5.1567501422552">
+<ele>34.2439257410209</ele>
+<name>CW3035</name>
+</rtept>
+<rtept lat="56.0659474340832" lon="-5.15443631819385">
+<ele>43.5075394258155</ele>
+<name>CW3036</name>
+</rtept>
+<rtept lat="56.0653726844239" lon="-5.15131835290743">
+<ele>66.8772591136699</ele>
+<name>CW3037</name>
+</rtept>
+<rtept lat="56.0654911238112" lon="-5.14942693224488">
+<ele>70.7099190779962</ele>
+<name>CW3038</name>
+</rtept>
+<rtept lat="56.0651288697505" lon="-5.14576235380111">
+<ele>82.1991801610108</ele>
+<name>CW3039</name>
+</rtept>
+<rtept lat="56.0648320918335" lon="-5.14456828340857">
+<ele>94.8130073496763</ele>
+<name>CW3040</name>
+</rtept>
+<rtept lat="56.0644588885944" lon="-5.14453787611335">
+<ele>104.683224596505</ele>
+<name>CW3041</name>
+</rtept>
+<rtept lat="56.0643740926119" lon="-5.1441967198467">
+<ele>108.381796740267</ele>
+<name>CW3042</name>
+</rtept>
+<rtept lat="56.0644213328582" lon="-5.14326049635171">
+<ele>113.785363050091</ele>
+<name>CW3043</name>
+</rtept>
+<rtept lat="56.0642357937139" lon="-5.14320360494586">
+<ele>117.232252635189</ele>
+<name>CW3044</name>
+</rtept>
+<rtept lat="56.0638858872839" lon="-5.14363469312859">
+<ele>117.917875910154</ele>
+<name>CW3045</name>
+</rtept>
+<rtept lat="56.0637655694952" lon="-5.14331154127058">
+<ele>120.30044766022</ele>
+<name>CW3046</name>
+</rtept>
+<rtept lat="56.0635912360475" lon="-5.14189771131689">
+<ele>134.047543320786</ele>
+<name>CW3047</name>
+</rtept>
+<rtept lat="56.0637588192472" lon="-5.14036548522581">
+<ele>143.917436085431</ele>
+<name>CW3048</name>
+</rtept>
+<rtept lat="56.0636056280399" lon="-5.13995611049793">
+<ele>148.332609868118</ele>
+<name>CW3049</name>
+</rtept>
+<rtept lat="56.0636676704934" lon="-5.139355346465">
+<ele>150.333826903579</ele>
+<name>CW3050</name>
+</rtept>
+<rtept lat="56.0636247752672" lon="-5.13506940578817">
+<ele>166.097919632454</ele>
+<name>CW3051</name>
+</rtept>
+<rtept lat="56.0629181076411" lon="-5.1339048574447">
+<ele>176.767788739771</ele>
+<name>CW3052</name>
+</rtept>
+<rtept lat="56.0629710822786" lon="-5.13227976812786">
+<ele>173.242600673184</ele>
+<name>CW3053</name>
+</rtept>
+<rtept lat="56.0622176742909" lon="-5.12973281382069">
+<ele>155.446358369203</ele>
+<name>CW3054</name>
+</rtept>
+<rtept lat="56.0614553377082" lon="-5.12937855894619">
+<ele>154.596597909516</ele>
+<name>CW3055</name>
+</rtept>
+<rtept lat="56.0613879800396" lon="-5.12880910223295">
+<ele>147.362895757954</ele>
+<name>CW3056</name>
+</rtept>
+<rtept lat="56.0617319901821" lon="-5.1281476529716">
+<ele>151.35106182143</ele>
+<name>CW3057</name>
+</rtept>
+<rtept lat="56.0617737887193" lon="-5.12696037123474">
+<ele>172.982236208238</ele>
+<name>CW3058</name>
+</rtept>
+<rtept lat="56.0620424911008" lon="-5.1260421310928">
+<ele>176.492819213532</ele>
+<name>CW3059</name>
+</rtept>
+<rtept lat="56.0627067053739" lon="-5.1256572476527">
+<ele>175.844175737664</ele>
+<name>CW3060</name>
+</rtept>
+<rtept lat="56.0626785453193" lon="-5.12492383805243">
+<ele>184.428263419215</ele>
+<name>CW3061</name>
+</rtept>
+<rtept lat="56.0628089493974" lon="-5.12485083783027">
+<ele>182.558664924365</ele>
+<name>CW3062</name>
+</rtept>
+<rtept lat="56.0633305653106" lon="-5.12455883215469">
+<ele>183.606389291898</ele>
+<name>CW3063</name>
+</rtept>
+<rtept lat="56.0633410838154" lon="-5.12368231391734">
+<ele>195.352957137676</ele>
+<name>CW3064</name>
+</rtept>
+<rtept lat="56.0638386959022" lon="-5.12203049533149">
+<ele>204.857409879556</ele>
+<name>CW3065</name>
+</rtept>
+<rtept lat="56.0647949437106" lon="-5.12118866481587">
+<ele>206.530346590688</ele>
+<name>CW3066</name>
+</rtept>
+<rtept lat="56.0648643377233" lon="-5.120755575042">
+<ele>209.791445282607</ele>
+<name>CW3067</name>
+</rtept>
+<rtept lat="56.0652496827277" lon="-5.12030624661992">
+<ele>208.082504874927</ele>
+<name>CW3068</name>
+</rtept>
+<rtept lat="56.0649558819363" lon="-5.11944686943702">
+<ele>218.283959527425</ele>
+<name>CW3069</name>
+</rtept>
+<rtept lat="56.0649981899497" lon="-5.11869822684926">
+<ele>219.453828777782</ele>
+<name>CW3070</name>
+</rtept>
+<rtept lat="56.0655303350789" lon="-5.11798915592647">
+<ele>218.28254346641</ele>
+<name>CW3071</name>
+</rtept>
+<rtept lat="56.0661247139224" lon="-5.11527953699612">
+<ele>231.617441962121</ele>
+<name>CW3072</name>
+</rtept>
+<rtept lat="56.0669314848541" lon="-5.11480147958321">
+<ele>229.068810033625</ele>
+<name>CW3073</name>
+</rtept>
+<rtept lat="56.0674075585178" lon="-5.11492347214005">
+<ele>226.602938164299</ele>
+<name>CW3074</name>
+</rtept>
+<rtept lat="56.0675526190989" lon="-5.11380701478047">
+<ele>230.184767265643</ele>
+<name>CW3075</name>
+</rtept>
+<rtept lat="56.0680810530756" lon="-5.11324377823506">
+<ele>230.135502249661</ele>
+<name>CW3076</name>
+</rtept>
+<rtept lat="56.0684969773377" lon="-5.11204467767332">
+<ele>232.604658440485</ele>
+<name>CW3077</name>
+</rtept>
+<rtept lat="56.0694213272803" lon="-5.11107457558096">
+<ele>231.225761109252</ele>
+<name>CW3078</name>
+</rtept>
+<rtept lat="56.0699109851236" lon="-5.11019475190058">
+<ele>232.698658440477</ele>
+<name>CW3079</name>
+</rtept>
+<rtept lat="56.0702920872056" lon="-5.10991206805752">
+<ele>232.544261010481</ele>
+<name>CW3080</name>
+</rtept>
+<rtept lat="56.0718751263801" lon="-5.10784576057857">
+<ele>230.98202884262</ele>
+<name>CW3081</name>
+</rtept>
+<rtept lat="56.0721267743632" lon="-5.10713472614763">
+<ele>235.956329193558</ele>
+<name>CW3082</name>
+</rtept>
+<rtept lat="56.0756393526471" lon="-5.10269505941208">
+<ele>240.069563690621</ele>
+<name>CW3083</name>
+</rtept>
+<rtept lat="56.0769706645063" lon="-5.10133934395206">
+<ele>239.694452922466</ele>
+<name>CW3084</name>
+</rtept>
+<rtept lat="56.0770979122678" lon="-5.09953153176492">
+<ele>244.564455545175</ele>
+<name>CW3085</name>
+</rtept>
+<rtept lat="56.0773436138789" lon="-5.0985900037241">
+<ele>246.390485772527</ele>
+<name>CW3086</name>
+</rtept>
+<rtept lat="56.0774281199921" lon="-5.09755193166678">
+<ele>252.311162976978</ele>
+<name>CW3087</name>
+</rtept>
+<rtept lat="56.0777926760732" lon="-5.09699607722969">
+<ele>255.023577998188</ele>
+<name>CW3088</name>
+</rtept>
+<rtept lat="56.0805662573855" lon="-5.09358236030601">
+<ele>264.6791483744</ele>
+<name>CW3089</name>
+</rtept>
+<rtept lat="56.0821577228864" lon="-5.09210072614692">
+<ele>262.398913889524</ele>
+<name>CW3090</name>
+</rtept>
+<rtept lat="56.0835921581538" lon="-5.09035558360536">
+<ele>272.219526111992</ele>
+<name>CW3091</name>
+</rtept>
+<rtept lat="56.0846639667129" lon="-5.08862307534727">
+<ele>275.812325201268</ele>
+<name>CW3092</name>
+</rtept>
+<rtept lat="56.0856944758813" lon="-5.08573757966142">
+<ele>288.02250684733</ele>
+<name>CW3093</name>
+</rtept>
+<rtept lat="56.0870303766438" lon="-5.08185213526123">
+<ele>314.292227979859</ele>
+<name>CW3094</name>
+</rtept>
+<rtept lat="56.0896629572665" lon="-5.07704565272044">
+<ele>345.60475161814</ele>
+<name>CW3095</name>
+</rtept>
+<rtept lat="56.0928362014893" lon="-5.07351502671905">
+<ele>351.391200643586</ele>
+<name>CW3096</name>
+</rtept>
+<rtept lat="56.0938709479377" lon="-5.07232225494699">
+<ele>354.84832458377</ele>
+<name>CW3097</name>
+</rtept>
+<rtept lat="56.094682802856" lon="-5.0706935378159">
+<ele>361.95615556143</ele>
+<name>CW3098</name>
+</rtept>
+<rtept lat="56.0975215180425" lon="-5.06744895210789">
+<ele>369.447252511338</ele>
+<name>CW3099</name>
+</rtept>
+<rtept lat="56.0988768137673" lon="-5.06699227033751">
+<ele>365.230457740194</ele>
+<name>CW3100</name>
+</rtept>
+<rtept lat="56.1020459033233" lon="-5.06408699017256">
+<ele>362.398205560839</ele>
+<name>CW3101</name>
+</rtept>
+<rtept lat="56.1039382231861" lon="-5.06365192131747">
+<ele>348.953338595648</ele>
+<name>CW3102</name>
+</rtept>
+<rtept lat="56.1050115114731" lon="-5.06325627065965">
+<ele>342.219208012347</ele>
+<name>CW3103</name>
+</rtept>
+<rtept lat="56.1057113167648" lon="-5.06331189746097">
+<ele>338.014405248724</ele>
+<name>CW3104</name>
+</rtept>
+<rtept lat="56.1066866436535" lon="-5.06403772666438">
+<ele>336.030510646934</ele>
+<name>CW3105</name>
+</rtept>
+<rtept lat="56.107288477039" lon="-5.0652148910392">
+<ele>331.526429990404</ele>
+<name>CW3106</name>
+</rtept>
+<rtept lat="56.1092372774369" lon="-5.067210369442">
+<ele>316.004473372918</ele>
+<name>CW3107</name>
+</rtept>
+<rtept lat="56.1100124973127" lon="-5.06752305638617">
+<ele>306.52492204037</ele>
+<name>CW3108</name>
+</rtept>
+<rtept lat="56.1106109608953" lon="-5.0674242980458">
+<ele>303.058783451331</ele>
+<name>CW3109</name>
+</rtept>
+<rtept lat="56.1111573112439" lon="-5.06801159223571">
+<ele>293.972754756279</ele>
+<name>CW3110</name>
+</rtept>
+<rtept lat="56.1122285363548" lon="-5.06769949477357">
+<ele>289.417316880941</ele>
+<name>CW3111</name>
+</rtept>
+<rtept lat="56.1126924761928" lon="-5.06784101681938">
+<ele>282.619440411304</ele>
+<name>CW3112</name>
+</rtept>
+<rtept lat="56.1144728417064" lon="-5.06720886270896">
+<ele>261.234238638341</ele>
+<name>CW3113</name>
+</rtept>
+<rtept lat="56.1166054546276" lon="-5.06509858306405">
+<ele>246.46598793645</ele>
+<name>CW3114</name>
+</rtept>
+<rtept lat="56.1170875428594" lon="-5.06450938910952">
+<ele>244.232828789614</ele>
+<name>CW3115</name>
+</rtept>
+<rtept lat="56.1178671751614" lon="-5.0641739561167">
+<ele>234.2031868819</ele>
+<name>CW3116</name>
+</rtept>
+<rtept lat="56.1195469530111" lon="-5.0628850424562">
+<ele>220.74840015417</ele>
+<name>CW3117</name>
+</rtept>
+<rtept lat="56.1206108761586" lon="-5.06098221462889">
+<ele>211.311723666192</ele>
+<name>CW3118</name>
+</rtept>
+<rtept lat="56.1215547913777" lon="-5.05967645696767">
+<ele>202.594525826495</ele>
+<name>CW3119</name>
+</rtept>
+<rtept lat="56.1217631421549" lon="-5.058814328236">
+<ele>198.200536595493</ele>
+<name>CW3120</name>
+</rtept>
+<rtept lat="56.121883117656" lon="-5.05821714690914">
+<ele>193.8918067398</ele>
+<name>CW3121</name>
+</rtept>
+<rtept lat="56.1229878030782" lon="-5.05891159707217">
+<ele>189.569267411699</ele>
+<name>CW3122</name>
+</rtept>
+<rtept lat="56.1243386489469" lon="-5.05816107972603">
+<ele>177.146372333539</ele>
+<name>CW3123</name>
+</rtept>
+<rtept lat="56.1254154274763" lon="-5.05573583911551">
+<ele>158.493737638896</ele>
+<name>CW3124</name>
+</rtept>
+<rtept lat="56.1252756912457" lon="-5.05524352494189">
+<ele>156.062295678976</ele>
+<name>CW3125</name>
+</rtept>
+<rtept lat="56.12490762855" lon="-5.05500509675833">
+<ele>153.138076371523</ele>
+<name>CW3126</name>
+</rtept>
+<rtept lat="56.1243440910592" lon="-5.05416534168666">
+<ele>143.022231312586</ele>
+<name>CW3127</name>
+</rtept>
+<rtept lat="56.1234330081454" lon="-5.05367464998557">
+<ele>132.092345040295</ele>
+<name>CW3128</name>
+</rtept>
+<rtept lat="56.1253317920767" lon="-5.05344860822254">
+<ele>130.029298971791</ele>
+<name>CW3129</name>
+</rtept>
+<rtept lat="56.126242358785" lon="-5.05396020280462">
+<ele>121.017134144192</ele>
+<name>CW3130</name>
+</rtept>
+<rtept lat="56.1263198698121" lon="-5.05413373748228">
+<ele>121.451178954623</ele>
+<name>CW3131</name>
+</rtept>
+<rtept lat="56.1269092439218" lon="-5.05392939909402">
+<ele>102.786944080893</ele>
+<name>CW3132</name>
+</rtept>
+<rtept lat="56.1270505353757" lon="-5.05435908130186">
+<ele>97.8472905560873</ele>
+<name>CW3133</name>
+</rtept>
+<rtept lat="56.1270591681611" lon="-5.05542688110511">
+<ele>98.6910882763826</ele>
+<name>CW3134</name>
+</rtept>
+<rtept lat="56.1272452666987" lon="-5.05546257200089">
+<ele>107.592267662532</ele>
+<name>CW3135</name>
+</rtept>
+<rtept lat="56.1273455176177" lon="-5.05471726373374">
+<ele>101.526369216217</ele>
+<name>CW3136</name>
+</rtept>
+<rtept lat="56.1275652785454" lon="-5.05433714013006">
+<ele>100.813728641968</ele>
+<name>CW3137</name>
+</rtept>
+<rtept lat="56.1276963803023" lon="-5.05376166294429">
+<ele>97.3545472411886</ele>
+<name>CW3138</name>
+</rtept>
+<rtept lat="56.1280643648582" lon="-5.05305849494051">
+<ele>100.865361257425</ele>
+<name>CW3139</name>
+</rtept>
+<rtept lat="56.1278468015115" lon="-5.05193225976503">
+<ele>88.0548762612743</ele>
+<name>CW3140</name>
+</rtept>
+<rtept lat="56.1276544111874" lon="-5.05120559057578">
+<ele>87.1090062690277</ele>
+<name>CW3141</name>
+</rtept>
+<rtept lat="56.1271313093162" lon="-5.05062012008963">
+<ele>80.0176715251808</ele>
+<name>CW3142</name>
+</rtept>
+<rtept lat="56.1266592978232" lon="-5.05033164268817">
+<ele>67.4564817763348</ele>
+<name>CW3143</name>
+</rtept>
+<rtept lat="56.1264018728251" lon="-5.04987185861809">
+<ele>66.5403046862504</ele>
+<name>CW3144</name>
+</rtept>
+<rtept lat="56.1261792338719" lon="-5.0498960716263">
+<ele>64.7490250356225</ele>
+<name>CW3145</name>
+</rtept>
+<rtept lat="56.1260806551823" lon="-5.04915595006609">
+<ele>59.0966820249918</ele>
+<name>CW3146</name>
+</rtept>
+<rtept lat="56.1259753674171" lon="-5.04868730282612">
+<ele>55.9788401992958</ele>
+<name>CW3147</name>
+</rtept>
+<rtept lat="56.1261019982214" lon="-5.04781855168074">
+<ele>53.7531151197205</ele>
+<name>CW3148</name>
+</rtept>
+<rtept lat="56.1265681064006" lon="-5.0462110169184">
+<ele>41.4607998227578</ele>
+<name>CW3149</name>
+</rtept>
+<rtept lat="56.1287180784748" lon="-5.04432888383005">
+<ele>35.6733481250325</ele>
+<name>CW3150</name>
+</rtept>
+<rtept lat="56.1306910839897" lon="-5.04306033281443">
+<ele>32.6733984615118</ele>
+<name>CW3151</name>
+</rtept>
+<rtept lat="56.130740570271" lon="-5.042146731128">
+<ele>29.2870068112708</ele>
+<name>CW3152</name>
+</rtept>
+<rtept lat="56.1307560091991" lon="-5.04152017888294">
+<ele>28.7671633757061</ele>
+<name>CW3153</name>
+</rtept>
+<rtept lat="56.1310710830458" lon="-5.04077242084977">
+<ele>29</ele>
+<name>CW3154</name>
+</rtept>
+<rtept lat="56.1313273790186" lon="-5.04076851795941">
+<ele>29</ele>
+<name>CW3155</name>
+</rtept>
+<rtept lat="56.1320808315879" lon="-5.04138338382097">
+<ele>28.666510182545</ele>
+<name>CW3156</name>
+</rtept>
+<rtept lat="56.1325449347201" lon="-5.04115444001454">
+<ele>28.4002269534538</ele>
+<name>CW3157</name>
+</rtept>
+<rtept lat="56.1327693616962" lon="-5.04025460789701">
+<ele>28</ele>
+<name>CW3158</name>
+</rtept>
+<rtept lat="56.1331170882483" lon="-5.03982328444042">
+<ele>27.3823619955603</ele>
+<name>CW3159</name>
+</rtept>
+<rtept lat="56.1343522592278" lon="-5.04004155633612">
+<ele>27.511423442167</ele>
+<name>CW3160</name>
+</rtept>
+<rtept lat="56.1352984750397" lon="-5.0399472470086">
+<ele>28.091423442167</ele>
+<name>CW3161</name>
+</rtept>
+<rtept lat="56.1354104999479" lon="-5.04087371755093">
+<ele>32.0150924304698</ele>
+<name>CW3162</name>
+</rtept>
+<rtept lat="56.1355771424512" lon="-5.04122495516283">
+<ele>36.757713438299</ele>
+<name>CW3163</name>
+</rtept>
+<rtept lat="56.1363430611451" lon="-5.04133376576692">
+<ele>38.6104882059517</ele>
+<name>CW3164</name>
+</rtept>
+<rtept lat="56.1367135518729" lon="-5.04107325308329">
+<ele>36.9636605273263</ele>
+<name>CW3165</name>
+</rtept>
+<rtept lat="56.1370139789439" lon="-5.04037251853555">
+<ele>34.081683825353</ele>
+<name>CW3166</name>
+</rtept>
+<rtept lat="56.1372629437373" lon="-5.03957111270754">
+<ele>30.3668516166761</ele>
+<name>CW3167</name>
+</rtept>
+<rtept lat="56.1374663763871" lon="-5.03842801238736">
+<ele>26.9457117210835</ele>
+<name>CW3168</name>
+</rtept>
+<rtept lat="56.1386475295224" lon="-5.03919745476468">
+<ele>34.0095661196049</ele>
+<name>CW3169</name>
+</rtept>
+<rtept lat="56.1398494468768" lon="-5.03912330895495">
+<ele>29.302846884334</ele>
+<name>CW3170</name>
+</rtept>
+<rtept lat="56.1405280919025" lon="-5.03949086405008">
+<ele>30.4990557573868</ele>
+<name>CW3171</name>
+</rtept>
+<rtept lat="56.1415014308964" lon="-5.0404855051858">
+<ele>29.7139800399637</ele>
+<name>CW3172</name>
+</rtept>
+<rtept lat="56.1425505564561" lon="-5.04223491471176">
+<ele>28.7826949418376</ele>
+<name>CW3173</name>
+</rtept>
+<rtept lat="56.1432333197092" lon="-5.04407620700535">
+<ele>33.6399241092641</ele>
+<name>CW3174</name>
+</rtept>
+<rtept lat="56.1434460561787" lon="-5.04474516814783">
+<ele>34.3960920562175</ele>
+<name>CW3175</name>
+</rtept>
+<rtept lat="56.1442043976288" lon="-5.04625438377737">
+<ele>37.5967391540487</ele>
+<name>CW3176</name>
+</rtept>
+<rtept lat="56.1443753323788" lon="-5.04752390671264">
+<ele>39.1886510249569</ele>
+<name>CW3177</name>
+</rtept>
+<rtept lat="56.1460330170313" lon="-5.0530175498698">
+<ele>40.6231215407088</ele>
+<name>CW3178</name>
+</rtept>
+<rtept lat="56.146085998618" lon="-5.05360146902412">
+<ele>40.7431215407088</ele>
+<name>CW3179</name>
+</rtept>
+<rtept lat="56.1480552814708" lon="-5.05793675940319">
+<ele>38.4732045848898</ele>
+<name>CW3180</name>
+</rtept>
+<rtept lat="56.1483663255018" lon="-5.05844460650413">
+<ele>38.6614602599884</ele>
+<name>CW3181</name>
+</rtept>
+<rtept lat="56.1484982355804" lon="-5.05910731437331">
+<ele>39.6231181120447</ele>
+<name>CW3182</name>
+</rtept>
+<rtept lat="56.1514742524007" lon="-5.06361997255213">
+<ele>40.2877837028834</ele>
+<name>CW3183</name>
+</rtept>
+<rtept lat="56.1521309833449" lon="-5.06432455822586">
+<ele>44.6609579471903</ele>
+<name>CW3184</name>
+</rtept>
+<rtept lat="56.1525664156736" lon="-5.06416597207533">
+<ele>44.3874619810117</ele>
+<name>CW3185</name>
+</rtept>
+<rtept lat="56.1533502546876" lon="-5.06355194459198">
+<ele>40.342846884334</ele>
+<name>CW3186</name>
+</rtept>
+<rtept lat="56.1541918093551" lon="-5.06332904825971">
+<ele>38.902846884334</ele>
+<name>CW3187</name>
+</rtept>
+<rtept lat="56.1552878634202" lon="-5.06317473112632">
+<ele>43.2982919587783</ele>
+<name>CW3188</name>
+</rtept>
+<rtept lat="56.1558758144" lon="-5.06339068161399">
+<ele>44.5518935901039</ele>
+<name>CW3189</name>
+</rtept>
+<rtept lat="56.1578122260684" lon="-5.06306166904395">
+<ele>53.077402293708</ele>
+<name>CW3190</name>
+</rtept>
+<rtept lat="56.1597486336341" lon="-5.06381998316699">
+<ele>61.2735205756788</ele>
+<name>CW3191</name>
+</rtept>
+<rtept lat="56.1603350909078" lon="-5.06355257503633">
+<ele>57.4367815918138</ele>
+<name>CW3192</name>
+</rtept>
+<rtept lat="56.1629156756042" lon="-5.06334735201484">
+<ele>56.5917329999486</ele>
+<name>CW3193</name>
+</rtept>
+<rtept lat="56.1644615122483" lon="-5.06354300476966">
+<ele>51.9671724888561</ele>
+<name>CW3194</name>
+</rtept>
+<rtept lat="56.1646657702303" lon="-5.06346261255205">
+<ele>49.9330348957971</ele>
+<name>CW3195</name>
+</rtept>
+<rtept lat="56.1647566859286" lon="-5.06305902331552">
+<ele>47.8158400730632</ele>
+<name>CW3196</name>
+</rtept>
+</rte>
+</gpx>

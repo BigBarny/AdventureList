@@ -1,0 +1,970 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Sgiath Chuil and Meal Glas from Glen Lochay</name>
+<rtept lat="56.498556" lon="-4.4775">
+<ele>203.327148</ele>
+<name>SgCh001</name>
+</rtept>
+<rtept lat="56.498017" lon="-4.478057">
+<ele>194.830383</ele>
+<name>SgCh002</name>
+</rtept>
+<rtept lat="56.497767" lon="-4.478754">
+<ele>190.735962</ele>
+<name>SgCh003</name>
+</rtept>
+<rtept lat="56.497638" lon="-4.480648">
+<ele>194.42981</ele>
+<name>SgCh004</name>
+</rtept>
+<rtept lat="56.496973" lon="-4.483491">
+<ele>206.986328</ele>
+<name>SgCh005</name>
+</rtept>
+<rtept lat="56.495817" lon="-4.486744">
+<ele>199.903809</ele>
+<name>SgCh006</name>
+</rtept>
+<rtept lat="56.495612" lon="-4.488022">
+<ele>209.740173</ele>
+<name>SgCh007</name>
+</rtept>
+<rtept lat="56.495448" lon="-4.490931">
+<ele>214.159668</ele>
+<name>SgCh008</name>
+</rtept>
+<rtept lat="56.494623" lon="-4.494338">
+<ele>209.343445</ele>
+<name>SgCh009</name>
+</rtept>
+<rtept lat="56.493495" lon="-4.49795">
+<ele>216.27832</ele>
+<name>SgCh010</name>
+</rtept>
+<rtept lat="56.492863" lon="-4.499402">
+<ele>211.103577</ele>
+<name>SgCh011</name>
+</rtept>
+<rtept lat="56.492299" lon="-4.500266">
+<ele>208.829134</ele>
+<name>SgCh012</name>
+</rtept>
+<rtept lat="56.490614" lon="-4.504114">
+<ele>226.875388</ele>
+<name>SgCh013</name>
+</rtept>
+<rtept lat="56.489928" lon="-4.506536">
+<ele>221.057414</ele>
+<name>SgCh014</name>
+</rtept>
+<rtept lat="56.488921" lon="-4.508758">
+<ele>216.555177</ele>
+<name>SgCh015</name>
+</rtept>
+<rtept lat="56.487714" lon="-4.510712">
+<ele>228.101441</ele>
+<name>SgCh016</name>
+</rtept>
+<rtept lat="56.487165" lon="-4.514166">
+<ele>219.502538</ele>
+<name>SgCh017</name>
+</rtept>
+<rtept lat="56.487136" lon="-4.515578">
+<ele>227.280215</ele>
+<name>SgCh018</name>
+</rtept>
+<rtept lat="56.486781" lon="-4.515458">
+<ele>224.851376</ele>
+<name>SgCh019</name>
+</rtept>
+<rtept lat="56.485939" lon="-4.51668">
+<ele>227.689019</ele>
+<name>SgCh020</name>
+</rtept>
+<rtept lat="56.485307" lon="-4.515571">
+<ele>230.124238</ele>
+<name>SgCh021</name>
+</rtept>
+<rtept lat="56.48479" lon="-4.515239">
+<ele>239.191729</ele>
+<name>SgCh022</name>
+</rtept>
+<rtept lat="56.484392" lon="-4.515604">
+<ele>240.633874</ele>
+<name>SgCh023</name>
+</rtept>
+<rtept lat="56.48396" lon="-4.515382">
+<ele>242.105465</ele>
+<name>SgCh024</name>
+</rtept>
+<rtept lat="56.483586" lon="-4.515548">
+<ele>242.810002</ele>
+<name>SgCh025</name>
+</rtept>
+<rtept lat="56.483416" lon="-4.515901">
+<ele>255.85998</ele>
+<name>SgCh026</name>
+</rtept>
+<rtept lat="56.483189" lon="-4.515733">
+<ele>257.611751</ele>
+<name>SgCh027</name>
+</rtept>
+<rtept lat="56.482884" lon="-4.515926">
+<ele>260.023453</ele>
+<name>SgCh028</name>
+</rtept>
+<rtept lat="56.481947" lon="-4.517698">
+<ele>288.859751</ele>
+<name>SgCh029</name>
+</rtept>
+<rtept lat="56.48148" lon="-4.517987">
+<ele>294.267528</ele>
+<name>SgCh030</name>
+</rtept>
+<rtept lat="56.480532" lon="-4.51738">
+<ele>312.265378</ele>
+<name>SgCh031</name>
+</rtept>
+<rtept lat="56.47998" lon="-4.516075">
+<ele>323.50223</ele>
+<name>SgCh032</name>
+</rtept>
+<rtept lat="56.478883" lon="-4.51518">
+<ele>342.813366</ele>
+<name>SgCh033</name>
+</rtept>
+<rtept lat="56.478594" lon="-4.514124">
+<ele>351.816919</ele>
+<name>SgCh034</name>
+</rtept>
+<rtept lat="56.478068" lon="-4.513484">
+<ele>358.705463</ele>
+<name>SgCh035</name>
+</rtept>
+<rtept lat="56.477763" lon="-4.513373">
+<ele>371.254493</ele>
+<name>SgCh036</name>
+</rtept>
+<rtept lat="56.477596" lon="-4.512876">
+<ele>380.162727</ele>
+<name>SgCh037</name>
+</rtept>
+<rtept lat="56.477228" lon="-4.512531">
+<ele>388.359423</ele>
+<name>SgCh038</name>
+</rtept>
+<rtept lat="56.476051" lon="-4.512675">
+<ele>414.042258</ele>
+<name>SgCh039</name>
+</rtept>
+<rtept lat="56.475769" lon="-4.512886">
+<ele>410.566741</ele>
+<name>SgCh040</name>
+</rtept>
+<rtept lat="56.475176" lon="-4.512655">
+<ele>412.816933</ele>
+<name>SgCh041</name>
+</rtept>
+<rtept lat="56.474942" lon="-4.512227">
+<ele>418.931683</ele>
+<name>SgCh042</name>
+</rtept>
+<rtept lat="56.474567" lon="-4.512196">
+<ele>428.474043</ele>
+<name>SgCh043</name>
+</rtept>
+<rtept lat="56.473857" lon="-4.509596">
+<ele>440.469671</ele>
+<name>SgCh044</name>
+</rtept>
+<rtept lat="56.473342" lon="-4.509236">
+<ele>452.976057</ele>
+<name>SgCh045</name>
+</rtept>
+<rtept lat="56.472391" lon="-4.509154">
+<ele>479.169072</ele>
+<name>SgCh046</name>
+</rtept>
+<rtept lat="56.47198" lon="-4.509576">
+<ele>493.840114</ele>
+<name>SgCh047</name>
+</rtept>
+<rtept lat="56.471665" lon="-4.509569">
+<ele>499.697807</ele>
+<name>SgCh048</name>
+</rtept>
+<rtept lat="56.47148" lon="-4.509874">
+<ele>505.111626</ele>
+<name>SgCh049</name>
+</rtept>
+<rtept lat="56.470721" lon="-4.510171">
+<ele>528.776576</ele>
+<name>SgCh050</name>
+</rtept>
+<rtept lat="56.470613" lon="-4.510386">
+<ele>532.808799</ele>
+<name>SgCh051</name>
+</rtept>
+<rtept lat="56.470731" lon="-4.51121">
+<ele>545.897419</ele>
+<name>SgCh052</name>
+</rtept>
+<rtept lat="56.469983" lon="-4.512658">
+<ele>554.08682</ele>
+<name>SgCh053</name>
+</rtept>
+<rtept lat="56.469503" lon="-4.512331">
+<ele>558.443108</ele>
+<name>SgCh054</name>
+</rtept>
+<rtept lat="56.469322" lon="-4.511828">
+<ele>561.236867</ele>
+<name>SgCh055</name>
+</rtept>
+<rtept lat="56.46842" lon="-4.512312">
+<ele>589.182684</ele>
+<name>SgCh056</name>
+</rtept>
+<rtept lat="56.468308" lon="-4.51305">
+<ele>597.906782</ele>
+<name>SgCh057</name>
+</rtept>
+<rtept lat="56.467435" lon="-4.514287">
+<ele>603.289289</ele>
+<name>SgCh058</name>
+</rtept>
+<rtept lat="56.467055" lon="-4.515493">
+<ele>614.056801</ele>
+<name>SgCh059</name>
+</rtept>
+<rtept lat="56.467188" lon="-4.516148">
+<ele>616.568219</ele>
+<name>SgCh060</name>
+</rtept>
+<rtept lat="56.467122" lon="-4.516688">
+<ele>618.859516</ele>
+<name>SgCh061</name>
+</rtept>
+<rtept lat="56.467328" lon="-4.517977">
+<ele>617.793815</ele>
+<name>SgCh062</name>
+</rtept>
+<rtept lat="56.467659" lon="-4.518962">
+<ele>624.448076</ele>
+<name>SgCh063</name>
+</rtept>
+<rtept lat="56.468285" lon="-4.519887">
+<ele>648.175579</ele>
+<name>SgCh064</name>
+</rtept>
+<rtept lat="56.46855" lon="-4.520765">
+<ele>657.412057</ele>
+<name>SgCh065</name>
+</rtept>
+<rtept lat="56.468866" lon="-4.521112">
+<ele>656.832788</ele>
+<name>SgCh066</name>
+</rtept>
+<rtept lat="56.469158" lon="-4.522413">
+<ele>657.118357</ele>
+<name>SgCh067</name>
+</rtept>
+<rtept lat="56.469886" lon="-4.523018">
+<ele>654.009492</ele>
+<name>SgCh068</name>
+</rtept>
+<rtept lat="56.46994" lon="-4.523296">
+<ele>659.91536</ele>
+<name>SgCh069</name>
+</rtept>
+<rtept lat="56.469729" lon="-4.524799">
+<ele>672.455002</ele>
+<name>SgCh070</name>
+</rtept>
+<rtept lat="56.469818" lon="-4.525065">
+<ele>678.876301</ele>
+<name>SgCh071</name>
+</rtept>
+<rtept lat="56.470114" lon="-4.525206">
+<ele>674.856087</ele>
+<name>SgCh072</name>
+</rtept>
+<rtept lat="56.470241" lon="-4.525573">
+<ele>678.854496</ele>
+<name>SgCh073</name>
+</rtept>
+<rtept lat="56.470321" lon="-4.526259">
+<ele>678.762639</ele>
+<name>SgCh074</name>
+</rtept>
+<rtept lat="56.470199" lon="-4.526802">
+<ele>677.684174</ele>
+<name>SgCh075</name>
+</rtept>
+<rtept lat="56.46914" lon="-4.526843">
+<ele>707.528369</ele>
+<name>SgCh076</name>
+</rtept>
+<rtept lat="56.468292" lon="-4.526108">
+<ele>736.335631</ele>
+<name>SgCh077</name>
+</rtept>
+<rtept lat="56.46763" lon="-4.526452">
+<ele>747.247828</ele>
+<name>SgCh078</name>
+</rtept>
+<rtept lat="56.46733" lon="-4.526343">
+<ele>755.72605</ele>
+<name>SgCh079</name>
+</rtept>
+<rtept lat="56.466893" lon="-4.525928">
+<ele>769.67168</ele>
+<name>SgCh080</name>
+</rtept>
+<rtept lat="56.466787" lon="-4.525574">
+<ele>772.061524</ele>
+<name>SgCh081</name>
+</rtept>
+<rtept lat="56.46554" lon="-4.524959">
+<ele>803.125506</ele>
+<name>SgCh082</name>
+</rtept>
+<rtept lat="56.464952" lon="-4.525413">
+<ele>811.647007</ele>
+<name>SgCh083</name>
+</rtept>
+<rtept lat="56.464364" lon="-4.525525">
+<ele>829.19038</ele>
+<name>SgCh084</name>
+</rtept>
+<rtept lat="56.464093" lon="-4.526046">
+<ele>846.596745</ele>
+<name>SgCh085</name>
+</rtept>
+<rtept lat="56.461993" lon="-4.527533">
+<ele>902.795874</ele>
+<name>SgCh086</name>
+</rtept>
+<rtept lat="56.46023" lon="-4.526704">
+<ele>934.182003</ele>
+<name>SgCh087</name>
+</rtept>
+<rtept lat="56.459884" lon="-4.527636">
+<ele>917.574394</ele>
+<name>SgCh088</name>
+</rtept>
+<rtept lat="56.459667" lon="-4.527745">
+<ele>909.082869</ele>
+<name>SgCh089</name>
+</rtept>
+<rtept lat="56.459138" lon="-4.528788">
+<ele>903.09139</ele>
+<name>SgCh090</name>
+</rtept>
+<rtept lat="56.458467" lon="-4.5295">
+<ele>893.891033</ele>
+<name>SgCh091</name>
+</rtept>
+<rtept lat="56.45718" lon="-4.533151">
+<ele>877.643763</ele>
+<name>SgCh092</name>
+</rtept>
+<rtept lat="56.457102" lon="-4.533812">
+<ele>873.523932</ele>
+<name>SgCh093</name>
+</rtept>
+<rtept lat="56.457274" lon="-4.536968">
+<ele>870.237627</ele>
+<name>SgCh094</name>
+</rtept>
+<rtept lat="56.456646" lon="-4.539467">
+<ele>878.471772</ele>
+<name>SgCh095</name>
+</rtept>
+<rtept lat="56.45666" lon="-4.540023">
+<ele>873.937932</ele>
+<name>SgCh096</name>
+</rtept>
+<rtept lat="56.457008" lon="-4.541374">
+<ele>870.974642</ele>
+<name>SgCh097</name>
+</rtept>
+<rtept lat="56.456835" lon="-4.542165">
+<ele>885.375774</ele>
+<name>SgCh098</name>
+</rtept>
+<rtept lat="56.456427" lon="-4.54301">
+<ele>896.756913</ele>
+<name>SgCh099</name>
+</rtept>
+<rtept lat="56.456513" lon="-4.544268">
+<ele>904.489676</ele>
+<name>SgCh100</name>
+</rtept>
+<rtept lat="56.456367" lon="-4.544608">
+<ele>911.404209</ele>
+<name>SgCh101</name>
+</rtept>
+<rtept lat="56.456312" lon="-4.54562">
+<ele>938.287977</ele>
+<name>SgCh102</name>
+</rtept>
+<rtept lat="56.455713" lon="-4.546761">
+<ele>961.804898</ele>
+<name>SgCh103</name>
+</rtept>
+<rtept lat="56.45578" lon="-4.54634">
+<ele>953.867375</ele>
+<name>SgCh104</name>
+</rtept>
+<rtept lat="56.456268" lon="-4.545848">
+<ele>941.079426</ele>
+<name>SgCh105</name>
+</rtept>
+<rtept lat="56.456304" lon="-4.544682">
+<ele>915.817489</ele>
+<name>SgCh106</name>
+</rtept>
+<rtept lat="56.45647" lon="-4.544372">
+<ele>903.151125</ele>
+<name>SgCh107</name>
+</rtept>
+<rtept lat="56.45642" lon="-4.543028">
+<ele>885.961433</ele>
+<name>SgCh108</name>
+</rtept>
+<rtept lat="56.456767" lon="-4.542254">
+<ele>877.039238</ele>
+<name>SgCh109</name>
+</rtept>
+<rtept lat="56.456982" lon="-4.541334">
+<ele>874.300604</ele>
+<name>SgCh110</name>
+</rtept>
+<rtept lat="56.456664" lon="-4.539625">
+<ele>875.541695</ele>
+<name>SgCh111</name>
+</rtept>
+<rtept lat="56.457226" lon="-4.536876">
+<ele>863.304401</ele>
+<name>SgCh112</name>
+</rtept>
+<rtept lat="56.45712" lon="-4.533536">
+<ele>874.921643</ele>
+<name>SgCh113</name>
+</rtept>
+<rtept lat="56.457921" lon="-4.530837">
+<ele>895.574163</ele>
+<name>SgCh114</name>
+</rtept>
+<rtept lat="56.458494" lon="-4.529349">
+<ele>895.254918</ele>
+<name>SgCh115</name>
+</rtept>
+<rtept lat="56.458581" lon="-4.52751">
+<ele>877.637764</ele>
+<name>SgCh116</name>
+</rtept>
+<rtept lat="56.458809" lon="-4.526881">
+<ele>872.399435</ele>
+<name>SgCh117</name>
+</rtept>
+<rtept lat="56.458635" lon="-4.525952">
+<ele>865.961133</ele>
+<name>SgCh118</name>
+</rtept>
+<rtept lat="56.45818" lon="-4.525757">
+<ele>839.336791</ele>
+<name>SgCh119</name>
+</rtept>
+<rtept lat="56.458174" lon="-4.524612">
+<ele>793.41083</ele>
+<name>SgCh120</name>
+</rtept>
+<rtept lat="56.457832" lon="-4.523318">
+<ele>752.120597</ele>
+<name>SgCh121</name>
+</rtept>
+<rtept lat="56.457831" lon="-4.522741">
+<ele>738.443826</ele>
+<name>SgCh122</name>
+</rtept>
+<rtept lat="56.457546" lon="-4.521733">
+<ele>722.447002</ele>
+<name>SgCh123</name>
+</rtept>
+<rtept lat="56.457435" lon="-4.520649">
+<ele>704.825607</ele>
+<name>SgCh124</name>
+</rtept>
+<rtept lat="56.457479" lon="-4.519796">
+<ele>689.14982</ele>
+<name>SgCh125</name>
+</rtept>
+<rtept lat="56.457873" lon="-4.518148">
+<ele>680.089515</ele>
+<name>SgCh126</name>
+</rtept>
+<rtept lat="56.457855" lon="-4.517728">
+<ele>681.551646</ele>
+<name>SgCh127</name>
+</rtept>
+<rtept lat="56.458193" lon="-4.51673">
+<ele>666.540503</ele>
+<name>SgCh128</name>
+</rtept>
+<rtept lat="56.458184" lon="-4.51601">
+<ele>664.759692</ele>
+<name>SgCh129</name>
+</rtept>
+<rtept lat="56.458354" lon="-4.515112">
+<ele>653.047949</ele>
+<name>SgCh130</name>
+</rtept>
+<rtept lat="56.458208" lon="-4.5143">
+<ele>639.276542</ele>
+<name>SgCh131</name>
+</rtept>
+<rtept lat="56.458373" lon="-4.513225">
+<ele>626.379716</ele>
+<name>SgCh132</name>
+</rtept>
+<rtept lat="56.458234" lon="-4.512277">
+<ele>619.854944</ele>
+<name>SgCh133</name>
+</rtept>
+<rtept lat="56.458287" lon="-4.511445">
+<ele>615.539425</ele>
+<name>SgCh134</name>
+</rtept>
+<rtept lat="56.458033" lon="-4.510852">
+<ele>612.717579</ele>
+<name>SgCh135</name>
+</rtept>
+<rtept lat="56.458181" lon="-4.510723">
+<ele>608.590408</ele>
+<name>SgCh136</name>
+</rtept>
+<rtept lat="56.458136" lon="-4.509964">
+<ele>609.691954</ele>
+<name>SgCh137</name>
+</rtept>
+<rtept lat="56.458537" lon="-4.508838">
+<ele>612.291306</ele>
+<name>SgCh138</name>
+</rtept>
+<rtept lat="56.458466" lon="-4.508423">
+<ele>611.700926</ele>
+<name>SgCh139</name>
+</rtept>
+<rtept lat="56.458574" lon="-4.507733">
+<ele>612.493361</ele>
+<name>SgCh140</name>
+</rtept>
+<rtept lat="56.458322" lon="-4.506539">
+<ele>627.310879</ele>
+<name>SgCh141</name>
+</rtept>
+<rtept lat="56.458172" lon="-4.503496">
+<ele>689.7387</ele>
+<name>SgCh142</name>
+</rtept>
+<rtept lat="56.4583" lon="-4.502216">
+<ele>717.988695</ele>
+<name>SgCh143</name>
+</rtept>
+<rtept lat="56.45853" lon="-4.501432">
+<ele>739.480968</ele>
+<name>SgCh144</name>
+</rtept>
+<rtept lat="56.458512" lon="-4.500692">
+<ele>751.164713</ele>
+<name>SgCh145</name>
+</rtept>
+<rtept lat="56.458061" lon="-4.499121">
+<ele>822.325806</ele>
+<name>SgCh146</name>
+</rtept>
+<rtept lat="56.458163" lon="-4.497459">
+<ele>871.709717</ele>
+<name>SgCh147</name>
+</rtept>
+<rtept lat="56.457824" lon="-4.497077">
+<ele>881.08728</ele>
+<name>SgCh148</name>
+</rtept>
+<rtept lat="56.456425" lon="-4.496751">
+<ele>889.028809</ele>
+<name>SgCh149</name>
+</rtept>
+<rtept lat="56.455554" lon="-4.495633">
+<ele>896.908447</ele>
+<name>SgCh150</name>
+</rtept>
+<rtept lat="56.454362" lon="-4.495976">
+<ele>914.283203</ele>
+<name>SgCh151</name>
+</rtept>
+<rtept lat="56.453217" lon="-4.495702">
+<ele>918.283569</ele>
+<name>SgCh152</name>
+</rtept>
+<rtept lat="56.454602" lon="-4.496086">
+<ele>915.727783</ele>
+<name>SgCh153</name>
+</rtept>
+<rtept lat="56.455545" lon="-4.495715">
+<ele>893.260254</ele>
+<name>SgCh154</name>
+</rtept>
+<rtept lat="56.456297" lon="-4.496008">
+<ele>901.990356</ele>
+<name>SgCh155</name>
+</rtept>
+<rtept lat="56.45691" lon="-4.4959">
+<ele>909.250732</ele>
+<name>SgCh156</name>
+</rtept>
+<rtept lat="56.457747" lon="-4.49655">
+<ele>892.648926</ele>
+<name>SgCh157</name>
+</rtept>
+<rtept lat="56.458219" lon="-4.496392">
+<ele>900.131836</ele>
+<name>SgCh158</name>
+</rtept>
+<rtept lat="56.459029" lon="-4.496566">
+<ele>910.91687</ele>
+<name>SgCh159</name>
+</rtept>
+<rtept lat="56.4601" lon="-4.496013">
+<ele>917.154785</ele>
+<name>SgCh160</name>
+</rtept>
+<rtept lat="56.461179" lon="-4.496871">
+<ele>889.878174</ele>
+<name>SgCh161</name>
+</rtept>
+<rtept lat="56.461603" lon="-4.496932">
+<ele>874.860718</ele>
+<name>SgCh162</name>
+</rtept>
+<rtept lat="56.462905" lon="-4.49774">
+<ele>838.543945</ele>
+<name>SgCh163</name>
+</rtept>
+<rtept lat="56.46328" lon="-4.497821">
+<ele>827.33667</ele>
+<name>SgCh164</name>
+</rtept>
+<rtept lat="56.463577" lon="-4.497611">
+<ele>817.537109</ele>
+<name>SgCh165</name>
+</rtept>
+<rtept lat="56.463808" lon="-4.497984">
+<ele>807.423584</ele>
+<name>SgCh166</name>
+</rtept>
+<rtept lat="56.464448" lon="-4.497438">
+<ele>779.23291</ele>
+<name>SgCh167</name>
+</rtept>
+<rtept lat="56.46499" lon="-4.497462">
+<ele>768.49231</ele>
+<name>SgCh168</name>
+</rtept>
+<rtept lat="56.465121" lon="-4.497279">
+<ele>760.740723</ele>
+<name>SgCh169</name>
+</rtept>
+<rtept lat="56.465327" lon="-4.497501">
+<ele>755.093262</ele>
+<name>SgCh170</name>
+</rtept>
+<rtept lat="56.465552" lon="-4.497406">
+<ele>740.213379</ele>
+<name>SgCh171</name>
+</rtept>
+<rtept lat="56.466143" lon="-4.497802">
+<ele>729.162842</ele>
+<name>SgCh172</name>
+</rtept>
+<rtept lat="56.466606" lon="-4.497836">
+<ele>718.584229</ele>
+<name>SgCh173</name>
+</rtept>
+<rtept lat="56.467278" lon="-4.497656">
+<ele>704.631836</ele>
+<name>SgCh174</name>
+</rtept>
+<rtept lat="56.46763" lon="-4.497064">
+<ele>701.133545</ele>
+<name>SgCh175</name>
+</rtept>
+<rtept lat="56.469121" lon="-4.496771">
+<ele>686.324951</ele>
+<name>SgCh176</name>
+</rtept>
+<rtept lat="56.469368" lon="-4.496407">
+<ele>679.153076</ele>
+<name>SgCh177</name>
+</rtept>
+<rtept lat="56.470096" lon="-4.496009">
+<ele>668.80188</ele>
+<name>SgCh178</name>
+</rtept>
+<rtept lat="56.470757" lon="-4.495091">
+<ele>655.185669</ele>
+<name>SgCh179</name>
+</rtept>
+<rtept lat="56.471427" lon="-4.494661">
+<ele>631.657471</ele>
+<name>SgCh180</name>
+</rtept>
+<rtept lat="56.471536" lon="-4.49431">
+<ele>623</ele>
+<name>SgCh181</name>
+</rtept>
+<rtept lat="56.47274" lon="-4.494118">
+<ele>599.899902</ele>
+<name>SgCh182</name>
+</rtept>
+<rtept lat="56.473246" lon="-4.493632">
+<ele>581.160034</ele>
+<name>SgCh183</name>
+</rtept>
+<rtept lat="56.473714" lon="-4.493697">
+<ele>580.363525</ele>
+<name>SgCh184</name>
+</rtept>
+<rtept lat="56.47422" lon="-4.493219">
+<ele>572.603149</ele>
+<name>SgCh185</name>
+</rtept>
+<rtept lat="56.474813" lon="-4.493225">
+<ele>558.678711</ele>
+<name>SgCh186</name>
+</rtept>
+<rtept lat="56.47548" lon="-4.492037">
+<ele>543.563354</ele>
+<name>SgCh187</name>
+</rtept>
+<rtept lat="56.476259" lon="-4.491538">
+<ele>539.291504</ele>
+<name>SgCh188</name>
+</rtept>
+<rtept lat="56.476762" lon="-4.492192">
+<ele>542.993408</ele>
+<name>SgCh189</name>
+</rtept>
+<rtept lat="56.478652" lon="-4.49209">
+<ele>521.455444</ele>
+<name>SgCh190</name>
+</rtept>
+<rtept lat="56.479212" lon="-4.492642">
+<ele>520.197021</ele>
+<name>SgCh191</name>
+</rtept>
+<rtept lat="56.47919" lon="-4.493079">
+<ele>508.653809</ele>
+<name>SgCh192</name>
+</rtept>
+<rtept lat="56.479353" lon="-4.49316">
+<ele>502.767822</ele>
+<name>SgCh193</name>
+</rtept>
+<rtept lat="56.479877" lon="-4.493077">
+<ele>498.73877</ele>
+<name>SgCh194</name>
+</rtept>
+<rtept lat="56.480911" lon="-4.492148">
+<ele>475.143799</ele>
+<name>SgCh195</name>
+</rtept>
+<rtept lat="56.481392" lon="-4.492626">
+<ele>471.134277</ele>
+<name>SgCh196</name>
+</rtept>
+<rtept lat="56.481484" lon="-4.492394">
+<ele>459.153687</ele>
+<name>SgCh197</name>
+</rtept>
+<rtept lat="56.482023" lon="-4.492247">
+<ele>453.02478</ele>
+<name>SgCh198</name>
+</rtept>
+<rtept lat="56.482767" lon="-4.492864">
+<ele>461.337646</ele>
+<name>SgCh199</name>
+</rtept>
+<rtept lat="56.48314" lon="-4.492719">
+<ele>457.869751</ele>
+<name>SgCh200</name>
+</rtept>
+<rtept lat="56.483366" lon="-4.492148">
+<ele>445.269836</ele>
+<name>SgCh201</name>
+</rtept>
+<rtept lat="56.48391" lon="-4.49216">
+<ele>443.193176</ele>
+<name>SgCh202</name>
+</rtept>
+<rtept lat="56.48474" lon="-4.493009">
+<ele>414.183289</ele>
+<name>SgCh203</name>
+</rtept>
+<rtept lat="56.486288" lon="-4.491869">
+<ele>384.870178</ele>
+<name>SgCh204</name>
+</rtept>
+<rtept lat="56.486876" lon="-4.491988">
+<ele>383.271729</ele>
+<name>SgCh205</name>
+</rtept>
+<rtept lat="56.487158" lon="-4.491325">
+<ele>368.270813</ele>
+<name>SgCh206</name>
+</rtept>
+<rtept lat="56.488593" lon="-4.489115">
+<ele>347.341675</ele>
+<name>SgCh207</name>
+</rtept>
+<rtept lat="56.489952" lon="-4.485472">
+<ele>334.925659</ele>
+<name>SgCh208</name>
+</rtept>
+<rtept lat="56.489967" lon="-4.484933">
+<ele>319.63739</ele>
+<name>SgCh209</name>
+</rtept>
+<rtept lat="56.490107" lon="-4.485051">
+<ele>325.260132</ele>
+<name>SgCh210</name>
+</rtept>
+<rtept lat="56.490171" lon="-4.486322">
+<ele>319.007324</ele>
+<name>SgCh211</name>
+</rtept>
+<rtept lat="56.490048" lon="-4.487169">
+<ele>322.195313</ele>
+<name>SgCh212</name>
+</rtept>
+<rtept lat="56.490087" lon="-4.487856">
+<ele>319.295654</ele>
+<name>SgCh213</name>
+</rtept>
+<rtept lat="56.489726" lon="-4.488895">
+<ele>305.403931</ele>
+<name>SgCh214</name>
+</rtept>
+<rtept lat="56.489553" lon="-4.490566">
+<ele>300.630005</ele>
+<name>SgCh215</name>
+</rtept>
+<rtept lat="56.489579" lon="-4.492209">
+<ele>292.537842</ele>
+<name>SgCh216</name>
+</rtept>
+<rtept lat="56.489242" lon="-4.492872">
+<ele>290.731628</ele>
+<name>SgCh217</name>
+</rtept>
+<rtept lat="56.48924" lon="-4.49323">
+<ele>282.111938</ele>
+<name>SgCh218</name>
+</rtept>
+<rtept lat="56.489806" lon="-4.492894">
+<ele>279.513428</ele>
+<name>SgCh219</name>
+</rtept>
+<rtept lat="56.489947" lon="-4.491942">
+<ele>273.71936</ele>
+<name>SgCh220</name>
+</rtept>
+<rtept lat="56.490507" lon="-4.491246">
+<ele>271.577148</ele>
+<name>SgCh221</name>
+</rtept>
+<rtept lat="56.490886" lon="-4.490242">
+<ele>248.531494</ele>
+<name>SgCh222</name>
+</rtept>
+<rtept lat="56.491597" lon="-4.489746">
+<ele>244.059875</ele>
+<name>SgCh223</name>
+</rtept>
+<rtept lat="56.491803" lon="-4.48896">
+<ele>237.218201</ele>
+<name>SgCh224</name>
+</rtept>
+<rtept lat="56.492429" lon="-4.488337">
+<ele>236.515015</ele>
+<name>SgCh225</name>
+</rtept>
+<rtept lat="56.492888" lon="-4.488944">
+<ele>228.64563</ele>
+<name>SgCh226</name>
+</rtept>
+<rtept lat="56.493702" lon="-4.491572">
+<ele>229.762207</ele>
+<name>SgCh227</name>
+</rtept>
+<rtept lat="56.494382" lon="-4.49208">
+<ele>223.956909</ele>
+<name>SgCh228</name>
+</rtept>
+<rtept lat="56.494785" lon="-4.492751">
+<ele>213.986328</ele>
+<name>SgCh229</name>
+</rtept>
+<rtept lat="56.495076" lon="-4.492246">
+<ele>215.088989</ele>
+<name>SgCh230</name>
+</rtept>
+<rtept lat="56.495421" lon="-4.490714">
+<ele>219.972168</ele>
+<name>SgCh231</name>
+</rtept>
+<rtept lat="56.495556" lon="-4.487668">
+<ele>208.674927</ele>
+<name>SgCh232</name>
+</rtept>
+<rtept lat="56.495683" lon="-4.487007">
+<ele>203.957336</ele>
+<name>SgCh233</name>
+</rtept>
+<rtept lat="56.496862" lon="-4.483852">
+<ele>196.357727</ele>
+<name>SgCh234</name>
+</rtept>
+<rtept lat="56.497646" lon="-4.480584">
+<ele>193.710938</ele>
+<name>SgCh235</name>
+</rtept>
+<rtept lat="56.497755" lon="-4.478741">
+<ele>182.897644</ele>
+<name>SgCh236</name>
+</rtept>
+<rtept lat="56.498043" lon="-4.477913">
+<ele>192.065063</ele>
+<name>SgCh237</name>
+</rtept>
+<rtept lat="56.498705" lon="-4.477592">
+<ele>189.609253</ele>
+<name>SgCh238</name>
+</rtept>
+<rtept lat="56.498883" lon="-4.477004">
+<ele>188.192261</ele>
+<name>SgCh239</name>
+</rtept>
+<rtept lat="56.498897" lon="-4.475958">
+<ele>200.581787</ele>
+<name>SgCh240</name>
+</rtept>
+</rte>
+</gpx>

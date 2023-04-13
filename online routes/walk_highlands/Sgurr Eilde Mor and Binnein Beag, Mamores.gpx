@@ -1,0 +1,786 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Sgurr Eilde Mor and Binnein Beag, Mamores</name>
+<rtept lat="56.7169053669159" lon="-4.96308827976249">
+<ele>18.2487653598174</ele>
+<name>SEM 001</name>
+</rtept>
+<rtept lat="56.7172273855955" lon="-4.96285207895796">
+<ele>18.3033585039079</ele>
+<name>SEM 002</name>
+</rtept>
+<rtept lat="56.717550715243" lon="-4.96316521825061">
+<ele>19.5585931440949</ele>
+<name>SEM 003</name>
+</rtept>
+<rtept lat="56.7177484375522" lon="-4.96210844513292">
+<ele>25.9039778225422</ele>
+<name>SEM 004</name>
+</rtept>
+<rtept lat="56.7183354334893" lon="-4.95980068653295">
+<ele>44.3670377558708</ele>
+<name>SEM 005</name>
+</rtept>
+<rtept lat="56.7183078789259" lon="-4.95914464998855">
+<ele>46.6546439872503</ele>
+<name>SEM 006</name>
+</rtept>
+<rtept lat="56.7188395431204" lon="-4.95855870988714">
+<ele>45.7204411354542</ele>
+<name>SEM 007</name>
+</rtept>
+<rtept lat="56.7197081891528" lon="-4.95771151437824">
+<ele>80.0674143293381</ele>
+<name>SEM 008</name>
+</rtept>
+<rtept lat="56.7204948358035" lon="-4.95547155629273">
+<ele>126.000003011894</ele>
+<name>SEM 009</name>
+</rtept>
+<rtept lat="56.721196918256" lon="-4.95346028449803">
+<ele>178.825734092236</ele>
+<name>SEM 010</name>
+</rtept>
+<rtept lat="56.7214404739932" lon="-4.95107295329598">
+<ele>216.553239101744</ele>
+<name>SEM 011</name>
+</rtept>
+<rtept lat="56.722595630959" lon="-4.94784147448111">
+<ele>284.58056998148</ele>
+<name>SEM 012</name>
+</rtept>
+<rtept lat="56.7232004099777" lon="-4.94294495176675">
+<ele>345.333138457012</ele>
+<name>SEM 013</name>
+</rtept>
+<rtept lat="56.7234662056602" lon="-4.94265183120056">
+<ele>331.661412302637</ele>
+<name>SEM 014</name>
+</rtept>
+<rtept lat="56.7234970448732" lon="-4.94134632852501">
+<ele>364.746004461551</ele>
+<name>SEM 015</name>
+</rtept>
+<rtept lat="56.7248407893556" lon="-4.93925395131022">
+<ele>386.39842191357</ele>
+<name>SEM 016</name>
+</rtept>
+<rtept lat="56.7258342202922" lon="-4.9376834503541">
+<ele>393.894618797892</ele>
+<name>SEM 017</name>
+</rtept>
+<rtept lat="56.7264570675491" lon="-4.93566539770368">
+<ele>394.581503559852</ele>
+<name>SEM 018</name>
+</rtept>
+<rtept lat="56.7275592846374" lon="-4.93038835602006">
+<ele>387.660935084367</ele>
+<name>SEM 019</name>
+</rtept>
+<rtept lat="56.7281556102834" lon="-4.92949297231805">
+<ele>381.583631885159</ele>
+<name>SEM 020</name>
+</rtept>
+<rtept lat="56.728665643928" lon="-4.92982044840988">
+<ele>389.082594650078</ele>
+<name>SEM 021</name>
+</rtept>
+<rtept lat="56.7289833029014" lon="-4.92976668960944">
+<ele>390.162273902035</ele>
+<name>SEM 022</name>
+</rtept>
+<rtept lat="56.729218899883" lon="-4.92892167851415">
+<ele>395.791336326504</ele>
+<name>SEM 023</name>
+</rtept>
+<rtept lat="56.7298055821823" lon="-4.92813013328145">
+<ele>413.919015578508</ele>
+<name>SEM 024</name>
+</rtept>
+<rtept lat="56.7304390571221" lon="-4.92810092927774">
+<ele>423.188497425318</ele>
+<name>SEM 025</name>
+</rtept>
+<rtept lat="56.7328530737707" lon="-4.92329131251289">
+<ele>462.507458684254</ele>
+<name>SEM 026</name>
+</rtept>
+<rtept lat="56.7332413723924" lon="-4.92206556229101">
+<ele>464.654148532322</ele>
+<name>SEM 027</name>
+</rtept>
+<rtept lat="56.7334280713795" lon="-4.92085030503668">
+<ele>463.981507036245</ele>
+<name>SEM 028</name>
+</rtept>
+<rtept lat="56.7338554004219" lon="-4.92041249827377">
+<ele>465.467976316607</ele>
+<name>SEM 029</name>
+</rtept>
+<rtept lat="56.734396737013" lon="-4.91817809956414">
+<ele>462.979604725409</ele>
+<name>SEM 030</name>
+</rtept>
+<rtept lat="56.7352165475295" lon="-4.91756135486126">
+<ele>468.288123863733</ele>
+<name>SEM 031</name>
+</rtept>
+<rtept lat="56.736650371094" lon="-4.91866688340813">
+<ele>499.276522614765</ele>
+<name>SEM 032</name>
+</rtept>
+<rtept lat="56.7377280108301" lon="-4.91686638461126">
+<ele>536.067309166741</ele>
+<name>SEM 033</name>
+</rtept>
+<rtept lat="56.73827628506" lon="-4.91617617649412">
+<ele>556.047853958869</ele>
+<name>SEM 034</name>
+</rtept>
+<rtept lat="56.7390795745063" lon="-4.91011492992826">
+<ele>637.77111923523</ele>
+<name>SEM 035</name>
+</rtept>
+<rtept lat="56.7397982056517" lon="-4.90828632558278">
+<ele>676.83948584404</ele>
+<name>SEM 036</name>
+</rtept>
+<rtept lat="56.7400908046022" lon="-4.90807341840473">
+<ele>691.612548268509</ele>
+<name>SEM 037</name>
+</rtept>
+<rtept lat="56.740167039174" lon="-4.90881205845496">
+<ele>710.322430372429</ele>
+<name>SEM 038</name>
+</rtept>
+<rtept lat="56.7404297081182" lon="-4.90864917889538">
+<ele>712.747090105104</ele>
+<name>SEM 039</name>
+</rtept>
+<rtept lat="56.7411447164637" lon="-4.90820722457232">
+<ele>756.80833117733</ele>
+<name>SEM 040</name>
+</rtept>
+<rtept lat="56.7431731144668" lon="-4.90818083350092">
+<ele>777.090785510349</ele>
+<name>SEM 041</name>
+</rtept>
+<rtept lat="56.7438208018749" lon="-4.90846645463291">
+<ele>795.843710352588</ele>
+<name>SEM 042</name>
+</rtept>
+<rtept lat="56.744598765897" lon="-4.90902388632497">
+<ele>779.432339913368</ele>
+<name>SEM 043</name>
+</rtept>
+<rtept lat="56.746026061422" lon="-4.90887253409418">
+<ele>759.524367073154</ele>
+<name>SEM 044</name>
+</rtept>
+<rtept lat="56.7463348467865" lon="-4.90858232794217">
+<ele>759.430342404604</ele>
+<name>SEM 045</name>
+</rtept>
+<rtept lat="56.7472991057621" lon="-4.90855219617346">
+<ele>769.338277842903</ele>
+<name>SEM 046</name>
+</rtept>
+<rtept lat="56.7486451874259" lon="-4.90941538124689">
+<ele>769.411998493981</ele>
+<name>SEM 047</name>
+</rtept>
+<rtept lat="56.7489101539437" lon="-4.9094620540202">
+<ele>764.371998493981</ele>
+<name>SEM 048</name>
+</rtept>
+<rtept lat="56.7494812844427" lon="-4.90840684307712">
+<ele>737.152393768597</ele>
+<name>SEM 049</name>
+</rtept>
+<rtept lat="56.7497635149195" lon="-4.90863807869413">
+<ele>726.037452716636</ele>
+<name>SEM 050</name>
+</rtept>
+<rtept lat="56.750599466089" lon="-4.90794360476481">
+<ele>702.44376900301</ele>
+<name>SEM 051</name>
+</rtept>
+<rtept lat="56.7501313011612" lon="-4.91013240725765">
+<ele>699.12962545315</ele>
+<name>SEM 052</name>
+</rtept>
+<rtept lat="56.7506160166535" lon="-4.90969873212201">
+<ele>666.908213614845</ele>
+<name>SEM 053</name>
+</rtept>
+<rtept lat="56.7503942898424" lon="-4.91057158459637">
+<ele>672.858540330505</ele>
+<name>SEM 054</name>
+</rtept>
+<rtept lat="56.750490208958" lon="-4.91139048769628">
+<ele>654.14303080306</ele>
+<name>SEM 055</name>
+</rtept>
+<rtept lat="56.7511325413417" lon="-4.91159727806041">
+<ele>641.754540330505</ele>
+<name>SEM 056</name>
+</rtept>
+<rtept lat="56.752063797666" lon="-4.91051755434481">
+<ele>641.116960273707</ele>
+<name>SEM 057</name>
+</rtept>
+<rtept lat="56.7522696572476" lon="-4.91032406322771">
+<ele>624.996417451978</ele>
+<name>SEM 058</name>
+</rtept>
+<rtept lat="56.7531236608898" lon="-4.91070430093242">
+<ele>645.698328686142</ele>
+<name>SEM 059</name>
+</rtept>
+<rtept lat="56.7545990522654" lon="-4.91003311946337">
+<ele>645.160867510605</ele>
+<name>SEM 060</name>
+</rtept>
+<rtept lat="56.7549283241463" lon="-4.91071309856323">
+<ele>647.245755228126</ele>
+<name>SEM 061</name>
+</rtept>
+<rtept lat="56.7555001129603" lon="-4.91209255457766">
+<ele>640.135720594597</ele>
+<name>SEM 062</name>
+</rtept>
+<rtept lat="56.7565782993952" lon="-4.91272586259212">
+<ele>663.378391741753</ele>
+<name>SEM 063</name>
+</rtept>
+<rtept lat="56.7573128700617" lon="-4.91267804382077">
+<ele>695.389740003681</ele>
+<name>SEM 064</name>
+</rtept>
+<rtept lat="56.7596596682026" lon="-4.91102704120955">
+<ele>669.923379639626</ele>
+<name>SEM 065</name>
+</rtept>
+<rtept lat="56.7602210631942" lon="-4.91162036652833">
+<ele>708.420414439869</ele>
+<name>SEM 066</name>
+</rtept>
+<rtept lat="56.7602473333929" lon="-4.91295776336547">
+<ele>715.974808729315</ele>
+<name>SEM 067</name>
+</rtept>
+<rtept lat="56.7607940512016" lon="-4.91417840524174">
+<ele>706.732341419363</ele>
+<name>SEM 068</name>
+</rtept>
+<rtept lat="56.7617109392945" lon="-4.91555871497886">
+<ele>730.754000985211</ele>
+<name>SEM 069</name>
+</rtept>
+<rtept lat="56.7629838737336" lon="-4.91309126767116">
+<ele>730.081406855884</ele>
+<name>SEM 070</name>
+</rtept>
+<rtept lat="56.7639099501675" lon="-4.91161805654932">
+<ele>760.720619318748</ele>
+<name>SEM 071</name>
+</rtept>
+<rtept lat="56.7650217243287" lon="-4.91081382397898">
+<ele>818.135092075586</ele>
+<name>SEM 072</name>
+</rtept>
+<rtept lat="56.7657095642636" lon="-4.91091946787819">
+<ele>869.825632406092</ele>
+<name>SEM 073</name>
+</rtept>
+<rtept lat="56.766201922988" lon="-4.91077428634203">
+<ele>898.161555909061</ele>
+<name>SEM 074</name>
+</rtept>
+<rtept lat="56.7670122451484" lon="-4.91117749085866">
+<ele>938.921485900688</ele>
+<name>SEM 075</name>
+</rtept>
+<rtept lat="56.7662300233216" lon="-4.91080265029928">
+<ele>898.065555909061</ele>
+<name>SEM 076</name>
+</rtept>
+<rtept lat="56.7657095642636" lon="-4.91091946787819">
+<ele>869.825632406092</ele>
+<name>SEM 077</name>
+</rtept>
+<rtept lat="56.7649643025693" lon="-4.91080937710832">
+<ele>815.433264291286</ele>
+<name>SEM 078</name>
+</rtept>
+<rtept lat="56.7638812393032" lon="-4.91161583259214">
+<ele>765.242525106049</ele>
+<name>SEM 079</name>
+</rtept>
+<rtept lat="56.7629401964839" lon="-4.91311406827461">
+<ele>730.241406855884</ele>
+<name>SEM 080</name>
+</rtept>
+<rtept lat="56.7617037616011" lon="-4.91555815828388">
+<ele>730.722000985211</ele>
+<name>SEM 081</name>
+</rtept>
+<rtept lat="56.760829939718" lon="-4.91418118730689">
+<ele>704.972341419315</ele>
+<name>SEM 082</name>
+</rtept>
+<rtept lat="56.7602694774803" lon="-4.91293329561608">
+<ele>718.306959752846</ele>
+<name>SEM 083</name>
+</rtept>
+<rtept lat="56.7602432070269" lon="-4.91159589799909">
+<ele>706.612414439869</ele>
+<name>SEM 084</name>
+</rtept>
+<rtept lat="56.7596531010208" lon="-4.91100034955127">
+<ele>669.123379639626</ele>
+<name>SEM 085</name>
+</rtept>
+<rtept lat="56.7573056923448" lon="-4.91267748776833">
+<ele>694.749740003681</ele>
+<name>SEM 086</name>
+</rtept>
+<rtept lat="56.7565992216636" lon="-4.91275366444223">
+<ele>663.186391741753</ele>
+<name>SEM 087</name>
+</rtept>
+<rtept lat="56.7555060691908" lon="-4.91214537641232">
+<ele>641.271720594597</ele>
+<name>SEM 088</name>
+</rtept>
+<rtept lat="56.7549145791263" lon="-4.91068585472138">
+<ele>646.445755228138</ele>
+<name>SEM 089</name>
+</rtept>
+<rtept lat="56.754627763213" lon="-4.91003534142846">
+<ele>645.736867510581</ele>
+<name>SEM 090</name>
+</rtept>
+<rtept lat="56.75313205948" lon="-4.9106525938199">
+<ele>645.042328686142</ele>
+<name>SEM 091</name>
+</rtept>
+<rtept lat="56.7522349892414" lon="-4.91026902427325">
+<ele>625.844326834774</ele>
+<name>SEM 092</name>
+</rtept>
+<rtept lat="56.7520847204862" lon="-4.91054535156181">
+<ele>640.332960273695</ele>
+<name>SEM 093</name>
+</rtept>
+<rtept lat="56.7511534639247" lon="-4.91162507516454">
+<ele>641.002540330482</ele>
+<name>SEM 094</name>
+</rtept>
+<rtept lat="56.7505105210273" lon="-4.91144441371358">
+<ele>652.399030802965</ele>
+<name>SEM 095</name>
+</rtept>
+<rtept lat="56.7504289577482" lon="-4.9106266210752">
+<ele>671.498540330505</ele>
+<name>SEM 096</name>
+</rtept>
+<rtept lat="56.7506668710626" lon="-4.90967648986677">
+<ele>663.740213614845</ele>
+<name>SEM 097</name>
+</rtept>
+<rtept lat="56.7501534446761" lon="-4.91010794420951">
+<ele>699.12962545315</ele>
+<name>SEM 098</name>
+</rtept>
+<rtept lat="56.7505785426585" lon="-4.9079158101011">
+<ele>704.41176900301</ele>
+<name>SEM 099</name>
+</rtept>
+<rtept lat="56.7497491594167" lon="-4.90863696844935">
+<ele>726.581452716637</ele>
+<name>SEM 100</name>
+</rtept>
+<rtept lat="56.7502179075834" lon="-4.90642203912597">
+<ele>731.601282992148</ele>
+<name>SEM 101</name>
+</rtept>
+<rtept lat="56.7504435275618" lon="-4.904764168018">
+<ele>744.147680757999</ele>
+<name>SEM 102</name>
+</rtept>
+<rtept lat="56.7499489117837" lon="-4.90315538620003">
+<ele>763.586846318436</ele>
+<name>SEM 103</name>
+</rtept>
+<rtept lat="56.7506465024946" lon="-4.9028427619745">
+<ele>790.625359024716</ele>
+<name>SEM 104</name>
+</rtept>
+<rtept lat="56.7507982234787" lon="-4.90188592781302">
+<ele>822.667038797522</ele>
+<name>SEM 105</name>
+</rtept>
+<rtept lat="56.7511906927449" lon="-4.90170679480609">
+<ele>788.286557061004</ele>
+<name>SEM 106</name>
+</rtept>
+<rtept lat="56.7510775565927" lon="-4.90038921139693">
+<ele>836.6000251894</ele>
+<name>SEM 107</name>
+</rtept>
+<rtept lat="56.7506226746354" lon="-4.89954265049161">
+<ele>868.436048872757</ele>
+<name>SEM 108</name>
+</rtept>
+<rtept lat="56.7503016158724" lon="-4.8991252493927">
+<ele>879.580432212066</ele>
+<name>SEM 109</name>
+</rtept>
+<rtept lat="56.7502725312494" lon="-4.89852094787219">
+<ele>915.329158664012</ele>
+<name>SEM 110</name>
+</rtept>
+<rtept lat="56.7498170284582" lon="-4.8977005569341">
+<ele>956.136320283651</ele>
+<name>SEM 111</name>
+</rtept>
+<rtept lat="56.7496037435624" lon="-4.89697737132855">
+<ele>976.579392152119</ele>
+<name>SEM 112</name>
+</rtept>
+<rtept lat="56.7501067502606" lon="-4.89544553098034">
+<ele>997.838992820251</ele>
+<name>SEM 113</name>
+</rtept>
+<rtept lat="56.7495881728352" lon="-4.89702852395215">
+<ele>974.435392152119</ele>
+<name>SEM 114</name>
+</rtept>
+<rtept lat="56.7498732356398" lon="-4.8977572400236">
+<ele>955.176320283651</ele>
+<name>SEM 115</name>
+</rtept>
+<rtept lat="56.7502856711466" lon="-4.89857431359238">
+<ele>913.889158664012</ele>
+<name>SEM 116</name>
+</rtept>
+<rtept lat="56.7503159714949" lon="-4.89912635603313">
+<ele>878.236432212067</ele>
+<name>SEM 117</name>
+</rtept>
+<rtept lat="56.7506370302519" lon="-4.89954375730474">
+<ele>868.532048872781</ele>
+<name>SEM 118</name>
+</rtept>
+<rtept lat="56.7510775565927" lon="-4.90038921139693">
+<ele>836.6000251894</ele>
+<name>SEM 119</name>
+</rtept>
+<rtept lat="56.7512044397949" lon="-4.90173403268851">
+<ele>786.302557061005</ele>
+<name>SEM 120</name>
+</rtept>
+<rtept lat="56.7507970063289" lon="-4.90193818767888">
+<ele>820.619038797474</ele>
+<name>SEM 121</name>
+</rtept>
+<rtept lat="56.7506620755966" lon="-4.90279161041235">
+<ele>791.937359024739</ele>
+<name>SEM 122</name>
+</rtept>
+<rtept lat="56.7499202006393" lon="-4.90315316987786">
+<ele>762.114846318436</ele>
+<name>SEM 123</name>
+</rtept>
+<rtept lat="56.7492944742184" lon="-4.9047015964113">
+<ele>737.455679251963</ele>
+<name>SEM 124</name>
+</rtept>
+<rtept lat="56.7489090458932" lon="-4.90519534105339">
+<ele>737</ele>
+<name>SEM 125</name>
+</rtept>
+<rtept lat="56.7485884746681" lon="-4.9078404691772">
+<ele>743.307182290983</ele>
+<name>SEM 126</name>
+</rtept>
+<rtept lat="56.7486523651737" lon="-4.90941593649429">
+<ele>769.267998493981</ele>
+<name>SEM 127</name>
+</rtept>
+<rtept lat="56.7473128513264" lon="-4.90857943364267">
+<ele>770.618277842903</ele>
+<name>SEM 128</name>
+</rtept>
+<rtept lat="56.7463198813307" lon="-4.90860734453369">
+<ele>760.742342404604</ele>
+<name>SEM 129</name>
+</rtept>
+<rtept lat="56.746026061422" lon="-4.90887253409418">
+<ele>759.524367073154</ele>
+<name>SEM 130</name>
+</rtept>
+<rtept lat="56.7446412224002" lon="-4.90905334234808">
+<ele>799.200036547375</ele>
+<name>SEM 131</name>
+</rtept>
+<rtept lat="56.7438064463561" lon="-4.90846534470432">
+<ele>795.235710352588</ele>
+<name>SEM 132</name>
+</rtept>
+<rtept lat="56.7431796823898" lon="-4.908207512898">
+<ele>777.570785510349</ele>
+<name>SEM 133</name>
+</rtept>
+<rtept lat="56.7428070485914" lon="-4.90815253411706">
+<ele>780.657836707592</ele>
+<name>SEM 134</name>
+</rtept>
+<rtept lat="56.7418284335091" lon="-4.90818156662383">
+<ele>762.169874109459</ele>
+<name>SEM 135</name>
+</rtept>
+<rtept lat="56.741187173217" lon="-4.90823667684649">
+<ele>760.936331177235</ele>
+<name>SEM 136</name>
+</rtept>
+<rtept lat="56.7404434537242" lon="-4.90867641134285">
+<ele>712.971090105057</ele>
+<name>SEM 137</name>
+</rtept>
+<rtept lat="56.7401969701051" lon="-4.90876203343707">
+<ele>712.242430372429</ele>
+<name>SEM 138</name>
+</rtept>
+<rtept lat="56.7400992019424" lon="-4.90802172848373">
+<ele>691.468548268556</ele>
+<name>SEM 139</name>
+</rtept>
+<rtept lat="56.7398269167124" lon="-4.90828854496634">
+<ele>683.039904802036</ele>
+<name>SEM 140</name>
+</rtept>
+<rtept lat="56.7390502532736" lon="-4.91013883080606">
+<ele>633.302428401947</ele>
+<name>SEM 141</name>
+</rtept>
+<rtept lat="56.7382750620944" lon="-4.91622841831867">
+<ele>555.791853958869</ele>
+<name>SEM 142</name>
+</rtept>
+<rtept lat="56.7377579449083" lon="-4.91681636928599">
+<ele>536.707309166741</ele>
+<name>SEM 143</name>
+</rtept>
+<rtept lat="56.7366204362979" lon="-4.91871689579384">
+<ele>498.626817188191</ele>
+<name>SEM 144</name>
+</rtept>
+<rtept lat="56.7352524360861" lon="-4.91756413744669">
+<ele>468.448123863739</ele>
+<name>SEM 145</name>
+</rtept>
+<rtept lat="56.7343752038879" lon="-4.91817642971538">
+<ele>468.037678266761</ele>
+<name>SEM 146</name>
+</rtept>
+<rtept lat="56.7338709804697" lon="-4.92036137681692">
+<ele>466.128568475521</ele>
+<name>SEM 147</name>
+</rtept>
+<rtept lat="56.7334424267643" lon="-4.92085141924798">
+<ele>464.077507036245</ele>
+<name>SEM 148</name>
+</rtept>
+<rtept lat="56.7332551150826" lon="-4.92209279425146">
+<ele>467.397630899978</ele>
+<name>SEM 149</name>
+</rtept>
+<rtept lat="56.7328530737707" lon="-4.92329131251289">
+<ele>462.507458684254</ele>
+<name>SEM 150</name>
+</rtept>
+<rtept lat="56.730468381639" lon="-4.92807704775341">
+<ele>423.636497425342</ele>
+<name>SEM 151</name>
+</rtept>
+<rtept lat="56.729841470432" lon="-4.9281329253638">
+<ele>415.119015578461</ele>
+<name>SEM 152</name>
+</rtept>
+<rtept lat="56.7292182857955" lon="-4.92894779284943">
+<ele>395.631336326504</ele>
+<name>SEM 153</name>
+</rtept>
+<rtept lat="56.7289826939294" lon="-4.92979279897904">
+<ele>389.906462999487</ele>
+<name>SEM 154</name>
+</rtept>
+<rtept lat="56.7284796448254" lon="-4.92977980335591">
+<ele>384.762772225189</ele>
+<name>SEM 155</name>
+</rtept>
+<rtept lat="56.7286689467624" lon="-4.93029161182952">
+<ele>379.883829505491</ele>
+<name>SEM 156</name>
+</rtept>
+<rtept lat="56.7284485299198" lon="-4.93171334010459">
+<ele>370.426777628171</ele>
+<name>SEM 157</name>
+</rtept>
+<rtept lat="56.7287621026867" lon="-4.9324441342606">
+<ele>376.557341169119</ele>
+<name>SEM 158</name>
+</rtept>
+<rtept lat="56.7286101535102" lon="-4.93340028007174">
+<ele>376.971673541927</ele>
+<name>SEM 159</name>
+</rtept>
+<rtept lat="56.7288066179956" lon="-4.93482833359299">
+<ele>363.051583806419</ele>
+<name>SEM 160</name>
+</rtept>
+<rtept lat="56.7295551410017" lon="-4.93449426460248">
+<ele>373.578462999487</ele>
+<name>SEM 161</name>
+</rtept>
+<rtept lat="56.7296433213031" lon="-4.93502438930853">
+<ele>373.38936752944</ele>
+<name>SEM 162</name>
+</rtept>
+<rtept lat="56.7289784549914" lon="-4.93638529165233">
+<ele>355.389555256343</ele>
+<name>SEM 163</name>
+</rtept>
+<rtept lat="56.7285866942552" lon="-4.93897090471012">
+<ele>352.828410790586</ele>
+<name>SEM 164</name>
+</rtept>
+<rtept lat="56.7280497492021" lon="-4.94039401749141">
+<ele>344.267673541927</ele>
+<name>SEM 165</name>
+</rtept>
+<rtept lat="56.7280831228639" lon="-4.94141692100714">
+<ele>352.730095650196</ele>
+<name>SEM 166</name>
+</rtept>
+<rtept lat="56.7277364687409" lon="-4.94269789178333">
+<ele>347.961974151397</ele>
+<name>SEM 167</name>
+</rtept>
+<rtept lat="56.7270332410721" lon="-4.9456775605403">
+<ele>335.678451170087</ele>
+<name>SEM 168</name>
+</rtept>
+<rtept lat="56.7266776019501" lon="-4.94612061849409">
+<ele>316.959378847146</ele>
+<name>SEM 169</name>
+</rtept>
+<rtept lat="56.726764497368" lon="-4.94670295245223">
+<ele>324.395049687576</ele>
+<name>SEM 170</name>
+</rtept>
+<rtept lat="56.7264324184182" lon="-4.94918835089084">
+<ele>296.927659011006</ele>
+<name>SEM 171</name>
+</rtept>
+<rtept lat="56.7261480541309" lon="-4.95026479886858">
+<ele>275.547425141358</ele>
+<name>SEM 172</name>
+</rtept>
+<rtept lat="56.7257531717634" lon="-4.95114944644395">
+<ele>254.916662044096</ele>
+<name>SEM 173</name>
+</rtept>
+<rtept lat="56.7258755606295" lon="-4.95144680182248">
+<ele>259.375476687098</ele>
+<name>SEM 174</name>
+</rtept>
+<rtept lat="56.7262563388413" lon="-4.95176442130936">
+<ele>266.125391188288</ele>
+<name>SEM 175</name>
+</rtept>
+<rtept lat="56.7264549528391" lon="-4.95248632753544">
+<ele>246.356156987095</ele>
+<name>SEM 176</name>
+</rtept>
+<rtept lat="56.7262917046953" lon="-4.95391234009304">
+<ele>223.172106967878</ele>
+<name>SEM 177</name>
+</rtept>
+<rtept lat="56.7264060346475" lon="-4.95454916184342">
+<ele>218.665841846657</ele>
+<name>SEM 178</name>
+</rtept>
+<rtept lat="56.7258950433678" lon="-4.95547697568196">
+<ele>203.025538023949</ele>
+<name>SEM 179</name>
+</rtept>
+<rtept lat="56.7254568551093" lon="-4.95515481435097">
+<ele>204.659699902248</ele>
+<name>SEM 180</name>
+</rtept>
+<rtept lat="56.7235748585058" lon="-4.95537329441515">
+<ele>198.522875468135</ele>
+<name>SEM 181</name>
+</rtept>
+<rtept lat="56.7218231378593" lon="-4.9564651720245">
+<ele>174.815066919947</ele>
+<name>SEM 182</name>
+</rtept>
+<rtept lat="56.7210072300024" lon="-4.95933064938325">
+<ele>153.672274760842</ele>
+<name>SEM 183</name>
+</rtept>
+<rtept lat="56.7200410783768" lon="-4.96155644014624">
+<ele>114.985968748379</ele>
+<name>SEM 184</name>
+</rtept>
+<rtept lat="56.7196511568336" lon="-4.96283355849192">
+<ele>89.2418127848148</ele>
+<name>SEM 185</name>
+</rtept>
+<rtept lat="56.7192554311387" lon="-4.96254086316001">
+<ele>65.543645503521</ele>
+<name>SEM 186</name>
+</rtept>
+<rtept lat="56.7188964117853" lon="-4.96130947292438">
+<ele>39.956749078083</ele>
+<name>SEM 187</name>
+</rtept>
+<rtept lat="56.7187683809406" lon="-4.96064552448859">
+<ele>31.2021355179668</ele>
+<name>SEM 188</name>
+</rtept>
+<rtept lat="56.7183072401686" lon="-4.96128929051264">
+<ele>29.0180403795004</ele>
+<name>SEM 189</name>
+</rtept>
+<rtept lat="56.7181031675911" lon="-4.9614040143396">
+<ele>35.044474317193</ele>
+<name>SEM 190</name>
+</rtept>
+<rtept lat="56.7180071773769" lon="-4.96241649554161">
+<ele>29.4804307244778</ele>
+<name>SEM 191</name>
+</rtept>
+<rtept lat="56.7175148333441" lon="-4.9631623893359">
+<ele>19.3986098351657</ele>
+<name>SEM 192</name>
+</rtept>
+<rtept lat="56.7171771488032" lon="-4.96284812085581">
+<ele>18.0793815486252</ele>
+<name>SEM 193</name>
+</rtept>
+<rtept lat="56.7168838398896" lon="-4.96308658058784">
+<ele>18.2487717134647</ele>
+<name>SEM 194</name>
+</rtept>
+</rte>
+</gpx>

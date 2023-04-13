@@ -1,0 +1,1002 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>South Queensferry to Edinburgh</name>
+<rtept lat="55.9902289192232" lon="-3.39661262499649">
+<ele>7.61962682477869</ele>
+<name>SQ-E001</name>
+</rtept>
+<rtept lat="55.9897562657853" lon="-3.39502452646503">
+<ele>7.71323288916098</ele>
+<name>SQ-E002</name>
+</rtept>
+<rtept lat="55.9897154087074" lon="-3.39363153947307">
+<ele>8.46292767921709</ele>
+<name>SQ-E003</name>
+</rtept>
+<rtept lat="55.9898113419932" lon="-3.39237813539448">
+<ele>10.5719365791361</ele>
+<name>SQ-E004</name>
+</rtept>
+<rtept lat="55.9897173700094" lon="-3.39123012411992">
+<ele>5.85536142542734</ele>
+<name>SQ-E005</name>
+</rtept>
+<rtept lat="55.9897294306818" lon="-3.38952322587556">
+<ele>7.88961262851125</ele>
+<name>SQ-E006</name>
+</rtept>
+<rtept lat="55.9899751731737" lon="-3.38844832004664">
+<ele>6.46686024139919</ele>
+<name>SQ-E007</name>
+</rtept>
+<rtept lat="55.990285150526" lon="-3.38685467767609">
+<ele>4.60660249131266</ele>
+<name>SQ-E008</name>
+</rtept>
+<rtept lat="55.990603297739" lon="-3.38453186330849">
+<ele>5.12464546788484</ele>
+<name>SQ-E009</name>
+</rtept>
+<rtept lat="55.9906056513664" lon="-3.38328148051194">
+<ele>7.04520728519184</ele>
+<name>SQ-E010</name>
+</rtept>
+<rtept lat="55.9906614708576" lon="-3.3814286124594">
+<ele>12.3779209099745</ele>
+<name>SQ-E011</name>
+</rtept>
+<rtept lat="55.9910488991402" lon="-3.38021279075208">
+<ele>10.2328856087935</ele>
+<name>SQ-E012</name>
+</rtept>
+<rtept lat="55.990998441817" lon="-3.37950238812137">
+<ele>15.2893832519577</ele>
+<name>SQ-E013</name>
+</rtept>
+<rtept lat="55.9911973895652" lon="-3.37842571999835">
+<ele>11.3265766135941</ele>
+<name>SQ-E014</name>
+</rtept>
+<rtept lat="55.9913108232556" lon="-3.37663739007853">
+<ele>14.9967185256654</ele>
+<name>SQ-E015</name>
+</rtept>
+<rtept lat="55.9925386538209" lon="-3.37443008093338">
+<ele>8.73815536981515</ele>
+<name>SQ-E016</name>
+</rtept>
+<rtept lat="55.9930007896047" lon="-3.37384205181348">
+<ele>6.15736475068903</ele>
+<name>SQ-E017</name>
+</rtept>
+<rtept lat="55.9936999029896" lon="-3.3724287016126">
+<ele>6.55433116129263</ele>
+<name>SQ-E018</name>
+</rtept>
+<rtept lat="55.993731139931" lon="-3.37172115472667">
+<ele>10.3763342574594</ele>
+<name>SQ-E019</name>
+</rtept>
+<rtept lat="55.9940916450801" lon="-3.37081683336791">
+<ele>8.36509825582617</ele>
+<name>SQ-E020</name>
+</rtept>
+<rtept lat="55.9942325954832" lon="-3.36969629908821">
+<ele>14.0551681765203</ele>
+<name>SQ-E021</name>
+</rtept>
+<rtept lat="55.9944872990097" lon="-3.36885073762763">
+<ele>15.7476477585141</ele>
+<name>SQ-E022</name>
+</rtept>
+<rtept lat="55.9952109260912" lon="-3.36785498096869">
+<ele>13.5450946446701</ele>
+<name>SQ-E023</name>
+</rtept>
+<rtept lat="55.9964831334618" lon="-3.36689939426542">
+<ele>9.54221376148052</ele>
+<name>SQ-E024</name>
+</rtept>
+<rtept lat="55.997298611525" lon="-3.3665738196436">
+<ele>5.79862406980003</ele>
+<name>SQ-E025</name>
+</rtept>
+<rtept lat="55.998401191458" lon="-3.36511187244381">
+<ele>8.50873220424566</ele>
+<name>SQ-E026</name>
+</rtept>
+<rtept lat="55.9987609570986" lon="-3.36426989237645">
+<ele>10.2348817139911</ele>
+<name>SQ-E027</name>
+</rtept>
+<rtept lat="55.9993429902855" lon="-3.36022547810165">
+<ele>13.295905737304</ele>
+<name>SQ-E028</name>
+</rtept>
+<rtept lat="55.9994566211138" lon="-3.3583950394008">
+<ele>15.8149030725969</ele>
+<name>SQ-E029</name>
+</rtept>
+<rtept lat="55.9993320982469" lon="-3.35697316154177">
+<ele>15.0649136751174</ele>
+<name>SQ-E030</name>
+</rtept>
+<rtept lat="55.9996029751076" lon="-3.35571105630526">
+<ele>9.20567840061917</ele>
+<name>SQ-E031</name>
+</rtept>
+<rtept lat="55.9996847106326" lon="-3.35358763547359">
+<ele>12.4533573475626</ele>
+<name>SQ-E032</name>
+</rtept>
+<rtept lat="56.0001581761873" lon="-3.35195734043977">
+<ele>13.0185853924463</ele>
+<name>SQ-E033</name>
+</rtept>
+<rtept lat="56.0005132854151" lon="-3.3515319662721">
+<ele>12.2287639196701</ele>
+<name>SQ-E034</name>
+</rtept>
+<rtept lat="56.0006566075238" lon="-3.35124511910814">
+<ele>11.1088994395622</ele>
+<name>SQ-E035</name>
+</rtept>
+<rtept lat="56.0001283650553" lon="-3.35041368555134">
+<ele>7.87813475623083</ele>
+<name>SQ-E036</name>
+</rtept>
+<rtept lat="55.9993883328037" lon="-3.34972081341974">
+<ele>11.3081300167229</ele>
+<name>SQ-E037</name>
+</rtept>
+<rtept lat="55.9982102054378" lon="-3.34742847880788">
+<ele>5.77721067742279</ele>
+<name>SQ-E038</name>
+</rtept>
+<rtept lat="55.9974309555814" lon="-3.34604646105507">
+<ele>5.67239578435888</ele>
+<name>SQ-E039</name>
+</rtept>
+<rtept lat="55.9967674597751" lon="-3.34368883653807">
+<ele>7.1296033412366</ele>
+<name>SQ-E040</name>
+</rtept>
+<rtept lat="55.9958968484756" lon="-3.34157424616618">
+<ele>8.0574398237373</ele>
+<name>SQ-E041</name>
+</rtept>
+<rtept lat="55.9951304646742" lon="-3.34115167291632">
+<ele>14.4627973389757</ele>
+<name>SQ-E042</name>
+</rtept>
+<rtept lat="55.9946461428273" lon="-3.34057213601002">
+<ele>14.5476256754187</ele>
+<name>SQ-E043</name>
+</rtept>
+<rtept lat="55.9934023987911" lon="-3.33946611978134">
+<ele>9.81374224801809</ele>
+<name>SQ-E044</name>
+</rtept>
+<rtept lat="55.9928556959899" lon="-3.33817583978037">
+<ele>11.4989037526759</ele>
+<name>SQ-E045</name>
+</rtept>
+<rtept lat="55.992207047341" lon="-3.33659029226794">
+<ele>17.9221362832449</ele>
+<name>SQ-E046</name>
+</rtept>
+<rtept lat="55.9913928672572" lon="-3.33518666557812">
+<ele>16.5123857543669</ele>
+<name>SQ-E047</name>
+</rtept>
+<rtept lat="55.9907668117241" lon="-3.3347482642926">
+<ele>10.9105958773817</ele>
+<name>SQ-E048</name>
+</rtept>
+<rtept lat="55.9902377788414" lon="-3.33397976739419">
+<ele>4.19373820949091</ele>
+<name>SQ-E049</name>
+</rtept>
+<rtept lat="55.9895474942662" lon="-3.33353918790654">
+<ele>3.65619480323685</ele>
+<name>SQ-E050</name>
+</rtept>
+<rtept lat="55.9895778321882" lon="-3.33289417996092">
+<ele>1.21079219933263</ele>
+<name>SQ-E051</name>
+</rtept>
+<rtept lat="55.9894783669877" lon="-3.33236974883187">
+<ele>0.776299365723536</ele>
+<name>SQ-E052</name>
+</rtept>
+<rtept lat="55.9891922896077" lon="-3.33181806415546">
+<ele>0.663624949757696</ele>
+<name>SQ-E053</name>
+</rtept>
+<rtept lat="55.9883603057076" lon="-3.33097671047967">
+<ele>1.50025148011511</ele>
+<name>SQ-E054</name>
+</rtept>
+<rtept lat="55.9880735474964" lon="-3.33048754762522">
+<ele>1.55225148011465</ele>
+<name>SQ-E055</name>
+</rtept>
+<rtept lat="55.9877513062408" lon="-3.33003885267754">
+<ele>1.65761772667572</ele>
+<name>SQ-E056</name>
+</rtept>
+<rtept lat="55.9866150133788" lon="-3.32708241064501">
+<ele>0.774191404683516</ele>
+<name>SQ-E057</name>
+</rtept>
+<rtept lat="55.9863143205076" lon="-3.32680120821943">
+<ele>1.26203844296813</ele>
+<name>SQ-E058</name>
+</rtept>
+<rtept lat="55.9860497895875" lon="-3.32695885649176">
+<ele>1.82525148011395</ele>
+<name>SQ-E059</name>
+</rtept>
+<rtept lat="55.9857484238819" lon="-3.32674015111671">
+<ele>2.24125148011488</ele>
+<name>SQ-E060</name>
+</rtept>
+<rtept lat="55.985258429084" lon="-3.32668169506939">
+<ele>3.66522522362115</ele>
+<name>SQ-E061</name>
+</rtept>
+<rtept lat="55.9847277449391" lon="-3.3249756638223">
+<ele>4.43181560072499</ele>
+<name>SQ-E062</name>
+</rtept>
+<rtept lat="55.9847531140954" lon="-3.32478899142594">
+<ele>4.08444288479863</ele>
+<name>SQ-E063</name>
+</rtept>
+<rtept lat="55.9840211523424" lon="-3.32224264047408">
+<ele>2.32638280936982</ele>
+<name>SQ-E064</name>
+</rtept>
+<rtept lat="55.9838273299922" lon="-3.32179844321183">
+<ele>3.25730449527695</ele>
+<name>SQ-E065</name>
+</rtept>
+<rtept lat="55.9833653758464" lon="-3.32130343214528">
+<ele>5.40676532309045</ele>
+<name>SQ-E066</name>
+</rtept>
+<rtept lat="55.9831380803997" lon="-3.3207122478357">
+<ele>6.19549721970431</ele>
+<name>SQ-E067</name>
+</rtept>
+<rtept lat="55.9828828424563" lon="-3.31891158677408">
+<ele>4.82098906628307</ele>
+<name>SQ-E068</name>
+</rtept>
+<rtept lat="55.9826119444032" lon="-3.31802722811545">
+<ele>6.98345981825668</ele>
+<name>SQ-E069</name>
+</rtept>
+<rtept lat="55.9826889097698" lon="-3.31738391026194">
+<ele>8.12372851379557</ele>
+<name>SQ-E070</name>
+</rtept>
+<rtept lat="55.9831419914524" lon="-3.31652416614424">
+<ele>9.13149463222908</ele>
+<name>SQ-E071</name>
+</rtept>
+<rtept lat="55.9837722268274" lon="-3.31548288275738">
+<ele>8.3213510111894</ele>
+<name>SQ-E072</name>
+</rtept>
+<rtept lat="55.9829736968879" lon="-3.3136846444574">
+<ele>9.12137766388141</ele>
+<name>SQ-E073</name>
+</rtept>
+<rtept lat="55.9827831712683" lon="-3.31292806420746">
+<ele>11.8072503757369</ele>
+<name>SQ-E074</name>
+</rtept>
+<rtept lat="55.9828822044629" lon="-3.31130615499656">
+<ele>8.82206029924955</ele>
+<name>SQ-E075</name>
+</rtept>
+<rtept lat="55.9827415239509" lon="-3.30915521904915">
+<ele>11.2160932022584</ele>
+<name>SQ-E076</name>
+</rtept>
+<rtept lat="55.9829233177964" lon="-3.30853625921847">
+<ele>4.6047084310602</ele>
+<name>SQ-E077</name>
+</rtept>
+<rtept lat="55.9825419456193" lon="-3.30814832201904">
+<ele>7.12659088404808</ele>
+<name>SQ-E078</name>
+</rtept>
+<rtept lat="55.9823599702778" lon="-3.30768377668405">
+<ele>6.10518242489931</ele>
+<name>SQ-E079</name>
+</rtept>
+<rtept lat="55.9820658573811" lon="-3.30677789079166">
+<ele>4.11410578211032</ele>
+<name>SQ-E080</name>
+</rtept>
+<rtept lat="55.9815102178308" lon="-3.30519645386011">
+<ele>3.11434919229616</ele>
+<name>SQ-E081</name>
+</rtept>
+<rtept lat="55.9807201167542" lon="-3.30589908491832">
+<ele>14.6812574005744</ele>
+<name>SQ-E082</name>
+</rtept>
+<rtept lat="55.9792065255432" lon="-3.30818156827987">
+<ele>31.9405460721942</ele>
+<name>SQ-E083</name>
+</rtept>
+<rtept lat="55.9752687580093" lon="-3.31213184877805">
+<ele>35.2969970782064</ele>
+<name>SQ-E084</name>
+</rtept>
+<rtept lat="55.9727822837893" lon="-3.31471408256223">
+<ele>41.1322321799749</ele>
+<name>SQ-E085</name>
+</rtept>
+<rtept lat="55.9724791182334" lon="-3.31466213743843">
+<ele>40.4785708379206</ele>
+<name>SQ-E086</name>
+</rtept>
+<rtept lat="55.9721583711312" lon="-3.31406799162566">
+<ele>36.9918548611969</ele>
+<name>SQ-E087</name>
+</rtept>
+<rtept lat="55.9715445789439" lon="-3.31356807910208">
+<ele>29.0685836554458</ele>
+<name>SQ-E088</name>
+</rtept>
+<rtept lat="55.9710146613362" lon="-3.31396672898555">
+<ele>27.6412974605199</ele>
+<name>SQ-E089</name>
+</rtept>
+<rtept lat="55.9705832169573" lon="-3.31414757604639">
+<ele>21.0137063676295</ele>
+<name>SQ-E090</name>
+</rtept>
+<rtept lat="55.9700940614496" lon="-3.3148520382715">
+<ele>19.5194394131495</ele>
+<name>SQ-E091</name>
+</rtept>
+<rtept lat="55.9682395016176" lon="-3.31686240030355">
+<ele>27.6898702114138</ele>
+<name>SQ-E092</name>
+</rtept>
+<rtept lat="55.9667107062125" lon="-3.3182780603603">
+<ele>29.9092564715036</ele>
+<name>SQ-E093</name>
+</rtept>
+<rtept lat="55.9662245269326" lon="-3.31840891472364">
+<ele>29.8291116789214</ele>
+<name>SQ-E094</name>
+</rtept>
+<rtept lat="55.9657988463612" lon="-3.3178817609031">
+<ele>24.7602549254343</ele>
+<name>SQ-E095</name>
+</rtept>
+<rtept lat="55.9655001859043" lon="-3.31623105069685">
+<ele>15.6482212322064</ele>
+<name>SQ-E096</name>
+</rtept>
+<rtept lat="55.9655991120374" lon="-3.31369666457209">
+<ele>14.2202347902571</ele>
+<name>SQ-E097</name>
+</rtept>
+<rtept lat="55.9654850500566" lon="-3.31225731261674">
+<ele>20.2759425922532</ele>
+<name>SQ-E098</name>
+</rtept>
+<rtept lat="55.9665092338881" lon="-3.3065242462732">
+<ele>34.8312267474469</ele>
+<name>SQ-E099</name>
+</rtept>
+<rtept lat="55.9677547419672" lon="-3.3029516616489">
+<ele>39.6748182181129</ele>
+<name>SQ-E100</name>
+</rtept>
+<rtept lat="55.9683255136834" lon="-3.30063801107472">
+<ele>39.9663770471883</ele>
+<name>SQ-E101</name>
+</rtept>
+<rtept lat="55.9684016487831" lon="-3.29887171047575">
+<ele>39.0091088855566</ele>
+<name>SQ-E102</name>
+</rtept>
+<rtept lat="55.967827152281" lon="-3.29608386232017">
+<ele>38</ele>
+<name>SQ-E103</name>
+</rtept>
+<rtept lat="55.9668138954599" lon="-3.29399922790136">
+<ele>41.5930592507297</ele>
+<name>SQ-E104</name>
+</rtept>
+<rtept lat="55.9661163821253" lon="-3.29333509682461">
+<ele>47.4564964574971</ele>
+<name>SQ-E105</name>
+</rtept>
+<rtept lat="55.9658293471077" lon="-3.29191566011481">
+<ele>50.0120292420755</ele>
+<name>SQ-E106</name>
+</rtept>
+<rtept lat="55.965983653967" lon="-3.28953684495252">
+<ele>55.1074474291545</ele>
+<name>SQ-E107</name>
+</rtept>
+<rtept lat="55.9672979201277" lon="-3.28483812135806">
+<ele>62.2678929194781</ele>
+<name>SQ-E108</name>
+</rtept>
+<rtept lat="55.9673099357927" lon="-3.28368495365236">
+<ele>64.6230078542972</ele>
+<name>SQ-E109</name>
+</rtept>
+<rtept lat="55.9662709201103" lon="-3.28129221444797">
+<ele>64.9336758548628</ele>
+<name>SQ-E110</name>
+</rtept>
+<rtept lat="55.9646207744452" lon="-3.27959717115981">
+<ele>62.5853201568965</ele>
+<name>SQ-E111</name>
+</rtept>
+<rtept lat="55.964353823815" lon="-3.28038297895694">
+<ele>66.3488735306242</ele>
+<name>SQ-E112</name>
+</rtept>
+<rtept lat="55.9639165341743" lon="-3.28026600881256">
+<ele>64.869913186247</ele>
+<name>SQ-E113</name>
+</rtept>
+<rtept lat="55.963583842287" lon="-3.28046008251315">
+<ele>65.6397704872376</ele>
+<name>SQ-E114</name>
+</rtept>
+<rtept lat="55.9624673027981" lon="-3.28275568661519">
+<ele>72.4964126626203</ele>
+<name>SQ-E115</name>
+</rtept>
+<rtept lat="55.9622634239675" lon="-3.28300525672896">
+<ele>70.4472685956466</ele>
+<name>SQ-E116</name>
+</rtept>
+<rtept lat="55.9620481067318" lon="-3.28297250124871">
+<ele>72.0792685956438</ele>
+<name>SQ-E117</name>
+</rtept>
+<rtept lat="55.9618370224182" lon="-3.2839138708942">
+<ele>68.7780329751932</ele>
+<name>SQ-E118</name>
+</rtept>
+<rtept lat="55.9610744917982" lon="-3.28396551616232">
+<ele>71.1623674211291</ele>
+<name>SQ-E119</name>
+</rtept>
+<rtept lat="55.9601137169808" lon="-3.28234464331162">
+<ele>85.1404724461241</ele>
+<name>SQ-E120</name>
+</rtept>
+<rtept lat="55.9597291308163" lon="-3.28199873911043">
+<ele>89.4541329387575</ele>
+<name>SQ-E121</name>
+</rtept>
+<rtept lat="55.9590666734472" lon="-3.28210498679753">
+<ele>89.4489511568705</ele>
+<name>SQ-E122</name>
+</rtept>
+<rtept lat="55.958822086796" lon="-3.28143054225736">
+<ele>94.1689511568681</ele>
+<name>SQ-E123</name>
+</rtept>
+<rtept lat="55.9584239245612" lon="-3.281007323698">
+<ele>97.5817135378916</ele>
+<name>SQ-E124</name>
+</rtept>
+<rtept lat="55.9566598608686" lon="-3.28059027022145">
+<ele>106.327695634255</ele>
+<name>SQ-E125</name>
+</rtept>
+<rtept lat="55.9566265904252" lon="-3.27964094606826">
+<ele>111.839860311006</ele>
+<name>SQ-E126</name>
+</rtept>
+<rtept lat="55.9562116558023" lon="-3.27944786410043">
+<ele>113.141462662373</ele>
+<name>SQ-E127</name>
+</rtept>
+<rtept lat="55.953675734638" lon="-3.27859544351333">
+<ele>113.1409508891</ele>
+<name>SQ-E128</name>
+</rtept>
+<rtept lat="55.9505785097431" lon="-3.2791852013297">
+<ele>105.06786162499</ele>
+<name>SQ-E129</name>
+</rtept>
+<rtept lat="55.9504845495563" lon="-3.27854151167243">
+<ele>107.623815499987</ele>
+<name>SQ-E130</name>
+</rtept>
+<rtept lat="55.9505816757416" lon="-3.27749414025438">
+<ele>114.275677124981</ele>
+<name>SQ-E131</name>
+</rtept>
+<rtept lat="55.9506777316495" lon="-3.27654922364143">
+<ele>122.530545990755</ele>
+<name>SQ-E132</name>
+</rtept>
+<rtept lat="55.9505345153718" lon="-3.2758014242486">
+<ele>131.204510034259</ele>
+<name>SQ-E133</name>
+</rtept>
+<rtept lat="55.9500756010164" lon="-3.27430017668917">
+<ele>147.423280987985</ele>
+<name>SQ-E134</name>
+</rtept>
+<rtept lat="55.9499552531117" lon="-3.27342503177036">
+<ele>152.436491034595</ele>
+<name>SQ-E135</name>
+</rtept>
+<rtept lat="55.950162023715" lon="-3.27289372711239">
+<ele>155.243935575019</ele>
+<name>SQ-E136</name>
+</rtept>
+<rtept lat="55.9507121414297" lon="-3.27252742069564">
+<ele>159.421544186219</ele>
+<name>SQ-E137</name>
+</rtept>
+<rtept lat="55.9507035873265" lon="-3.27196341700195">
+<ele>159.617116218088</ele>
+<name>SQ-E138</name>
+</rtept>
+<rtept lat="55.9503173844684" lon="-3.27177138972905">
+<ele>158.01475026887</ele>
+<name>SQ-E139</name>
+</rtept>
+<rtept lat="55.9496775966399" lon="-3.27246786309437">
+<ele>150.026637080671</ele>
+<name>SQ-E140</name>
+</rtept>
+<rtept lat="55.9490503993361" lon="-3.2705512131592">
+<ele>139.15660803538</ele>
+<name>SQ-E141</name>
+</rtept>
+<rtept lat="55.9490294485512" lon="-3.26839822350444">
+<ele>149.763415039559</ele>
+<name>SQ-E142</name>
+</rtept>
+<rtept lat="55.9486057700179" lon="-3.26625771500196">
+<ele>142.050292879998</ele>
+<name>SQ-E143</name>
+</rtept>
+<rtept lat="55.9482604029864" lon="-3.2648884696178">
+<ele>136.684037588474</ele>
+<name>SQ-E144</name>
+</rtept>
+<rtept lat="55.9481980029743" lon="-3.26396403986977">
+<ele>133.942894188703</ele>
+<name>SQ-E145</name>
+</rtept>
+<rtept lat="55.9480548043971" lon="-3.26390813069416">
+<ele>134.736627317612</ele>
+<name>SQ-E146</name>
+</rtept>
+<rtept lat="55.947852277053" lon="-3.26402964233163">
+<ele>134.647489826574</ele>
+<name>SQ-E147</name>
+</rtept>
+<rtept lat="55.9472251450423" lon="-3.26349678192328">
+<ele>128.996006316866</ele>
+<name>SQ-E148</name>
+</rtept>
+<rtept lat="55.9466327243085" lon="-3.26378494259704">
+<ele>117.750847158157</ele>
+<name>SQ-E149</name>
+</rtept>
+<rtept lat="55.9461147921973" lon="-3.26381931421166">
+<ele>108.589386128331</ele>
+<name>SQ-E150</name>
+</rtept>
+<rtept lat="55.9452630068796" lon="-3.26135765631686">
+<ele>88.8025918699137</ele>
+<name>SQ-E151</name>
+</rtept>
+<rtept lat="55.945020069" lon="-3.260900483">
+<ele>0</ele>
+<name>SQ-E152</name>
+</rtept>
+<rtept lat="55.945011979" lon="-3.26039677">
+<ele>0</ele>
+<name>SQ-E153</name>
+</rtept>
+<rtept lat="55.944808934" lon="-3.260110324">
+<ele>0</ele>
+<name>SQ-E154</name>
+</rtept>
+<rtept lat="55.944730737" lon="-3.259697864">
+<ele>0</ele>
+<name>SQ-E155</name>
+</rtept>
+<rtept lat="55.944540395" lon="-3.259391447">
+<ele>0</ele>
+<name>SQ-E156</name>
+</rtept>
+<rtept lat="55.944259043" lon="-3.258959029">
+<ele>0</ele>
+<name>SQ-E157</name>
+</rtept>
+<rtept lat="55.944018982" lon="-3.257993446">
+<ele>0</ele>
+<name>SQ-E158</name>
+</rtept>
+<rtept lat="55.943938077" lon="-3.257619585">
+<ele>0</ele>
+<name>SQ-E159</name>
+</rtept>
+<rtept lat="55.94354643" lon="-3.258282874">
+<ele>0</ele>
+<name>SQ-E160</name>
+</rtept>
+<rtept lat="55.943159843" lon="-3.257889967">
+<ele>0</ele>
+<name>SQ-E161</name>
+</rtept>
+<rtept lat="55.942805598" lon="-3.257540915">
+<ele>0</ele>
+<name>SQ-E162</name>
+</rtept>
+<rtept lat="55.942347686" lon="-3.258836809">
+<ele>0</ele>
+<name>SQ-E163</name>
+</rtept>
+<rtept lat="55.941800259" lon="-3.260060449">
+<ele>0</ele>
+<name>SQ-E164</name>
+</rtept>
+<rtept lat="55.941478705" lon="-3.260621611">
+<ele>0</ele>
+<name>SQ-E165</name>
+</rtept>
+<rtept lat="55.941393458" lon="-3.260614811">
+<ele>0</ele>
+<name>SQ-E166</name>
+</rtept>
+<rtept lat="55.941050484" lon="-3.259795377">
+<ele>0</ele>
+<name>SQ-E167</name>
+</rtept>
+<rtept lat="55.940471426" lon="-3.258786951">
+<ele>0</ele>
+<name>SQ-E168</name>
+</rtept>
+<rtept lat="55.939721639" lon="-3.257591069">
+<ele>0</ele>
+<name>SQ-E169</name>
+</rtept>
+<rtept lat="55.938744697" lon="-3.255971569">
+<ele>0</ele>
+<name>SQ-E170</name>
+</rtept>
+<rtept lat="55.938462598" lon="-3.255263727">
+<ele>0</ele>
+<name>SQ-E171</name>
+</rtept>
+<rtept lat="55.938202451" lon="-3.254344672">
+<ele>0</ele>
+<name>SQ-E172</name>
+</rtept>
+<rtept lat="55.93812167" lon="-3.253253542">
+<ele>0</ele>
+<name>SQ-E173</name>
+</rtept>
+<rtept lat="55.938128224" lon="-3.252306768">
+<ele>0</ele>
+<name>SQ-E174</name>
+</rtept>
+<rtept lat="55.938256087" lon="-3.251558277">
+<ele>0</ele>
+<name>SQ-E175</name>
+</rtept>
+<rtept lat="55.938505604" lon="-3.250957947">
+<ele>0</ele>
+<name>SQ-E176</name>
+</rtept>
+<rtept lat="55.9387782" lon="-3.250832533">
+<ele>0</ele>
+<name>SQ-E177</name>
+</rtept>
+<rtept lat="55.938957802" lon="-3.250323208">
+<ele>0</ele>
+<name>SQ-E178</name>
+</rtept>
+<rtept lat="55.939595782" lon="-3.247736322">
+<ele>0</ele>
+<name>SQ-E179</name>
+</rtept>
+<rtept lat="55.939980024" lon="-3.246036853">
+<ele>0</ele>
+<name>SQ-E180</name>
+</rtept>
+<rtept lat="55.939802419" lon="-3.245830147">
+<ele>0</ele>
+<name>SQ-E181</name>
+</rtept>
+<rtept lat="55.939239746" lon="-3.245486183">
+<ele>0</ele>
+<name>SQ-E182</name>
+</rtept>
+<rtept lat="55.938975141" lon="-3.24549035">
+<ele>0</ele>
+<name>SQ-E183</name>
+</rtept>
+<rtept lat="55.9386360290537" lon="-3.24593038040773">
+<ele>41</ele>
+<name>SQ-E184</name>
+</rtept>
+<rtept lat="55.9377382314885" lon="-3.24620894156114">
+<ele>41.4405301199947</ele>
+<name>SQ-E185</name>
+</rtept>
+<rtept lat="55.9374836016727" lon="-3.2468635528702">
+<ele>41.9925301199942</ele>
+<name>SQ-E186</name>
+</rtept>
+<rtept lat="55.9371286059069" lon="-3.24731321386089">
+<ele>42</ele>
+<name>SQ-E187</name>
+</rtept>
+<rtept lat="55.9365363925666" lon="-3.24749589581578">
+<ele>42</ele>
+<name>SQ-E188</name>
+</rtept>
+<rtept lat="55.9359446926967" lon="-3.24736161631467">
+<ele>42.4065301199933</ele>
+<name>SQ-E189</name>
+</rtept>
+<rtept lat="55.9357645509531" lon="-3.24746402066138">
+<ele>42.8051721503329</ele>
+<name>SQ-E190</name>
+</rtept>
+<rtept lat="55.9351243041071" lon="-3.24724334010784">
+<ele>43</ele>
+<name>SQ-E190 - SQ-E191</name>
+</rtept>
+<rtept lat="55.9341350221513" lon="-3.24688339059985">
+<ele>43</ele>
+<name>SQ-E191</name>
+</rtept>
+<rtept lat="55.9334494112692" lon="-3.24714950678544">
+<ele>43.9764574946817</ele>
+<name>SQ-E191 - SQ-E192</name>
+</rtept>
+<rtept lat="55.933174984436" lon="-3.24762892121833">
+<ele>44.074566339743</ele>
+<name>SQ-E191 - SQ-E192 - SQ-E192</name>
+</rtept>
+<rtept lat="55.9330581929532" lon="-3.24851358523876">
+<ele>44.0794856804199</ele>
+<name>SQ-E191 - SQ-E192 - SQ-E192 - SQ-E192</name>
+</rtept>
+<rtept lat="55.9336444636388" lon="-3.25006918691555">
+<ele>45</ele>
+<name>SQ-E191 - SQ-E192 - SQ-E192 - SQ-E192 - SQ-E192</name>
+</rtept>
+<rtept lat="55.9337042232336" lon="-3.25126369216812">
+<ele>45</ele>
+<name>SQ-E191 - SQ-E192 - SQ-E192 - SQ-E192 - SQ-E192 - SQ-E192</name>
+</rtept>
+<rtept lat="55.9334503026803" lon="-3.25222783994894">
+<ele>46.2364144477614</ele>
+<name>SQ-E192</name>
+</rtept>
+<rtept lat="55.9331427976374" lon="-3.25224673416878">
+<ele>46.4097271318315</ele>
+<name>SQ-E193</name>
+</rtept>
+<rtept lat="55.9330403935488" lon="-3.25224343081606">
+<ele>46.4097271318315</ele>
+<name>SQ-E194</name>
+</rtept>
+<rtept lat="55.9327364990542" lon="-3.25190707693884">
+<ele>45.7743276586681</ele>
+<name>SQ-E195</name>
+</rtept>
+<rtept lat="55.93248915871" lon="-3.25184147428089">
+<ele>45.9980906191765</ele>
+<name>SQ-E196</name>
+</rtept>
+<rtept lat="55.9319004742276" lon="-3.25220666073057">
+<ele>47.8152084369797</ele>
+<name>SQ-E197</name>
+</rtept>
+<rtept lat="55.9315052904643" lon="-3.25289501596052">
+<ele>49.1896186383002</ele>
+<name>SQ-E198</name>
+</rtept>
+<rtept lat="55.9314657396422" lon="-3.25413267203629">
+<ele>47.975791463091</ele>
+<name>SQ-E199</name>
+</rtept>
+<rtept lat="55.931134439061" lon="-3.25489989741692">
+<ele>47.411733840728</ele>
+<name>SQ-E200</name>
+</rtept>
+<rtept lat="55.9305988062738" lon="-3.25508426611818">
+<ele>48.1430614941376</ele>
+<name>SQ-E201</name>
+</rtept>
+<rtept lat="55.9299042940365" lon="-3.25392857266896">
+<ele>48.7024314407099</ele>
+<name>SQ-E202</name>
+</rtept>
+<rtept lat="55.9296250483087" lon="-3.25355461424215">
+<ele>49.038272868169</ele>
+<name>SQ-E203</name>
+</rtept>
+<rtept lat="55.9292167995336" lon="-3.25340698306569">
+<ele>49.3742728681699</ele>
+<name>SQ-E204</name>
+</rtept>
+<rtept lat="55.9286224683328" lon="-3.25353184785754">
+<ele>49.2925091961765</ele>
+<name>SQ-E205</name>
+</rtept>
+<rtept lat="55.9284291391754" lon="-3.25398656821471">
+<ele>48.9855954310952</ele>
+<name>SQ-E206</name>
+</rtept>
+<rtept lat="55.9284483649064" lon="-3.2547458563704">
+<ele>48.9856818166769</ele>
+<name>SQ-E207</name>
+</rtept>
+<rtept lat="55.9283526325787" lon="-3.25514610372136">
+<ele>48.6746132107043</ele>
+<name>SQ-E208</name>
+</rtept>
+<rtept lat="55.9282222040658" lon="-3.25524752398198">
+<ele>49.035603893528</ele>
+<name>SQ-E209</name>
+</rtept>
+<rtept lat="55.9280307348842" lon="-3.25604800952603">
+<ele>49.2201199752954</ele>
+<name>SQ-E210</name>
+</rtept>
+<rtept lat="55.9277574325021" lon="-3.25641369366671">
+<ele>49.3698236548931</ele>
+<name>SQ-E211</name>
+</rtept>
+<rtept lat="55.9263899269346" lon="-3.25728171786556">
+<ele>50</ele>
+<name>SQ-E212</name>
+</rtept>
+<rtept lat="55.9262829663273" lon="-3.25746070870247">
+<ele>50</ele>
+<name>SQ-E213</name>
+</rtept>
+<rtept lat="55.9261383260234" lon="-3.25789775419692">
+<ele>50.0493981215995</ele>
+<name>SQ-E214</name>
+</rtept>
+<rtept lat="55.9261081422654" lon="-3.25821366907576">
+<ele>50.5721690767947</ele>
+<name>SQ-E215</name>
+</rtept>
+<rtept lat="55.9259540930868" lon="-3.2585159660731">
+<ele>52.190482249469</ele>
+<name>SQ-E216</name>
+</rtept>
+<rtept lat="55.925771138112" lon="-3.25848122819813">
+<ele>53.490770001192</ele>
+<name>SQ-E217</name>
+</rtept>
+<rtept lat="55.9255595726538" lon="-3.25755251485671">
+<ele>51.871590359977</ele>
+<name>SQ-E218</name>
+</rtept>
+<rtept lat="55.9254089513679" lon="-3.25646253924674">
+<ele>53.4168081502527</ele>
+<name>SQ-E219</name>
+</rtept>
+<rtept lat="55.9256208969633" lon="-3.25524025358409">
+<ele>53.9735224383256</ele>
+<name>SQ-E220</name>
+</rtept>
+<rtept lat="55.9258556596244" lon="-3.25389385605252">
+<ele>52.755160850568</ele>
+<name>SQ-E221</name>
+</rtept>
+<rtept lat="55.9258145570724" lon="-3.25263457121734">
+<ele>54.6169313199937</ele>
+<name>SQ-E222</name>
+</rtept>
+<rtept lat="55.9241757279943" lon="-3.2494321453303">
+<ele>57.6029030794768</ele>
+<name>SQ-E223</name>
+</rtept>
+<rtept lat="55.9236066513751" lon="-3.24839600496834">
+<ele>58.0604142379958</ele>
+<name>SQ-E224</name>
+</rtept>
+<rtept lat="55.9239475842061" lon="-3.24853659569348">
+<ele>59.105613764601</ele>
+<name>SQ-E225</name>
+</rtept>
+<rtept lat="55.9244676144802" lon="-3.24776271892121">
+<ele>63.0667140631911</ele>
+<name>SQ-E226</name>
+</rtept>
+<rtept lat="55.9246189251202" lon="-3.24630801221535">
+<ele>66.4881842581414</ele>
+<name>SQ-E227</name>
+</rtept>
+<rtept lat="55.924068430356" lon="-3.24334084228176">
+<ele>72.9201966740796</ele>
+<name>SQ-E228</name>
+</rtept>
+<rtept lat="55.9241410920041" lon="-3.2412146587496">
+<ele>76.1687267940748</ele>
+<name>SQ-E229</name>
+</rtept>
+<rtept lat="55.9248717008982" lon="-3.2398696584648">
+<ele>73.090726794079</ele>
+<name>SQ-E230</name>
+</rtept>
+<rtept lat="55.9255172998057" lon="-3.23678862100303">
+<ele>74.1678632281581</ele>
+<name>SQ-E231</name>
+</rtept>
+<rtept lat="55.9279173516563" lon="-3.23069179795184">
+<ele>72.6397659669396</ele>
+<name>SQ-E232</name>
+</rtept>
+<rtept lat="55.9299814960777" lon="-3.22829387198174">
+<ele>71.9149715190905</ele>
+<name>SQ-E233</name>
+</rtept>
+<rtept lat="55.9326374489136" lon="-3.22561024304558">
+<ele>72.2230591814116</ele>
+<name>SQ-E234</name>
+</rtept>
+<rtept lat="55.9367245178226" lon="-3.22236299884024">
+<ele>72.5462728681625</ele>
+<name>SQ-E235</name>
+</rtept>
+<rtept lat="55.9379028973428" lon="-3.2206054493531">
+<ele>74.6694224417536</ele>
+<name>SQ-E236</name>
+</rtept>
+<rtept lat="55.9403587540159" lon="-3.21395989319167">
+<ele>73.6490602399968</ele>
+<name>SQ-E237</name>
+</rtept>
+<rtept lat="55.9413956675261" lon="-3.21095026101868">
+<ele>70.8518193112786</ele>
+<name>SQ-E238</name>
+</rtept>
+<rtept lat="55.9388521846011" lon="-3.2074335914199">
+<ele>87.7892569140694</ele>
+<name>SQ-E239</name>
+</rtept>
+<rtept lat="55.9377388265258" lon="-3.20606057327182">
+<ele>92.3285301199974</ele>
+<name>SQ-E240</name>
+</rtept>
+<rtept lat="55.9387527312185" lon="-3.20290293234879">
+<ele>88.1179238059232</ele>
+<name>SQ-E241</name>
+</rtept>
+<rtept lat="55.9402324310772" lon="-3.19489397578266">
+<ele>77.0205301200016</ele>
+<name>SQ-E242</name>
+</rtept>
+</rte>
+</gpx>

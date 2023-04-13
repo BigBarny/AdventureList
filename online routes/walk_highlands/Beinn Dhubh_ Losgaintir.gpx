@@ -1,0 +1,510 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Beinn Dhubh, Losgaintir</name>
+<rtept lat="57.8710953223656" lon="-6.90530622407444">
+<ele>11.4600623200329</ele>
+<name>BD001</name>
+</rtept>
+<rtept lat="57.8716012926211" lon="-6.9038252595191">
+<ele>9.98222335239348</ele>
+<name>BD002</name>
+</rtept>
+<rtept lat="57.8715920164502" lon="-6.90248450633939">
+<ele>9.22925746751911</ele>
+<name>BD003</name>
+</rtept>
+<rtept lat="57.8722985957" lon="-6.90108823294386">
+<ele>23.0532550296141</ele>
+<name>BD004</name>
+</rtept>
+<rtept lat="57.8730741843513" lon="-6.90054330666389">
+<ele>32.0101630401167</ele>
+<name>BD005</name>
+</rtept>
+<rtept lat="57.873479651244" lon="-6.89981396708802">
+<ele>39.1698946240279</ele>
+<name>BD006</name>
+</rtept>
+<rtept lat="57.8742382998352" lon="-6.89970683804812">
+<ele>51.4414049891345</ele>
+<name>BD007</name>
+</rtept>
+<rtept lat="57.8749402698483" lon="-6.89869252994444">
+<ele>91.1111552610634</ele>
+<name>BD008</name>
+</rtept>
+<rtept lat="57.8748463694925" lon="-6.89822044388459">
+<ele>98.8528065102115</ele>
+<name>BD009</name>
+</rtept>
+<rtept lat="57.8750873344941" lon="-6.89752605028992">
+<ele>121.679399498457</ele>
+<name>BD010</name>
+</rtept>
+<rtept lat="57.8751123576829" lon="-6.89687878874539">
+<ele>130.251033465353</ele>
+<name>BD011</name>
+</rtept>
+<rtept lat="57.8754684041908" lon="-6.89637229012471">
+<ele>145.833286518757</ele>
+<name>BD012</name>
+</rtept>
+<rtept lat="57.87547124419" lon="-6.89524356303886">
+<ele>165.559179525108</ele>
+<name>BD013</name>
+</rtept>
+<rtept lat="57.8758004566826" lon="-6.89477166627703">
+<ele>180.650700813199</ele>
+<name>BD014</name>
+</rtept>
+<rtept lat="57.8758114906215" lon="-6.89448610301988">
+<ele>184.050699859525</ele>
+<name>BD015</name>
+</rtept>
+<rtept lat="57.8761356291376" lon="-6.89401350460382">
+<ele>196.705788022456</ele>
+<name>BD016</name>
+</rtept>
+<rtept lat="57.8763993376128" lon="-6.89404939912559">
+<ele>202.372276335022</ele>
+<name>BD017</name>
+</rtept>
+<rtept lat="57.8772069508472" lon="-6.89320240978913">
+<ele>221.794140644002</ele>
+<name>BD018</name>
+</rtept>
+<rtept lat="57.8778328530816" lon="-6.89336414948945">
+<ele>236.223618514753</ele>
+<name>BD019</name>
+</rtept>
+<rtept lat="57.8787349891966" lon="-6.89191752119806">
+<ele>260.242222790194</ele>
+<name>BD020</name>
+</rtept>
+<rtept lat="57.878751898335" lon="-6.89147961993066">
+<ele>262.173527179784</ele>
+<name>BD021</name>
+</rtept>
+<rtept lat="57.8805392878934" lon="-6.89153141819341">
+<ele>276.940116253155</ele>
+<name>BD022</name>
+</rtept>
+<rtept lat="57.881394062181" lon="-6.89183913448956">
+<ele>281.464752411256</ele>
+<name>BD023</name>
+</rtept>
+<rtept lat="57.8817937353212" lon="-6.89231462148122">
+<ele>282.790638037192</ele>
+<name>BD024</name>
+</rtept>
+<rtept lat="57.882660120493" lon="-6.89258566666366">
+<ele>286.724225276764</ele>
+<name>BD025</name>
+</rtept>
+<rtept lat="57.8832669281055" lon="-6.89192173579526">
+<ele>289.661943804316</ele>
+<name>BD026</name>
+</rtept>
+<rtept lat="57.8849497663496" lon="-6.89362474591509">
+<ele>311.064730950522</ele>
+<name>BD027</name>
+</rtept>
+<rtept lat="57.8859973987862" lon="-6.8936908125444">
+<ele>327.866215112907</ele>
+<name>BD028</name>
+</rtept>
+<rtept lat="57.8876337267082" lon="-6.89435393291823">
+<ele>352.915707408574</ele>
+<name>BD029</name>
+</rtept>
+<rtept lat="57.8887868050371" lon="-6.89498958457132">
+<ele>374.393616737559</ele>
+<name>BD030</name>
+</rtept>
+<rtept lat="57.8896915450568" lon="-6.89532341672165">
+<ele>389.474840732316</ele>
+<name>BD031</name>
+</rtept>
+<rtept lat="57.8910656843812" lon="-6.89459161282229">
+<ele>400.182136187953</ele>
+<name>BD032</name>
+</rtept>
+<rtept lat="57.892148843292" lon="-6.89822380326901">
+<ele>403.000172482056</ele>
+<name>BD033</name>
+</rtept>
+<rtept lat="57.8928686289854" lon="-6.90228532362924">
+<ele>419.978437251298</ele>
+<name>BD034</name>
+</rtept>
+<rtept lat="57.894119812381" lon="-6.90460056118365">
+<ele>432.68436643085</ele>
+<name>BD035</name>
+</rtept>
+<rtept lat="57.8949278989185" lon="-6.90532360817001">
+<ele>422.576109279323</ele>
+<name>BD036</name>
+</rtept>
+<rtept lat="57.8952714596776" lon="-6.90619388778246">
+<ele>407.302157043427</ele>
+<name>BD037</name>
+</rtept>
+<rtept lat="57.8954453557596" lon="-6.90617933770968">
+<ele>404.535464654558</ele>
+<name>BD038</name>
+</rtept>
+<rtept lat="57.8965379676668" lon="-6.90824343611152">
+<ele>399.47165303508</ele>
+<name>BD039</name>
+</rtept>
+<rtept lat="57.8967990809529" lon="-6.90887273042313">
+<ele>403.523532088124</ele>
+<name>BD040</name>
+</rtept>
+<rtept lat="57.8973899125991" lon="-6.9094130474228">
+<ele>413.678140028342</ele>
+<name>BD041</name>
+</rtept>
+<rtept lat="57.8980278298243" lon="-6.9109747546551">
+<ele>437.187992140885</ele>
+<name>BD042</name>
+</rtept>
+<rtept lat="57.8981829178286" lon="-6.91091935652081">
+<ele>442.03234171698</ele>
+<name>BD043</name>
+</rtept>
+<rtept lat="57.8990993357376" lon="-6.91305542227336">
+<ele>481.845656094298</ele>
+<name>BD044</name>
+</rtept>
+<rtept lat="57.8995044330546" lon="-6.91391515100816">
+<ele>496.333023718783</ele>
+<name>BD045</name>
+</rtept>
+<rtept lat="57.899899782883" lon="-6.91423734407784">
+<ele>503.256462341471</ele>
+<name>BD046</name>
+</rtept>
+<rtept lat="57.8998900358305" lon="-6.91659155879903">
+<ele>485.312194221459</ele>
+<name>BD047</name>
+</rtept>
+<rtept lat="57.9000751419827" lon="-6.91707651649784">
+<ele>482.491509903055</ele>
+<name>BD048</name>
+</rtept>
+<rtept lat="57.8999785977643" lon="-6.91825065523868">
+<ele>469.641531961856</ele>
+<name>BD049</name>
+</rtept>
+<rtept lat="57.9002765309541" lon="-6.91898088551861">
+<ele>469.196819511317</ele>
+<name>BD050</name>
+</rtept>
+<rtept lat="57.9003645348092" lon="-6.92039096744601">
+<ele>462.828953485347</ele>
+<name>BD051</name>
+</rtept>
+<rtept lat="57.9002173664667" lon="-6.92050486577014">
+<ele>460.639923981168</ele>
+<name>BD052</name>
+</rtept>
+<rtept lat="57.9000484342751" lon="-6.92065408379643">
+<ele>454.850801931005</ele>
+<name>BD053</name>
+</rtept>
+<rtept lat="57.8997126681256" lon="-6.92194864377328">
+<ele>434.25966869682</ele>
+<name>BD054</name>
+</rtept>
+<rtept lat="57.8995027316196" lon="-6.9226284536566">
+<ele>420.153424641767</ele>
+<name>BD055</name>
+</rtept>
+<rtept lat="57.8994642486571" lon="-6.92361901478378">
+<ele>402.542923118258</ele>
+<name>BD056</name>
+</rtept>
+<rtept lat="57.8992674064484" lon="-6.92422400370062">
+<ele>391.002251484931</ele>
+<name>BD057</name>
+</rtept>
+<rtept lat="57.898911766657" lon="-6.92497956933092">
+<ele>373.516643873077</ele>
+<name>BD058</name>
+</rtept>
+<rtept lat="57.8982301599684" lon="-6.92651387668545">
+<ele>334.069716952799</ele>
+<name>BD059</name>
+</rtept>
+<rtept lat="57.898167146501" lon="-6.92734783609787">
+<ele>310.522165153513</ele>
+<name>BD060</name>
+</rtept>
+<rtept lat="57.8985388505913" lon="-6.92985005162458">
+<ele>230.380097047032</ele>
+<name>BD061</name>
+</rtept>
+<rtept lat="57.8986663547143" lon="-6.93233794380517">
+<ele>178.906884780045</ele>
+<name>BD062</name>
+</rtept>
+<rtept lat="57.8988499166467" lon="-6.93286105979645">
+<ele>166.154096286637</ele>
+<name>BD063</name>
+</rtept>
+<rtept lat="57.8994248467048" lon="-6.93564027187708">
+<ele>105.609957969208</ele>
+<name>BD064</name>
+</rtept>
+<rtept lat="57.9003603833948" lon="-6.93701365497368">
+<ele>74.8005812631704</ele>
+<name>BD065</name>
+</rtept>
+<rtept lat="57.9011920167534" lon="-6.93791318418082">
+<ele>47.7364858184084</ele>
+<name>BD066</name>
+</rtept>
+<rtept lat="57.9019259204029" lon="-6.93948879720269">
+<ele>19.6214401629498</ele>
+<name>BD067</name>
+</rtept>
+<rtept lat="57.9023721170728" lon="-6.94112065993458">
+<ele>11.1649737450437</ele>
+<name>BD068</name>
+</rtept>
+<rtept lat="57.9017159820192" lon="-6.94382660605283">
+<ele>12.9446738703144</ele>
+<name>BD069</name>
+</rtept>
+<rtept lat="57.9010323980394" lon="-6.945666847716">
+<ele>13.5116762657399</ele>
+<name>BD070</name>
+</rtept>
+<rtept lat="57.9008048175721" lon="-6.94575042238698">
+<ele>15.0968352419288</ele>
+<name>BD071</name>
+</rtept>
+<rtept lat="57.9003404039596" lon="-6.94719944070088">
+<ele>15.7581005711876</ele>
+<name>BD072</name>
+</rtept>
+<rtept lat="57.8993705719463" lon="-6.9490575677857">
+<ele>9.09298262465603</ele>
+<name>BD073</name>
+</rtept>
+<rtept lat="57.8984159552873" lon="-6.94948141132648">
+<ele>10.8951909208065</ele>
+<name>BD074</name>
+</rtept>
+<rtept lat="57.897367634702" lon="-6.94943272520882">
+<ele>12.6673909053848</ele>
+<name>BD075</name>
+</rtept>
+<rtept lat="57.895335426537" lon="-6.94938254053133">
+<ele>16.3829332540322</ele>
+<name>BD076</name>
+</rtept>
+<rtept lat="57.8950150802861" lon="-6.94949159795676">
+<ele>15.6011051201009</ele>
+<name>BD077</name>
+</rtept>
+<rtept lat="57.8948473299056" lon="-6.94987060727089">
+<ele>11.2645225368061</ele>
+<name>BD078</name>
+</rtept>
+<rtept lat="57.89427567162" lon="-6.94988758995563">
+<ele>20.9671595048568</ele>
+<name>BD079</name>
+</rtept>
+<rtept lat="57.8933458009105" lon="-6.95019988179994">
+<ele>15.9675908705122</ele>
+<name>BD080</name>
+</rtept>
+<rtept lat="57.8921343849688" lon="-6.95093289849002">
+<ele>13.497969463006</ele>
+<name>BD081</name>
+</rtept>
+<rtept lat="57.8920289696502" lon="-6.95128216736716">
+<ele>10.7759302371492</ele>
+<name>BD082</name>
+</rtept>
+<rtept lat="57.8917924551742" lon="-6.95159422089767">
+<ele>9.36025643272618</ele>
+<name>BD083</name>
+</rtept>
+<rtept lat="57.891458522297" lon="-6.9515290565524">
+<ele>6.54021190830308</ele>
+<name>BD084</name>
+</rtept>
+<rtept lat="57.8910024715588" lon="-6.95184914263634">
+<ele>9.40325043068384</ele>
+<name>BD085</name>
+</rtept>
+<rtept lat="57.8906949637905" lon="-6.95215139993728">
+<ele>12.8536129307724</ele>
+<name>BD086</name>
+</rtept>
+<rtept lat="57.8901422854406" lon="-6.9527261994112">
+<ele>18.1607943351081</ele>
+<name>BD087</name>
+</rtept>
+<rtept lat="57.889555554658" lon="-6.95260704081661">
+<ele>21.7115653748155</ele>
+<name>BD088</name>
+</rtept>
+<rtept lat="57.8858413035514" lon="-6.94876418496446">
+<ele>22.771296006908</ele>
+<name>BD089</name>
+</rtept>
+<rtept lat="57.8852365093853" lon="-6.94714943834419">
+<ele>15.4762135656457</ele>
+<name>BD090</name>
+</rtept>
+<rtept lat="57.8848291948496" lon="-6.94582992552394">
+<ele>14.5748585660982</ele>
+<name>BD091</name>
+</rtept>
+<rtept lat="57.8844045096979" lon="-6.94521634184736">
+<ele>13.5303807534136</ele>
+<name>BD092</name>
+</rtept>
+<rtept lat="57.8842039026011" lon="-6.94513131239119">
+<ele>14.4181647897487</ele>
+<name>BD093</name>
+</rtept>
+<rtept lat="57.883952148425" lon="-6.94400554352579">
+<ele>20.1162489150368</ele>
+<name>BD094</name>
+</rtept>
+<rtept lat="57.8839173360981" lon="-6.94254591561152">
+<ele>20.1769295468815</ele>
+<name>BD095</name>
+</rtept>
+<rtept lat="57.8836405625973" lon="-6.94179958539383">
+<ele>22.5872902718048</ele>
+<name>BD096</name>
+</rtept>
+<rtept lat="57.8827668972086" lon="-6.94093293215887">
+<ele>14.7611834156686</ele>
+<name>BD097</name>
+</rtept>
+<rtept lat="57.8824802242058" lon="-6.93991729359323">
+<ele>12.3248722045656</ele>
+<name>BD098</name>
+</rtept>
+<rtept lat="57.8818500763706" lon="-6.93895018642765">
+<ele>8.99118907301737</ele>
+<name>BD099</name>
+</rtept>
+<rtept lat="57.8814275823363" lon="-6.9382796171304">
+<ele>8.96073377934121</ele>
+<name>BD100</name>
+</rtept>
+<rtept lat="57.8810127526206" lon="-6.93793551402469">
+<ele>7.03191565600631</ele>
+<name>BD101</name>
+</rtept>
+<rtept lat="57.8796749754566" lon="-6.93511039812737">
+<ele>4.59640508563714</ele>
+<name>BD102</name>
+</rtept>
+<rtept lat="57.8787413312622" lon="-6.93237922588323">
+<ele>9.65044418206711</ele>
+<name>BD103</name>
+</rtept>
+<rtept lat="57.8780634930087" lon="-6.9311952856999">
+<ele>5.43436463821446</ele>
+<name>BD104</name>
+</rtept>
+<rtept lat="57.8778117258341" lon="-6.92993584370853">
+<ele>6.56276582739938</ele>
+<name>BD105</name>
+</rtept>
+<rtept lat="57.877260013067" lon="-6.92865444040291">
+<ele>5.62116692721022</ele>
+<name>BD106</name>
+</rtept>
+<rtept lat="57.8764270441235" lon="-6.9275259169053">
+<ele>3.92690152102972</ele>
+<name>BD107</name>
+</rtept>
+<rtept lat="57.8759448199212" lon="-6.92629240041101">
+<ele>3.32450970544488</ele>
+<name>BD108</name>
+</rtept>
+<rtept lat="57.8759197979186" lon="-6.92588707106873">
+<ele>2.93609646246385</ele>
+<name>BD109</name>
+</rtept>
+<rtept lat="57.8762254658139" lon="-6.92510600210291">
+<ele>6.42857326433043</ele>
+<name>BD110</name>
+</rtept>
+<rtept lat="57.87583536282" lon="-6.92281341132288">
+<ele>3.87095451308407</ele>
+<name>BD111</name>
+</rtept>
+<rtept lat="57.8756778548336" lon="-6.92135649883744">
+<ele>5.50028169040181</ele>
+<name>BD112</name>
+</rtept>
+<rtept lat="57.8749515099132" lon="-6.91905626447635">
+<ele>11.7951816486448</ele>
+<name>BD113</name>
+</rtept>
+<rtept lat="57.8739767654324" lon="-6.91750677862683">
+<ele>11.7154823630252</ele>
+<name>BD114</name>
+</rtept>
+<rtept lat="57.8727283642857" lon="-6.91368102182322">
+<ele>3.91448737509083</ele>
+<name>BD115</name>
+</rtept>
+<rtept lat="57.8724346611852" lon="-6.91205259149944">
+<ele>2.27849719733446</ele>
+<name>BD116</name>
+</rtept>
+<rtept lat="57.8723830668248" lon="-6.91022761736827">
+<ele>2.46161186170423</ele>
+<name>BD117</name>
+</rtept>
+<rtept lat="57.872347850248" lon="-6.90982095193255">
+<ele>2.42557907504204</ele>
+<name>BD118</name>
+</rtept>
+<rtept lat="57.8720352848359" lon="-6.9092042004262">
+<ele>3.72485357131051</ele>
+<name>BD119</name>
+</rtept>
+<rtept lat="57.8718473759002" lon="-6.90852793237486">
+<ele>2.67608954125366</ele>
+<name>BD120</name>
+</rtept>
+<rtept lat="57.8718790921369" lon="-6.90770942377116">
+<ele>5.65961797710867</ele>
+<name>BD121</name>
+</rtept>
+<rtept lat="57.8717112781775" lon="-6.90730380846848">
+<ele>7.26589714862563</ele>
+<name>BD122</name>
+</rtept>
+<rtept lat="57.8712884269072" lon="-6.90690166869032">
+<ele>6.0895580070897</ele>
+<name>BD123</name>
+</rtept>
+<rtept lat="57.8711379457229" lon="-6.90657497039424">
+<ele>7.63866163328796</ele>
+<name>BD124</name>
+</rtept>
+<rtept lat="57.8710844427346" lon="-6.90532387537337">
+<ele>11.4824565845431</ele>
+<name>BD125</name>
+</rtept>
+</rte>
+</gpx>

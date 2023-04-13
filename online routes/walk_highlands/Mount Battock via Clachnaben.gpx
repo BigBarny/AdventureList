@@ -1,0 +1,1002 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Mount Battock via Clachnaben</name>
+<rtept lat="56.9717652595482" lon="-2.57909969770017">
+<ele>196.736577423979</ele>
+<name>MBCl001</name>
+</rtept>
+<rtept lat="56.9708931297702" lon="-2.58003032889473">
+<ele>200.271636422595</ele>
+<name>MBCl002</name>
+</rtept>
+<rtept lat="56.9699515825212" lon="-2.58236453160139">
+<ele>221.919454482099</ele>
+<name>MBCl003</name>
+</rtept>
+<rtept lat="56.9691854126373" lon="-2.58483952830517">
+<ele>232.207241030619</ele>
+<name>MBCl004</name>
+</rtept>
+<rtept lat="56.9692256897707" lon="-2.58698170304561">
+<ele>228.769898056656</ele>
+<name>MBCl005</name>
+</rtept>
+<rtept lat="56.96910969426" lon="-2.58757858822257">
+<ele>222.463552124995</ele>
+<name>MBCl006</name>
+</rtept>
+<rtept lat="56.9683953534531" lon="-2.58837328279603">
+<ele>205.434295413042</ele>
+<name>MBCl007</name>
+</rtept>
+<rtept lat="56.9659482038184" lon="-2.58990043449342">
+<ele>170.846776063955</ele>
+<name>MBCl008</name>
+</rtept>
+<rtept lat="56.9652184600615" lon="-2.58995797778374">
+<ele>167.780843095301</ele>
+<name>MBCl009</name>
+</rtept>
+<rtept lat="56.9647118282346" lon="-2.5907097823455">
+<ele>167.935926198432</ele>
+<name>MBCl010</name>
+</rtept>
+<rtept lat="56.9646071940218" lon="-2.59156003359914">
+<ele>169.956806395694</ele>
+<name>MBCl011</name>
+</rtept>
+<rtept lat="56.9647511325003" lon="-2.59303588895453">
+<ele>175.813215487753</ele>
+<name>MBCl012</name>
+</rtept>
+<rtept lat="56.9646281082512" lon="-2.59510614223171">
+<ele>179.328162883359</ele>
+<name>MBCl013</name>
+</rtept>
+<rtept lat="56.9639652637119" lon="-2.59696053005199">
+<ele>180.005957383501</ele>
+<name>MBCl014</name>
+</rtept>
+<rtept lat="56.9634696100597" lon="-2.60197179804378">
+<ele>192.436109145864</ele>
+<name>MBCl015</name>
+</rtept>
+<rtept lat="56.9636331318234" lon="-2.60457613887942">
+<ele>199.295601293021</ele>
+<name>MBCl016</name>
+</rtept>
+<rtept lat="56.9639583309808" lon="-2.60494979136513">
+<ele>200.667084958239</ele>
+<name>MBCl017</name>
+</rtept>
+<rtept lat="56.964180022313" lon="-2.6059204031446">
+<ele>207.950620990938</ele>
+<name>MBCl018</name>
+</rtept>
+<rtept lat="56.9641052989208" lon="-2.60835975858236">
+<ele>224.19278342928</ele>
+<name>MBCl019</name>
+</rtept>
+<rtept lat="56.9637994388579" lon="-2.60918363996815">
+<ele>232.248961722532</ele>
+<name>MBCl020</name>
+</rtept>
+<rtept lat="56.9638275110432" lon="-2.61116416740984">
+<ele>247.24741712581</ele>
+<name>MBCl021</name>
+</rtept>
+<rtept lat="56.9639973848866" lon="-2.61243327772201">
+<ele>249.149233424632</ele>
+<name>MBCl022</name>
+</rtept>
+<rtept lat="56.9642593414717" lon="-2.61287503741909">
+<ele>258.629050529679</ele>
+<name>MBCl023</name>
+</rtept>
+<rtept lat="56.964306599381" lon="-2.61349747104696">
+<ele>263.516194870561</ele>
+<name>MBCl024</name>
+</rtept>
+<rtept lat="56.9640489745588" lon="-2.61473654453635">
+<ele>260.203609315834</ele>
+<name>MBCl025</name>
+</rtept>
+<rtept lat="56.9641850485874" lon="-2.61519927103281">
+<ele>264.829035945252</ele>
+<name>MBCl026</name>
+</rtept>
+<rtept lat="56.9647288248653" lon="-2.61587594626304">
+<ele>270.993647513973</ele>
+<name>MBCl027</name>
+</rtept>
+<rtept lat="56.9654439629106" lon="-2.61623312052454">
+<ele>280.699325387315</ele>
+<name>MBCl028</name>
+</rtept>
+<rtept lat="56.9660305007758" lon="-2.61716382025982">
+<ele>291.575742187644</ele>
+<name>MBCl029</name>
+</rtept>
+<rtept lat="56.9670132046548" lon="-2.61936754153109">
+<ele>306.813102105204</ele>
+<name>MBCl030</name>
+</rtept>
+<rtept lat="56.9675878275903" lon="-2.62015997364875">
+<ele>319.065163403919</ele>
+<name>MBCl031</name>
+</rtept>
+<rtept lat="56.9683531430439" lon="-2.62054111887794">
+<ele>333.777982000628</ele>
+<name>MBCl032</name>
+</rtept>
+<rtept lat="56.9690519076232" lon="-2.62292454835539">
+<ele>363.925440802139</ele>
+<name>MBCl033</name>
+</rtept>
+<rtept lat="56.9707268835652" lon="-2.6250020260922">
+<ele>411.572894367647</ele>
+<name>MBCl034</name>
+</rtept>
+<rtept lat="56.9709217683744" lon="-2.626271855234">
+<ele>428.7714228355</ele>
+<name>MBCl035</name>
+</rtept>
+<rtept lat="56.9707288599734" lon="-2.62712066717468">
+<ele>441.285534585247</ele>
+<name>MBCl036</name>
+</rtept>
+<rtept lat="56.9692571991433" lon="-2.62965198699717">
+<ele>478.868162702728</ele>
+<name>MBCl037</name>
+</rtept>
+<rtept lat="56.9690011554545" lon="-2.63054573199583">
+<ele>493.588167206448</ele>
+<name>MBCl038</name>
+</rtept>
+<rtept lat="56.9689463225181" lon="-2.63144286870523">
+<ele>510.396336189739</ele>
+<name>MBCl039</name>
+</rtept>
+<rtept lat="56.9690918855572" lon="-2.63250458925386">
+<ele>531.617987457193</ele>
+<name>MBCl040</name>
+</rtept>
+<rtept lat="56.968964145528" lon="-2.63289388821744">
+<ele>539.053259303972</ele>
+<name>MBCl041</name>
+</rtept>
+<rtept lat="56.9683694578949" lon="-2.63359763889268">
+<ele>560.425619482881</ele>
+<name>MBCl042</name>
+</rtept>
+<rtept lat="56.9684297720452" lon="-2.63410525544921">
+<ele>566.865264035334</ele>
+<name>MBCl043</name>
+</rtept>
+<rtept lat="56.9682893342204" lon="-2.63451735310802">
+<ele>570.703605703617</ele>
+<name>MBCl044</name>
+</rtept>
+<rtept lat="56.9680743732642" lon="-2.63474396623578">
+<ele>571.705590608757</ele>
+<name>MBCl045</name>
+</rtept>
+<rtept lat="56.9680383967163" lon="-2.634397953908">
+<ele>571.208508901569</ele>
+<name>MBCl046</name>
+</rtept>
+<rtept lat="56.9683476574035" lon="-2.63541639343897">
+<ele>573.173736961777</ele>
+<name>MBCl047</name>
+</rtept>
+<rtept lat="56.9685659480249" lon="-2.63700897465182">
+<ele>577.347600589799</ele>
+<name>MBCl048</name>
+</rtept>
+<rtept lat="56.9685123598255" lon="-2.63765281612373">
+<ele>574.790539579134</ele>
+<name>MBCl049</name>
+</rtept>
+<rtept lat="56.9683608603868" lon="-2.63776536256552">
+<ele>573.908601446011</ele>
+<name>MBCl050</name>
+</rtept>
+<rtept lat="56.9676888600906" lon="-2.64005653040066">
+<ele>556.462628065493</ele>
+<name>MBCl051</name>
+</rtept>
+<rtept lat="56.9671746095134" lon="-2.64223519990808">
+<ele>540.809645035609</ele>
+<name>MBCl052</name>
+</rtept>
+<rtept lat="56.9670053247617" lon="-2.6433605652991">
+<ele>535.8999345962</ele>
+<name>MBCl053</name>
+</rtept>
+<rtept lat="56.9670251449019" lon="-2.6443970811712">
+<ele>534.64042222126</ele>
+<name>MBCl054</name>
+</rtept>
+<rtept lat="56.9668088610248" lon="-2.64487689270596">
+<ele>536.049486663643</ele>
+<name>MBCl055</name>
+</rtept>
+<rtept lat="56.9665741749934" lon="-2.64648464576261">
+<ele>542.027249497003</ele>
+<name>MBCl056</name>
+</rtept>
+<rtept lat="56.9657353415912" lon="-2.64817399131665">
+<ele>550.55232576672</ele>
+<name>MBCl057</name>
+</rtept>
+<rtept lat="56.9647107137644" lon="-2.6493074347556">
+<ele>556.12538755582</ele>
+<name>MBCl058</name>
+</rtept>
+<rtept lat="56.9644158446185" lon="-2.65038445746586">
+<ele>558.933815487432</ele>
+<name>MBCl059</name>
+</rtept>
+<rtept lat="56.9635181557679" lon="-2.65128977645554">
+<ele>570.919854119483</ele>
+<name>MBCl060</name>
+</rtept>
+<rtept lat="56.9631084043103" lon="-2.65268707362971">
+<ele>575.855674233283</ele>
+<name>MBCl061</name>
+</rtept>
+<rtept lat="56.9631941537805" lon="-2.6531260239696">
+<ele>574.504893596243</ele>
+<name>MBCl062</name>
+</rtept>
+<rtept lat="56.9628986498923" lon="-2.65431807990865">
+<ele>569.581276192494</ele>
+<name>MBCl063</name>
+</rtept>
+<rtept lat="56.9631040036604" lon="-2.65593333776306">
+<ele>561.709196120936</ele>
+<name>MBCl064</name>
+</rtept>
+<rtept lat="56.9628061748394" lon="-2.65756277478919">
+<ele>555.510818940859</ele>
+<name>MBCl065</name>
+</rtept>
+<rtept lat="56.962864211526" lon="-2.6584847391672">
+<ele>552.411138482217</ele>
+<name>MBCl066</name>
+</rtept>
+<rtept lat="56.9632750977309" lon="-2.6592747958478">
+<ele>548.67305024042</ele>
+<name>MBCl067</name>
+</rtept>
+<rtept lat="56.9634459413769" lon="-2.6602678412181">
+<ele>549.724089943097</ele>
+<name>MBCl068</name>
+</rtept>
+<rtept lat="56.9634421728833" lon="-2.66098151596114">
+<ele>550.592089943096</ele>
+<name>MBCl069</name>
+</rtept>
+<rtept lat="56.9632644055484" lon="-2.66130070192654">
+<ele>552.268181183814</ele>
+<name>MBCl070</name>
+</rtept>
+<rtept lat="56.9634884608113" lon="-2.66174212569701">
+<ele>551.901205581545</ele>
+<name>MBCl071</name>
+</rtept>
+<rtept lat="56.96347405778" lon="-2.66208722946822">
+<ele>552.775528352761</ele>
+<name>MBCl072</name>
+</rtept>
+<rtept lat="56.9630210779145" lon="-2.66212524351247">
+<ele>554.949690303005</ele>
+<name>MBCl073</name>
+</rtept>
+<rtept lat="56.9624335540745" lon="-2.66381854789547">
+<ele>562.179365469404</ele>
+<name>MBCl074</name>
+</rtept>
+<rtept lat="56.9624463472507" lon="-2.66614412966364">
+<ele>570.779365469401</ele>
+<name>MBCl075</name>
+</rtept>
+<rtept lat="56.9621507195788" lon="-2.66733605778033">
+<ele>576.258006465109</ele>
+<name>MBCl076</name>
+</rtept>
+<rtept lat="56.962382903136" lon="-2.66860648812338">
+<ele>580.170736200273</ele>
+<name>MBCl077</name>
+</rtept>
+<rtept lat="56.9623423443224" lon="-2.66913529660197">
+<ele>582.438440794773</ele>
+<name>MBCl078</name>
+</rtept>
+<rtept lat="56.9626167990515" lon="-2.66955463720083">
+<ele>584.591683189207</ele>
+<name>MBCl079</name>
+</rtept>
+<rtept lat="56.9625868388125" lon="-2.670452012732">
+<ele>588.835734282726</ele>
+<name>MBCl080</name>
+</rtept>
+<rtept lat="56.9624337056274" lon="-2.67086368241005">
+<ele>589.824814538061</ele>
+<name>MBCl081</name>
+</rtept>
+<rtept lat="56.9636011619762" lon="-2.67594994955048">
+<ele>579.113521887652</ele>
+<name>MBCl082</name>
+</rtept>
+<rtept lat="56.9633970845257" lon="-2.67647580465631">
+<ele>577.523451777467</ele>
+<name>MBCl083</name>
+</rtept>
+<rtept lat="56.9636002797124" lon="-2.67843653042103">
+<ele>574.544318609709</ele>
+<name>MBCl084</name>
+</rtept>
+<rtept lat="56.9638121979521" lon="-2.67878574422807">
+<ele>574.037776805245</ele>
+<name>MBCl085</name>
+</rtept>
+<rtept lat="56.9638218999407" lon="-2.67931547688849">
+<ele>575.02441760632</ele>
+<name>MBCl086</name>
+</rtept>
+<rtept lat="56.9635315276598" lon="-2.67951740929693">
+<ele>577.389513327006</ele>
+<name>MBCl087</name>
+</rtept>
+<rtept lat="56.9627561323738" lon="-2.68102284927876">
+<ele>580.41968371974</ele>
+<name>MBCl088</name>
+</rtept>
+<rtept lat="56.9617808689656" lon="-2.68112017442508">
+<ele>578.449393592469</ele>
+<name>MBCl089</name>
+</rtept>
+<rtept lat="56.961344628395" lon="-2.68270077984393">
+<ele>581.355601293022</ele>
+<name>MBCl090</name>
+</rtept>
+<rtept lat="56.9607717947946" lon="-2.68395653281228">
+<ele>580.108051185111</ele>
+<name>MBCl091</name>
+</rtept>
+<rtept lat="56.9603417819516" lon="-2.68668827982033">
+<ele>576.254344504376</ele>
+<name>MBCl092</name>
+</rtept>
+<rtept lat="56.9598213635922" lon="-2.68755353466285">
+<ele>573.741769960238</ele>
+<name>MBCl093</name>
+</rtept>
+<rtept lat="56.9600816610906" lon="-2.68824898473904">
+<ele>574.359275526302</ele>
+<name>MBCl094</name>
+</rtept>
+<rtept lat="56.9602150541668" lon="-2.68914930078556">
+<ele>575.62007294026</ele>
+<name>MBCl095</name>
+</rtept>
+<rtept lat="56.9601899034429" lon="-2.69142801132576">
+<ele>573.894304096056</ele>
+<name>MBCl096</name>
+</rtept>
+<rtept lat="56.9596303231489" lon="-2.69254570873838">
+<ele>573</ele>
+<name>MBCl097</name>
+</rtept>
+<rtept lat="56.9595640012671" lon="-2.69316606144949">
+<ele>572.876398706979</ele>
+<name>MBCl098</name>
+</rtept>
+<rtept lat="56.958967827293" lon="-2.69407584290993">
+<ele>570.575317613106</ele>
+<name>MBCl099</name>
+</rtept>
+<rtept lat="56.9587923165208" lon="-2.69623656530143">
+<ele>560.161593803011</ele>
+<name>MBCl100</name>
+</rtept>
+<rtept lat="56.9578117428201" lon="-2.70066124187536">
+<ele>539.439624317427</ele>
+<name>MBCl101</name>
+</rtept>
+<rtept lat="56.9574792544994" lon="-2.70051688129667">
+<ele>539.316070038299</ele>
+<name>MBCl102</name>
+</rtept>
+<rtept lat="56.9573569089917" lon="-2.70214902334367">
+<ele>546.139292529151</ele>
+<name>MBCl103</name>
+</rtept>
+<rtept lat="56.9566889642113" lon="-2.70238968218502">
+<ele>549.534277658402</ele>
+<name>MBCl104</name>
+</rtept>
+<rtept lat="56.9563411346486" lon="-2.70385639548833">
+<ele>552.58366230074</ele>
+<name>MBCl105</name>
+</rtept>
+<rtept lat="56.9559849146543" lon="-2.70902904792716">
+<ele>550.500398706978</ele>
+<name>MBCl106</name>
+</rtept>
+<rtept lat="56.9556774794919" lon="-2.71001303744319">
+<ele>548.592797413955</ele>
+<name>MBCl107</name>
+</rtept>
+<rtept lat="56.9560757253746" lon="-2.71075723234203">
+<ele>545.616082924017</ele>
+<name>MBCl108</name>
+</rtept>
+<rtept lat="56.9567271861033" lon="-2.71120700941822">
+<ele>539.572887357064</ele>
+<name>MBCl109</name>
+</rtept>
+<rtept lat="56.9569510649449" lon="-2.71164865356142">
+<ele>537.528887357059</ele>
+<name>MBCl110</name>
+</rtept>
+<rtept lat="56.9574913042704" lon="-2.71175103071537">
+<ele>531.749611830763</ele>
+<name>MBCl111</name>
+</rtept>
+<rtept lat="56.9573120975474" lon="-2.71230010061553">
+<ele>532.813213123783</ele>
+<name>MBCl112</name>
+</rtept>
+<rtept lat="56.9573727482699" lon="-2.71269260220682">
+<ele>531.637213123782</ele>
+<name>MBCl113</name>
+</rtept>
+<rtept lat="56.9571060311578" lon="-2.71314791397906">
+<ele>535.178013768246</ele>
+<name>MBCl114</name>
+</rtept>
+<rtept lat="56.957025060918" lon="-2.7141132102575">
+<ele>537.910661341761</ele>
+<name>MBCl115</name>
+</rtept>
+<rtept lat="56.9545412674039" lon="-2.71627549452821">
+<ele>564.085607758136</ele>
+<name>MBCl116</name>
+</rtept>
+<rtept lat="56.9540443453381" lon="-2.71739385725735">
+<ele>573.037209051156</ele>
+<name>MBCl117</name>
+</rtept>
+<rtept lat="56.9536449785512" lon="-2.71904348099403">
+<ele>587.479371934516</ele>
+<name>MBCl118</name>
+</rtept>
+<rtept lat="56.9538967496452" lon="-2.72118901609519">
+<ele>609.597900059432</ele>
+<name>MBCl119</name>
+</rtept>
+<rtept lat="56.9537582328678" lon="-2.7233960756168">
+<ele>629.266359559384</ele>
+<name>MBCl120</name>
+</rtept>
+<rtept lat="56.9527654533307" lon="-2.72542540021402">
+<ele>655.882574520563</ele>
+<name>MBCl121</name>
+</rtept>
+<rtept lat="56.9527413832284" lon="-2.72740443322767">
+<ele>673.275999257774</ele>
+<name>MBCl122</name>
+</rtept>
+<rtept lat="56.9528961609681" lon="-2.72890358829853">
+<ele>686.721136110905</ele>
+<name>MBCl123</name>
+</rtept>
+<rtept lat="56.9516856928643" lon="-2.73265472132178">
+<ele>726.837154257766</ele>
+<name>MBCl124</name>
+</rtept>
+<rtept lat="56.9499507761612" lon="-2.73680955664206">
+<ele>744.871202586044</ele>
+<name>MBCl125</name>
+</rtept>
+<rtept lat="56.9492537856566" lon="-2.74195124107039">
+<ele>775.995029697989</ele>
+<name>MBCl126</name>
+</rtept>
+<rtept lat="56.9499507761612" lon="-2.73680955664206">
+<ele>744.871202586044</ele>
+<name>MBCl127</name>
+</rtept>
+<rtept lat="56.9516856928643" lon="-2.73265472132178">
+<ele>726.837154257766</ele>
+<name>MBCl128</name>
+</rtept>
+<rtept lat="56.9528961609681" lon="-2.72890358829853">
+<ele>686.721136110905</ele>
+<name>MBCl129</name>
+</rtept>
+<rtept lat="56.9527413832284" lon="-2.72740443322767">
+<ele>673.275999257774</ele>
+<name>MBCl130</name>
+</rtept>
+<rtept lat="56.9527654533307" lon="-2.72542540021402">
+<ele>655.882574520563</ele>
+<name>MBCl131</name>
+</rtept>
+<rtept lat="56.9537582328678" lon="-2.7233960756168">
+<ele>629.266359559384</ele>
+<name>MBCl132</name>
+</rtept>
+<rtept lat="56.9538967496452" lon="-2.72118901609519">
+<ele>609.597900059432</ele>
+<name>MBCl133</name>
+</rtept>
+<rtept lat="56.9536449785512" lon="-2.71904348099403">
+<ele>587.479371934516</ele>
+<name>MBCl134</name>
+</rtept>
+<rtept lat="56.9540443453381" lon="-2.71739385725735">
+<ele>573.037209051156</ele>
+<name>MBCl135</name>
+</rtept>
+<rtept lat="56.9545412674039" lon="-2.71627549452821">
+<ele>564.085607758136</ele>
+<name>MBCl136</name>
+</rtept>
+<rtept lat="56.957025060918" lon="-2.7141132102575">
+<ele>537.910661341761</ele>
+<name>MBCl137</name>
+</rtept>
+<rtept lat="56.9571060311578" lon="-2.71314791397906">
+<ele>535.178013768246</ele>
+<name>MBCl138</name>
+</rtept>
+<rtept lat="56.9573727482699" lon="-2.71269260220682">
+<ele>531.637213123782</ele>
+<name>MBCl139</name>
+</rtept>
+<rtept lat="56.9573120975474" lon="-2.71230010061553">
+<ele>532.813213123783</ele>
+<name>MBCl140</name>
+</rtept>
+<rtept lat="56.9574913042704" lon="-2.71175103071537">
+<ele>531.749611830763</ele>
+<name>MBCl141</name>
+</rtept>
+<rtept lat="56.9569510649449" lon="-2.71164865356142">
+<ele>537.528887357059</ele>
+<name>MBCl142</name>
+</rtept>
+<rtept lat="56.9567271861033" lon="-2.71120700941822">
+<ele>539.572887357064</ele>
+<name>MBCl143</name>
+</rtept>
+<rtept lat="56.9560757253746" lon="-2.71075723234203">
+<ele>545.616082924017</ele>
+<name>MBCl144</name>
+</rtept>
+<rtept lat="56.9556774794919" lon="-2.71001303744319">
+<ele>548.592797413955</ele>
+<name>MBCl145</name>
+</rtept>
+<rtept lat="56.9559849146543" lon="-2.70902904792716">
+<ele>550.500398706978</ele>
+<name>MBCl146</name>
+</rtept>
+<rtept lat="56.9563411346486" lon="-2.70385639548833">
+<ele>552.58366230074</ele>
+<name>MBCl147</name>
+</rtept>
+<rtept lat="56.9566889642113" lon="-2.70238968218502">
+<ele>549.534277658402</ele>
+<name>MBCl148</name>
+</rtept>
+<rtept lat="56.9573569089917" lon="-2.70214902334367">
+<ele>546.139292529151</ele>
+<name>MBCl149</name>
+</rtept>
+<rtept lat="56.9574792544994" lon="-2.70051688129667">
+<ele>539.316070038299</ele>
+<name>MBCl150</name>
+</rtept>
+<rtept lat="56.9578117428201" lon="-2.70066124187536">
+<ele>539.439624317427</ele>
+<name>MBCl151</name>
+</rtept>
+<rtept lat="56.9587923165208" lon="-2.69623656530143">
+<ele>560.161593803011</ele>
+<name>MBCl152</name>
+</rtept>
+<rtept lat="56.958967827293" lon="-2.69407584290993">
+<ele>570.575317613106</ele>
+<name>MBCl153</name>
+</rtept>
+<rtept lat="56.9595640012671" lon="-2.69316606144949">
+<ele>572.876398706979</ele>
+<name>MBCl154</name>
+</rtept>
+<rtept lat="56.9596303231489" lon="-2.69254570873838">
+<ele>573</ele>
+<name>MBCl155</name>
+</rtept>
+<rtept lat="56.9601899034429" lon="-2.69142801132576">
+<ele>573.894304096056</ele>
+<name>MBCl156</name>
+</rtept>
+<rtept lat="56.9602150541668" lon="-2.68914930078556">
+<ele>575.62007294026</ele>
+<name>MBCl157</name>
+</rtept>
+<rtept lat="56.9600816610906" lon="-2.68824898473904">
+<ele>574.359275526302</ele>
+<name>MBCl158</name>
+</rtept>
+<rtept lat="56.9598213635922" lon="-2.68755353466285">
+<ele>573.741769960238</ele>
+<name>MBCl159</name>
+</rtept>
+<rtept lat="56.9603417819516" lon="-2.68668827982033">
+<ele>576.254344504376</ele>
+<name>MBCl160</name>
+</rtept>
+<rtept lat="56.9607717947946" lon="-2.68395653281228">
+<ele>580.108051185111</ele>
+<name>MBCl161</name>
+</rtept>
+<rtept lat="56.961344628395" lon="-2.68270077984393">
+<ele>581.355601293022</ele>
+<name>MBCl162</name>
+</rtept>
+<rtept lat="56.9617808689656" lon="-2.68112017442508">
+<ele>578.449393592469</ele>
+<name>MBCl163</name>
+</rtept>
+<rtept lat="56.9627561323738" lon="-2.68102284927876">
+<ele>580.41968371974</ele>
+<name>MBCl164</name>
+</rtept>
+<rtept lat="56.9635315276598" lon="-2.67951740929693">
+<ele>577.389513327006</ele>
+<name>MBCl165</name>
+</rtept>
+<rtept lat="56.9638218999407" lon="-2.67931547688849">
+<ele>575.02441760632</ele>
+<name>MBCl166</name>
+</rtept>
+<rtept lat="56.9638121979521" lon="-2.67878574422807">
+<ele>574.037776805245</ele>
+<name>MBCl167</name>
+</rtept>
+<rtept lat="56.9636002797124" lon="-2.67843653042103">
+<ele>574.544318609709</ele>
+<name>MBCl168</name>
+</rtept>
+<rtept lat="56.9633970845257" lon="-2.67647580465631">
+<ele>577.523451777467</ele>
+<name>MBCl169</name>
+</rtept>
+<rtept lat="56.9636011619762" lon="-2.67594994955048">
+<ele>579.113521887652</ele>
+<name>MBCl170</name>
+</rtept>
+<rtept lat="56.9624337056274" lon="-2.67086368241005">
+<ele>589.824814538061</ele>
+<name>MBCl171</name>
+</rtept>
+<rtept lat="56.9625868388125" lon="-2.670452012732">
+<ele>588.835734282726</ele>
+<name>MBCl172</name>
+</rtept>
+<rtept lat="56.9626167990515" lon="-2.66955463720083">
+<ele>584.591683189207</ele>
+<name>MBCl173</name>
+</rtept>
+<rtept lat="56.9623423443224" lon="-2.66913529660197">
+<ele>582.438440794773</ele>
+<name>MBCl174</name>
+</rtept>
+<rtept lat="56.962382903136" lon="-2.66860648812338">
+<ele>580.170736200273</ele>
+<name>MBCl175</name>
+</rtept>
+<rtept lat="56.9621507195788" lon="-2.66733605778033">
+<ele>576.258006465109</ele>
+<name>MBCl176</name>
+</rtept>
+<rtept lat="56.9624463472507" lon="-2.66614412966364">
+<ele>570.779365469401</ele>
+<name>MBCl177</name>
+</rtept>
+<rtept lat="56.9624335540745" lon="-2.66381854789547">
+<ele>562.179365469404</ele>
+<name>MBCl178</name>
+</rtept>
+<rtept lat="56.9630210779145" lon="-2.66212524351247">
+<ele>554.949690303005</ele>
+<name>MBCl179</name>
+</rtept>
+<rtept lat="56.96347405778" lon="-2.66208722946822">
+<ele>552.775528352761</ele>
+<name>MBCl180</name>
+</rtept>
+<rtept lat="56.9634884608113" lon="-2.66174212569701">
+<ele>551.901205581545</ele>
+<name>MBCl181</name>
+</rtept>
+<rtept lat="56.9632644055484" lon="-2.66130070192654">
+<ele>552.268181183814</ele>
+<name>MBCl182</name>
+</rtept>
+<rtept lat="56.9634421728833" lon="-2.66098151596114">
+<ele>550.592089943096</ele>
+<name>MBCl183</name>
+</rtept>
+<rtept lat="56.9634459413769" lon="-2.6602678412181">
+<ele>549.724089943097</ele>
+<name>MBCl184</name>
+</rtept>
+<rtept lat="56.9632750977309" lon="-2.6592747958478">
+<ele>548.67305024042</ele>
+<name>MBCl185</name>
+</rtept>
+<rtept lat="56.962864211526" lon="-2.6584847391672">
+<ele>552.411138482217</ele>
+<name>MBCl186</name>
+</rtept>
+<rtept lat="56.9628061748394" lon="-2.65756277478919">
+<ele>555.510818940859</ele>
+<name>MBCl187</name>
+</rtept>
+<rtept lat="56.9631040036604" lon="-2.65593333776306">
+<ele>561.709196120936</ele>
+<name>MBCl188</name>
+</rtept>
+<rtept lat="56.9628986498923" lon="-2.65431807990865">
+<ele>569.581276192494</ele>
+<name>MBCl189</name>
+</rtept>
+<rtept lat="56.9631941537805" lon="-2.6531260239696">
+<ele>574.504893596243</ele>
+<name>MBCl190</name>
+</rtept>
+<rtept lat="56.9631084043103" lon="-2.65268707362971">
+<ele>575.855674233283</ele>
+<name>MBCl191</name>
+</rtept>
+<rtept lat="56.9635181557679" lon="-2.65128977645554">
+<ele>570.919854119483</ele>
+<name>MBCl192</name>
+</rtept>
+<rtept lat="56.9644158446185" lon="-2.65038445746586">
+<ele>558.933815487432</ele>
+<name>MBCl193</name>
+</rtept>
+<rtept lat="56.9647107137644" lon="-2.6493074347556">
+<ele>556.12538755582</ele>
+<name>MBCl194</name>
+</rtept>
+<rtept lat="56.9657353415912" lon="-2.64817399131665">
+<ele>550.55232576672</ele>
+<name>MBCl195</name>
+</rtept>
+<rtept lat="56.9665741749934" lon="-2.64648464576261">
+<ele>542.027249497003</ele>
+<name>MBCl196</name>
+</rtept>
+<rtept lat="56.9668088610248" lon="-2.64487689270596">
+<ele>536.049486663643</ele>
+<name>MBCl197</name>
+</rtept>
+<rtept lat="56.9670251449019" lon="-2.6443970811712">
+<ele>534.64042222126</ele>
+<name>MBCl198</name>
+</rtept>
+<rtept lat="56.9670053247617" lon="-2.6433605652991">
+<ele>535.8999345962</ele>
+<name>MBCl199</name>
+</rtept>
+<rtept lat="56.9671746095134" lon="-2.64223519990808">
+<ele>540.809645035609</ele>
+<name>MBCl200</name>
+</rtept>
+<rtept lat="56.9676888600906" lon="-2.64005653040066">
+<ele>556.462628065493</ele>
+<name>MBCl201</name>
+</rtept>
+<rtept lat="56.9683608603868" lon="-2.63776536256552">
+<ele>573.908601446011</ele>
+<name>MBCl202</name>
+</rtept>
+<rtept lat="56.9685123598255" lon="-2.63765281612373">
+<ele>574.790539579134</ele>
+<name>MBCl203</name>
+</rtept>
+<rtept lat="56.9685659480249" lon="-2.63700897465182">
+<ele>577.347600589799</ele>
+<name>MBCl204</name>
+</rtept>
+<rtept lat="56.9683476574035" lon="-2.63541639343897">
+<ele>573.173736961777</ele>
+<name>MBCl205</name>
+</rtept>
+<rtept lat="56.9680743732642" lon="-2.63474396623578">
+<ele>571.705590608757</ele>
+<name>MBCl206</name>
+</rtept>
+<rtept lat="56.9684297720452" lon="-2.63410525544921">
+<ele>566.865264035334</ele>
+<name>MBCl207</name>
+</rtept>
+<rtept lat="56.9683694578949" lon="-2.63359763889268">
+<ele>560.425619482881</ele>
+<name>MBCl208</name>
+</rtept>
+<rtept lat="56.968964145528" lon="-2.63289388821744">
+<ele>539.053259303972</ele>
+<name>MBCl209</name>
+</rtept>
+<rtept lat="56.9690918855572" lon="-2.63250458925386">
+<ele>531.617987457193</ele>
+<name>MBCl210</name>
+</rtept>
+<rtept lat="56.9689463225181" lon="-2.63144286870523">
+<ele>510.396336189739</ele>
+<name>MBCl211</name>
+</rtept>
+<rtept lat="56.9690011554545" lon="-2.63054573199583">
+<ele>493.588167206448</ele>
+<name>MBCl212</name>
+</rtept>
+<rtept lat="56.9692571991433" lon="-2.62965198699717">
+<ele>478.868162702728</ele>
+<name>MBCl213</name>
+</rtept>
+<rtept lat="56.9707288599734" lon="-2.62712066717468">
+<ele>441.285534585247</ele>
+<name>MBCl214</name>
+</rtept>
+<rtept lat="56.9709217683744" lon="-2.626271855234">
+<ele>428.7714228355</ele>
+<name>MBCl215</name>
+</rtept>
+<rtept lat="56.9707268835652" lon="-2.6250020260922">
+<ele>411.572894367647</ele>
+<name>MBCl216</name>
+</rtept>
+<rtept lat="56.9690519076232" lon="-2.62292454835539">
+<ele>363.925440802139</ele>
+<name>MBCl217</name>
+</rtept>
+<rtept lat="56.9683531430439" lon="-2.62054111887794">
+<ele>333.777982000628</ele>
+<name>MBCl218</name>
+</rtept>
+<rtept lat="56.9675878275903" lon="-2.62015997364875">
+<ele>319.065163403919</ele>
+<name>MBCl219</name>
+</rtept>
+<rtept lat="56.9670132046548" lon="-2.61936754153109">
+<ele>306.813102105204</ele>
+<name>MBCl220</name>
+</rtept>
+<rtept lat="56.9660305007758" lon="-2.61716382025982">
+<ele>291.575742187644</ele>
+<name>MBCl221</name>
+</rtept>
+<rtept lat="56.9654439629106" lon="-2.61623312052454">
+<ele>280.699325387315</ele>
+<name>MBCl222</name>
+</rtept>
+<rtept lat="56.9647288248653" lon="-2.61587594626304">
+<ele>270.993647513973</ele>
+<name>MBCl223</name>
+</rtept>
+<rtept lat="56.9641850485874" lon="-2.61519927103281">
+<ele>264.829035945252</ele>
+<name>MBCl224</name>
+</rtept>
+<rtept lat="56.9640489745588" lon="-2.61473654453635">
+<ele>260.203609315834</ele>
+<name>MBCl225</name>
+</rtept>
+<rtept lat="56.964306599381" lon="-2.61349747104696">
+<ele>263.516194870561</ele>
+<name>MBCl226</name>
+</rtept>
+<rtept lat="56.9642593414717" lon="-2.61287503741909">
+<ele>258.629050529679</ele>
+<name>MBCl227</name>
+</rtept>
+<rtept lat="56.9639973848866" lon="-2.61243327772201">
+<ele>249.149233424632</ele>
+<name>MBCl228</name>
+</rtept>
+<rtept lat="56.9638275110432" lon="-2.61116416740984">
+<ele>247.24741712581</ele>
+<name>MBCl229</name>
+</rtept>
+<rtept lat="56.9637994388579" lon="-2.60918363996815">
+<ele>232.248961722532</ele>
+<name>MBCl230</name>
+</rtept>
+<rtept lat="56.9641052989208" lon="-2.60835975858236">
+<ele>224.19278342928</ele>
+<name>MBCl231</name>
+</rtept>
+<rtept lat="56.964180022313" lon="-2.6059204031446">
+<ele>207.950620990938</ele>
+<name>MBCl232</name>
+</rtept>
+<rtept lat="56.9639583309808" lon="-2.60494979136513">
+<ele>200.667084958239</ele>
+<name>MBCl233</name>
+</rtept>
+<rtept lat="56.9636331318234" lon="-2.60457613887942">
+<ele>199.295601293021</ele>
+<name>MBCl234</name>
+</rtept>
+<rtept lat="56.9634696100597" lon="-2.60197179804378">
+<ele>192.436109145864</ele>
+<name>MBCl235</name>
+</rtept>
+<rtept lat="56.9639652637119" lon="-2.59696053005199">
+<ele>180.005957383501</ele>
+<name>MBCl236</name>
+</rtept>
+<rtept lat="56.9646281082512" lon="-2.59510614223171">
+<ele>179.328162883359</ele>
+<name>MBCl237</name>
+</rtept>
+<rtept lat="56.9647511325003" lon="-2.59303588895453">
+<ele>175.813215487753</ele>
+<name>MBCl238</name>
+</rtept>
+<rtept lat="56.9646071940218" lon="-2.59156003359914">
+<ele>169.956806395694</ele>
+<name>MBCl239</name>
+</rtept>
+<rtept lat="56.9647118282346" lon="-2.5907097823455">
+<ele>167.935926198432</ele>
+<name>MBCl240</name>
+</rtept>
+<rtept lat="56.9652184600615" lon="-2.58995797778374">
+<ele>167.780843095301</ele>
+<name>MBCl241</name>
+</rtept>
+<rtept lat="56.9659482038184" lon="-2.58990043449342">
+<ele>170.846776063955</ele>
+<name>MBCl242</name>
+</rtept>
+<rtept lat="56.9683953534531" lon="-2.58837328279603">
+<ele>205.434295413042</ele>
+<name>MBCl243</name>
+</rtept>
+<rtept lat="56.96910969426" lon="-2.58757858822257">
+<ele>222.463552124995</ele>
+<name>MBCl244</name>
+</rtept>
+<rtept lat="56.9692256897707" lon="-2.58698170304561">
+<ele>228.769898056656</ele>
+<name>MBCl245</name>
+</rtept>
+<rtept lat="56.9691854126373" lon="-2.58483952830517">
+<ele>232.207241030619</ele>
+<name>MBCl246</name>
+</rtept>
+<rtept lat="56.9699515825212" lon="-2.58236453160139">
+<ele>221.919454482099</ele>
+<name>MBCl247</name>
+</rtept>
+<rtept lat="56.9717652595482" lon="-2.57909969770017">
+<ele>196.736577423979</ele>
+<name>MBCl248</name>
+</rtept>
+</rte>
+</gpx>

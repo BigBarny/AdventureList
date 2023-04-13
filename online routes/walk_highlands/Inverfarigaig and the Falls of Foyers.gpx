@@ -1,0 +1,810 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Inverfarigaig and the Falls of Foyers</name>
+<rtept lat="57.2803355814084" lon="-4.45360237817958">
+<ele>61.289540417809</ele>
+<name>InvF001</name>
+</rtept>
+<rtept lat="57.2799471203864" lon="-4.45347696665441">
+<ele>66.0585687202093</ele>
+<name>InvF002</name>
+</rtept>
+<rtept lat="57.2794808332625" lon="-4.45388562421938">
+<ele>83.2620355310418</ele>
+<name>InvF003</name>
+</rtept>
+<rtept lat="57.2795176601811" lon="-4.45407059001521">
+<ele>87.2425287654565</ele>
+<name>InvF004</name>
+</rtept>
+<rtept lat="57.2796493690605" lon="-4.4542286888897">
+<ele>86.8581057350634</ele>
+<name>InvF005</name>
+</rtept>
+<rtept lat="57.2796623021206" lon="-4.45448673016794">
+<ele>88.421806758785</ele>
+<name>InvF006</name>
+</rtept>
+<rtept lat="57.2797236689361" lon="-4.45456548170863">
+<ele>86.8776218833231</ele>
+<name>InvF007</name>
+</rtept>
+<rtept lat="57.2796466471909" lon="-4.4550581209575">
+<ele>91.6840906568698</ele>
+<name>InvF008</name>
+</rtept>
+<rtept lat="57.2797704678575" lon="-4.45538991798399">
+<ele>81.0040906568698</ele>
+<name>InvF009</name>
+</rtept>
+<rtept lat="57.2797444232031" lon="-4.4558029909922">
+<ele>74.7240906568698</ele>
+<name>InvF010</name>
+</rtept>
+<rtept lat="57.279646186703" lon="-4.4557715578779">
+<ele>79.1040906568698</ele>
+<name>InvF011</name>
+</rtept>
+<rtept lat="57.2794977330524" lon="-4.45601055086335">
+<ele>81.1825397281526</ele>
+<name>InvF012</name>
+</rtept>
+<rtept lat="57.279398201165" lon="-4.4560453997596">
+<ele>83.8440348607473</ele>
+<name>InvF013</name>
+</rtept>
+<rtept lat="57.2792311967214" lon="-4.45608404892971">
+<ele>88.6533743743732</ele>
+<name>InvF014</name>
+</rtept>
+<rtept lat="57.2790560737464" lon="-4.45584838872959">
+<ele>96.9333521045709</ele>
+<name>InvF015</name>
+</rtept>
+<rtept lat="57.2791981427047" lon="-4.45547623605115">
+<ele>96.5043008869648</ele>
+<name>InvF016</name>
+</rtept>
+<rtept lat="57.279153268942" lon="-4.45547324692947">
+<ele>97.5975286398418</ele>
+<name>InvF017</name>
+</rtept>
+<rtept lat="57.2787732532813" lon="-4.45560555659053">
+<ele>106.548255055426</ele>
+<name>InvF018</name>
+</rtept>
+<rtept lat="57.2785675722742" lon="-4.45509410188105">
+<ele>107.911078698661</ele>
+<name>InvF019</name>
+</rtept>
+<rtept lat="57.2781806865495" lon="-4.45511811048417">
+<ele>105.20165763803</ele>
+<name>InvF020</name>
+</rtept>
+<rtept lat="57.2777143484028" lon="-4.45575900473345">
+<ele>110.053090712625</ele>
+<name>InvF021</name>
+</rtept>
+<rtept lat="57.2773599613203" lon="-4.45595937901236">
+<ele>108.532621416663</ele>
+<name>InvF022</name>
+</rtept>
+<rtept lat="57.2762857348945" lon="-4.45735609874221">
+<ele>127.610337449508</ele>
+<name>InvF023</name>
+</rtept>
+<rtept lat="57.2756534139904" lon="-4.45844210490624">
+<ele>133.358617005917</ele>
+<name>InvF024</name>
+</rtept>
+<rtept lat="57.2746319273513" lon="-4.4596680134164">
+<ele>131.507434808161</ele>
+<name>InvF025</name>
+</rtept>
+<rtept lat="57.2741587536958" lon="-4.4606567207214">
+<ele>134.723525550212</ele>
+<name>InvF026</name>
+</rtept>
+<rtept lat="57.2738324699432" lon="-4.46125705790952">
+<ele>135.936712143461</ele>
+<name>InvF027</name>
+</rtept>
+<rtept lat="57.2737264935162" lon="-4.46207946529155">
+<ele>139.980244220632</ele>
+<name>InvF028</name>
+</rtept>
+<rtept lat="57.2726888516816" lon="-4.46366909440928">
+<ele>143.313069008803</ele>
+<name>InvF029</name>
+</rtept>
+<rtept lat="57.2718256728305" lon="-4.46483899120472">
+<ele>145.246457290985</ele>
+<name>InvF030</name>
+</rtept>
+<rtept lat="57.2696479831292" lon="-4.46659273464218">
+<ele>149.89039641585</ele>
+<name>InvF031</name>
+</rtept>
+<rtept lat="57.2688553133307" lon="-4.46714515762727">
+<ele>140.097677665413</ele>
+<name>InvF032</name>
+</rtept>
+<rtept lat="57.2678177894242" lon="-4.46758165105774">
+<ele>145.66876006057</ele>
+<name>InvF033</name>
+</rtept>
+<rtept lat="57.2675957269977" lon="-4.4679068242911">
+<ele>147.027136599924</ele>
+<name>InvF034</name>
+</rtept>
+<rtept lat="57.2668261136543" lon="-4.46797142929034">
+<ele>169.420095554049</ele>
+<name>InvF035</name>
+</rtept>
+<rtept lat="57.2660436889709" lon="-4.46800200229556">
+<ele>178.434127452968</ele>
+<name>InvF036</name>
+</rtept>
+<rtept lat="57.2655353855282" lon="-4.46780212827548">
+<ele>175.55918893506</ele>
+<name>InvF037</name>
+</rtept>
+<rtept lat="57.2647215880001" lon="-4.4671423024146">
+<ele>164.657659012091</ele>
+<name>InvF038</name>
+</rtept>
+<rtept lat="57.2641718244045" lon="-4.46676552861412">
+<ele>160.262020809331</ele>
+<name>InvF039</name>
+</rtept>
+<rtept lat="57.2633354542836" lon="-4.46656862146757">
+<ele>158.056203505426</ele>
+<name>InvF040</name>
+</rtept>
+<rtept lat="57.2627321325106" lon="-4.46685997102927">
+<ele>156.842856252702</ele>
+<name>InvF041</name>
+</rtept>
+<rtept lat="57.2626557434234" lon="-4.46777531220011">
+<ele>167.863509690162</ele>
+<name>InvF042</name>
+</rtept>
+<rtept lat="57.2627648361571" lon="-4.46794016588613">
+<ele>171.419577913347</ele>
+<name>InvF043</name>
+</rtept>
+<rtept lat="57.262767628392" lon="-4.46825546273816">
+<ele>180.743391140051</ele>
+<name>InvF044</name>
+</rtept>
+<rtept lat="57.2629366831076" lon="-4.46834140704894">
+<ele>183.377354033363</ele>
+<name>InvF045</name>
+</rtept>
+<rtept lat="57.2627797438879" lon="-4.46901087943683">
+<ele>199.05642493829</ele>
+<name>InvF046</name>
+</rtept>
+<rtept lat="57.2632445667919" lon="-4.46936540055099">
+<ele>196.323531003781</ele>
+<name>InvF047</name>
+</rtept>
+<rtept lat="57.2634514937531" lon="-4.46981046539428">
+<ele>193.784304624418</ele>
+<name>InvF048</name>
+</rtept>
+<rtept lat="57.2634487446741" lon="-4.47040734330086">
+<ele>190.623812264951</ele>
+<name>InvF049</name>
+</rtept>
+<rtept lat="57.2631408372429" lon="-4.47052769265082">
+<ele>195.141311952216</ele>
+<name>InvF050</name>
+</rtept>
+<rtept lat="57.2628999867133" lon="-4.47043692913023">
+<ele>200.032163939504</ele>
+<name>InvF051</name>
+</rtept>
+<rtept lat="57.2623825673489" lon="-4.47070079732455">
+<ele>208.440848725407</ele>
+<name>InvF052</name>
+</rtept>
+<rtept lat="57.2620756528087" lon="-4.4712275263479">
+<ele>210.726731056635</ele>
+<name>InvF053</name>
+</rtept>
+<rtept lat="57.2618133714285" lon="-4.47199771035735">
+<ele>195.597961301952</ele>
+<name>InvF054</name>
+</rtept>
+<rtept lat="57.2614626321169" lon="-4.47223955230998">
+<ele>191.263904435457</ele>
+<name>InvF055</name>
+</rtept>
+<rtept lat="57.261221956834" lon="-4.4725965635036">
+<ele>189.302364858993</ele>
+<name>InvF056</name>
+</rtept>
+<rtept lat="57.2614941403144" lon="-4.47292161577687">
+<ele>187.588031822456</ele>
+<name>InvF057</name>
+</rtept>
+<rtept lat="57.2617814152" lon="-4.47316476320546">
+<ele>184.994776116063</ele>
+<name>InvF058</name>
+</rtept>
+<rtept lat="57.2618214751037" lon="-4.47318403345989">
+<ele>184.34816781907</ele>
+<name>InvF059</name>
+</rtept>
+<rtept lat="57.2619024953868" lon="-4.47340506261343">
+<ele>183.375067952718</ele>
+<name>InvF060</name>
+</rtept>
+<rtept lat="57.2620938200133" lon="-4.47350081413304">
+<ele>179.9310878554</ele>
+<name>InvF061</name>
+</rtept>
+<rtept lat="57.2621426130942" lon="-4.47376114560294">
+<ele>178.718208679451</ele>
+<name>InvF062</name>
+</rtept>
+<rtept lat="57.2624364091926" lon="-4.47367304906231">
+<ele>172.587934642879</ele>
+<name>InvF063</name>
+</rtept>
+<rtept lat="57.2624400024716" lon="-4.47394693627809">
+<ele>168.819462125363</ele>
+<name>InvF064</name>
+</rtept>
+<rtept lat="57.2617383441895" lon="-4.4771752789273">
+<ele>137.775052941304</ele>
+<name>InvF065</name>
+</rtept>
+<rtept lat="57.2608404408834" lon="-4.47873191343126">
+<ele>135.869449172218</ele>
+<name>InvF066</name>
+</rtept>
+<rtept lat="57.2606111443525" lon="-4.47987737357763">
+<ele>124.112452485577</ele>
+<name>InvF067</name>
+</rtept>
+<rtept lat="57.260314710875" lon="-4.48055396087916">
+<ele>119.041884190649</ele>
+<name>InvF068</name>
+</rtept>
+<rtept lat="57.2585882967267" lon="-4.48265169712644">
+<ele>116.547649488853</ele>
+<name>InvF069</name>
+</rtept>
+<rtept lat="57.2582882073174" lon="-4.48283049591513">
+<ele>123.853384443688</ele>
+<name>InvF070</name>
+</rtept>
+<rtept lat="57.2574608203147" lon="-4.48422577646078">
+<ele>117.042585825859</ele>
+<name>InvF071</name>
+</rtept>
+<rtept lat="57.2570325296527" lon="-4.4847524424776">
+<ele>116.233790480048</ele>
+<name>InvF072</name>
+</rtept>
+<rtept lat="57.2567801596353" lon="-4.48501734185037">
+<ele>118.981718848386</ele>
+<name>InvF073</name>
+</rtept>
+<rtept lat="57.2564383347877" lon="-4.48571563429653">
+<ele>113.813016517863</ele>
+<name>InvF074</name>
+</rtept>
+<rtept lat="57.2562208779378" lon="-4.48603262114356">
+<ele>114.209237681981</ele>
+<name>InvF075</name>
+</rtept>
+<rtept lat="57.2559145951858" lon="-4.48607001945223">
+<ele>121.895168497927</ele>
+<name>InvF076</name>
+</rtept>
+<rtept lat="57.2551711798125" lon="-4.48594531113903">
+<ele>126.105370959445</ele>
+<name>InvF077</name>
+</rtept>
+<rtept lat="57.2546443467315" lon="-4.48713682262179">
+<ele>119.040625549962</ele>
+<name>InvF078</name>
+</rtept>
+<rtept lat="57.2543676879525" lon="-4.48794722682942">
+<ele>112.609297060145</ele>
+<name>InvF079</name>
+</rtept>
+<rtept lat="57.2540536965366" lon="-4.48837373973679">
+<ele>109.77152120075</ele>
+<name>InvF080</name>
+</rtept>
+<rtept lat="57.2539128450688" lon="-4.48867927712121">
+<ele>106.419588923777</ele>
+<name>InvF081</name>
+</rtept>
+<rtept lat="57.2532374140842" lon="-4.48988555408059">
+<ele>96.967907088178</ele>
+<name>InvF082</name>
+</rtept>
+<rtept lat="57.2522763736208" lon="-4.49076577375982">
+<ele>109.842782168798</ele>
+<name>InvF083</name>
+</rtept>
+<rtept lat="57.2516650093199" lon="-4.49100636490637">
+<ele>113.927031275446</ele>
+<name>InvF084</name>
+</rtept>
+<rtept lat="57.2511443211205" lon="-4.4909795060562">
+<ele>118.099715769926</ele>
+<name>InvF085</name>
+</rtept>
+<rtept lat="57.2508412658375" lon="-4.49062745915148">
+<ele>125.238219825786</ele>
+<name>InvF086</name>
+</rtept>
+<rtept lat="57.2503045981656" lon="-4.49050005260751">
+<ele>126.865441368843</ele>
+<name>InvF087</name>
+</rtept>
+<rtept lat="57.2500171391032" lon="-4.49072104998559">
+<ele>118.419337248168</ele>
+<name>InvF088</name>
+</rtept>
+<rtept lat="57.2499117975476" lon="-4.49082170414379">
+<ele>113.672839632132</ele>
+<name>InvF089</name>
+</rtept>
+<rtept lat="57.2498403839756" lon="-4.49102412208986">
+<ele>105.878779882241</ele>
+<name>InvF090</name>
+</rtept>
+<rtept lat="57.2499642216748" lon="-4.49112366636458">
+<ele>104.454715598528</ele>
+<name>InvF091</name>
+</rtept>
+<rtept lat="57.2497713227613" lon="-4.49133446166666">
+<ele>96.2841140673379</ele>
+<name>InvF092</name>
+</rtept>
+<rtept lat="57.2498012558388" lon="-4.49141108806316">
+<ele>94.9041140673379</ele>
+<name>InvF093</name>
+</rtept>
+<rtept lat="57.2496030480665" lon="-4.4916629698906">
+<ele>86.2071907787493</ele>
+<name>InvF094</name>
+</rtept>
+<rtept lat="57.2498171234358" lon="-4.49174374005514">
+<ele>87.2041140673379</ele>
+<name>InvF095</name>
+</rtept>
+<rtept lat="57.2494979228605" lon="-4.49197916053955">
+<ele>81.6870333333422</ele>
+<name>InvF096</name>
+</rtept>
+<rtept lat="57.249803661612" lon="-4.491742831105">
+<ele>87.024114067338</ele>
+<name>InvF097</name>
+</rtept>
+<rtept lat="57.249616674116" lon="-4.49165560041894">
+<ele>86.304114067338</ele>
+<name>InvF098</name>
+</rtept>
+<rtept lat="57.2497969327713" lon="-4.49140250669259">
+<ele>95.0441140673379</ele>
+<name>InvF099</name>
+</rtept>
+<rtept lat="57.2503004928858" lon="-4.49138676549026">
+<ele>106.455884749536</ele>
+<name>InvF100</name>
+</rtept>
+<rtept lat="57.2505424194842" lon="-4.49187561047434">
+<ele>103.186371018371</ele>
+<name>InvF101</name>
+</rtept>
+<rtept lat="57.2505929818425" lon="-4.49204481863754">
+<ele>100.592266894428</ele>
+<name>InvF102</name>
+</rtept>
+<rtept lat="57.2505899129602" lon="-4.49242593731895">
+<ele>97.3173329426735</ele>
+<name>InvF103</name>
+</rtept>
+<rtept lat="57.250586021406" lon="-4.49284844888356">
+<ele>93.6724089251754</ele>
+<name>InvF104</name>
+</rtept>
+<rtept lat="57.2505767690738" lon="-4.49308822496161">
+<ele>90.8616840762088</ele>
+<name>InvF105</name>
+</rtept>
+<rtept lat="57.2502902764325" lon="-4.49393928111998">
+<ele>79.7151902066999</ele>
+<name>InvF106</name>
+</rtept>
+<rtept lat="57.2501937912492" lon="-4.49427263454135">
+<ele>77.8372593952562</ele>
+<name>InvF107</name>
+</rtept>
+<rtept lat="57.2501911608162" lon="-4.49440509050847">
+<ele>77.1531926603123</ele>
+<name>InvF108</name>
+</rtept>
+<rtept lat="57.249987918618" lon="-4.49445766920534">
+<ele>79.326530158991</ele>
+<name>InvF109</name>
+</rtept>
+<rtept lat="57.2499272823887" lon="-4.49456962424136">
+<ele>75.2800143281412</ele>
+<name>InvF110</name>
+</rtept>
+<rtept lat="57.2500548298709" lon="-4.49493469813272">
+<ele>69.6725253241791</ele>
+<name>InvF111</name>
+</rtept>
+<rtept lat="57.249928668883" lon="-4.49563078073774">
+<ele>53.7570279140193</ele>
+<name>InvF112</name>
+</rtept>
+<rtept lat="57.2498833028088" lon="-4.4956525814321">
+<ele>52.6798576479589</ele>
+<name>InvF113</name>
+</rtept>
+<rtept lat="57.2499370767775" lon="-4.49611214362877">
+<ele>42.6833572091155</ele>
+<name>InvF114</name>
+</rtept>
+<rtept lat="57.2501306415212" lon="-4.49586825870367">
+<ele>48.8225947471885</ele>
+<name>InvF115</name>
+</rtept>
+<rtept lat="57.250541449706" lon="-4.49577169801602">
+<ele>51.0568079411226</ele>
+<name>InvF116</name>
+</rtept>
+<rtept lat="57.2508391803909" lon="-4.49616487346186">
+<ele>47.1114621227626</ele>
+<name>InvF117</name>
+</rtept>
+<rtept lat="57.2513355302116" lon="-4.49583369436435">
+<ele>47.2357792087304</ele>
+<name>InvF118</name>
+</rtept>
+<rtept lat="57.2514596929241" lon="-4.49591670130067">
+<ele>46.4289273768846</ele>
+<name>InvF119</name>
+</rtept>
+<rtept lat="57.2516153853103" lon="-4.49576972334705">
+<ele>47.6667078317385</ele>
+<name>InvF120</name>
+</rtept>
+<rtept lat="57.2518452681731" lon="-4.49595936118112">
+<ele>44.3059601527627</ele>
+<name>InvF121</name>
+</rtept>
+<rtept lat="57.2520420039498" lon="-4.4957819978388">
+<ele>41.2723382265111</ele>
+<name>InvF122</name>
+</rtept>
+<rtept lat="57.2520153634145" lon="-4.49553978530444">
+<ele>43.6086391780559</ele>
+<name>InvF123</name>
+</rtept>
+<rtept lat="57.2521308345089" lon="-4.4953817935897">
+<ele>42.2637255943849</ele>
+<name>InvF124</name>
+</rtept>
+<rtept lat="57.2521505459228" lon="-4.49506810458218">
+<ele>48.2613763479069</ele>
+<name>InvF125</name>
+</rtept>
+<rtept lat="57.252223986621" lon="-4.49499016973853">
+<ele>48.3901838333807</ele>
+<name>InvF126</name>
+</rtept>
+<rtept lat="57.2531521918936" lon="-4.49508609331352">
+<ele>35.1078965410426</ele>
+<name>InvF127</name>
+</rtept>
+<rtept lat="57.2536370503975" lon="-4.49465461834348">
+<ele>36.0115144448081</ele>
+<name>InvF128</name>
+</rtept>
+<rtept lat="57.2538520140852" lon="-4.4942380495192">
+<ele>36.1362929931446</ele>
+<name>InvF129</name>
+</rtept>
+<rtept lat="57.2537655839706" lon="-4.49497005381286">
+<ele>32.9063935413785</ele>
+<name>InvF130</name>
+</rtept>
+<rtept lat="57.2536850246622" lon="-4.49518015685998">
+<ele>32.0377884301418</ele>
+<name>InvF131</name>
+</rtept>
+<rtept lat="57.2538295320732" lon="-4.49559616015466">
+<ele>28.5833251811706</ele>
+<name>InvF132</name>
+</rtept>
+<rtept lat="57.2543217685277" lon="-4.49547193309761">
+<ele>22.6717485976224</ele>
+<name>InvF133</name>
+</rtept>
+<rtept lat="57.2546120782063" lon="-4.4953340464169">
+<ele>20.2864131841571</ele>
+<name>InvF134</name>
+</rtept>
+<rtept lat="57.2548332229889" lon="-4.49505882971076">
+<ele>19.8816627163111</ele>
+<name>InvF135</name>
+</rtept>
+<rtept lat="57.254962577817" lon="-4.49533287909669">
+<ele>17.7030141225697</ele>
+<name>InvF136</name>
+</rtept>
+<rtept lat="57.2548355602607" lon="-4.49675028198864">
+<ele>17</ele>
+<name>InvF137</name>
+</rtept>
+<rtept lat="57.2567338810734" lon="-4.49799804541069">
+<ele>17.743453012827</ele>
+<name>InvF138</name>
+</rtept>
+<rtept lat="57.2571185901984" lon="-4.49785827021483">
+<ele>17.9880587883707</ele>
+<name>InvF139</name>
+</rtept>
+<rtept lat="57.2572571167057" lon="-4.49744479771144">
+<ele>17.7341986851231</ele>
+<name>InvF140</name>
+</rtept>
+<rtept lat="57.2572750873231" lon="-4.49586239342397">
+<ele>17.7641986851231</ele>
+<name>InvF141</name>
+</rtept>
+<rtept lat="57.257195376604" lon="-4.49535123841636">
+<ele>17.9641986851231</ele>
+<name>InvF142</name>
+</rtept>
+<rtept lat="57.257220255378" lon="-4.4943248134378">
+<ele>17.9541986851231</ele>
+<name>InvF143</name>
+</rtept>
+<rtept lat="57.2570666711095" lon="-4.49346044078261">
+<ele>17.402686131826</ele>
+<name>InvF144</name>
+</rtept>
+<rtept lat="57.2567956413257" lon="-4.49285345562695">
+<ele>17.4787580962729</ele>
+<name>InvF145</name>
+</rtept>
+<rtept lat="57.256510325336" lon="-4.49228696963428">
+<ele>17.306104492643</ele>
+<name>InvF146</name>
+</rtept>
+<rtept lat="57.2565160222787" lon="-4.49177331088967">
+<ele>18.4906180062392</ele>
+<name>InvF147</name>
+</rtept>
+<rtept lat="57.256497856101" lon="-4.49155651743311">
+<ele>19.1258002714737</ele>
+<name>InvF148</name>
+</rtept>
+<rtept lat="57.2561695751824" lon="-4.49134365615241">
+<ele>21.9355302976408</ele>
+<name>InvF149</name>
+</rtept>
+<rtept lat="57.2561562239176" lon="-4.49111060819824">
+<ele>22.7564445418314</ele>
+<name>InvF150</name>
+</rtept>
+<rtept lat="57.25639257279" lon="-4.49052132395865">
+<ele>23.2639728542309</ele>
+<name>InvF151</name>
+</rtept>
+<rtept lat="57.2563324862551" lon="-4.49015246473726">
+<ele>26.1567400720207</ele>
+<name>InvF152</name>
+</rtept>
+<rtept lat="57.2568752783276" lon="-4.48951752163017">
+<ele>23.8706559761078</ele>
+<name>InvF153</name>
+</rtept>
+<rtept lat="57.2571692982671" lon="-4.48896527145217">
+<ele>25.0818776695426</ele>
+<name>InvF154</name>
+</rtept>
+<rtept lat="57.2571737277093" lon="-4.48874170882097">
+<ele>27.3353477643583</ele>
+<name>InvF155</name>
+</rtept>
+<rtept lat="57.2574913876833" lon="-4.48835686727213">
+<ele>24.6152768663898</ele>
+<name>InvF156</name>
+</rtept>
+<rtept lat="57.2576787957531" lon="-4.487515506299">
+<ele>34.529283072988</ele>
+<name>InvF157</name>
+</rtept>
+<rtept lat="57.2582676564125" lon="-4.48704943591443">
+<ele>28.2278106536992</ele>
+<name>InvF158</name>
+</rtept>
+<rtept lat="57.2588493829338" lon="-4.4860356287755">
+<ele>35.0945227219017</ele>
+<name>InvF159</name>
+</rtept>
+<rtept lat="57.2591520704396" lon="-4.48504445145778">
+<ele>52.1465365756009</ele>
+<name>InvF160</name>
+</rtept>
+<rtept lat="57.2594820317974" lon="-4.48358246953124">
+<ele>66.5016396709137</ele>
+<name>InvF161</name>
+</rtept>
+<rtept lat="57.260399882028" lon="-4.48238389986682">
+<ele>85.0013163209019</ele>
+<name>InvF162</name>
+</rtept>
+<rtept lat="57.2605611917858" lon="-4.4821791654566">
+<ele>87.7760435208079</ele>
+<name>InvF163</name>
+</rtept>
+<rtept lat="57.2610457504176" lon="-4.48198788690452">
+<ele>81.8871354236016</ele>
+<name>InvF164</name>
+</rtept>
+<rtept lat="57.2611343511366" lon="-4.48205189268514">
+<ele>77.0074181512561</ele>
+<name>InvF165</name>
+</rtept>
+<rtept lat="57.2619353109285" lon="-4.48176580730128">
+<ele>57.489490795024</ele>
+<name>InvF166</name>
+</rtept>
+<rtept lat="57.2621378937977" lon="-4.48174626836836">
+<ele>51.4657009278787</ele>
+<name>InvF167</name>
+</rtept>
+<rtept lat="57.2621709408128" lon="-4.48166556911176">
+<ele>52.5192371465445</ele>
+<name>InvF168</name>
+</rtept>
+<rtept lat="57.2629524074338" lon="-4.48122889257742">
+<ele>41.9150957877195</ele>
+<name>InvF169</name>
+</rtept>
+<rtept lat="57.2644912985227" lon="-4.47952458995903">
+<ele>35.9389570233348</ele>
+<name>InvF170</name>
+</rtept>
+<rtept lat="57.2654127699744" lon="-4.47882358425822">
+<ele>30.3641714425347</ele>
+<name>InvF171</name>
+</rtept>
+<rtept lat="57.2658958746797" lon="-4.47779453769759">
+<ele>40.1992047758234</ele>
+<name>InvF172</name>
+</rtept>
+<rtept lat="57.2667424435305" lon="-4.47678987412823">
+<ele>40.349276112797</ele>
+<name>InvF173</name>
+</rtept>
+<rtept lat="57.2671002109679" lon="-4.47619189915006">
+<ele>41.117509193804</ele>
+<name>InvF174</name>
+</rtept>
+<rtept lat="57.2680486632763" lon="-4.47389191438281">
+<ele>67.8937117631418</ele>
+<name>InvF175</name>
+</rtept>
+<rtept lat="57.2687618088883" lon="-4.47304403264395">
+<ele>68.5783608762206</ele>
+<name>InvF176</name>
+</rtept>
+<rtept lat="57.2690157149418" lon="-4.47338451799883">
+<ele>65.5445946118346</ele>
+<name>InvF177</name>
+</rtept>
+<rtept lat="57.2690046205251" lon="-4.47349159309407">
+<ele>65.1745946118346</ele>
+<name>InvF178</name>
+</rtept>
+<rtept lat="57.2691133791402" lon="-4.47367305812401">
+<ele>64.2945946118346</ele>
+<name>InvF179</name>
+</rtept>
+<rtept lat="57.2700162248388" lon="-4.47345992043391">
+<ele>63.1152633373104</ele>
+<name>InvF180</name>
+</rtept>
+<rtept lat="57.271138622824" lon="-4.47327808764683">
+<ele>40.5885661251414</ele>
+<name>InvF181</name>
+</rtept>
+<rtept lat="57.2712813944713" lon="-4.47287294916606">
+<ele>38.8286856249222</ele>
+<name>InvF182</name>
+</rtept>
+<rtept lat="57.2720384290517" lon="-4.47207768460047">
+<ele>24.2446040058312</ele>
+<name>InvF183</name>
+</rtept>
+<rtept lat="57.273674618792" lon="-4.47044547310573">
+<ele>18.5800017026718</ele>
+<name>InvF184</name>
+</rtept>
+<rtept lat="57.2749676347379" lon="-4.46889797597886">
+<ele>17.991601290044</ele>
+<name>InvF185</name>
+</rtept>
+<rtept lat="57.2761689334079" lon="-4.46744377853704">
+<ele>19.0893099343559</ele>
+<name>InvF186</name>
+</rtept>
+<rtept lat="57.2766314264119" lon="-4.46700189053013">
+<ele>19.332575978033</ele>
+<name>InvF187</name>
+</rtept>
+<rtept lat="57.2774259169277" lon="-4.46566968214256">
+<ele>19.3732025781294</ele>
+<name>InvF188</name>
+</rtept>
+<rtept lat="57.2776492007764" lon="-4.46436559852285">
+<ele>22.6847971073295</ele>
+<name>InvF189</name>
+</rtept>
+<rtept lat="57.2786933006219" lon="-4.46198809590123">
+<ele>19.2307911324889</ele>
+<name>InvF190</name>
+</rtept>
+<rtept lat="57.2795357466666" lon="-4.46095756983261">
+<ele>17.6059724795173</ele>
+<name>InvF191</name>
+</rtept>
+<rtept lat="57.2799195006224" lon="-4.45994616402777">
+<ele>19.2507207944245</ele>
+<name>InvF192</name>
+</rtept>
+<rtept lat="57.2801842873517" lon="-4.45766576943831">
+<ele>28.5648546612309</ele>
+<name>InvF193</name>
+</rtept>
+<rtept lat="57.28066981479" lon="-4.45650346473296">
+<ele>33.1808104412815</ele>
+<name>InvF194</name>
+</rtept>
+<rtept lat="57.2810830480187" lon="-4.4553612036265">
+<ele>34.3668522486235</ele>
+<name>InvF195</name>
+</rtept>
+<rtept lat="57.2811940723784" lon="-4.45473806672467">
+<ele>34.5468375094739</ele>
+<name>InvF196</name>
+</rtept>
+<rtept lat="57.2807147439357" lon="-4.45374376622536">
+<ele>50.2478538609855</ele>
+<name>InvF197</name>
+</rtept>
+<rtept lat="57.2804545181062" lon="-4.45349414673412">
+<ele>58.2391062397978</ele>
+<name>InvF198</name>
+</rtept>
+<rtept lat="57.2803355814084" lon="-4.45360237817958">
+<ele>61.2895404178261</ele>
+<name>InvF199</name>
+</rtept>
+<rtept lat="57.2803355814084" lon="-4.45360237817958">
+<ele>61.2895404178261</ele>
+<name>InvF200</name>
+</rtept>
+</rte>
+</gpx>

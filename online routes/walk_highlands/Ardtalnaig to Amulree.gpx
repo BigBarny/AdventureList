@@ -1,0 +1,946 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Ardtalnaig to Amulree</name>
+<rtept lat="56.5270237605396" lon="-4.11181105388342">
+<ele>137.60130226618</ele>
+<name>RRW7a-001</name>
+</rtept>
+<rtept lat="56.526846737612" lon="-4.1112288526562">
+<ele>145.373903916948</ele>
+<name>RRW7a-002</name>
+</rtept>
+<rtept lat="56.526224403322" lon="-4.11062188762289">
+<ele>156.888335201382</ele>
+<name>RRW7a-003</name>
+</rtept>
+<rtept lat="56.5257914569683" lon="-4.1098693829116">
+<ele>167.609214096455</ele>
+<name>RRW7a-004</name>
+</rtept>
+<rtept lat="56.52557863342" lon="-4.10970145987197">
+<ele>171.699905850659</ele>
+<name>RRW7a-005</name>
+</rtept>
+<rtept lat="56.5246822304224" lon="-4.10829887769998">
+<ele>191.866876039526</ele>
+<name>RRW7a-006</name>
+</rtept>
+<rtept lat="56.5245232660787" lon="-4.10665114846913">
+<ele>195.719643504629</ele>
+<name>RRW7a-007</name>
+</rtept>
+<rtept lat="56.5245585090406" lon="-4.10457196407821">
+<ele>198.029780275452</ele>
+<name>RRW7a-008</name>
+</rtept>
+<rtept lat="56.5237624611841" lon="-4.10148421484522">
+<ele>206.667162070282</ele>
+<name>RRW7a-009</name>
+</rtept>
+<rtept lat="56.5235875867165" lon="-4.10077216486556">
+<ele>208.609777723118</ele>
+<name>RRW7a-010</name>
+</rtept>
+<rtept lat="56.5227533712866" lon="-4.09908716887313">
+<ele>222.73020174134</ele>
+<name>RRW7a-011</name>
+</rtept>
+<rtept lat="56.5222004465117" lon="-4.09819817131145">
+<ele>234.278025203788</ele>
+<name>RRW7a-012</name>
+</rtept>
+<rtept lat="56.5216113825303" lon="-4.09561641126543">
+<ele>251.704147859949</ele>
+<name>RRW7a-013</name>
+</rtept>
+<rtept lat="56.5216315446616" lon="-4.09442096405366">
+<ele>249.469502727222</ele>
+<name>RRW7a-014</name>
+</rtept>
+<rtept lat="56.5212572717374" lon="-4.09359394057969">
+<ele>253.220083261405</ele>
+<name>RRW7a-015</name>
+</rtept>
+<rtept lat="56.5212351113064" lon="-4.09320253962989">
+<ele>254.656107720849</ele>
+<name>RRW7a-016</name>
+</rtept>
+<rtept lat="56.5217897375815" lon="-4.09271288321832">
+<ele>254.134888475309</ele>
+<name>RRW7a-017</name>
+</rtept>
+<rtept lat="56.5215861576169" lon="-4.0911409298835">
+<ele>275.84727294089</ele>
+<name>RRW7a-018</name>
+</rtept>
+<rtept lat="56.521080391011" lon="-4.09043675726764">
+<ele>283.024872705509</ele>
+<name>RRW7a-019</name>
+</rtept>
+<rtept lat="56.5208981384961" lon="-4.08844983406675">
+<ele>290.461982465731</ele>
+<name>RRW7a-020</name>
+</rtept>
+<rtept lat="56.5206169547056" lon="-4.08807020162532">
+<ele>292.615914559809</ele>
+<name>RRW7a-021</name>
+</rtept>
+<rtept lat="56.5204315674313" lon="-4.08712359528429">
+<ele>297.862002555187</ele>
+<name>RRW7a-022</name>
+</rtept>
+<rtept lat="56.5205282356464" lon="-4.08650463806931">
+<ele>298.160363723459</ele>
+<name>RRW7a-023</name>
+</rtept>
+<rtept lat="56.5203798555972" lon="-4.08506586145297">
+<ele>305.378663963157</ele>
+<name>RRW7a-024</name>
+</rtept>
+<rtept lat="56.5207111721927" lon="-4.08331528179703">
+<ele>309.4221231197</ele>
+<name>RRW7a-025</name>
+</rtept>
+<rtept lat="56.5204447856023" lon="-4.08205211800744">
+<ele>318.351259663029</ele>
+<name>RRW7a-026</name>
+</rtept>
+<rtept lat="56.5204804857005" lon="-4.07992114940862">
+<ele>326.476890485782</ele>
+<name>RRW7a-027</name>
+</rtept>
+<rtept lat="56.5201025793311" lon="-4.07672709496279">
+<ele>333.08149349571</ele>
+<name>RRW7a-028</name>
+</rtept>
+<rtept lat="56.5206249046924" lon="-4.07558516269586">
+<ele>330.045456695812</ele>
+<name>RRW7a-029</name>
+</rtept>
+<rtept lat="56.5204960142916" lon="-4.07469373080026">
+<ele>330.860719384705</ele>
+<name>RRW7a-030</name>
+</rtept>
+<rtept lat="56.5194223773935" lon="-4.07182590836869">
+<ele>338.510265646692</ele>
+<name>RRW7a-031</name>
+</rtept>
+<rtept lat="56.5186657910319" lon="-4.0714985016295">
+<ele>341.895886169567</ele>
+<name>RRW7a-032</name>
+</rtept>
+<rtept lat="56.5173191144051" lon="-4.07077478430493">
+<ele>349.823693793557</ele>
+<name>RRW7a-033</name>
+</rtept>
+<rtept lat="56.5167684016116" lon="-4.07017255100252">
+<ele>355.422276747367</ele>
+<name>RRW7a-034</name>
+</rtept>
+<rtept lat="56.5163982933268" lon="-4.06908602155636">
+<ele>357.814232553487</ele>
+<name>RRW7a-035</name>
+</rtept>
+<rtept lat="56.5155894310339" lon="-4.06844375394667">
+<ele>364.328711698752</ele>
+<name>RRW7a-036</name>
+</rtept>
+<rtept lat="56.5149256024796" lon="-4.06858963649121">
+<ele>362.872515299768</ele>
+<name>RRW7a-037</name>
+</rtept>
+<rtept lat="56.5145851646965" lon="-4.06831101453051">
+<ele>365.505473398743</ele>
+<name>RRW7a-038</name>
+</rtept>
+<rtept lat="56.5140945841302" lon="-4.06841432157054">
+<ele>366.848188162576</ele>
+<name>RRW7a-039</name>
+</rtept>
+<rtept lat="56.5128194507505" lon="-4.06727860621945">
+<ele>373.072454696212</ele>
+<name>RRW7a-040</name>
+</rtept>
+<rtept lat="56.511718949887" lon="-4.06688061754778">
+<ele>375.03624719262</ele>
+<name>RRW7a-041</name>
+</rtept>
+<rtept lat="56.5107577765842" lon="-4.06675028121307">
+<ele>378.81862194869</ele>
+<name>RRW7a-042</name>
+</rtept>
+<rtept lat="56.5097427654315" lon="-4.06596692556032">
+<ele>385.78649253377</ele>
+<name>RRW7a-043</name>
+</rtept>
+<rtept lat="56.5094841910928" lon="-4.0659528567059">
+<ele>386.27653531968</ele>
+<name>RRW7a-044</name>
+</rtept>
+<rtept lat="56.5091764701829" lon="-4.06630016259395">
+<ele>385.817604701125</ele>
+<name>RRW7a-045</name>
+</rtept>
+<rtept lat="56.5079061749427" lon="-4.06573699004496">
+<ele>388.370552471936</ele>
+<name>RRW7a-046</name>
+</rtept>
+<rtept lat="56.5070642421705" lon="-4.06535316406901">
+<ele>392.175965489527</ele>
+<name>RRW7a-047</name>
+</rtept>
+<rtept lat="56.5064834742285" lon="-4.06482754721798">
+<ele>395.020870676253</ele>
+<name>RRW7a-048</name>
+</rtept>
+<rtept lat="56.5060115801627" lon="-4.06467188288483">
+<ele>397.375028751459</ele>
+<name>RRW7a-049</name>
+</rtept>
+<rtept lat="56.5055858044479" lon="-4.06433672275577">
+<ele>395.483066236507</ele>
+<name>RRW7a-050</name>
+</rtept>
+<rtept lat="56.5044478079026" lon="-4.06359886012974">
+<ele>398.531810558699</ele>
+<name>RRW7a-051</name>
+</rtept>
+<rtept lat="56.5038681724014" lon="-4.06343736635752">
+<ele>401.292127447747</ele>
+<name>RRW7a-052</name>
+</rtept>
+<rtept lat="56.5030522459916" lon="-4.06235306759301">
+<ele>405.819229400192</ele>
+<name>RRW7a-053</name>
+</rtept>
+<rtept lat="56.5021123318739" lon="-4.06180805778685">
+<ele>410.012250866567</ele>
+<name>RRW7a-054</name>
+</rtept>
+<rtept lat="56.5012517077715" lon="-4.06168334660347">
+<ele>409.266450637447</ele>
+<name>RRW7a-055</name>
+</rtept>
+<rtept lat="56.5007318328343" lon="-4.06095319212215">
+<ele>410</ele>
+<name>RRW7a-056</name>
+</rtept>
+<rtept lat="56.4989179241535" lon="-4.06108874459642">
+<ele>417.741890971977</ele>
+<name>RRW7a-057</name>
+</rtept>
+<rtept lat="56.498418300267" lon="-4.06043773056917">
+<ele>417.995918624674</ele>
+<name>RRW7a-058</name>
+</rtept>
+<rtept lat="56.4979633502697" lon="-4.06012710093692">
+<ele>418.007653130242</ele>
+<name>RRW7a-059</name>
+</rtept>
+<rtept lat="56.4975401457206" lon="-4.05963623205108">
+<ele>419.045876385757</ele>
+<name>RRW7a-060</name>
+</rtept>
+<rtept lat="56.4960537482083" lon="-4.0582299308772">
+<ele>422.900264285937</ele>
+<name>RRW7a-061</name>
+</rtept>
+<rtept lat="56.4948576520087" lon="-4.05665750282377">
+<ele>419.386667346632</ele>
+<name>RRW7a-062</name>
+</rtept>
+<rtept lat="56.4942198125778" lon="-4.05610311173224">
+<ele>422.486664710038</ele>
+<name>RRW7a-063</name>
+</rtept>
+<rtept lat="56.4935598657429" lon="-4.05601541219935">
+<ele>425.429046345427</ele>
+<name>RRW7a-064</name>
+</rtept>
+<rtept lat="56.4927503160986" lon="-4.05454203723218">
+<ele>421.793898911403</ele>
+<name>RRW7a-065</name>
+</rtept>
+<rtept lat="56.4923506634203" lon="-4.05436447561978">
+<ele>426.703163244636</ele>
+<name>RRW7a-066</name>
+</rtept>
+<rtept lat="56.4919647555982" lon="-4.05335592977533">
+<ele>421.334900113483</ele>
+<name>RRW7a-067</name>
+</rtept>
+<rtept lat="56.4915490179766" lon="-4.05328148065417">
+<ele>422.635549878314</ele>
+<name>RRW7a-068</name>
+</rtept>
+<rtept lat="56.4911287899608" lon="-4.0526089971448">
+<ele>420.851914057225</ele>
+<name>RRW7a-069</name>
+</rtept>
+<rtept lat="56.4901829331819" lon="-4.05198611592367">
+<ele>428.820172371746</ele>
+<name>RRW7a-070</name>
+</rtept>
+<rtept lat="56.489822304457" lon="-4.05118693824529">
+<ele>423.591235255123</ele>
+<name>RRW7a-071</name>
+</rtept>
+<rtept lat="56.4888038622215" lon="-4.05017035686603">
+<ele>427.005971269966</ele>
+<name>RRW7a-072</name>
+</rtept>
+<rtept lat="56.4886096057144" lon="-4.04974404824966">
+<ele>424.964654328226</ele>
+<name>RRW7a-073</name>
+</rtept>
+<rtept lat="56.4878377298751" lon="-4.0494685164976">
+<ele>427.160763060684</ele>
+<name>RRW7a-074</name>
+</rtept>
+<rtept lat="56.4874762273812" lon="-4.04872134296764">
+<ele>426.529248589483</ele>
+<name>RRW7a-075</name>
+</rtept>
+<rtept lat="56.486138297485" lon="-4.04789557914595">
+<ele>431.399799138574</ele>
+<name>RRW7a-076</name>
+</rtept>
+<rtept lat="56.4849478687967" lon="-4.04684393851755">
+<ele>438.559648962879</ele>
+<name>RRW7a-077</name>
+</rtept>
+<rtept lat="56.4845434952979" lon="-4.04695209369221">
+<ele>439.704015584486</ele>
+<name>RRW7a-078</name>
+</rtept>
+<rtept lat="56.4841558638342" lon="-4.04778876243622">
+<ele>439.845295389856</ele>
+<name>RRW7a-079</name>
+</rtept>
+<rtept lat="56.4839293447221" lon="-4.04801043266922">
+<ele>439.581973592763</ele>
+<name>RRW7a-080</name>
+</rtept>
+<rtept lat="56.4829769410594" lon="-4.04821896950078">
+<ele>437.636206337412</ele>
+<name>RRW7a-081</name>
+</rtept>
+<rtept lat="56.4825075919975" lon="-4.04790784200819">
+<ele>438.582050003371</ele>
+<name>RRW7a-082</name>
+</rtept>
+<rtept lat="56.4822005439664" lon="-4.04734561657394">
+<ele>432.027300142236</ele>
+<name>RRW7a-083</name>
+</rtept>
+<rtept lat="56.4823321613602" lon="-4.04633929219463">
+<ele>428.043906131558</ele>
+<name>RRW7a-084</name>
+</rtept>
+<rtept lat="56.4822313563691" lon="-4.04547636386071">
+<ele>425.253346882346</ele>
+<name>RRW7a-085</name>
+</rtept>
+<rtept lat="56.4814428793936" lon="-4.04358904603926">
+<ele>418.662420322879</ele>
+<name>RRW7a-086</name>
+</rtept>
+<rtept lat="56.4809156611561" lon="-4.04067648187033">
+<ele>409.375038945193</ele>
+<name>RRW7a-087</name>
+</rtept>
+<rtept lat="56.4806728672131" lon="-4.03970204757596">
+<ele>406.624398571501</ele>
+<name>RRW7a-088</name>
+</rtept>
+<rtept lat="56.480587660272" lon="-4.03876206146593">
+<ele>404.019884458793</ele>
+<name>RRW7a-089</name>
+</rtept>
+<rtept lat="56.4802273697249" lon="-4.03793725051105">
+<ele>408.214895155966</ele>
+<name>RRW7a-090</name>
+</rtept>
+<rtept lat="56.480039684529" lon="-4.03535483862032">
+<ele>407.882858192223</ele>
+<name>RRW7a-091</name>
+</rtept>
+<rtept lat="56.4794927148899" lon="-4.03363666160397">
+<ele>399.038390916312</ele>
+<name>RRW7a-092</name>
+</rtept>
+<rtept lat="56.4794475829066" lon="-4.03288074291397">
+<ele>398.905584589208</ele>
+<name>RRW7a-093</name>
+</rtept>
+<rtept lat="56.4786859436283" lon="-4.03109919511009">
+<ele>397.284210266537</ele>
+<name>RRW7a-094</name>
+</rtept>
+<rtept lat="56.4782065299597" lon="-4.02920287476992">
+<ele>390.003271992882</ele>
+<name>RRW7a-095</name>
+</rtept>
+<rtept lat="56.4779678298355" lon="-4.02885236955006">
+<ele>388.0000807953</ele>
+<name>RRW7a-096</name>
+</rtept>
+<rtept lat="56.4774123781663" lon="-4.02588682019617">
+<ele>385.851084400786</ele>
+<name>RRW7a-097</name>
+</rtept>
+<rtept lat="56.4771723977384" lon="-4.02561421922522">
+<ele>384.694896005207</ele>
+<name>RRW7a-098</name>
+</rtept>
+<rtept lat="56.4769970784796" lon="-4.02490338633959">
+<ele>385.384168071536</ele>
+<name>RRW7a-099</name>
+</rtept>
+<rtept lat="56.4770051469019" lon="-4.02352681348798">
+<ele>379.342024132387</ele>
+<name>RRW7a-100</name>
+</rtept>
+<rtept lat="56.4768133573868" lon="-4.0202949572108">
+<ele>378.15143343121</ele>
+<name>RRW7a-101</name>
+</rtept>
+<rtept lat="56.4763206685271" lon="-4.01787855382061">
+<ele>376.464141726584</ele>
+<name>RRW7a-102</name>
+</rtept>
+<rtept lat="56.4759361447078" lon="-4.01676696847298">
+<ele>376.201408760489</ele>
+<name>RRW7a-103</name>
+</rtept>
+<rtept lat="56.4752409546329" lon="-4.01353456319502">
+<ele>369.919392957915</ele>
+<name>RRW7a-104</name>
+</rtept>
+<rtept lat="56.4750210831527" lon="-4.0111327822252">
+<ele>362.577077172224</ele>
+<name>RRW7a-105</name>
+</rtept>
+<rtept lat="56.4746896813872" lon="-4.00940060532434">
+<ele>356.503909445356</ele>
+<name>RRW7a-106</name>
+</rtept>
+<rtept lat="56.473578207453" lon="-4.00700378144619">
+<ele>348.834201499659</ele>
+<name>RRW7a-107</name>
+</rtept>
+<rtept lat="56.4734153636669" lon="-4.00551440503388">
+<ele>347.349201882945</ele>
+<name>RRW7a-108</name>
+</rtept>
+<rtept lat="56.4736180517422" lon="-4.00453790321124">
+<ele>349.561383729378</ele>
+<name>RRW7a-109</name>
+</rtept>
+<rtept lat="56.4733334236077" lon="-4.00257450757999">
+<ele>345.171928105092</ele>
+<name>RRW7a-110</name>
+</rtept>
+<rtept lat="56.473206224236" lon="-4.00243791629082">
+<ele>343.18108357872</ele>
+<name>RRW7a-111</name>
+</rtept>
+<rtept lat="56.4728349488441" lon="-4.00049597840872">
+<ele>338.79731097434</ele>
+<name>RRW7a-112</name>
+</rtept>
+<rtept lat="56.4729424709948" lon="-3.99917674431073">
+<ele>339.004788671699</ele>
+<name>RRW7a-113</name>
+</rtept>
+<rtept lat="56.4728534510829" lon="-3.99756141671777">
+<ele>336.063147352564</ele>
+<name>RRW7a-114</name>
+</rtept>
+<rtept lat="56.4732395591968" lon="-3.99500983544796">
+<ele>333.764339982757</ele>
+<name>RRW7a-115</name>
+</rtept>
+<rtept lat="56.4739349998454" lon="-3.99289007542002">
+<ele>329.521479991729</ele>
+<name>RRW7a-116</name>
+</rtept>
+<rtept lat="56.474619995998" lon="-3.99141917596483">
+<ele>328.380297860971</ele>
+<name>RRW7a-117</name>
+</rtept>
+<rtept lat="56.4746437230502" lon="-3.98993959520997">
+<ele>325.261393635804</ele>
+<name>RRW7a-118</name>
+</rtept>
+<rtept lat="56.4756321486663" lon="-3.98567864423014">
+<ele>321.181362466831</ele>
+<name>RRW7a-119</name>
+</rtept>
+<rtept lat="56.4759181304538" lon="-3.98397888717346">
+<ele>320.157064197324</ele>
+<name>RRW7a-120</name>
+</rtept>
+<rtept lat="56.4764802163223" lon="-3.9829949760031">
+<ele>321.212914736188</ele>
+<name>RRW7a-121</name>
+</rtept>
+<rtept lat="56.4765215242608" lon="-3.98130839213626">
+<ele>320.656511588461</ele>
+<name>RRW7a-122</name>
+</rtept>
+<rtept lat="56.4763278560191" lon="-3.98083065154403">
+<ele>318.679249045074</ele>
+<name>RRW7a-123</name>
+</rtept>
+<rtept lat="56.4768584092068" lon="-3.97911757950753">
+<ele>318.991138553751</ele>
+<name>RRW7a-124</name>
+</rtept>
+<rtept lat="56.477055099428" lon="-3.97850427595059">
+<ele>318.564165234031</ele>
+<name>RRW7a-125</name>
+</rtept>
+<rtept lat="56.4769690139804" lon="-3.97759046561595">
+<ele>315.416865927643</ele>
+<name>RRW7a-126</name>
+</rtept>
+<rtept lat="56.4770207954206" lon="-3.97704756011833">
+<ele>315.095953246546</ele>
+<name>RRW7a-127</name>
+</rtept>
+<rtept lat="56.4766305313753" lon="-3.97627382782588">
+<ele>312.328922752723</ele>
+<name>RRW7a-128</name>
+</rtept>
+<rtept lat="56.4763917715076" lon="-3.97501435497917">
+<ele>307.734091897514</ele>
+<name>RRW7a-129</name>
+</rtept>
+<rtept lat="56.4763910313574" lon="-3.97415696152427">
+<ele>306.638730199493</ele>
+<name>RRW7a-130</name>
+</rtept>
+<rtept lat="56.4770638430922" lon="-3.97343845096086">
+<ele>314.202722563046</ele>
+<name>RRW7a-131</name>
+</rtept>
+<rtept lat="56.4767795473695" lon="-3.97142317987629">
+<ele>307.352082661464</ele>
+<name>RRW7a-132</name>
+</rtept>
+<rtept lat="56.476548511829" lon="-3.97057982282969">
+<ele>303.936129414919</ele>
+<name>RRW7a-133</name>
+</rtept>
+<rtept lat="56.4765969667964" lon="-3.97024458684984">
+<ele>302.592129414921</ele>
+<name>RRW7a-134</name>
+</rtept>
+<rtept lat="56.4763774064302" lon="-3.96958369857811">
+<ele>302.015916013932</ele>
+<name>RRW7a-135</name>
+</rtept>
+<rtept lat="56.4762190516314" lon="-3.96778285448793">
+<ele>299.44766841764</ele>
+<name>RRW7a-136</name>
+</rtept>
+<rtept lat="56.4765441876668" lon="-3.96631879308319">
+<ele>299.964584864909</ele>
+<name>RRW7a-137</name>
+</rtept>
+<rtept lat="56.4761111933618" lon="-3.9636983792914">
+<ele>295.570465037925</ele>
+<name>RRW7a-138</name>
+</rtept>
+<rtept lat="56.4760845155833" lon="-3.96265779439864">
+<ele>295.734514040042</ele>
+<name>RRW7a-139</name>
+</rtept>
+<rtept lat="56.4763102677686" lon="-3.96201993983996">
+<ele>295.06385540096</ele>
+<name>RRW7a-140</name>
+</rtept>
+<rtept lat="56.4760438143258" lon="-3.95886259389119">
+<ele>291.903079146585</ele>
+<name>RRW7a-141</name>
+</rtept>
+<rtept lat="56.4762218661013" lon="-3.95668942738056">
+<ele>290.924390209695</ele>
+<name>RRW7a-142</name>
+</rtept>
+<rtept lat="56.4771572619705" lon="-3.95572431410102">
+<ele>294.805398374844</ele>
+<name>RRW7a-143</name>
+</rtept>
+<rtept lat="56.4768771715051" lon="-3.95342360771533">
+<ele>288.530720194632</ele>
+<name>RRW7a-144</name>
+</rtept>
+<rtept lat="56.4769472188097" lon="-3.9517124803972">
+<ele>287.064873187656</ele>
+<name>RRW7a-145</name>
+</rtept>
+<rtept lat="56.477368652223" lon="-3.95051300857119">
+<ele>290.176083875273</ele>
+<name>RRW7a-146</name>
+</rtept>
+<rtept lat="56.4773672353826" lon="-3.94877221082536">
+<ele>294.018013387926</ele>
+<name>RRW7a-147</name>
+</rtept>
+<rtept lat="56.4780080913764" lon="-3.94641477179956">
+<ele>299.420018057177</ele>
+<name>RRW7a-148</name>
+</rtept>
+<rtept lat="56.47830803405" lon="-3.94562469871819">
+<ele>302.670070820945</ele>
+<name>RRW7a-149</name>
+</rtept>
+<rtept lat="56.4784350334191" lon="-3.9439423894865">
+<ele>299.525139544998</ele>
+<name>RRW7a-150</name>
+</rtept>
+<rtept lat="56.4781577200253" lon="-3.94236932150331">
+<ele>300.772082582994</ele>
+<name>RRW7a-151</name>
+</rtept>
+<rtept lat="56.4781480717851" lon="-3.94114770006899">
+<ele>300.560346818092</ele>
+<name>RRW7a-152</name>
+</rtept>
+<rtept lat="56.4779016516516" lon="-3.94035567983341">
+<ele>293.706087795824</ele>
+<name>RRW7a-153</name>
+</rtept>
+<rtept lat="56.4773527713076" lon="-3.93775555816212">
+<ele>284.258657856692</ele>
+<name>RRW7a-154</name>
+</rtept>
+<rtept lat="56.4768918506964" lon="-3.93412076808421">
+<ele>279.71995324654</ele>
+<name>RRW7a-155</name>
+</rtept>
+<rtept lat="56.4767921660812" lon="-3.92943921227148">
+<ele>277.748733514463</ele>
+<name>RRW7a-156</name>
+</rtept>
+<rtept lat="56.4772070828195" lon="-3.92771955934358">
+<ele>278.578287794945</ele>
+<name>RRW7a-157</name>
+</rtept>
+<rtept lat="56.4776021022432" lon="-3.92542727993056">
+<ele>279.58212958764</ele>
+<name>RRW7a-158</name>
+</rtept>
+<rtept lat="56.4770079035768" lon="-3.92201971396424">
+<ele>276.447865836824</ele>
+<name>RRW7a-159</name>
+</rtept>
+<rtept lat="56.4767494961827" lon="-3.92013606362822">
+<ele>276.476962795281</ele>
+<name>RRW7a-160</name>
+</rtept>
+<rtept lat="56.4766633814958" lon="-3.91919642342077">
+<ele>278.703226729344</ele>
+<name>RRW7a-161</name>
+</rtept>
+<rtept lat="56.4769958968886" lon="-3.91814800643635">
+<ele>289.530779504362</ele>
+<name>RRW7a-162</name>
+</rtept>
+<rtept lat="56.4774687915064" lon="-3.91824980731244">
+<ele>289.991476094059</ele>
+<name>RRW7a-163</name>
+</rtept>
+<rtept lat="56.4779940110754" lon="-3.91775668322541">
+<ele>294.307573359259</ele>
+<name>RRW7a-164</name>
+</rtept>
+<rtept lat="56.4791182156288" lon="-3.9175795551739">
+<ele>301.27839574977</ele>
+<name>RRW7a-165</name>
+</rtept>
+<rtept lat="56.4799379141704" lon="-3.91756893678275">
+<ele>307.389737157542</ele>
+<name>RRW7a-166</name>
+</rtept>
+<rtept lat="56.4801159270187" lon="-3.91721415882502">
+<ele>306.889557430911</ele>
+<name>RRW7a-167</name>
+</rtept>
+<rtept lat="56.4800150234259" lon="-3.91629967957219">
+<ele>300.914603649854</ele>
+<name>RRW7a-168</name>
+</rtept>
+<rtept lat="56.480905722343" lon="-3.9168122767027">
+<ele>308.899783282722</ele>
+<name>RRW7a-169</name>
+</rtept>
+<rtept lat="56.4818878624791" lon="-3.91652401069763">
+<ele>315.127248524605</ele>
+<name>RRW7a-170</name>
+</rtept>
+<rtept lat="56.4824724842297" lon="-3.91683931334372">
+<ele>327.844109082127</ele>
+<name>RRW7a-171</name>
+</rtept>
+<rtept lat="56.4829845340265" lon="-3.91626748874968">
+<ele>328.311976519031</ele>
+<name>RRW7a-172</name>
+</rtept>
+<rtept lat="56.4839698781524" lon="-3.91577147336736">
+<ele>332.655910418444</ele>
+<name>RRW7a-173</name>
+</rtept>
+<rtept lat="56.4848897953432" lon="-3.91485636146708">
+<ele>325.048153659906</ele>
+<name>RRW7a-174</name>
+</rtept>
+<rtept lat="56.4856260967506" lon="-3.91465957905476">
+<ele>326.376936369467</ele>
+<name>RRW7a-175</name>
+</rtept>
+<rtept lat="56.4856504722773" lon="-3.91401114638509">
+<ele>328.640561547424</ele>
+<name>RRW7a-176</name>
+</rtept>
+<rtept lat="56.4860228035145" lon="-3.91410785670984">
+<ele>333.280160068362</ele>
+<name>RRW7a-177</name>
+</rtept>
+<rtept lat="56.4862450624806" lon="-3.91461279994577">
+<ele>335.189068593375</ele>
+<name>RRW7a-178</name>
+</rtept>
+<rtept lat="56.4868756377565" lon="-3.91381297380151">
+<ele>359.151636817778</ele>
+<name>RRW7a-179</name>
+</rtept>
+<rtept lat="56.4871135428826" lon="-3.91236965839454">
+<ele>368.724077577475</ele>
+<name>RRW7a-180</name>
+</rtept>
+<rtept lat="56.4892865649548" lon="-3.90943830821173">
+<ele>406.104910140588</ele>
+<name>RRW7a-181</name>
+</rtept>
+<rtept lat="56.4901745089883" lon="-3.90732579719456">
+<ele>420.745445900178</ele>
+<name>RRW7a-182</name>
+</rtept>
+<rtept lat="56.4912839057424" lon="-3.90530226267611">
+<ele>438.775659077077</ele>
+<name>RRW7a-183</name>
+</rtept>
+<rtept lat="56.4917635237846" lon="-3.90309112413915">
+<ele>449.969747068788</ele>
+<name>RRW7a-184</name>
+</rtept>
+<rtept lat="56.4930496266764" lon="-3.90079031972307">
+<ele>437.936317804201</ele>
+<name>RRW7a-185</name>
+</rtept>
+<rtept lat="56.4943412463568" lon="-3.89812574546905">
+<ele>433.16245054979</ele>
+<name>RRW7a-186</name>
+</rtept>
+<rtept lat="56.4952745252817" lon="-3.89632687407341">
+<ele>425.906115580446</ele>
+<name>RRW7a-187</name>
+</rtept>
+<rtept lat="56.4957984702776" lon="-3.89591113982865">
+<ele>414.406539070078</ele>
+<name>RRW7a-188</name>
+</rtept>
+<rtept lat="56.4964160966132" lon="-3.89453830220729">
+<ele>414.066508466795</ele>
+<name>RRW7a-189</name>
+</rtept>
+<rtept lat="56.4971606871343" lon="-3.89379560762927">
+<ele>409.409411740622</ele>
+<name>RRW7a-190</name>
+</rtept>
+<rtept lat="56.4981616591228" lon="-3.89132400474707">
+<ele>406.426313270022</ele>
+<name>RRW7a-191</name>
+</rtept>
+<rtept lat="56.4989047703973" lon="-3.8887874616868">
+<ele>406.423747177233</ele>
+<name>RRW7a-192</name>
+</rtept>
+<rtept lat="56.4987670278704" lon="-3.88839068452114">
+<ele>409.919776054214</ele>
+<name>RRW7a-193</name>
+</rtept>
+<rtept lat="56.4988220410952" lon="-3.88666310842963">
+<ele>409.959104303293</ele>
+<name>RRW7a-194</name>
+</rtept>
+<rtept lat="56.4995085169989" lon="-3.88453630621926">
+<ele>399.478414189053</ele>
+<name>RRW7a-195</name>
+</rtept>
+<rtept lat="56.4997797499498" lon="-3.88407208688865">
+<ele>399.884277769327</ele>
+<name>RRW7a-196</name>
+</rtept>
+<rtept lat="56.4999053000826" lon="-3.883259439888">
+<ele>395.914067076977</ele>
+<name>RRW7a-197</name>
+</rtept>
+<rtept lat="56.5000299857175" lon="-3.88167336164052">
+<ele>392.866946440402</ele>
+<name>RRW7a-198</name>
+</rtept>
+<rtept lat="56.500253154544" lon="-3.88022862789127">
+<ele>395.69090848346</ele>
+<name>RRW7a-199</name>
+</rtept>
+<rtept lat="56.5003655744444" lon="-3.87861917291566">
+<ele>392.693315418664</ele>
+<name>RRW7a-200</name>
+</rtept>
+<rtept lat="56.5005363623027" lon="-3.87730830204822">
+<ele>391.19658547689</ele>
+<name>RRW7a-201</name>
+</rtept>
+<rtept lat="56.5015347588363" lon="-3.87272204326733">
+<ele>388.490657856684</ele>
+<name>RRW7a-202</name>
+</rtept>
+<rtept lat="56.5019990443926" lon="-3.87053515775906">
+<ele>389.369046054128</ele>
+<name>RRW7a-203</name>
+</rtept>
+<rtept lat="56.5033633289472" lon="-3.86873046775812">
+<ele>396.256067076981</ele>
+<name>RRW7a-204</name>
+</rtept>
+<rtept lat="56.5037807524408" lon="-3.86869900792636">
+<ele>398.482814580662</ele>
+<name>RRW7a-205</name>
+</rtept>
+<rtept lat="56.5047247765503" lon="-3.86567754898622">
+<ele>384.639329710918</ele>
+<name>RRW7a-206</name>
+</rtept>
+<rtept lat="56.5047788028945" lon="-3.86495222447298">
+<ele>379.21659396573</ele>
+<name>RRW7a-207</name>
+</rtept>
+<rtept lat="56.5065181087336" lon="-3.86306160239138">
+<ele>362.69097718635</ele>
+<name>RRW7a-208</name>
+</rtept>
+<rtept lat="56.5066342138571" lon="-3.86298929661202">
+<ele>362.094306738332</ele>
+<name>RRW7a-209</name>
+</rtept>
+<rtept lat="56.5068684189908" lon="-3.8617527546693">
+<ele>353.815227272936</ele>
+<name>RRW7a-210</name>
+</rtept>
+<rtept lat="56.5076054573644" lon="-3.86054083205778">
+<ele>347.72965208768</ele>
+<name>RRW7a-211</name>
+</rtept>
+<rtept lat="56.5076656782946" lon="-3.85939973073277">
+<ele>340.117491881757</ele>
+<name>RRW7a-212</name>
+</rtept>
+<rtept lat="56.5077724702769" lon="-3.85898893958268">
+<ele>338.005491881757</ele>
+<name>RRW7a-213</name>
+</rtept>
+<rtept lat="56.5079134376167" lon="-3.85821580004006">
+<ele>333.056196491905</ele>
+<name>RRW7a-214</name>
+</rtept>
+<rtept lat="56.5086116137714" lon="-3.85671585657672">
+<ele>330.141507466242</ele>
+<name>RRW7a-215</name>
+</rtept>
+<rtept lat="56.508836435546" lon="-3.85514072969729">
+<ele>319.751696950532</ele>
+<name>RRW7a-216</name>
+</rtept>
+<rtept lat="56.5092173516344" lon="-3.85466529634767">
+<ele>318.359482136063</ele>
+<name>RRW7a-217</name>
+</rtept>
+<rtept lat="56.509536102126" lon="-3.85257466831803">
+<ele>308.045538635221</ele>
+<name>RRW7a-218</name>
+</rtept>
+<rtept lat="56.5094774402865" lon="-3.85168772591841">
+<ele>301.031629104864</ele>
+<name>RRW7a-219</name>
+</rtept>
+<rtept lat="56.510176699761" lon="-3.8501096476579">
+<ele>293.706849609558</ele>
+<name>RRW7a-220</name>
+</rtept>
+<rtept lat="56.5105936820195" lon="-3.84914184538038">
+<ele>287.281197261569</ele>
+<name>RRW7a-221</name>
+</rtept>
+<rtept lat="56.5108278104967" lon="-3.84886721072658">
+<ele>283.81023901543</ele>
+<name>RRW7a-222</name>
+</rtept>
+<rtept lat="56.5099462658244" lon="-3.84723812684017">
+<ele>280.907111762074</ele>
+<name>RRW7a-223</name>
+</rtept>
+<rtept lat="56.5097475860509" lon="-3.84416016492898">
+<ele>277.816108421165</ele>
+<name>RRW7a-224</name>
+</rtept>
+<rtept lat="56.5081735484691" lon="-3.84171759775923">
+<ele>279.68949728493</ele>
+<name>RRW7a-225</name>
+</rtept>
+<rtept lat="56.5055850716252" lon="-3.82617431293517">
+<ele>282.742430160172</ele>
+<name>RRW7a-226</name>
+</rtept>
+<rtept lat="56.5053539508227" lon="-3.824291243912">
+<ele>291.260469322203</ele>
+<name>RRW7a-227</name>
+</rtept>
+<rtept lat="56.503217720571" lon="-3.81012378731952">
+<ele>298.484459907423</ele>
+<name>RRW7a-228</name>
+</rtept>
+<rtept lat="56.5060448659711" lon="-3.79164272138244">
+<ele>279.595735714043</ele>
+<name>RRW7a-229</name>
+</rtept>
+<rtept lat="56.5060591041695" lon="-3.7906554050259">
+<ele>278.015057165999</ele>
+<name>RRW7a-230</name>
+</rtept>
+<rtept lat="56.5062681153877" lon="-3.79011926313142">
+<ele>275.952598581687</ele>
+<name>RRW7a-231</name>
+</rtept>
+<rtept lat="56.5070061041118" lon="-3.78979004348925">
+<ele>272.781424804782</ele>
+<name>RRW7a-232</name>
+</rtept>
+<rtept lat="56.5085614013299" lon="-3.78861527595483">
+<ele>270.946067624426</ele>
+<name>RRW7a-233</name>
+</rtept>
+<rtept lat="56.5085337886447" lon="-3.78853597135445">
+<ele>270.900671223364</ele>
+<name>RRW7a-234</name>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,922 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Great Glen Way 5 High Route: Invermoriston to Drumnadrochit</name>
+<rtept lat="57.2142090681914" lon="-4.61715944790739">
+<ele>41.7684214863664</ele>
+<name>GG5H001</name>
+</rtept>
+<rtept lat="57.2148198784063" lon="-4.61790668031459">
+<ele>43.2543034251678</ele>
+<name>GG5H002</name>
+</rtept>
+<rtept lat="57.2149565961607" lon="-4.61867665710118">
+<ele>41.4777173236547</ele>
+<name>GG5H003</name>
+</rtept>
+<rtept lat="57.2153479280292" lon="-4.61676140627427">
+<ele>52.3698641498155</ele>
+<name>GG5H004</name>
+</rtept>
+<rtept lat="57.2154799344784" lon="-4.61629204695504">
+<ele>62.8848109566221</ele>
+<name>GG5H005</name>
+</rtept>
+<rtept lat="57.2160268077505" lon="-4.61790771376284">
+<ele>71.9944076601686</ele>
+<name>GG5H006</name>
+</rtept>
+<rtept lat="57.2161887428382" lon="-4.61746862977867">
+<ele>86.7665843820394</ele>
+<name>GG5H007</name>
+</rtept>
+<rtept lat="57.2160337684194" lon="-4.61464168064881">
+<ele>114.001435115619</ele>
+<name>GG5H008</name>
+</rtept>
+<rtept lat="57.216168109349" lon="-4.61405983143669">
+<ele>120.962522111809</ele>
+<name>GG5H009</name>
+</rtept>
+<rtept lat="57.2162925237695" lon="-4.61468815110272">
+<ele>124.86984029929</ele>
+<name>GG5H010</name>
+</rtept>
+<rtept lat="57.2166845006376" lon="-4.61567333649171">
+<ele>133.563383604316</ele>
+<name>GG5H011</name>
+</rtept>
+<rtept lat="57.2175728610762" lon="-4.61703162880192">
+<ele>152.364785371677</ele>
+<name>GG5H012</name>
+</rtept>
+<rtept lat="57.2180821613439" lon="-4.61751828483775">
+<ele>161.689870065797</ele>
+<name>GG5H013</name>
+</rtept>
+<rtept lat="57.2184007638886" lon="-4.61762534166714">
+<ele>168.052169556512</ele>
+<name>GG5H014</name>
+</rtept>
+<rtept lat="57.2184770404576" lon="-4.61763074592934">
+<ele>169.424158814985</ele>
+<name>GG5H015</name>
+</rtept>
+<rtept lat="57.2183772892345" lon="-4.61728574038254">
+<ele>169.964540008766</ele>
+<name>GG5H016</name>
+</rtept>
+<rtept lat="57.2178102414813" lon="-4.61633612536231">
+<ele>164.773161905531</ele>
+<name>GG5H017</name>
+</rtept>
+<rtept lat="57.2174954344198" lon="-4.61505487855685">
+<ele>165.134878956257</ele>
+<name>GG5H018</name>
+</rtept>
+<rtept lat="57.2174684810074" lon="-4.61419158202207">
+<ele>170.824386275824</ele>
+<name>GG5H018 - GG5H019</name>
+</rtept>
+<rtept lat="57.218087025192" lon="-4.61556058394028">
+<ele>174.99457746994</ele>
+<name>GG5H019</name>
+</rtept>
+<rtept lat="57.2191605019314" lon="-4.61415890966384">
+<ele>203.025342619404</ele>
+<name>GG5H020</name>
+</rtept>
+<rtept lat="57.2188983819312" lon="-4.60766313839108">
+<ele>219.771849555601</ele>
+<name>GG5H021</name>
+</rtept>
+<rtept lat="57.2190403537986" lon="-4.60744786373052">
+<ele>219.822931788226</ele>
+<name>GG5H022</name>
+</rtept>
+<rtept lat="57.2189628376113" lon="-4.60676650832469">
+<ele>208.268012760205</ele>
+<name>GG5H023</name>
+</rtept>
+<rtept lat="57.2191259020599" lon="-4.60627109828691">
+<ele>210.287809276559</ele>
+<name>GG5H024</name>
+</rtept>
+<rtept lat="57.2201942080686" lon="-4.60485383698033">
+<ele>226.377500900736</ele>
+<name>GG5H025</name>
+</rtept>
+<rtept lat="57.2208199953336" lon="-4.60267306551812">
+<ele>237.961474950158</ele>
+<name>GG5H026</name>
+</rtept>
+<rtept lat="57.2206785169584" lon="-4.6021279987954">
+<ele>241.96344096907</ele>
+<name>GG5H027</name>
+</rtept>
+<rtept lat="57.2211789328814" lon="-4.60157181358975">
+<ele>245.211888645218</ele>
+<name>GG5H028</name>
+</rtept>
+<rtept lat="57.2212627862019" lon="-4.60121159254588">
+<ele>247.745396354196</ele>
+<name>GG5H029</name>
+</rtept>
+<rtept lat="57.2218564790301" lon="-4.60057746120498">
+<ele>250.429889912766</ele>
+<name>GG5H030</name>
+</rtept>
+<rtept lat="57.2224830095192" lon="-4.5998329631756">
+<ele>255.403673656076</ele>
+<name>GG5H031</name>
+</rtept>
+<rtept lat="57.2228015715523" lon="-4.59957373647114">
+<ele>257.69593304495</ele>
+<name>GG5H032</name>
+</rtept>
+<rtept lat="57.2232580724513" lon="-4.59966219257433">
+<ele>252.81680484947</ele>
+<name>GG5H033</name>
+</rtept>
+<rtept lat="57.2244320500061" lon="-4.59904066777574">
+<ele>260.251689863684</ele>
+<name>GG5H034</name>
+</rtept>
+<rtept lat="57.2252474587838" lon="-4.59802771438802">
+<ele>270.443243009383</ele>
+<name>GG5H035</name>
+</rtept>
+<rtept lat="57.2254251632739" lon="-4.59756137992116">
+<ele>275.791731606034</ele>
+<name>GG5H036</name>
+</rtept>
+<rtept lat="57.2259519980849" lon="-4.59720409128616">
+<ele>278.303217922642</ele>
+<name>GG5H037</name>
+</rtept>
+<rtept lat="57.2263490944503" lon="-4.59647149478245">
+<ele>292.096901530752</ele>
+<name>GG5H038</name>
+</rtept>
+<rtept lat="57.2266815380446" lon="-4.59517098626063">
+<ele>304.293885308732</ele>
+<name>GG5H039</name>
+</rtept>
+<rtept lat="57.2266943272426" lon="-4.59455219674641">
+<ele>308.960716846506</ele>
+<name>GG5H040</name>
+</rtept>
+<rtept lat="57.2273641170246" lon="-4.59319084174328">
+<ele>308.977106212619</ele>
+<name>GG5H041</name>
+</rtept>
+<rtept lat="57.2276580397855" lon="-4.59301430049722">
+<ele>310.083561283991</ele>
+<name>GG5H042</name>
+</rtept>
+<rtept lat="57.2279789880812" lon="-4.59300866546955">
+<ele>314.080200326396</ele>
+<name>GG5H043</name>
+</rtept>
+<rtept lat="57.2319985268344" lon="-4.59182598504071">
+<ele>314.63644322205</ele>
+<name>GG5H044</name>
+</rtept>
+<rtept lat="57.2325869490574" lon="-4.5914447044375">
+<ele>314.680128273704</ele>
+<name>GG5H045</name>
+</rtept>
+<rtept lat="57.2334775794556" lon="-4.59122548227486">
+<ele>303.140298600138</ele>
+<name>GG5H046</name>
+</rtept>
+<rtept lat="57.2336523572927" lon="-4.59089967250754">
+<ele>299.03084615195</ele>
+<name>GG5H047</name>
+</rtept>
+<rtept lat="57.2341276028161" lon="-4.59082032668752">
+<ele>290.292065850539</ele>
+<name>GG5H048</name>
+</rtept>
+<rtept lat="57.2353789774179" lon="-4.59014743074873">
+<ele>276.91933340248</ele>
+<name>GG5H049</name>
+</rtept>
+<rtept lat="57.2357491741282" lon="-4.58997617943508">
+<ele>272.590736541852</ele>
+<name>GG5H050</name>
+</rtept>
+<rtept lat="57.2357771946356" lon="-4.58935830541733">
+<ele>268.80859721061</ele>
+<name>GG5H051</name>
+</rtept>
+<rtept lat="57.2361970420354" lon="-4.58826075669983">
+<ele>256.875727269902</ele>
+<name>GG5H052</name>
+</rtept>
+<rtept lat="57.2367333085569" lon="-4.58818565015095">
+<ele>247.399518799161</ele>
+<name>GG5H053</name>
+</rtept>
+<rtept lat="57.2369235124489" lon="-4.5885934394147">
+<ele>247.086169575724</ele>
+<name>GG5H054</name>
+</rtept>
+<rtept lat="57.2370320417375" lon="-4.5885165224111">
+<ele>242.840027448141</ele>
+<name>GG5H055</name>
+</rtept>
+<rtept lat="57.2372351798056" lon="-4.58903792629891">
+<ele>237.927532114171</ele>
+<name>GG5H056</name>
+</rtept>
+<rtept lat="57.2371274011561" lon="-4.58981928374247">
+<ele>238.135319580934</ele>
+<name>GG5H057</name>
+</rtept>
+<rtept lat="57.2371545962222" lon="-4.59072281012245">
+<ele>237.342559209791</ele>
+<name>GG5H058</name>
+</rtept>
+<rtept lat="57.2373811081858" lon="-4.5908514081169">
+<ele>234.08289073787</ele>
+<name>GG5H059</name>
+</rtept>
+<rtept lat="57.2376925225201" lon="-4.59019703827359">
+<ele>228.9855687538</ele>
+<name>GG5H060</name>
+</rtept>
+<rtept lat="57.2381629569498" lon="-4.58961016441002">
+<ele>233.804613915667</ele>
+<name>GG5H061</name>
+</rtept>
+<rtept lat="57.2383134253989" lon="-4.58824007261817">
+<ele>234.444250262654</ele>
+<name>GG5H062</name>
+</rtept>
+<rtept lat="57.2381072029478" lon="-4.58712673965112">
+<ele>226.12886823685</ele>
+<name>GG5H063</name>
+</rtept>
+<rtept lat="57.2383223340751" lon="-4.58632469866633">
+<ele>228.607963811506</ele>
+<name>GG5H064</name>
+</rtept>
+<rtept lat="57.2382980039481" lon="-4.58528046678193">
+<ele>226.812258267005</ele>
+<name>GG5H065</name>
+</rtept>
+<rtept lat="57.2387000420103" lon="-4.58356166482735">
+<ele>229.471903259177</ele>
+<name>GG5H066</name>
+</rtept>
+<rtept lat="57.2387726409712" lon="-4.58300321034615">
+<ele>229.120668901771</ele>
+<name>GG5H067</name>
+</rtept>
+<rtept lat="57.2395077407003" lon="-4.5806877508284">
+<ele>240.503203804023</ele>
+<name>GG5H068</name>
+</rtept>
+<rtept lat="57.2395322473856" lon="-4.58023862704037">
+<ele>235.068801907301</ele>
+<name>GG5H069</name>
+</rtept>
+<rtept lat="57.2400864286624" lon="-4.57929114133362">
+<ele>244.526125288683</ele>
+<name>GG5H070</name>
+</rtept>
+<rtept lat="57.2402306648876" lon="-4.57896308518488">
+<ele>248.559886745294</ele>
+<name>GG5H071</name>
+</rtept>
+<rtept lat="57.2401592395983" lon="-4.57946529531548">
+<ele>249.876733093394</ele>
+<name>GG5H072</name>
+</rtept>
+<rtept lat="57.2403857634886" lon="-4.57959383557328">
+<ele>260.018046385581</ele>
+<name>GG5H073</name>
+</rtept>
+<rtept lat="57.2404263284139" lon="-4.57985027208621">
+<ele>263.254863298656</ele>
+<name>GG5H074</name>
+</rtept>
+<rtept lat="57.2406874097459" lon="-4.5797839836207">
+<ele>271.020685370009</ele>
+<name>GG5H075</name>
+</rtept>
+<rtept lat="57.2411261295574" lon="-4.57925107359135">
+<ele>277.40937035733</ele>
+<name>GG5H076</name>
+</rtept>
+<rtept lat="57.241324453944" lon="-4.57926493093464">
+<ele>281.377809339319</ele>
+<name>GG5H077</name>
+</rtept>
+<rtept lat="57.2414113646231" lon="-4.57949643350563">
+<ele>283.021282672244</ele>
+<name>GG5H078</name>
+</rtept>
+<rtept lat="57.241658345972" lon="-4.57937279785231">
+<ele>288.997359964102</ele>
+<name>GG5H079</name>
+</rtept>
+<rtept lat="57.2418814018415" lon="-4.57967017526021">
+<ele>295.920468575623</ele>
+<name>GG5H080</name>
+</rtept>
+<rtept lat="57.2421517304142" lon="-4.57915366063501">
+<ele>302.300293268642</ele>
+<name>GG5H081</name>
+</rtept>
+<rtept lat="57.2430777844748" lon="-4.57273697298212">
+<ele>319.298038991725</ele>
+<name>GG5H082</name>
+</rtept>
+<rtept lat="57.2430078463604" lon="-4.5724221194804">
+<ele>322.596755190452</ele>
+<name>GG5H083</name>
+</rtept>
+<rtept lat="57.2431610097299" lon="-4.57091107366663">
+<ele>345.82977018268</ele>
+<name>GG5H084</name>
+</rtept>
+<rtept lat="57.2428472675783" lon="-4.56981839101045">
+<ele>356.852948971056</ele>
+<name>GG5H085</name>
+</rtept>
+<rtept lat="57.242867129799" lon="-4.56959433575994">
+<ele>361.081342677448</ele>
+<name>GG5H086</name>
+</rtept>
+<rtept lat="57.2424940604395" lon="-4.56691949584902">
+<ele>399.111400582343</ele>
+<name>GG5H087</name>
+</rtept>
+<rtept lat="57.2423665346032" lon="-4.566431578717">
+<ele>401.327998421086</ele>
+<name>GG5H088</name>
+</rtept>
+<rtept lat="57.2425228111767" lon="-4.56551252202787">
+<ele>412.549188193199</ele>
+<name>GG5H089</name>
+</rtept>
+<rtept lat="57.2427156535065" lon="-4.56504687193965">
+<ele>418.598975030242</ele>
+<name>GG5H090</name>
+</rtept>
+<rtept lat="57.2427611067833" lon="-4.56431736010203">
+<ele>419.021173296282</ele>
+<name>GG5H091</name>
+</rtept>
+<rtept lat="57.243296144958" lon="-4.56280462870051">
+<ele>410.83187479817</ele>
+<name>GG5H092</name>
+</rtept>
+<rtept lat="57.2433810376811" lon="-4.56238782164177">
+<ele>407.409904972248</ele>
+<name>GG5H093</name>
+</rtept>
+<rtept lat="57.2442602904001" lon="-4.56047620903303">
+<ele>392.417245637081</ele>
+<name>GG5H094</name>
+</rtept>
+<rtept lat="57.2447717682728" lon="-4.56011715543602">
+<ele>418.8131239947</ele>
+<name>GG5H095</name>
+</rtept>
+<rtept lat="57.2451446227162" lon="-4.55943848262589">
+<ele>421.337194097767</ele>
+<name>GG5H096</name>
+</rtept>
+<rtept lat="57.2454407940873" lon="-4.55914902288701">
+<ele>429.54014769015</ele>
+<name>GG5H097</name>
+</rtept>
+<rtept lat="57.2454488217827" lon="-4.55875503665934">
+<ele>423.220367891243</ele>
+<name>GG5H098</name>
+</rtept>
+<rtept lat="57.2457268690965" lon="-4.55860522202406">
+<ele>431.578010590599</ele>
+<name>GG5H099</name>
+</rtept>
+<rtept lat="57.245837894523" lon="-4.55765473341758">
+<ele>415.996314581565</ele>
+<name>GG5H100</name>
+</rtept>
+<rtept lat="57.246266423725" lon="-4.55686714521273">
+<ele>414.405059254629</ele>
+<name>GG5H101</name>
+</rtept>
+<rtept lat="57.2461186570662" lon="-4.55587053404729">
+<ele>385.174602379736</ele>
+<name>GG5H102</name>
+</rtept>
+<rtept lat="57.2457073180402" lon="-4.55581386710271">
+<ele>371.182328846775</ele>
+<name>GG5H103</name>
+</rtept>
+<rtept lat="57.2464998905874" lon="-4.55440326784723">
+<ele>374.582306510822</ele>
+<name>GG5H104</name>
+</rtept>
+<rtept lat="57.2466989873561" lon="-4.55362793662282">
+<ele>367.468593804238</ele>
+<name>GG5H105</name>
+</rtept>
+<rtept lat="57.2479091676248" lon="-4.55196429976398">
+<ele>360.880248311216</ele>
+<name>GG5H106</name>
+</rtept>
+<rtept lat="57.2482978067647" lon="-4.55125839701796">
+<ele>359.247049714222</ele>
+<name>GG5H107</name>
+</rtept>
+<rtept lat="57.2485149981473" lon="-4.55034334314551">
+<ele>346.086655628482</ele>
+<name>GG5H108</name>
+</rtept>
+<rtept lat="57.2491723233871" lon="-4.54957142252727">
+<ele>343.902241352758</ele>
+<name>GG5H109</name>
+</rtept>
+<rtept lat="57.2494413881389" lon="-4.54911087370225">
+<ele>339.467757977526</ele>
+<name>GG5H110</name>
+</rtept>
+<rtept lat="57.2498765545561" lon="-4.54874634482034">
+<ele>342.048577069945</ele>
+<name>GG5H111</name>
+</rtept>
+<rtept lat="57.2502264649235" lon="-4.54806588283871">
+<ele>334.220991715569</ele>
+<name>GG5H112</name>
+</rtept>
+<rtept lat="57.250237312773" lon="-4.5475311132832">
+<ele>324.324716070465</ele>
+<name>GG5H113</name>
+</rtept>
+<rtept lat="57.2507759967349" lon="-4.54658180640287">
+<ele>322.929002546395</ele>
+<name>GG5H114</name>
+</rtept>
+<rtept lat="57.2509965774034" lon="-4.54549778462876">
+<ele>309.884903760735</ele>
+<name>GG5H115</name>
+</rtept>
+<rtept lat="57.251406354405" lon="-4.54487777298793">
+<ele>311.362676678296</ele>
+<name>GG5H116</name>
+</rtept>
+<rtept lat="57.2515964762517" lon="-4.54396399455195">
+<ele>256.048223875613</ele>
+<name>GG5H117</name>
+</rtept>
+<rtept lat="57.2522082955776" lon="-4.54259684284127">
+<ele>251.222844544326</ele>
+<name>GG5H118</name>
+</rtept>
+<rtept lat="57.2526523882125" lon="-4.542411896717">
+<ele>261.24339343113</ele>
+<name>GG5H119</name>
+</rtept>
+<rtept lat="57.2534246508847" lon="-4.54155315832263">
+<ele>264.032832417207</ele>
+<name>GG5H120</name>
+</rtept>
+<rtept lat="57.2538949946342" lon="-4.54140316440234">
+<ele>270.952747281278</ele>
+<name>GG5H121</name>
+</rtept>
+<rtept lat="57.2555200450778" lon="-4.5377012753908">
+<ele>245.863503916288</ele>
+<name>GG5H122</name>
+</rtept>
+<rtept lat="57.2560709844464" lon="-4.53623020111638">
+<ele>250.022370967394</ele>
+<name>GG5H123</name>
+</rtept>
+<rtept lat="57.2564821801239" lon="-4.53589365890877">
+<ele>255.059257830355</ele>
+<name>GG5H124</name>
+</rtept>
+<rtept lat="57.2568472654486" lon="-4.53472481891331">
+<ele>237.118172445343</ele>
+<name>GG5H125</name>
+</rtept>
+<rtept lat="57.2572900572586" lon="-4.53415826710852">
+<ele>236.221033104424</ele>
+<name>GG5H126</name>
+</rtept>
+<rtept lat="57.2579026274293" lon="-4.53252547395754">
+<ele>209.935870572015</ele>
+<name>GG5H127</name>
+</rtept>
+<rtept lat="57.258650607616" lon="-4.53108433303458">
+<ele>197.033330409683</ele>
+<name>GG5H128</name>
+</rtept>
+<rtept lat="57.2610786655262" lon="-4.52854769725692">
+<ele>251.67604457679</ele>
+<name>GG5H129</name>
+</rtept>
+<rtept lat="57.2619931147804" lon="-4.52731677671821">
+<ele>254.080947871535</ele>
+<name>GG5H130</name>
+</rtept>
+<rtept lat="57.2622307980062" lon="-4.5266696701697">
+<ele>247.065065085431</ele>
+<name>GG5H131</name>
+</rtept>
+<rtept lat="57.2625861248728" lon="-4.52642865127009">
+<ele>249.933356096503</ele>
+<name>GG5H132</name>
+</rtept>
+<rtept lat="57.2631621043794" lon="-4.52728077990744">
+<ele>281.70378851869</ele>
+<name>GG5H133</name>
+</rtept>
+<rtept lat="57.2634456162395" lon="-4.52748264521704">
+<ele>285.341770541822</ele>
+<name>GG5H134</name>
+</rtept>
+<rtept lat="57.2636038435102" lon="-4.52721153576081">
+<ele>279.730604591027</ele>
+<name>GG5H135</name>
+</rtept>
+<rtept lat="57.2641071586036" lon="-4.52497378973496">
+<ele>225.7611257151</ele>
+<name>GG5H136</name>
+</rtept>
+<rtept lat="57.2651746486857" lon="-4.52305653877139">
+<ele>206.42517050148</ele>
+<name>GG5H137</name>
+</rtept>
+<rtept lat="57.2656984909678" lon="-4.52247868105124">
+<ele>210.28762556572</ele>
+<name>GG5H138</name>
+</rtept>
+<rtept lat="57.2668854245178" lon="-4.51930883999848">
+<ele>178.378552941034</ele>
+<name>GG5H139</name>
+</rtept>
+<rtept lat="57.2678236979409" lon="-4.5173327035973">
+<ele>169.216102696812</ele>
+<name>GG5H140</name>
+</rtept>
+<rtept lat="57.2687335154041" lon="-4.5152052384808">
+<ele>167.56680967583</ele>
+<name>GG5H141</name>
+</rtept>
+<rtept lat="57.2687357914894" lon="-4.51419354600793">
+<ele>150.685145549105</ele>
+<name>GG5H142</name>
+</rtept>
+<rtept lat="57.2694187285547" lon="-4.51239884484716">
+<ele>145.43926122119</ele>
+<name>GG5H143</name>
+</rtept>
+<rtept lat="57.2711387681268" lon="-4.50974572393914">
+<ele>164.657410113922</ele>
+<name>GG5H144</name>
+</rtept>
+<rtept lat="57.2713603556494" lon="-4.50854982254941">
+<ele>152.589283487505</ele>
+<name>GG5H145</name>
+</rtept>
+<rtept lat="57.2725191882262" lon="-4.5067706590177">
+<ele>158.790499535365</ele>
+<name>GG5H146</name>
+</rtept>
+<rtept lat="57.2729868492956" lon="-4.50675268608091">
+<ele>172.822214666213</ele>
+<name>GG5H147</name>
+</rtept>
+<rtept lat="57.2736869418105" lon="-4.50612010140104">
+<ele>178.14497630509</ele>
+<name>GG5H148</name>
+</rtept>
+<rtept lat="57.2740670625672" lon="-4.50508417846528">
+<ele>165.1921097872</ele>
+<name>GG5H149</name>
+</rtept>
+<rtept lat="57.2745243710885" lon="-4.50468390542925">
+<ele>171.596982403502</ele>
+<name>GG5H150</name>
+</rtept>
+<rtept lat="57.2746276540402" lon="-4.50401072124556">
+<ele>159.142192052192</ele>
+<name>GG5H151</name>
+</rtept>
+<rtept lat="57.2751264686627" lon="-4.50333120951224">
+<ele>156.406051967465</ele>
+<name>GG5H152</name>
+</rtept>
+<rtept lat="57.275945984512" lon="-4.50234163343591">
+<ele>152.549210935194</ele>
+<name>GG5H153</name>
+</rtept>
+<rtept lat="57.2771018979777" lon="-4.50163205936382">
+<ele>186.555985222774</ele>
+<name>GG5H154</name>
+</rtept>
+<rtept lat="57.2779036260504" lon="-4.50176112891432">
+<ele>184.531033400556</ele>
+<name>GG5H154 - GG5H155</name>
+</rtept>
+<rtept lat="57.2786976547836" lon="-4.50047105910144">
+<ele>171.035801091584</ele>
+<name>GG5H155</name>
+</rtept>
+<rtept lat="57.278839066696" lon="-4.50036450651884">
+<ele>168.602288315275</ele>
+<name>GG5H156</name>
+</rtept>
+<rtept lat="57.2789921629338" lon="-4.50057399763891">
+<ele>168.073054633014</ele>
+<name>GG5H157</name>
+</rtept>
+<rtept lat="57.2791853140479" lon="-4.50080280025255">
+<ele>166.210732660751</ele>
+<name>GG5H158</name>
+</rtept>
+<rtept lat="57.2794292371036" lon="-4.50051238932052">
+<ele>161.537829181036</ele>
+<name>GG5H159</name>
+</rtept>
+<rtept lat="57.2798732712708" lon="-4.50032680727557">
+<ele>159.546872027325</ele>
+<name>GG5H160</name>
+</rtept>
+<rtept lat="57.279967539009" lon="-4.50055720241428">
+<ele>159.154091271809</ele>
+<name>GG5H161</name>
+</rtept>
+<rtept lat="57.2798365317413" lon="-4.50124515032563">
+<ele>161.283477292296</ele>
+<name>GG5H162</name>
+</rtept>
+<rtept lat="57.2801057649665" lon="-4.50126341977524">
+<ele>161.02065286524</ele>
+<name>GG5H163</name>
+</rtept>
+<rtept lat="57.2799436336742" lon="-4.50173360460498">
+<ele>165.352459591622</ele>
+<name>GG5H164</name>
+</rtept>
+<rtept lat="57.2793707217921" lon="-4.50252434108793">
+<ele>177.556577033621</ele>
+<name>GG5H165</name>
+</rtept>
+<rtept lat="57.2792508175609" lon="-4.50313011731956">
+<ele>185.092099280039</ele>
+<name>GG5H166</name>
+</rtept>
+<rtept lat="57.279486974954" lon="-4.50435740288627">
+<ele>191.438309194985</ele>
+<name>GG5H167</name>
+</rtept>
+<rtept lat="57.2797429964366" lon="-4.5050385000338">
+<ele>189.162005127975</ele>
+<name>GG5H168</name>
+</rtept>
+<rtept lat="57.28093958691" lon="-4.50384215364743">
+<ele>180.238963358992</ele>
+<name>GG5H169</name>
+</rtept>
+<rtept lat="57.2818941772104" lon="-4.50374106581192">
+<ele>183.860416811734</ele>
+<name>GG5H170</name>
+</rtept>
+<rtept lat="57.2835595386575" lon="-4.50224455464801">
+<ele>185.567165863912</ele>
+<name>GG5H171</name>
+</rtept>
+<rtept lat="57.2845271930819" lon="-4.50171284469466">
+<ele>199.531524426657</ele>
+<name>GG5H172</name>
+</rtept>
+<rtept lat="57.2850456632006" lon="-4.50139954613732">
+<ele>206.299602451395</ele>
+<name>GG5H173</name>
+</rtept>
+<rtept lat="57.2852969473055" lon="-4.50141660207049">
+<ele>211.134112974992</ele>
+<name>GG5H174</name>
+</rtept>
+<rtept lat="57.2874138430202" lon="-4.50003346527395">
+<ele>225.47572928997</ele>
+<name>GG5H175</name>
+</rtept>
+<rtept lat="57.288985635211" lon="-4.4978165682933">
+<ele>238.754626776175</ele>
+<name>GG5H176</name>
+</rtept>
+<rtept lat="57.2897538974331" lon="-4.49669025824244">
+<ele>244.057679580202</ele>
+<name>GG5H177</name>
+</rtept>
+<rtept lat="57.2909076020525" lon="-4.49583897179374">
+<ele>247.899386831157</ele>
+<name>GG5H178</name>
+</rtept>
+<rtept lat="57.292416869278" lon="-4.49541006927663">
+<ele>251.687810149488</ele>
+<name>GG5H179</name>
+</rtept>
+<rtept lat="57.2938737234768" lon="-4.49467880390099">
+<ele>256.742529938452</ele>
+<name>GG5H180</name>
+</rtept>
+<rtept lat="57.2957872106266" lon="-4.49289941333382">
+<ele>258.044252882295</ele>
+<name>GG5H181</name>
+</rtept>
+<rtept lat="57.2981026759725" lon="-4.48965295788898">
+<ele>258.924588346919</ele>
+<name>GG5H182</name>
+</rtept>
+<rtept lat="57.2991280612705" lon="-4.48824475648498">
+<ele>259.837276006586</ele>
+<name>GG5H183</name>
+</rtept>
+<rtept lat="57.2992653041751" lon="-4.48812121755121">
+<ele>260.277687734866</ele>
+<name>GG5H184</name>
+</rtept>
+<rtept lat="57.3014082918451" lon="-4.48541040281941">
+<ele>259.504777534554</ele>
+<name>GG5H185</name>
+</rtept>
+<rtept lat="57.302873253759" lon="-4.48358333192244">
+<ele>261.874254191693</ele>
+<name>GG5H186</name>
+</rtept>
+<rtept lat="57.3037357584082" lon="-4.48291095414465">
+<ele>264.726314382876</ele>
+<name>GG5H187</name>
+</rtept>
+<rtept lat="57.3055493833172" lon="-4.48117357998173">
+<ele>265.527899150075</ele>
+<name>GG5H188</name>
+</rtept>
+<rtept lat="57.3082646362192" lon="-4.47860006577154">
+<ele>269.758099785199</ele>
+<name>GG5H189</name>
+</rtept>
+<rtept lat="57.3104377528096" lon="-4.47708573339813">
+<ele>262.135032852911</ele>
+<name>GG5H190</name>
+</rtept>
+<rtept lat="57.3119476132159" lon="-4.47662268532626">
+<ele>257.970805454754</ele>
+<name>GG5H191</name>
+</rtept>
+<rtept lat="57.3139549068611" lon="-4.47622627581772">
+<ele>253.752520904511</ele>
+<name>GG5H192</name>
+</rtept>
+<rtept lat="57.3162241420253" lon="-4.47735885180429">
+<ele>243.596676217181</ele>
+<name>GG5H193</name>
+</rtept>
+<rtept lat="57.3177556325696" lon="-4.47648196521426">
+<ele>233.084197235286</ele>
+<name>GG5H194</name>
+</rtept>
+<rtept lat="57.3185876697911" lon="-4.4757572810596">
+<ele>220.351128450635</ele>
+<name>GG5H195</name>
+</rtept>
+<rtept lat="57.3190499285932" lon="-4.47646939116674">
+<ele>210.39132951117</ele>
+<name>GG5H196</name>
+</rtept>
+<rtept lat="57.3192008624717" lon="-4.47656259791658">
+<ele>207.248009487098</ele>
+<name>GG5H197</name>
+</rtept>
+<rtept lat="57.32016923666" lon="-4.47553145721266">
+<ele>192.795875160669</ele>
+<name>GG5H198</name>
+</rtept>
+<rtept lat="57.3207470306331" lon="-4.47585270734897">
+<ele>177.586998592131</ele>
+<name>GG5H199</name>
+</rtept>
+<rtept lat="57.3208728292875" lon="-4.47630966635292">
+<ele>173.991748570202</ele>
+<name>GG5H200</name>
+</rtept>
+<rtept lat="57.3207696278596" lon="-4.47881097267829">
+<ele>172.818541817353</ele>
+<name>GG5H201</name>
+</rtept>
+<rtept lat="57.3201036007174" lon="-4.48114143609249">
+<ele>169.208489263411</ele>
+<name>GG5H202</name>
+</rtept>
+<rtept lat="57.3197467930071" lon="-4.48282826264858">
+<ele>167.655023318792</ele>
+<name>GG5H203</name>
+</rtept>
+<rtept lat="57.3198416376259" lon="-4.4843960518086">
+<ele>152.921848499681</ele>
+<name>GG5H204</name>
+</rtept>
+<rtept lat="57.3195419375857" lon="-4.48728264451852">
+<ele>132.796567188691</ele>
+<name>GG5H205</name>
+</rtept>
+<rtept lat="57.3195115182711" lon="-4.48791178447585">
+<ele>127.38230642903</ele>
+<name>GG5H206</name>
+</rtept>
+<rtept lat="57.3197208850092" lon="-4.48777644270464">
+<ele>122.175027962005</ele>
+<name>GG5H207</name>
+</rtept>
+<rtept lat="57.3210492989898" lon="-4.48603901872773">
+<ele>98.206063095678</ele>
+<name>GG5H208</name>
+</rtept>
+<rtept lat="57.3220794841688" lon="-4.48529464430174">
+<ele>83.925977976446</ele>
+<name>GG5H209</name>
+</rtept>
+<rtept lat="57.3223335143068" lon="-4.48562742177199">
+<ele>79.112676451334</ele>
+<name>GG5H210</name>
+</rtept>
+<rtept lat="57.3227672213384" lon="-4.4848261224633">
+<ele>76.0583468208318</ele>
+<name>GG5H211</name>
+</rtept>
+<rtept lat="57.3232698706377" lon="-4.48394639786818">
+<ele>72.0115688953356</ele>
+<name>GG5H212</name>
+</rtept>
+<rtept lat="57.3241404552421" lon="-4.48081556815493">
+<ele>71.3600361359651</ele>
+<name>GG5H213</name>
+</rtept>
+<rtept lat="57.3244052981119" lon="-4.48060084691759">
+<ele>66.5881565770322</ele>
+<name>GG5H214</name>
+</rtept>
+<rtept lat="57.3252230829326" lon="-4.4778650010724">
+<ele>66.3687585944387</ele>
+<name>GG5H215</name>
+</rtept>
+<rtept lat="57.3256573951693" lon="-4.47703036466889">
+<ele>60.4573454026184</ele>
+<name>GG5H216</name>
+</rtept>
+<rtept lat="57.3260457625438" lon="-4.47647504320619">
+<ele>53.5026715910814</ele>
+<name>GG5H217</name>
+</rtept>
+<rtept lat="57.3266474169472" lon="-4.47375768469109">
+<ele>53.2480377168512</ele>
+<name>GG5H218</name>
+</rtept>
+<rtept lat="57.3279186908566" lon="-4.47171654844911">
+<ele>38.8817154265112</ele>
+<name>GG5H219</name>
+</rtept>
+<rtept lat="57.3280001142185" lon="-4.47168879006702">
+<ele>37.4882642065958</ele>
+<name>GG5H220</name>
+</rtept>
+<rtept lat="57.328622109334" lon="-4.47661522618762">
+<ele>35.5250823450724</ele>
+<name>GG5H221</name>
+</rtept>
+<rtept lat="57.3294154604226" lon="-4.47899470822236">
+<ele>37.3151541619872</ele>
+<name>GG5H222</name>
+</rtept>
+<rtept lat="57.331628470047" lon="-4.48115435108911">
+<ele>37.012215034765</ele>
+<name>GG5H223</name>
+</rtept>
+<rtept lat="57.3323293673294" lon="-4.48138440232486">
+<ele>36.9451179801068</ele>
+<name>GG5H224</name>
+</rtept>
+<rtept lat="57.3344245972091" lon="-4.47994711666388">
+<ele>28.7081627212136</ele>
+<name>GG5H225</name>
+</rtept>
+<rtept lat="57.335329274181" lon="-4.4800513171393">
+<ele>29.3910419090902</ele>
+<name>GG5H226</name>
+</rtept>
+</rte>
+</gpx>

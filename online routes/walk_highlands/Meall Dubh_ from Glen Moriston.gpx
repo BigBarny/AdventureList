@@ -1,0 +1,822 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Meall Dubh, from Glen Moriston</name>
+<rtept lat="57.162197" lon="-4.888225">
+<ele>134</ele>
+<name>MD001</name>
+</rtept>
+<rtept lat="57.161924" lon="-4.888689">
+<ele>133</ele>
+<name>MD002</name>
+</rtept>
+<rtept lat="57.161549" lon="-4.888767">
+<ele>136</ele>
+<name>MD003</name>
+</rtept>
+<rtept lat="57.161293" lon="-4.888571">
+<ele>137</ele>
+<name>MD004</name>
+</rtept>
+<rtept lat="57.160628" lon="-4.8892">
+<ele>145</ele>
+<name>MD005</name>
+</rtept>
+<rtept lat="57.160408" lon="-4.88924">
+<ele>146</ele>
+<name>MD006</name>
+</rtept>
+<rtept lat="57.159535" lon="-4.888291">
+<ele>155</ele>
+<name>MD007</name>
+</rtept>
+<rtept lat="57.158892" lon="-4.888279">
+<ele>159</ele>
+<name>MD008</name>
+</rtept>
+<rtept lat="57.158264" lon="-4.887604">
+<ele>167</ele>
+<name>MD009</name>
+</rtept>
+<rtept lat="57.158087" lon="-4.887022">
+<ele>173</ele>
+<name>MD010</name>
+</rtept>
+<rtept lat="57.157956" lon="-4.886053">
+<ele>183</ele>
+<name>MD011</name>
+</rtept>
+<rtept lat="57.158168" lon="-4.881255">
+<ele>201</ele>
+<name>MD012</name>
+</rtept>
+<rtept lat="57.158019" lon="-4.880803">
+<ele>197</ele>
+<name>MD013</name>
+</rtept>
+<rtept lat="57.157845" lon="-4.880618">
+<ele>203</ele>
+<name>MD014</name>
+</rtept>
+<rtept lat="57.157287" lon="-4.88077">
+<ele>207</ele>
+<name>MD015</name>
+</rtept>
+<rtept lat="57.156902" lon="-4.881026">
+<ele>222</ele>
+<name>MD016</name>
+</rtept>
+<rtept lat="57.156531" lon="-4.880928">
+<ele>226</ele>
+<name>MD017</name>
+</rtept>
+<rtept lat="57.156163" lon="-4.881101">
+<ele>228</ele>
+<name>MD018</name>
+</rtept>
+<rtept lat="57.155999" lon="-4.88098">
+<ele>229</ele>
+<name>MD019</name>
+</rtept>
+<rtept lat="57.155765" lon="-4.880468">
+<ele>238</ele>
+<name>MD020</name>
+</rtept>
+<rtept lat="57.155562" lon="-4.880275">
+<ele>240</ele>
+<name>MD021</name>
+</rtept>
+<rtept lat="57.154789" lon="-4.880533">
+<ele>240</ele>
+<name>MD022</name>
+</rtept>
+<rtept lat="57.154603" lon="-4.880646">
+<ele>241</ele>
+<name>MD023</name>
+</rtept>
+<rtept lat="57.154115" lon="-4.881298">
+<ele>249</ele>
+<name>MD024</name>
+</rtept>
+<rtept lat="57.153465" lon="-4.881819">
+<ele>257</ele>
+<name>MD025</name>
+</rtept>
+<rtept lat="57.152904" lon="-4.882908">
+<ele>264</ele>
+<name>MD026</name>
+</rtept>
+<rtept lat="57.151968" lon="-4.883265">
+<ele>278</ele>
+<name>MD027</name>
+</rtept>
+<rtept lat="57.151452" lon="-4.883746">
+<ele>283</ele>
+<name>MD028</name>
+</rtept>
+<rtept lat="57.150696" lon="-4.885131">
+<ele>297</ele>
+<name>MD029</name>
+</rtept>
+<rtept lat="57.150264" lon="-4.884987">
+<ele>304</ele>
+<name>MD030</name>
+</rtept>
+<rtept lat="57.150158" lon="-4.884768">
+<ele>308</ele>
+<name>MD031</name>
+</rtept>
+<rtept lat="57.150091" lon="-4.88413">
+<ele>312</ele>
+<name>MD032</name>
+</rtept>
+<rtept lat="57.150274" lon="-4.883599">
+<ele>314</ele>
+<name>MD033</name>
+</rtept>
+<rtept lat="57.150385" lon="-4.882951">
+<ele>317</ele>
+<name>MD034</name>
+</rtept>
+<rtept lat="57.150485" lon="-4.880134">
+<ele>329</ele>
+<name>MD035</name>
+</rtept>
+<rtept lat="57.150168" lon="-4.878913">
+<ele>337</ele>
+<name>MD036</name>
+</rtept>
+<rtept lat="57.150187" lon="-4.878207">
+<ele>342</ele>
+<name>MD037</name>
+</rtept>
+<rtept lat="57.150078" lon="-4.878256">
+<ele>344</ele>
+<name>MD038</name>
+</rtept>
+<rtept lat="57.149698" lon="-4.878983">
+<ele>348</ele>
+<name>MD039</name>
+</rtept>
+<rtept lat="57.149242" lon="-4.879432">
+<ele>358</ele>
+<name>MD040</name>
+</rtept>
+<rtept lat="57.148944" lon="-4.879396">
+<ele>365</ele>
+<name>MD041</name>
+</rtept>
+<rtept lat="57.148225" lon="-4.8798">
+<ele>377</ele>
+<name>MD042</name>
+</rtept>
+<rtept lat="57.147649" lon="-4.879875">
+<ele>386</ele>
+<name>MD043</name>
+</rtept>
+<rtept lat="57.147167" lon="-4.880382">
+<ele>399</ele>
+<name>MD044</name>
+</rtept>
+<rtept lat="57.146746" lon="-4.880103">
+<ele>408</ele>
+<name>MD045</name>
+</rtept>
+<rtept lat="57.14631" lon="-4.880095">
+<ele>414</ele>
+<name>MD046</name>
+</rtept>
+<rtept lat="57.145319" lon="-4.880848">
+<ele>425</ele>
+<name>MD047</name>
+</rtept>
+<rtept lat="57.144687" lon="-4.881699">
+<ele>423</ele>
+<name>MD048</name>
+</rtept>
+<rtept lat="57.144528" lon="-4.882112">
+<ele>419</ele>
+<name>MD049</name>
+</rtept>
+<rtept lat="57.144543" lon="-4.883097">
+<ele>422</ele>
+<name>MD050</name>
+</rtept>
+<rtept lat="57.144457" lon="-4.883107">
+<ele>424</ele>
+<name>MD051</name>
+</rtept>
+<rtept lat="57.143821" lon="-4.882345">
+<ele>441</ele>
+<name>MD052</name>
+</rtept>
+<rtept lat="57.143658" lon="-4.882567">
+<ele>442</ele>
+<name>MD053</name>
+</rtept>
+<rtept lat="57.143144" lon="-4.88281">
+<ele>454</ele>
+<name>MD054</name>
+</rtept>
+<rtept lat="57.142603" lon="-4.882757">
+<ele>460</ele>
+<name>MD055</name>
+</rtept>
+<rtept lat="57.142111" lon="-4.882983">
+<ele>460</ele>
+<name>MD056</name>
+</rtept>
+<rtept lat="57.141846" lon="-4.883264">
+<ele>458</ele>
+<name>MD057</name>
+</rtept>
+<rtept lat="57.141302" lon="-4.883458">
+<ele>463</ele>
+<name>MD058</name>
+</rtept>
+<rtept lat="57.141375" lon="-4.883642">
+<ele>473</ele>
+<name>MD059</name>
+</rtept>
+<rtept lat="57.141126" lon="-4.883837">
+<ele>498</ele>
+<name>MD060</name>
+</rtept>
+<rtept lat="57.141064" lon="-4.883682">
+<ele>475</ele>
+<name>MD061</name>
+</rtept>
+<rtept lat="57.140723" lon="-4.8838">
+<ele>465</ele>
+<name>MD062</name>
+</rtept>
+<rtept lat="57.139766" lon="-4.884862">
+<ele>484</ele>
+<name>MD063</name>
+</rtept>
+<rtept lat="57.138966" lon="-4.885454">
+<ele>497</ele>
+<name>MD064</name>
+</rtept>
+<rtept lat="57.138417" lon="-4.88607">
+<ele>514</ele>
+<name>MD065</name>
+</rtept>
+<rtept lat="57.138064" lon="-4.88674">
+<ele>529</ele>
+<name>MD066</name>
+</rtept>
+<rtept lat="57.137676" lon="-4.887">
+<ele>542</ele>
+<name>MD067</name>
+</rtept>
+<rtept lat="57.137496" lon="-4.887528">
+<ele>553</ele>
+<name>MD068</name>
+</rtept>
+<rtept lat="57.136932" lon="-4.887874">
+<ele>570</ele>
+<name>MD069</name>
+</rtept>
+<rtept lat="57.136572" lon="-4.888408">
+<ele>589</ele>
+<name>MD070</name>
+</rtept>
+<rtept lat="57.136477" lon="-4.888811">
+<ele>594</ele>
+<name>MD071</name>
+</rtept>
+<rtept lat="57.136266" lon="-4.888927">
+<ele>591</ele>
+<name>MD072</name>
+</rtept>
+<rtept lat="57.136116" lon="-4.889235">
+<ele>594</ele>
+<name>MD073</name>
+</rtept>
+<rtept lat="57.135826" lon="-4.889231">
+<ele>601</ele>
+<name>MD074</name>
+</rtept>
+<rtept lat="57.135648" lon="-4.88953">
+<ele>614</ele>
+<name>MD075</name>
+</rtept>
+<rtept lat="57.135137" lon="-4.889791">
+<ele>623</ele>
+<name>MD076</name>
+</rtept>
+<rtept lat="57.134788" lon="-4.890528">
+<ele>632</ele>
+<name>MD077</name>
+</rtept>
+<rtept lat="57.13466" lon="-4.890364">
+<ele>632</ele>
+<name>MD078</name>
+</rtept>
+<rtept lat="57.134475" lon="-4.891019">
+<ele>644</ele>
+<name>MD079</name>
+</rtept>
+<rtept lat="57.13394" lon="-4.891323">
+<ele>653</ele>
+<name>MD080</name>
+</rtept>
+<rtept lat="57.1337" lon="-4.891157">
+<ele>676</ele>
+<name>MD081</name>
+</rtept>
+<rtept lat="57.133505" lon="-4.891385">
+<ele>678</ele>
+<name>MD082</name>
+</rtept>
+<rtept lat="57.133262" lon="-4.891399">
+<ele>680</ele>
+<name>MD083</name>
+</rtept>
+<rtept lat="57.133106" lon="-4.891598">
+<ele>686</ele>
+<name>MD084</name>
+</rtept>
+<rtept lat="57.132815" lon="-4.891612">
+<ele>693</ele>
+<name>MD085</name>
+</rtept>
+<rtept lat="57.132424" lon="-4.891891">
+<ele>700</ele>
+<name>MD086</name>
+</rtept>
+<rtept lat="57.132147" lon="-4.891685">
+<ele>705</ele>
+<name>MD087</name>
+</rtept>
+<rtept lat="57.131437" lon="-4.892686">
+<ele>715</ele>
+<name>MD088</name>
+</rtept>
+<rtept lat="57.131354" lon="-4.892748">
+<ele>714</ele>
+<name>MD089</name>
+</rtept>
+<rtept lat="57.131304" lon="-4.89263">
+<ele>722</ele>
+<name>MD090</name>
+</rtept>
+<rtept lat="57.130987" lon="-4.892858">
+<ele>725</ele>
+<name>MD091</name>
+</rtept>
+<rtept lat="57.13072" lon="-4.892869">
+<ele>735</ele>
+<name>MD092</name>
+</rtept>
+<rtept lat="57.129483" lon="-4.893903">
+<ele>743</ele>
+<name>MD093</name>
+</rtept>
+<rtept lat="57.128942" lon="-4.89498">
+<ele>748</ele>
+<name>MD094</name>
+</rtept>
+<rtept lat="57.128626" lon="-4.895822">
+<ele>749</ele>
+<name>MD095</name>
+</rtept>
+<rtept lat="57.128097" lon="-4.897804">
+<ele>775</ele>
+<name>MD096</name>
+</rtept>
+<rtept lat="57.127984" lon="-4.898971">
+<ele>785</ele>
+<name>MD097</name>
+</rtept>
+<rtept lat="57.128092" lon="-4.899455">
+<ele>786</ele>
+<name>MD098</name>
+</rtept>
+<rtept lat="57.12803" lon="-4.899688">
+<ele>790</ele>
+<name>MD099</name>
+</rtept>
+<rtept lat="57.128056" lon="-4.900284">
+<ele>792</ele>
+<name>MD100</name>
+</rtept>
+<rtept lat="57.128172" lon="-4.900747">
+<ele>792</ele>
+<name>MD101</name>
+</rtept>
+<rtept lat="57.128302" lon="-4.900458">
+<ele>789</ele>
+<name>MD102</name>
+</rtept>
+<rtept lat="57.128172" lon="-4.900747">
+<ele>792</ele>
+<name>MD103</name>
+</rtept>
+<rtept lat="57.128056" lon="-4.900284">
+<ele>792</ele>
+<name>MD104</name>
+</rtept>
+<rtept lat="57.12803" lon="-4.899688">
+<ele>790</ele>
+<name>MD105</name>
+</rtept>
+<rtept lat="57.128092" lon="-4.899455">
+<ele>786</ele>
+<name>MD106</name>
+</rtept>
+<rtept lat="57.127984" lon="-4.898971">
+<ele>785</ele>
+<name>MD107</name>
+</rtept>
+<rtept lat="57.128097" lon="-4.897804">
+<ele>775</ele>
+<name>MD108</name>
+</rtept>
+<rtept lat="57.128626" lon="-4.895822">
+<ele>749</ele>
+<name>MD109</name>
+</rtept>
+<rtept lat="57.128942" lon="-4.89498">
+<ele>748</ele>
+<name>MD110</name>
+</rtept>
+<rtept lat="57.129483" lon="-4.893903">
+<ele>743</ele>
+<name>MD111</name>
+</rtept>
+<rtept lat="57.13072" lon="-4.892869">
+<ele>735</ele>
+<name>MD112</name>
+</rtept>
+<rtept lat="57.130987" lon="-4.892858">
+<ele>725</ele>
+<name>MD113</name>
+</rtept>
+<rtept lat="57.131304" lon="-4.89263">
+<ele>722</ele>
+<name>MD114</name>
+</rtept>
+<rtept lat="57.131354" lon="-4.892748">
+<ele>714</ele>
+<name>MD115</name>
+</rtept>
+<rtept lat="57.131437" lon="-4.892686">
+<ele>715</ele>
+<name>MD116</name>
+</rtept>
+<rtept lat="57.132147" lon="-4.891685">
+<ele>705</ele>
+<name>MD117</name>
+</rtept>
+<rtept lat="57.132424" lon="-4.891891">
+<ele>700</ele>
+<name>MD118</name>
+</rtept>
+<rtept lat="57.132815" lon="-4.891612">
+<ele>693</ele>
+<name>MD119</name>
+</rtept>
+<rtept lat="57.133106" lon="-4.891598">
+<ele>686</ele>
+<name>MD120</name>
+</rtept>
+<rtept lat="57.133262" lon="-4.891399">
+<ele>680</ele>
+<name>MD121</name>
+</rtept>
+<rtept lat="57.133505" lon="-4.891385">
+<ele>678</ele>
+<name>MD122</name>
+</rtept>
+<rtept lat="57.1337" lon="-4.891157">
+<ele>676</ele>
+<name>MD123</name>
+</rtept>
+<rtept lat="57.13394" lon="-4.891323">
+<ele>653</ele>
+<name>MD124</name>
+</rtept>
+<rtept lat="57.134475" lon="-4.891019">
+<ele>644</ele>
+<name>MD125</name>
+</rtept>
+<rtept lat="57.13466" lon="-4.890364">
+<ele>632</ele>
+<name>MD126</name>
+</rtept>
+<rtept lat="57.134788" lon="-4.890528">
+<ele>632</ele>
+<name>MD127</name>
+</rtept>
+<rtept lat="57.135137" lon="-4.889791">
+<ele>623</ele>
+<name>MD128</name>
+</rtept>
+<rtept lat="57.135648" lon="-4.88953">
+<ele>614</ele>
+<name>MD129</name>
+</rtept>
+<rtept lat="57.135826" lon="-4.889231">
+<ele>601</ele>
+<name>MD130</name>
+</rtept>
+<rtept lat="57.136116" lon="-4.889235">
+<ele>594</ele>
+<name>MD131</name>
+</rtept>
+<rtept lat="57.136266" lon="-4.888927">
+<ele>591</ele>
+<name>MD132</name>
+</rtept>
+<rtept lat="57.136477" lon="-4.888811">
+<ele>594</ele>
+<name>MD133</name>
+</rtept>
+<rtept lat="57.136572" lon="-4.888408">
+<ele>589</ele>
+<name>MD134</name>
+</rtept>
+<rtept lat="57.136932" lon="-4.887874">
+<ele>570</ele>
+<name>MD135</name>
+</rtept>
+<rtept lat="57.137496" lon="-4.887528">
+<ele>553</ele>
+<name>MD136</name>
+</rtept>
+<rtept lat="57.137676" lon="-4.887">
+<ele>542</ele>
+<name>MD137</name>
+</rtept>
+<rtept lat="57.138064" lon="-4.88674">
+<ele>529</ele>
+<name>MD138</name>
+</rtept>
+<rtept lat="57.138417" lon="-4.88607">
+<ele>514</ele>
+<name>MD139</name>
+</rtept>
+<rtept lat="57.138966" lon="-4.885454">
+<ele>497</ele>
+<name>MD140</name>
+</rtept>
+<rtept lat="57.139766" lon="-4.884862">
+<ele>484</ele>
+<name>MD141</name>
+</rtept>
+<rtept lat="57.140723" lon="-4.8838">
+<ele>465</ele>
+<name>MD142</name>
+</rtept>
+<rtept lat="57.141064" lon="-4.883682">
+<ele>475</ele>
+<name>MD143</name>
+</rtept>
+<rtept lat="57.141126" lon="-4.883837">
+<ele>498</ele>
+<name>MD144</name>
+</rtept>
+<rtept lat="57.141375" lon="-4.883642">
+<ele>473</ele>
+<name>MD145</name>
+</rtept>
+<rtept lat="57.141302" lon="-4.883458">
+<ele>463</ele>
+<name>MD146</name>
+</rtept>
+<rtept lat="57.141846" lon="-4.883264">
+<ele>458</ele>
+<name>MD147</name>
+</rtept>
+<rtept lat="57.142111" lon="-4.882983">
+<ele>460</ele>
+<name>MD148</name>
+</rtept>
+<rtept lat="57.142603" lon="-4.882757">
+<ele>460</ele>
+<name>MD149</name>
+</rtept>
+<rtept lat="57.143144" lon="-4.88281">
+<ele>454</ele>
+<name>MD150</name>
+</rtept>
+<rtept lat="57.143658" lon="-4.882567">
+<ele>442</ele>
+<name>MD151</name>
+</rtept>
+<rtept lat="57.143821" lon="-4.882345">
+<ele>441</ele>
+<name>MD152</name>
+</rtept>
+<rtept lat="57.144457" lon="-4.883107">
+<ele>424</ele>
+<name>MD153</name>
+</rtept>
+<rtept lat="57.144543" lon="-4.883097">
+<ele>422</ele>
+<name>MD154</name>
+</rtept>
+<rtept lat="57.144528" lon="-4.882112">
+<ele>419</ele>
+<name>MD155</name>
+</rtept>
+<rtept lat="57.144687" lon="-4.881699">
+<ele>423</ele>
+<name>MD156</name>
+</rtept>
+<rtept lat="57.145319" lon="-4.880848">
+<ele>425</ele>
+<name>MD157</name>
+</rtept>
+<rtept lat="57.14631" lon="-4.880095">
+<ele>414</ele>
+<name>MD158</name>
+</rtept>
+<rtept lat="57.146746" lon="-4.880103">
+<ele>408</ele>
+<name>MD159</name>
+</rtept>
+<rtept lat="57.147167" lon="-4.880382">
+<ele>399</ele>
+<name>MD160</name>
+</rtept>
+<rtept lat="57.147649" lon="-4.879875">
+<ele>386</ele>
+<name>MD161</name>
+</rtept>
+<rtept lat="57.148225" lon="-4.8798">
+<ele>377</ele>
+<name>MD162</name>
+</rtept>
+<rtept lat="57.148944" lon="-4.879396">
+<ele>365</ele>
+<name>MD163</name>
+</rtept>
+<rtept lat="57.149242" lon="-4.879432">
+<ele>358</ele>
+<name>MD164</name>
+</rtept>
+<rtept lat="57.149698" lon="-4.878983">
+<ele>348</ele>
+<name>MD165</name>
+</rtept>
+<rtept lat="57.150078" lon="-4.878256">
+<ele>344</ele>
+<name>MD166</name>
+</rtept>
+<rtept lat="57.150187" lon="-4.878207">
+<ele>342</ele>
+<name>MD167</name>
+</rtept>
+<rtept lat="57.150168" lon="-4.878913">
+<ele>337</ele>
+<name>MD168</name>
+</rtept>
+<rtept lat="57.150485" lon="-4.880134">
+<ele>329</ele>
+<name>MD169</name>
+</rtept>
+<rtept lat="57.150385" lon="-4.882951">
+<ele>317</ele>
+<name>MD170</name>
+</rtept>
+<rtept lat="57.150274" lon="-4.883599">
+<ele>314</ele>
+<name>MD171</name>
+</rtept>
+<rtept lat="57.150091" lon="-4.88413">
+<ele>312</ele>
+<name>MD172</name>
+</rtept>
+<rtept lat="57.150158" lon="-4.884768">
+<ele>308</ele>
+<name>MD173</name>
+</rtept>
+<rtept lat="57.150264" lon="-4.884987">
+<ele>304</ele>
+<name>MD174</name>
+</rtept>
+<rtept lat="57.150696" lon="-4.885131">
+<ele>297</ele>
+<name>MD175</name>
+</rtept>
+<rtept lat="57.151452" lon="-4.883746">
+<ele>283</ele>
+<name>MD176</name>
+</rtept>
+<rtept lat="57.151968" lon="-4.883265">
+<ele>278</ele>
+<name>MD177</name>
+</rtept>
+<rtept lat="57.152904" lon="-4.882908">
+<ele>264</ele>
+<name>MD178</name>
+</rtept>
+<rtept lat="57.153465" lon="-4.881819">
+<ele>257</ele>
+<name>MD179</name>
+</rtept>
+<rtept lat="57.154115" lon="-4.881298">
+<ele>249</ele>
+<name>MD180</name>
+</rtept>
+<rtept lat="57.154603" lon="-4.880646">
+<ele>241</ele>
+<name>MD181</name>
+</rtept>
+<rtept lat="57.154789" lon="-4.880533">
+<ele>240</ele>
+<name>MD182</name>
+</rtept>
+<rtept lat="57.155562" lon="-4.880275">
+<ele>240</ele>
+<name>MD183</name>
+</rtept>
+<rtept lat="57.155765" lon="-4.880468">
+<ele>238</ele>
+<name>MD184</name>
+</rtept>
+<rtept lat="57.155999" lon="-4.88098">
+<ele>229</ele>
+<name>MD185</name>
+</rtept>
+<rtept lat="57.156163" lon="-4.881101">
+<ele>228</ele>
+<name>MD186</name>
+</rtept>
+<rtept lat="57.156531" lon="-4.880928">
+<ele>226</ele>
+<name>MD187</name>
+</rtept>
+<rtept lat="57.156902" lon="-4.881026">
+<ele>222</ele>
+<name>MD188</name>
+</rtept>
+<rtept lat="57.157287" lon="-4.88077">
+<ele>207</ele>
+<name>MD189</name>
+</rtept>
+<rtept lat="57.157845" lon="-4.880618">
+<ele>203</ele>
+<name>MD190</name>
+</rtept>
+<rtept lat="57.158019" lon="-4.880803">
+<ele>197</ele>
+<name>MD191</name>
+</rtept>
+<rtept lat="57.158168" lon="-4.881255">
+<ele>201</ele>
+<name>MD192</name>
+</rtept>
+<rtept lat="57.157956" lon="-4.886053">
+<ele>183</ele>
+<name>MD193</name>
+</rtept>
+<rtept lat="57.158087" lon="-4.887022">
+<ele>173</ele>
+<name>MD194</name>
+</rtept>
+<rtept lat="57.158264" lon="-4.887604">
+<ele>167</ele>
+<name>MD195</name>
+</rtept>
+<rtept lat="57.158892" lon="-4.888279">
+<ele>159</ele>
+<name>MD196</name>
+</rtept>
+<rtept lat="57.159535" lon="-4.888291">
+<ele>155</ele>
+<name>MD197</name>
+</rtept>
+<rtept lat="57.160408" lon="-4.88924">
+<ele>146</ele>
+<name>MD198</name>
+</rtept>
+<rtept lat="57.160628" lon="-4.8892">
+<ele>145</ele>
+<name>MD199</name>
+</rtept>
+<rtept lat="57.161293" lon="-4.888571">
+<ele>137</ele>
+<name>MD200</name>
+</rtept>
+<rtept lat="57.161549" lon="-4.888767">
+<ele>136</ele>
+<name>MD201</name>
+</rtept>
+<rtept lat="57.161924" lon="-4.888689">
+<ele>133</ele>
+<name>MD202</name>
+</rtept>
+<rtept lat="57.162197" lon="-4.888225">
+<ele>134</ele>
+<name>MD203</name>
+</rtept>
+</rte>
+</gpx>

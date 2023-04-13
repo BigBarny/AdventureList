@@ -1,0 +1,890 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Beinn Odhar, Beinn Chaorach and Cam Chreag from Tyndrum</name>
+<rtept lat="56.4362766581214" lon="-4.71144530194932">
+<ele>229.834512173419</ele>
+<name>BOCC001</name>
+</rtept>
+<rtept lat="56.4364384988688" lon="-4.71127836570863">
+<ele>230.462797856218</ele>
+<name>BOCC002</name>
+</rtept>
+<rtept lat="56.4379898960456" lon="-4.71267387280019">
+<ele>235.434228296549</ele>
+<name>BOCC003</name>
+</rtept>
+<rtept lat="56.4383478639413" lon="-4.71348466940465">
+<ele>237.751019101562</ele>
+<name>BOCC004</name>
+</rtept>
+<rtept lat="56.4414088318627" lon="-4.71095419748907">
+<ele>258.223545612755</ele>
+<name>BOCC005</name>
+</rtept>
+<rtept lat="56.4430467336055" lon="-4.71110657609149">
+<ele>269.885465024855</ele>
+<name>BOCC006</name>
+</rtept>
+<rtept lat="56.4451906578516" lon="-4.70936716415575">
+<ele>273.533335337062</ele>
+<name>BOCC007</name>
+</rtept>
+<rtept lat="56.4462323731955" lon="-4.70965555129964">
+<ele>281.776398170921</ele>
+<name>BOCC008</name>
+</rtept>
+<rtept lat="56.4474766920771" lon="-4.70881588090474">
+<ele>289.618074310554</ele>
+<name>BOCC009</name>
+</rtept>
+<rtept lat="56.4490293945266" lon="-4.70924777127318">
+<ele>297.869884460121</ele>
+<name>BOCC010</name>
+</rtept>
+<rtept lat="56.4494691938768" lon="-4.7090291535428">
+<ele>298.75459952821</ele>
+<name>BOCC011</name>
+</rtept>
+<rtept lat="56.4498289577991" lon="-4.70794790143852">
+<ele>302.679987118246</ele>
+<name>BOCC012</name>
+</rtept>
+<rtept lat="56.4500172469021" lon="-4.70656878413765">
+<ele>314.07929662369</ele>
+<name>BOCC013</name>
+</rtept>
+<rtept lat="56.4526242989295" lon="-4.70489744991372">
+<ele>363.595538690028</ele>
+<name>BOCC014</name>
+</rtept>
+<rtept lat="56.4531961234917" lon="-4.70398209391854">
+<ele>377.039793568407</ele>
+<name>BOCC015</name>
+</rtept>
+<rtept lat="56.4534210004599" lon="-4.70385037418805">
+<ele>381.248872283226</ele>
+<name>BOCC016</name>
+</rtept>
+<rtept lat="56.4535195694387" lon="-4.70415279016015">
+<ele>384.965361035089</ele>
+<name>BOCC017</name>
+</rtept>
+<rtept lat="56.4538032380405" lon="-4.7040041486853">
+<ele>394.219357779362</ele>
+<name>BOCC018</name>
+</rtept>
+<rtept lat="56.4543240949575" lon="-4.70423108420662">
+<ele>409.461149482342</ele>
+<name>BOCC019</name>
+</rtept>
+<rtept lat="56.4545865398271" lon="-4.70344789293768">
+<ele>419.356593577804</ele>
+<name>BOCC020</name>
+</rtept>
+<rtept lat="56.454913470341" lon="-4.70292249048757">
+<ele>427.636663322221</ele>
+<name>BOCC021</name>
+</rtept>
+<rtept lat="56.4553037027907" lon="-4.70324564372694">
+<ele>443.458518020255</ele>
+<name>BOCC022</name>
+</rtept>
+<rtept lat="56.4556317407483" lon="-4.70320565140421">
+<ele>454.550033582741</ele>
+<name>BOCC023</name>
+</rtept>
+<rtept lat="56.4560337179621" lon="-4.70245344227873">
+<ele>468.62407376125</ele>
+<name>BOCC024</name>
+</rtept>
+<rtept lat="56.4562494137205" lon="-4.70274309604593">
+<ele>478.081839909018</ele>
+<name>BOCC025</name>
+</rtept>
+<rtept lat="56.4571333842771" lon="-4.70185628930428">
+<ele>511.730212554096</ele>
+<name>BOCC026</name>
+</rtept>
+<rtept lat="56.4572820288714" lon="-4.70254213732155">
+<ele>518.336245099289</ele>
+<name>BOCC027</name>
+</rtept>
+<rtept lat="56.4579667505806" lon="-4.70168335559386">
+<ele>546.021408041669</ele>
+<name>BOCC028</name>
+</rtept>
+<rtept lat="56.4582062397937" lon="-4.70195360705461">
+<ele>556.208046688198</ele>
+<name>BOCC029</name>
+</rtept>
+<rtept lat="56.4598814193467" lon="-4.69987778362162">
+<ele>611.113556048955</ele>
+<name>BOCC030</name>
+</rtept>
+<rtept lat="56.4600195828116" lon="-4.69997200924851">
+<ele>619.628398281557</ele>
+<name>BOCC031</name>
+</rtept>
+<rtept lat="56.4598786089934" lon="-4.70108052376622">
+<ele>628.502020936501</ele>
+<name>BOCC032</name>
+</rtept>
+<rtept lat="56.4598673331638" lon="-4.70213493321253">
+<ele>635.230407747992</ele>
+<name>BOCC033</name>
+</rtept>
+<rtept lat="56.4599579111136" lon="-4.70226799446077">
+<ele>639.241177248973</ele>
+<name>BOCC034</name>
+</rtept>
+<rtept lat="56.4623033977657" lon="-4.70133717622196">
+<ele>732.930548667681</ele>
+<name>BOCC035</name>
+</rtept>
+<rtept lat="56.464196378259" lon="-4.70079624413242">
+<ele>781.521103674017</ele>
+<name>BOCC036</name>
+</rtept>
+<rtept lat="56.4652259640084" lon="-4.69939187352029">
+<ele>823.399541155617</ele>
+<name>BOCC037</name>
+</rtept>
+<rtept lat="56.4661810344844" lon="-4.69899530996853">
+<ele>863.593828531558</ele>
+<name>BOCC038</name>
+</rtept>
+<rtept lat="56.4668732286715" lon="-4.69940328419511">
+<ele>886.85118766616</ele>
+<name>BOCC039</name>
+</rtept>
+<rtept lat="56.4676454526008" lon="-4.70042910368242">
+<ele>895.733326473029</ele>
+<name>BOCC040</name>
+</rtept>
+<rtept lat="56.4670969788302" lon="-4.69878592402495">
+<ele>883.31267812578</ele>
+<name>BOCC041</name>
+</rtept>
+<rtept lat="56.4665436545469" lon="-4.69790233273727">
+<ele>865.862989927103</ele>
+<name>BOCC042</name>
+</rtept>
+<rtept lat="56.4660745220207" lon="-4.69637040345331">
+<ele>820.355764981385</ele>
+<name>BOCC043</name>
+</rtept>
+<rtept lat="56.4653100512629" lon="-4.69283350665266">
+<ele>772.343937603689</ele>
+<name>BOCC044</name>
+</rtept>
+<rtept lat="56.4646999421681" lon="-4.69133392811236">
+<ele>752.161804633428</ele>
+<name>BOCC045</name>
+</rtept>
+<rtept lat="56.4637791714102" lon="-4.68529567857884">
+<ele>605.490752105105</ele>
+<name>BOCC046</name>
+</rtept>
+<rtept lat="56.4635039232066" lon="-4.68451642116148">
+<ele>587.432870847903</ele>
+<name>BOCC047</name>
+</rtept>
+<rtept lat="56.4635811312899" lon="-4.68310775990873">
+<ele>550.51043270941</ele>
+<name>BOCC048</name>
+</rtept>
+<rtept lat="56.4634560665481" lon="-4.68132602566736">
+<ele>495.638324675281</ele>
+<name>BOCC049</name>
+</rtept>
+<rtept lat="56.4626970458492" lon="-4.67914083737492">
+<ele>444.187900691082</ele>
+<name>BOCC050</name>
+</rtept>
+<rtept lat="56.4620775105577" lon="-4.67861176855005">
+<ele>442.177673531563</ele>
+<name>BOCC051</name>
+</rtept>
+<rtept lat="56.4615566987681" lon="-4.67648569123627">
+<ele>509.978575748472</ele>
+<name>BOCC052</name>
+</rtept>
+<rtept lat="56.461070938968" lon="-4.67571283929808">
+<ele>533.982332105425</ele>
+<name>BOCC053</name>
+</rtept>
+<rtept lat="56.4609666863038" lon="-4.67458695843973">
+<ele>573.33399641382</ele>
+<name>BOCC054</name>
+</rtept>
+<rtept lat="56.461146965409" lon="-4.67327003931854">
+<ele>611.072393464962</ele>
+<name>BOCC055</name>
+</rtept>
+<rtept lat="56.4614167992923" lon="-4.67267696598719">
+<ele>625.203334275185</ele>
+<name>BOCC056</name>
+</rtept>
+<rtept lat="56.4614484360975" lon="-4.67175057443547">
+<ele>651.934089051823</ele>
+<name>BOCC057</name>
+</rtept>
+<rtept lat="56.4611228050276" lon="-4.67113676578345">
+<ele>675.07619786522</ele>
+<name>BOCC058</name>
+</rtept>
+<rtept lat="56.4611403693268" lon="-4.67086363828372">
+<ele>682.018197865211</ele>
+<name>BOCC059</name>
+</rtept>
+<rtept lat="56.4609183739452" lon="-4.67032043290345">
+<ele>700.810479404904</ele>
+<name>BOCC060</name>
+</rtept>
+<rtept lat="56.4611430083767" lon="-4.66911213342034">
+<ele>732.54516582947</ele>
+<name>BOCC061</name>
+</rtept>
+<rtept lat="56.4607990157567" lon="-4.66826491501551">
+<ele>753.727488644355</ele>
+<name>BOCC062</name>
+</rtept>
+<rtept lat="56.4611806230572" lon="-4.66736308244025">
+<ele>770.22679626366</ele>
+<name>BOCC063</name>
+</rtept>
+<rtept lat="56.4609560036008" lon="-4.66639762201913">
+<ele>792.785814780374</ele>
+<name>BOCC064</name>
+</rtept>
+<rtept lat="56.4600519856094" lon="-4.66551118179032">
+<ele>812.071130351834</ele>
+<name>BOCC065</name>
+</rtept>
+<rtept lat="56.4589517871468" lon="-4.66505421248894">
+<ele>815.617736398328</ele>
+<name>BOCC066</name>
+</rtept>
+<rtept lat="56.461132574811" lon="-4.6652492453039">
+<ele>800.758669921533</ele>
+<name>BOCC067</name>
+</rtept>
+<rtept lat="56.4623115764489" lon="-4.6642132949639">
+<ele>775.047934451666</ele>
+<name>BOCC068</name>
+</rtept>
+<rtept lat="56.4646611794007" lon="-4.66389246627374">
+<ele>738.581798463457</ele>
+<name>BOCC069</name>
+</rtept>
+<rtept lat="56.4654190695426" lon="-4.66396667003235">
+<ele>713.329421618725</ele>
+<name>BOCC070</name>
+</rtept>
+<rtept lat="56.4664985784148" lon="-4.66212150970159">
+<ele>679.672653492034</ele>
+<name>BOCC071</name>
+</rtept>
+<rtept lat="56.4675476880464" lon="-4.66223718215299">
+<ele>662.501879143742</ele>
+<name>BOCC072</name>
+</rtept>
+<rtept lat="56.4683195962197" lon="-4.661657974252">
+<ele>645.638980789253</ele>
+<name>BOCC073</name>
+</rtept>
+<rtept lat="56.4685786133292" lon="-4.66102173564033">
+<ele>643.012184283707</ele>
+<name>BOCC074</name>
+</rtept>
+<rtept lat="56.4697121461748" lon="-4.66074221662975">
+<ele>635.844620734157</ele>
+<name>BOCC075</name>
+</rtept>
+<rtept lat="56.4718549330351" lon="-4.65671230077618">
+<ele>661.654050480269</ele>
+<name>BOCC076</name>
+</rtept>
+<rtept lat="56.4721189499043" lon="-4.65529522432509">
+<ele>676.027017456881</ele>
+<name>BOCC077</name>
+</rtept>
+<rtept lat="56.4727701571067" lon="-4.65434849250874">
+<ele>694.439437434966</ele>
+<name>BOCC078</name>
+</rtept>
+<rtept lat="56.4737275452846" lon="-4.6516497293377">
+<ele>727.713741733224</ele>
+<name>BOCC079</name>
+</rtept>
+<rtept lat="56.4737806720846" lon="-4.64916226766286">
+<ele>756.615268764433</ele>
+<name>BOCC080</name>
+</rtept>
+<rtept lat="56.4741245453696" lon="-4.64618836305042">
+<ele>778.494494335106</ele>
+<name>BOCC081</name>
+</rtept>
+<rtept lat="56.4737974828602" lon="-4.64399110343821">
+<ele>803.030211329408</ele>
+<name>BOCC082</name>
+</rtept>
+<rtept lat="56.4740133412045" lon="-4.64263385923199">
+<ele>820.959842646785</ele>
+<name>BOCC083</name>
+</rtept>
+<rtept lat="56.4745733617926" lon="-4.6415749707623">
+<ele>840.130368267361</ele>
+<name>BOCC084</name>
+</rtept>
+<rtept lat="56.474738493258" lon="-4.64095308481153">
+<ele>845.832350383229</ele>
+<name>BOCC085</name>
+</rtept>
+<rtept lat="56.4749525369335" lon="-4.64077794692356">
+<ele>849.737705466946</ele>
+<name>BOCC086</name>
+</rtept>
+<rtept lat="56.475024639568" lon="-4.64019831029722">
+<ele>856.759664328799</ele>
+<name>BOCC087</name>
+</rtept>
+<rtept lat="56.4752678472876" lon="-4.63983518142339">
+<ele>862.745315340691</ele>
+<name>BOCC088</name>
+</rtept>
+<rtept lat="56.4753455039515" lon="-4.63931114104873">
+<ele>866.948892780878</ele>
+<name>BOCC089</name>
+</rtept>
+<rtept lat="56.475947145286" lon="-4.63912555069227">
+<ele>877.268527825799</ele>
+<name>BOCC090</name>
+</rtept>
+<rtept lat="56.4753373922935" lon="-4.63931220182333">
+<ele>866.892152802204</ele>
+<name>BOCC091</name>
+</rtept>
+<rtept lat="56.4752775118208" lon="-4.6398033720959">
+<ele>863.055295664763</ele>
+<name>BOCC092</name>
+</rtept>
+<rtept lat="56.4750217401792" lon="-4.64020785300324">
+<ele>856.620044134327</ele>
+<name>BOCC093</name>
+</rtept>
+<rtept lat="56.4749447703406" lon="-4.64076279121686">
+<ele>849.755308099878</ele>
+<name>BOCC094</name>
+</rtept>
+<rtept lat="56.4747385277678" lon="-4.64095146320461">
+<ele>845.842980649682</ele>
+<name>BOCC095</name>
+</rtept>
+<rtept lat="56.4745586917433" lon="-4.64158856723862">
+<ele>839.851814631564</ele>
+<name>BOCC096</name>
+</rtept>
+<rtept lat="56.4740340176903" lon="-4.64259144936286">
+<ele>821.65236344676</ele>
+<name>BOCC097</name>
+</rtept>
+<rtept lat="56.4738065265594" lon="-4.64398848455752">
+<ele>803.113524285238</ele>
+<name>BOCC098</name>
+</rtept>
+<rtept lat="56.4724230779906" lon="-4.64817125875433">
+<ele>749.398441569699</ele>
+<name>BOCC099</name>
+</rtept>
+<rtept lat="56.4714778855659" lon="-4.64981859760878">
+<ele>704.950424185898</ele>
+<name>BOCC100</name>
+</rtept>
+<rtept lat="56.4700790158385" lon="-4.65040309502351">
+<ele>648.285776046444</ele>
+<name>BOCC101</name>
+</rtept>
+<rtept lat="56.4697206959601" lon="-4.65076782550726">
+<ele>633.779724414329</ele>
+<name>BOCC102</name>
+</rtept>
+<rtept lat="56.4690748586614" lon="-4.65091764777984">
+<ele>605.815419664704</ele>
+<name>BOCC103</name>
+</rtept>
+<rtept lat="56.4683527607688" lon="-4.65074551906141">
+<ele>584.481742194268</ele>
+<name>BOCC104</name>
+</rtept>
+<rtept lat="56.4676522101306" lon="-4.65093211495702">
+<ele>571.514500091631</ele>
+<name>BOCC105</name>
+</rtept>
+<rtept lat="56.4669995841549" lon="-4.65182022809146">
+<ele>560.467880740651</ele>
+<name>BOCC106</name>
+</rtept>
+<rtept lat="56.4663530350846" lon="-4.65221352137978">
+<ele>554.659205454618</ele>
+<name>BOCC107</name>
+</rtept>
+<rtept lat="56.4660669233746" lon="-4.65172270868494">
+<ele>546.036638914711</ele>
+<name>BOCC108</name>
+</rtept>
+<rtept lat="56.465612347286" lon="-4.6514393458566">
+<ele>537.853359776079</ele>
+<name>BOCC109</name>
+</rtept>
+<rtept lat="56.465536772471" lon="-4.6511905334272">
+<ele>534.829102678622</ele>
+<name>BOCC110</name>
+</rtept>
+<rtept lat="56.4651721061072" lon="-4.65101086538343">
+<ele>530.540359920261</ele>
+<name>BOCC111</name>
+</rtept>
+<rtept lat="56.464910315688" lon="-4.65064354199688">
+<ele>525.04032051374</ele>
+<name>BOCC112</name>
+</rtept>
+<rtept lat="56.4644999098297" lon="-4.65050128350788">
+<ele>523.83641770916</ele>
+<name>BOCC113</name>
+</rtept>
+<rtept lat="56.4634832489144" lon="-4.64960242128429">
+<ele>501.86848045663</ele>
+<name>BOCC114</name>
+</rtept>
+<rtept lat="56.4628579710077" lon="-4.64942085679612">
+<ele>494.544829008133</ele>
+<name>BOCC115</name>
+</rtept>
+<rtept lat="56.4617755491318" lon="-4.64844442863058">
+<ele>475.172904913877</ele>
+<name>BOCC116</name>
+</rtept>
+<rtept lat="56.4611552533896" lon="-4.64866097909569">
+<ele>478.694618569224</ele>
+<name>BOCC117</name>
+</rtept>
+<rtept lat="56.4597289916158" lon="-4.64842366335045">
+<ele>475.34131398281</ele>
+<name>BOCC118</name>
+</rtept>
+<rtept lat="56.4590644798528" lon="-4.64923775973103">
+<ele>480.655990925136</ele>
+<name>BOCC119</name>
+</rtept>
+<rtept lat="56.4583531001428" lon="-4.64866875016109">
+<ele>473.296148083556</ele>
+<name>BOCC120</name>
+</rtept>
+<rtept lat="56.4578248048634" lon="-4.6486806592731">
+<ele>469.435842774814</ele>
+<name>BOCC121</name>
+</rtept>
+<rtept lat="56.4572853233539" lon="-4.64805871684434">
+<ele>458.57043608617</ele>
+<name>BOCC122</name>
+</rtept>
+<rtept lat="56.4561260227625" lon="-4.6484730889274">
+<ele>459.11191871997</ele>
+<name>BOCC123</name>
+</rtept>
+<rtept lat="56.4560595674254" lon="-4.64863889887048">
+<ele>461.35191871997</ele>
+<name>BOCC124</name>
+</rtept>
+<rtept lat="56.4548051838119" lon="-4.64877068284343">
+<ele>460.681048793412</ele>
+<name>BOCC125</name>
+</rtept>
+<rtept lat="56.454300027825" lon="-4.64854073186911">
+<ele>454.954924606634</ele>
+<name>BOCC126</name>
+</rtept>
+<rtept lat="56.452673862005" lon="-4.64914166479237">
+<ele>455.80192016435</ele>
+<name>BOCC127</name>
+</rtept>
+<rtept lat="56.4522829112402" lon="-4.64977177574467">
+<ele>463.516258268679</ele>
+<name>BOCC128</name>
+</rtept>
+<rtept lat="56.4513757788236" lon="-4.64984654974029">
+<ele>458.979152629843</ele>
+<name>BOCC129</name>
+</rtept>
+<rtept lat="56.4504313294263" lon="-4.65051110609441">
+<ele>452.939859030323</ele>
+<name>BOCC130</name>
+</rtept>
+<rtept lat="56.4494642282791" lon="-4.6517096189164">
+<ele>455.135385954198</ele>
+<name>BOCC131</name>
+</rtept>
+<rtept lat="56.4488993169333" lon="-4.65206785978985">
+<ele>450.146413516148</ele>
+<name>BOCC132</name>
+</rtept>
+<rtept lat="56.4484207359128" lon="-4.65196147155642">
+<ele>438.452401856507</ele>
+<name>BOCC133</name>
+</rtept>
+<rtept lat="56.4474935405655" lon="-4.65255410120887">
+<ele>428.262677117822</ele>
+<name>BOCC134</name>
+</rtept>
+<rtept lat="56.4467741708883" lon="-4.65277983186209">
+<ele>413.876054867763</ele>
+<name>BOCC135</name>
+</rtept>
+<rtept lat="56.445015362303" lon="-4.65590270422414">
+<ele>415.860151564555</ele>
+<name>BOCC136</name>
+</rtept>
+<rtept lat="56.4440111560306" lon="-4.65809628577837">
+<ele>415.189019562623</ele>
+<name>BOCC137</name>
+</rtept>
+<rtept lat="56.4434584184449" lon="-4.65893392403568">
+<ele>408.601691445657</ele>
+<name>BOCC138</name>
+</rtept>
+<rtept lat="56.4428545337289" lon="-4.66016551363196">
+<ele>404.967456608526</ele>
+<name>BOCC139</name>
+</rtept>
+<rtept lat="56.4421241840675" lon="-4.66215896670655">
+<ele>405.075739223324</ele>
+<name>BOCC140</name>
+</rtept>
+<rtept lat="56.4405229465254" lon="-4.66400214235282">
+<ele>381.124844170234</ele>
+<name>BOCC141</name>
+</rtept>
+<rtept lat="56.4400322576218" lon="-4.66508734575521">
+<ele>369.227671583988</ele>
+<name>BOCC142</name>
+</rtept>
+<rtept lat="56.4397405481341" lon="-4.66527784756196">
+<ele>356.90045053662</ele>
+<name>BOCC143</name>
+</rtept>
+<rtept lat="56.4393161742433" lon="-4.66515889258169">
+<ele>344.48045595498</ele>
+<name>BOCC144</name>
+</rtept>
+<rtept lat="56.4391200117004" lon="-4.66571303048794">
+<ele>338.566752303252</ele>
+<name>BOCC145</name>
+</rtept>
+<rtept lat="56.4383828073174" lon="-4.66519899780598">
+<ele>323.305646716201</ele>
+<name>BOCC146</name>
+</rtept>
+<rtept lat="56.4382856160005" lon="-4.66533010150411">
+<ele>320.793175827094</ele>
+<name>BOCC147</name>
+</rtept>
+<rtept lat="56.4383414485654" lon="-4.66670499262958">
+<ele>317.224170956989</ele>
+<name>BOCC148</name>
+</rtept>
+<rtept lat="56.4386015421874" lon="-4.6675669021362">
+<ele>309.316115663468</ele>
+<name>BOCC149</name>
+</rtept>
+<rtept lat="56.4391177067303" lon="-4.66864147610592">
+<ele>304.81050633935</ele>
+<name>BOCC150</name>
+</rtept>
+<rtept lat="56.4393788686027" lon="-4.67007948292019">
+<ele>300.110816514474</ele>
+<name>BOCC151</name>
+</rtept>
+<rtept lat="56.438880295806" lon="-4.67069350279847">
+<ele>288.241967592831</ele>
+<name>BOCC152</name>
+</rtept>
+<rtept lat="56.4376610210108" lon="-4.6711758058828">
+<ele>280.015837512912</ele>
+<name>BOCC153</name>
+</rtept>
+<rtept lat="56.4371928193746" lon="-4.6702749566143">
+<ele>271.942142728375</ele>
+<name>BOCC154</name>
+</rtept>
+<rtept lat="56.436771414958" lon="-4.67001825899072">
+<ele>270.716321802694</ele>
+<name>BOCC155</name>
+</rtept>
+<rtept lat="56.4362296430638" lon="-4.66929886016123">
+<ele>263.439031878776</ele>
+<name>BOCC156</name>
+</rtept>
+<rtept lat="56.4358489701482" lon="-4.66902881259365">
+<ele>260.252234735265</ele>
+<name>BOCC157</name>
+</rtept>
+<rtept lat="56.4345055430847" lon="-4.66901573685832">
+<ele>257.008572192081</ele>
+<name>BOCC158</name>
+</rtept>
+<rtept lat="56.4335128339642" lon="-4.66972482317177">
+<ele>260.836864313274</ele>
+<name>BOCC159</name>
+</rtept>
+<rtept lat="56.4327537936144" lon="-4.66970403945171">
+<ele>255.768518173568</ele>
+<name>BOCC160</name>
+</rtept>
+<rtept lat="56.4323631233552" lon="-4.66937653521863">
+<ele>251.554832380904</ele>
+<name>BOCC161</name>
+</rtept>
+<rtept lat="56.4317961171192" lon="-4.66962066271852">
+<ele>253.474447311754</ele>
+<name>BOCC162</name>
+</rtept>
+<rtept lat="56.4311901656382" lon="-4.66958628495259">
+<ele>250.496265203521</ele>
+<name>BOCC163</name>
+</rtept>
+<rtept lat="56.430784835349" lon="-4.66920910383552">
+<ele>239.967607440253</ele>
+<name>BOCC164</name>
+</rtept>
+<rtept lat="56.4297074728256" lon="-4.67030148607532">
+<ele>236.810375313037</ele>
+<name>BOCC165</name>
+</rtept>
+<rtept lat="56.4293031446875" lon="-4.67008659071047">
+<ele>229.786997563096</ele>
+<name>BOCC166</name>
+</rtept>
+<rtept lat="56.4279473595724" lon="-4.67054300699333">
+<ele>213.770970021804</ele>
+<name>BOCC167</name>
+</rtept>
+<rtept lat="56.4276568157135" lon="-4.67088758241864">
+<ele>212.67684584435</ele>
+<name>BOCC168</name>
+</rtept>
+<rtept lat="56.4271603021016" lon="-4.67077976680246">
+<ele>200.847482401651</ele>
+<name>BOCC169</name>
+</rtept>
+<rtept lat="56.4268176550108" lon="-4.67103957992447">
+<ele>201.503623980218</ele>
+<name>BOCC170</name>
+</rtept>
+<rtept lat="56.4257230143764" lon="-4.67063841440507">
+<ele>188.798191947847</ele>
+<name>BOCC171</name>
+</rtept>
+<rtept lat="56.4249486732279" lon="-4.67111933593364">
+<ele>180.466716742633</ele>
+<name>BOCC172</name>
+</rtept>
+<rtept lat="56.4243297907624" lon="-4.67251939088549">
+<ele>181.277271293022</ele>
+<name>BOCC173</name>
+</rtept>
+<rtept lat="56.4233774411862" lon="-4.67396086139812">
+<ele>180.003601819728</ele>
+<name>BOCC174</name>
+</rtept>
+<rtept lat="56.4229579338744" lon="-4.67705339614566">
+<ele>169.286263601674</ele>
+<name>BOCC175</name>
+</rtept>
+<rtept lat="56.4227236667085" lon="-4.67728830865054">
+<ele>169.596263601674</ele>
+<name>BOCC176</name>
+</rtept>
+<rtept lat="56.4227616582693" lon="-4.67844246104902">
+<ele>171</ele>
+<name>BOCC177</name>
+</rtept>
+<rtept lat="56.4223360285576" lon="-4.68087764546043">
+<ele>171.784866750177</ele>
+<name>BOCC178</name>
+</rtept>
+<rtept lat="56.4223522512959" lon="-4.68199782220301">
+<ele>172.61201157634</ele>
+<name>BOCC179</name>
+</rtept>
+<rtept lat="56.422635631418" lon="-4.68364768951711">
+<ele>173.824020831697</ele>
+<name>BOCC180</name>
+</rtept>
+<rtept lat="56.4228822885387" lon="-4.68408674173218">
+<ele>173.108377749941</ele>
+<name>BOCC181</name>
+</rtept>
+<rtept lat="56.4228228296477" lon="-4.68538000032964">
+<ele>174.149173030383</ele>
+<name>BOCC182</name>
+</rtept>
+<rtept lat="56.4230362721636" lon="-4.68652221603064">
+<ele>175</ele>
+<name>BOCC183</name>
+</rtept>
+<rtept lat="56.4228301994641" lon="-4.68939450718081">
+<ele>177</ele>
+<name>BOCC184</name>
+</rtept>
+<rtept lat="56.4237466374057" lon="-4.69210284617968">
+<ele>179</ele>
+<name>BOCC185</name>
+</rtept>
+<rtept lat="56.4245399441176" lon="-4.6923048963274">
+<ele>180.736715383697</ele>
+<name>BOCC186</name>
+</rtept>
+<rtept lat="56.42495330428" lon="-4.69313696376964">
+<ele>181.089717662488</ele>
+<name>BOCC187</name>
+</rtept>
+<rtept lat="56.4249423100877" lon="-4.69343623887886">
+<ele>183.705486371212</ele>
+<name>BOCC188</name>
+</rtept>
+<rtept lat="56.4244186379016" lon="-4.69395875109135">
+<ele>189.015947267049</ele>
+<name>BOCC189</name>
+</rtept>
+<rtept lat="56.4242060731438" lon="-4.6946411205967">
+<ele>186.424696989908</ele>
+<name>BOCC190</name>
+</rtept>
+<rtept lat="56.4242392418939" lon="-4.6953895309684">
+<ele>188.776852287801</ele>
+<name>BOCC191</name>
+</rtept>
+<rtept lat="56.4239695642457" lon="-4.69642465686023">
+<ele>192.252390221651</ele>
+<name>BOCC192</name>
+</rtept>
+<rtept lat="56.4239109498685" lon="-4.69746660901125">
+<ele>197.586223251243</ele>
+<name>BOCC193</name>
+</rtept>
+<rtept lat="56.4236914123492" lon="-4.69826198653654">
+<ele>199.541008543016</ele>
+<name>BOCC194</name>
+</rtept>
+<rtept lat="56.4239161216476" lon="-4.69826168904029">
+<ele>200</ele>
+<name>BOCC195</name>
+</rtept>
+<rtept lat="56.4241418053996" lon="-4.69801007008376">
+<ele>200</ele>
+<name>BOCC196</name>
+</rtept>
+<rtept lat="56.4249794081493" lon="-4.69793155037703">
+<ele>199.285426809984</ele>
+<name>BOCC197</name>
+</rtept>
+<rtept lat="56.4252163077626" lon="-4.69922965119539">
+<ele>199.962367494928</ele>
+<name>BOCC198</name>
+</rtept>
+<rtept lat="56.4255450703085" lon="-4.7000233736914">
+<ele>200.386263601674</ele>
+<name>BOCC199</name>
+</rtept>
+<rtept lat="56.425717247409" lon="-4.70016533704532">
+<ele>200.564156304066</ele>
+<name>BOCC200</name>
+</rtept>
+<rtept lat="56.4259911871676" lon="-4.70007122472104">
+<ele>200.256589492108</ele>
+<name>BOCC201</name>
+</rtept>
+<rtept lat="56.4265585653649" lon="-4.70063859873092">
+<ele>199.195932502769</ele>
+<name>BOCC202</name>
+</rtept>
+<rtept lat="56.4268778568167" lon="-4.70062880388258">
+<ele>199.817920455578</ele>
+<name>BOCC203</name>
+</rtept>
+<rtept lat="56.4272411173998" lon="-4.70107628961627">
+<ele>200.536263601674</ele>
+<name>BOCC204</name>
+</rtept>
+<rtept lat="56.42858715883" lon="-4.70210446338001">
+<ele>203.83464184331</ele>
+<name>BOCC205</name>
+</rtept>
+<rtept lat="56.4288220254321" lon="-4.70287539647239">
+<ele>206.555460490501</ele>
+<name>BOCC206</name>
+</rtept>
+<rtept lat="56.4295925676555" lon="-4.7037087087522">
+<ele>209.578036310972</ele>
+<name>BOCC207</name>
+</rtept>
+<rtept lat="56.4311181925935" lon="-4.70587721265188">
+<ele>215.863115544384</ele>
+<name>BOCC208</name>
+</rtept>
+<rtept lat="56.4315833593714" lon="-4.70680248124948">
+<ele>217.496296148755</ele>
+<name>BOCC209</name>
+</rtept>
+<rtept lat="56.431762936117" lon="-4.70763446184046">
+<ele>218.890989917128</ele>
+<name>BOCC210</name>
+</rtept>
+<rtept lat="56.4324813213725" lon="-4.70879678567934">
+<ele>219.526844245529</ele>
+<name>BOCC211</name>
+</rtept>
+<rtept lat="56.4331641958106" lon="-4.70921849585887">
+<ele>218.337840260827</ele>
+<name>BOCC212</name>
+</rtept>
+<rtept lat="56.4336931550274" lon="-4.70989694370441">
+<ele>219.413377749941</ele>
+<name>BOCC213</name>
+</rtept>
+<rtept lat="56.433857781755" lon="-4.71182297107739">
+<ele>221.918962426351</ele>
+<name>BOCC214</name>
+</rtept>
+<rtept lat="56.4339762764662" lon="-4.71195308474288">
+<ele>222.312313491897</ele>
+<name>BOCC215</name>
+</rtept>
+<rtept lat="56.434957641736" lon="-4.71095225296048">
+<ele>222.593019101556</ele>
+<name>BOCC216</name>
+</rtept>
+<rtept lat="56.4350361004077" lon="-4.71044680167286">
+<ele>222.856755499882</ele>
+<name>BOCC217</name>
+</rtept>
+<rtept lat="56.4352804022794" lon="-4.70996126656124">
+<ele>224.324228296534</ele>
+<name>BOCC218</name>
+</rtept>
+<rtept lat="56.4364341296786" lon="-4.71125209601248">
+<ele>230.461898868594</ele>
+<name>BOCC219</name>
+</rtept>
+<rtept lat="56.436281806398" lon="-4.71143593428014">
+<ele>229.860342540027</ele>
+<name>BOCC220</name>
+</rtept>
+</rte>
+</gpx>

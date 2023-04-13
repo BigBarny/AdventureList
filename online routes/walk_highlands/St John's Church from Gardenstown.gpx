@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.1" creator="Quo v2" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <desc>GPX file generated with Quo.</desc>
+    <link href="http://www.mapyx.com">
+      <text>Mapyx</text>
+    </link>
+    <time>2020-11-17T11:28:38.403552+00:00</time>
+  </metadata>
+  <rte>
+    <name>St Johns Church</name>
+    <desc />
+    <extensions>
+      <drawing v="True" pv="True" pw="1" pc="255|255|255" pt="0" lv="True" lw="4" lc="0|0|255" lt="0" ls="0" lcs="3" fc="255|255|255" ft="120" fs="-1" fsc="0|0|0" xmlns="" />
+    </extensions>
+    <rtept lat="57.6742612799865" lon="-2.33331222267655">
+      <ele>58.0756454511743</ele>
+      <time>2009-08-29T09:48:42.53125</time>
+      <name>SJC 001</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6736217413354" lon="-2.33466771641941">
+      <ele>65.1260003571919</ele>
+      <time>2009-08-29T09:48:43.953125</time>
+      <name>SJC 002</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6729609949146" lon="-2.33723676942656">
+      <ele>39.9410947655849</ele>
+      <time>2009-08-29T09:48:48.5</time>
+      <name>SJC 003</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6724236597528" lon="-2.33865009939961">
+      <ele>33.328997570606</ele>
+      <time>2009-08-29T09:48:49.9375</time>
+      <name>SJC 004</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6714586643458" lon="-2.33975762282874">
+      <ele>40.7800791592588</ele>
+      <time>2009-08-29T09:48:57.234375</time>
+      <name>SJC 005</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6706112143839" lon="-2.34223917465703">
+      <ele>40.5945750981432</ele>
+      <time>2009-08-29T09:49:17.796875</time>
+      <name>SJC 006</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6700980755013" lon="-2.34365256854552">
+      <ele>41.8378984193595</ele>
+      <time>2009-08-29T09:49:19.203125</time>
+      <name>SJC 007</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6698566055668" lon="-2.34623023478081">
+      <ele>37.4837071816252</ele>
+      <time>2009-08-29T09:49:19.953125</time>
+      <name>SJC 008</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6694199424593" lon="-2.34921334888328">
+      <ele>31.7894470782666</ele>
+      <time>2009-08-29T09:49:23.75</time>
+      <name>SJC 009</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6690562017776" lon="-2.34919476575448">
+      <ele>35.4229233273875</ele>
+      <time>2009-08-29T09:49:25.46875</time>
+      <name>SJC 010</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.668701127757" lon="-2.34896504898544">
+      <ele>36.792845614197</ele>
+      <time>2009-08-29T09:49:26.484375</time>
+      <name>SJC 011</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6683614727312" lon="-2.34900704728956">
+      <ele>39.5151888090627</ele>
+      <time>2009-08-29T09:49:27.046875</time>
+      <name>SJC 012</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.668256671262" lon="-2.34890043327135">
+      <ele>40.0093982900202</ele>
+      <time>2009-08-29T09:49:27.8125</time>
+      <name>SJC 013</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6680627371761" lon="-2.34886839767967">
+      <ele>41.7979868398566</ele>
+      <time>2009-08-29T09:49:28.46875</time>
+      <name>SJC 014</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6679086825418" lon="-2.34903287138153">
+      <ele>43.7966718909036</ele>
+      <time>2009-08-29T09:49:28.953125</time>
+      <name>SJC 015</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6675609850146" lon="-2.34905970442336">
+      <ele>47.5279865229073</ele>
+      <time>2009-08-29T09:49:30.34375</time>
+      <name>SJC 016</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6671796185551" lon="-2.34956897572613">
+      <ele>52.4975764362033</ele>
+      <time>2009-08-29T09:49:30.984375</time>
+      <name>SJC 017</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6674948966441" lon="-2.34957200885761">
+      <ele>48.9715952474113</ele>
+      <time>2009-08-29T09:49:31.6875</time>
+      <name>SJC 018</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6676810798933" lon="-2.34948328089565">
+      <ele>46.9786193930028</ele>
+      <time>2009-08-29T09:49:32.171875</time>
+      <name>SJC 019</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6679300592038" lon="-2.35007405427705">
+      <ele>45.6872618664524</ele>
+      <time>2009-08-29T09:49:32.90625</time>
+      <name>SJC 020</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6688176757761" lon="-2.35067099935032">
+      <ele>48.7126028803246</ele>
+      <time>2009-08-29T09:49:33.984375</time>
+      <name>SJC 021</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6691896675139" lon="-2.35062932814711">
+      <ele>45.4065868209244</ele>
+      <time>2009-08-29T09:49:34.703125</time>
+      <name>SJC 022</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6695112721945" lon="-2.35126609789795">
+      <ele>51.2925868209213</ele>
+      <time>2009-08-29T09:49:35.78125</time>
+      <name>SJC 023</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6693877054118" lon="-2.35209470134826">
+      <ele>66.9612345349441</ele>
+      <time>2009-08-29T09:49:37</time>
+      <name>SJC 024</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6695974582766" lon="-2.35225430041706">
+      <ele>63.1140251710333</ele>
+      <time>2009-08-29T09:49:47.078125</time>
+      <name>SJC 025</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6700905572069" lon="-2.35226913954479">
+      <ele>55.9777650312216</ele>
+      <time>2020-11-17T11:27:22.2762519+00:00</time>
+      <name>SJC 026</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.670389050784" lon="-2.35249331930308">
+      <ele>57.2199264111249</ele>
+      <time>2020-11-17T11:27:23.5220339+00:00</time>
+      <name>SJC 027</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6704556190321" lon="-2.35278063111429">
+      <ele>65.1471770471043</ele>
+      <time>2020-11-17T11:27:24.4613555+00:00</time>
+      <name>SJC 028</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6704278727501" lon="-2.35306702744164">
+      <ele>73.7233441758621</ele>
+      <time>2020-11-17T11:27:25.2013499+00:00</time>
+      <name>SJC 029</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6705757574941" lon="-2.35318413719041">
+      <ele>71.9787439903489</ele>
+      <time>2020-11-17T11:27:25.9932622+00:00</time>
+      <name>SJC 030</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6705751397177" lon="-2.35340541792309">
+      <ele>78.0366453035441</ele>
+      <time>2020-11-17T11:27:26.5706905+00:00</time>
+      <name>SJC 031</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6705021726091" lon="-2.35348014666462">
+      <ele>81.8751745925086</ele>
+      <time>2020-11-17T11:27:27.6009375+00:00</time>
+      <name>SJC 032</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.670386385563" lon="-2.35344884483565">
+      <ele>83.6576528088792</ele>
+      <time>2020-11-17T11:27:28.1946999+00:00</time>
+      <name>SJC 033</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6701445241268" lon="-2.35321012026475">
+      <ele>80.399970455672</ele>
+      <time>2020-11-17T11:27:29.2735422+00:00</time>
+      <name>SJC 034</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6698983944161" lon="-2.35256902539469">
+      <ele>66.8272304894266</ele>
+      <time>2020-11-17T11:27:31.5931264+00:00</time>
+      <name>SJC 035</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6697428171444" lon="-2.35231103012278">
+      <ele>62.4970951757225</ele>
+      <time>2020-11-17T11:27:34.1929325+00:00</time>
+      <name>SJC 036</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6695974582766" lon="-2.35225430041706">
+      <ele>63.1140251710333</ele>
+      <time>2009-08-29T09:49:47.078125</time>
+      <name>SJC 037</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6693877054118" lon="-2.35209470134826">
+      <ele>66.9612345349441</ele>
+      <time>2009-08-29T09:49:37</time>
+      <name>SJC 038</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6695112721945" lon="-2.35126609789795">
+      <ele>51.2925868209213</ele>
+      <time>2009-08-29T09:49:35.78125</time>
+      <name>SJC 039</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6691896675139" lon="-2.35062932814711">
+      <ele>45.4065868209244</ele>
+      <time>2009-08-29T09:49:34.703125</time>
+      <name>SJC 040</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6688176757761" lon="-2.35067099935032">
+      <ele>48.7126028803246</ele>
+      <time>2009-08-29T09:49:33.984375</time>
+      <name>SJC 041</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6679300592038" lon="-2.35007405427705">
+      <ele>45.6872618664524</ele>
+      <time>2009-08-29T09:49:32.90625</time>
+      <name>SJC 042</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6676810798933" lon="-2.34948328089565">
+      <ele>46.9786193930028</ele>
+      <time>2009-08-29T09:49:32.171875</time>
+      <name>SJC 043</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6674948966441" lon="-2.34957200885761">
+      <ele>48.9715952474113</ele>
+      <time>2009-08-29T09:49:31.6875</time>
+      <name>SJC 044</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6671796185551" lon="-2.34956897572613">
+      <ele>52.4975764362033</ele>
+      <time>2009-08-29T09:49:30.984375</time>
+      <name>SJC 045</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6675609850146" lon="-2.34905970442336">
+      <ele>47.5279865229073</ele>
+      <time>2009-08-29T09:49:30.34375</time>
+      <name>SJC 046</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6679086825418" lon="-2.34903287138153">
+      <ele>43.7966718909036</ele>
+      <time>2009-08-29T09:49:28.953125</time>
+      <name>SJC 047</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6680627371761" lon="-2.34886839767967">
+      <ele>41.7979868398566</ele>
+      <time>2009-08-29T09:49:28.46875</time>
+      <name>SJC 048</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.668256671262" lon="-2.34890043327135">
+      <ele>40.0093982900202</ele>
+      <time>2009-08-29T09:49:27.8125</time>
+      <name>SJC 049</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6683614727312" lon="-2.34900704728956">
+      <ele>39.5151888090627</ele>
+      <time>2009-08-29T09:49:27.046875</time>
+      <name>SJC 050</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.668701127757" lon="-2.34896504898544">
+      <ele>36.792845614197</ele>
+      <time>2009-08-29T09:49:26.484375</time>
+      <name>SJC 051</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6690562017776" lon="-2.34919476575448">
+      <ele>35.4229233273875</ele>
+      <time>2009-08-29T09:49:25.46875</time>
+      <name>SJC 052</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6694199424593" lon="-2.34921334888328">
+      <ele>31.7894470782666</ele>
+      <time>2009-08-29T09:49:23.75</time>
+      <name>SJC 053</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6698566055668" lon="-2.34623023478081">
+      <ele>37.4837071816252</ele>
+      <time>2009-08-29T09:49:19.953125</time>
+      <name>SJC 054</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6700980755013" lon="-2.34365256854552">
+      <ele>41.8378984193595</ele>
+      <time>2009-08-29T09:49:19.203125</time>
+      <name>SJC 055</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6706112143839" lon="-2.34223917465703">
+      <ele>40.5945750981432</ele>
+      <time>2009-08-29T09:49:17.796875</time>
+      <name>SJC 056</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6714586643458" lon="-2.33975762282874">
+      <ele>40.7800791592588</ele>
+      <time>2009-08-29T09:48:57.234375</time>
+      <name>SJC 057</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6724236597528" lon="-2.33865009939961">
+      <ele>33.328997570606</ele>
+      <time>2009-08-29T09:48:49.9375</time>
+      <name>SJC 058</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6729609949146" lon="-2.33723676942656">
+      <ele>39.9410947655849</ele>
+      <time>2009-08-29T09:48:48.5</time>
+      <name>SJC 059</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6736217413354" lon="-2.33466771641941">
+      <ele>65.1260003571919</ele>
+      <time>2009-08-29T09:48:43.953125</time>
+      <name>SJC 060</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.6742612799865" lon="-2.33331222267655">
+      <ele>58.0756454511743</ele>
+      <time>2009-08-29T09:48:42.53125</time>
+      <name>SJC 061</name>
+      <desc />
+    </rtept>
+  </rte>
+</gpx>

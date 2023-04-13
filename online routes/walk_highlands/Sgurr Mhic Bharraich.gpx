@@ -1,0 +1,602 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Sgurr Mhic Bharraich</name>
+<rtept lat="57.2120959247551" lon="-5.41520509051407">
+<ele>13.7334150037766</ele>
+<name>SMB001</name>
+</rtept>
+<rtept lat="57.2121563155912" lon="-5.41661894077931">
+<ele>13.3793430836946</ele>
+<name>SMB002</name>
+</rtept>
+<rtept lat="57.2116245200764" lon="-5.41700050829591">
+<ele>15.3425899525046</ele>
+<name>SMB003</name>
+</rtept>
+<rtept lat="57.211347889574" lon="-5.41692521538069">
+<ele>18.1925899525046</ele>
+<name>SMB004</name>
+</rtept>
+<rtept lat="57.2109421184786" lon="-5.41697051631563">
+<ele>19.2213830020189</ele>
+<name>SMB005</name>
+</rtept>
+<rtept lat="57.2106408369804" lon="-5.41681010911124">
+<ele>24.2713373727083</ele>
+<name>SMB006</name>
+</rtept>
+<rtept lat="57.2103314538015" lon="-5.41694716176452">
+<ele>27.1495269469976</ele>
+<name>SMB007</name>
+</rtept>
+<rtept lat="57.2098614906229" lon="-5.41769889701371">
+<ele>40.9699010344505</ele>
+<name>SMB008</name>
+</rtept>
+<rtept lat="57.2095902625514" lon="-5.41742530237481">
+<ele>44.7202451161385</ele>
+<name>SMB009</name>
+</rtept>
+<rtept lat="57.2095866429072" lon="-5.41772316808588">
+<ele>56.3353402282119</ele>
+<name>SMB010</name>
+</rtept>
+<rtept lat="57.2094032486852" lon="-5.4178552999427">
+<ele>58.6453402282119</ele>
+<name>SMB011</name>
+</rtept>
+<rtept lat="57.2093785983721" lon="-5.41777018616768">
+<ele>59.0553402282119</ele>
+<name>SMB012</name>
+</rtept>
+<rtept lat="57.209201469869" lon="-5.41800229599125">
+<ele>61.1853402282119</ele>
+<name>SMB013</name>
+</rtept>
+<rtept lat="57.2089409732412" lon="-5.41799475960099">
+<ele>64.5622732644081</ele>
+<name>SMB014</name>
+</rtept>
+<rtept lat="57.2087849303539" lon="-5.41811285238622">
+<ele>64.4846715418473</ele>
+<name>SMB015</name>
+</rtept>
+<rtept lat="57.2087136436641" lon="-5.41808969002942">
+<ele>64.5546715418473</ele>
+<name>SMB016</name>
+</rtept>
+<rtept lat="57.2082315940618" lon="-5.41862490111017">
+<ele>68.1196141424894</ele>
+<name>SMB017</name>
+</rtept>
+<rtept lat="57.207077949546" lon="-5.41873349875295">
+<ele>73.3625130761624</ele>
+<name>SMB018</name>
+</rtept>
+<rtept lat="57.2066883690478" lon="-5.41834957416262">
+<ele>70.6310765282631</ele>
+<name>SMB019</name>
+</rtept>
+<rtept lat="57.2062310460406" lon="-5.41830725978608">
+<ele>59.4110765282631</ele>
+<name>SMB020</name>
+</rtept>
+<rtept lat="57.205804188295" lon="-5.41846654546971">
+<ele>60.7342244315028</ele>
+<name>SMB021</name>
+</rtept>
+<rtept lat="57.2041932585106" lon="-5.41820154781064">
+<ele>60.3329718517304</ele>
+<name>SMB022</name>
+</rtept>
+<rtept lat="57.2037081520508" lon="-5.41802415651732">
+<ele>61.9755005514026</ele>
+<name>SMB023</name>
+</rtept>
+<rtept lat="57.2032127091432" lon="-5.41806114393857">
+<ele>65.3245112186551</ele>
+<name>SMB024</name>
+</rtept>
+<rtept lat="57.2025402111243" lon="-5.41766766347861">
+<ele>69.3261040266454</ele>
+<name>SMB025</name>
+</rtept>
+<rtept lat="57.2019353799731" lon="-5.41759515784553">
+<ele>70.9586327263236</ele>
+<name>SMB026</name>
+</rtept>
+<rtept lat="57.2007661212832" lon="-5.41695700934609">
+<ele>83.9018639716089</ele>
+<name>SMB027</name>
+</rtept>
+<rtept lat="57.2002482773908" lon="-5.41682631324742">
+<ele>78.0318639716089</ele>
+<name>SMB028</name>
+</rtept>
+<rtept lat="57.1996250442968" lon="-5.41693431040631">
+<ele>82.9749882299423</ele>
+<name>SMB029</name>
+</rtept>
+<rtept lat="57.1990950488051" lon="-5.41724966940974">
+<ele>75</ele>
+<name>SMB030</name>
+</rtept>
+<rtept lat="57.1987224624637" lon="-5.41723177829988">
+<ele>75.8076472470522</ele>
+<name>SMB031</name>
+</rtept>
+<rtept lat="57.198149395599" lon="-5.4178081278959">
+<ele>86.983128321445</ele>
+<name>SMB032</name>
+</rtept>
+<rtept lat="57.1971289068314" lon="-5.41797873139928">
+<ele>104.07152353375</ele>
+<name>SMB033</name>
+</rtept>
+<rtept lat="57.1964338610995" lon="-5.41874249267618">
+<ele>90.438624809739</ele>
+<name>SMB034</name>
+</rtept>
+<rtept lat="57.1959863667823" lon="-5.41899919014584">
+<ele>89.1898358233333</ele>
+<name>SMB035</name>
+</rtept>
+<rtept lat="57.1955895023688" lon="-5.41954209287728">
+<ele>94.4552097011447</ele>
+<name>SMB036</name>
+</rtept>
+<rtept lat="57.1944877314136" lon="-5.42071527570958">
+<ele>95.3096101841926</ele>
+<name>SMB037</name>
+</rtept>
+<rtept lat="57.1941083657959" lon="-5.42111072069227">
+<ele>101.52855564034</ele>
+<name>SMB038</name>
+</rtept>
+<rtept lat="57.1934155553791" lon="-5.42179177335465">
+<ele>98.6069825189829</ele>
+<name>SMB039</name>
+</rtept>
+<rtept lat="57.1913733969054" lon="-5.42398716907021">
+<ele>103.483098420501</ele>
+<name>SMB040</name>
+</rtept>
+<rtept lat="57.1903593980578" lon="-5.42556562005531">
+<ele>116.24665020735</ele>
+<name>SMB041</name>
+</rtept>
+<rtept lat="57.1896032277172" lon="-5.42691952154449">
+<ele>128.228747315407</ele>
+<name>SMB042</name>
+</rtept>
+<rtept lat="57.1895968490628" lon="-5.42748189545624">
+<ele>165.786955230188</ele>
+<name>SMB043</name>
+</rtept>
+<rtept lat="57.1893524204778" lon="-5.42787317591867">
+<ele>163.936955230188</ele>
+<name>SMB044</name>
+</rtept>
+<rtept lat="57.1890979936095" lon="-5.42895894279306">
+<ele>158.240856612778</ele>
+<name>SMB045</name>
+</rtept>
+<rtept lat="57.1889114731289" lon="-5.4311769069291">
+<ele>201.380631078482</ele>
+<name>SMB046</name>
+</rtept>
+<rtept lat="57.1889224858845" lon="-5.43405894044219">
+<ele>250.478173950768</ele>
+<name>SMB047</name>
+</rtept>
+<rtept lat="57.188818263415" lon="-5.43491024938297">
+<ele>254.088984829426</ele>
+<name>SMB048</name>
+</rtept>
+<rtept lat="57.1885343250433" lon="-5.4354302615996">
+<ele>248.203011224985</ele>
+<name>SMB049</name>
+</rtept>
+<rtept lat="57.1891607749314" lon="-5.43684620526769">
+<ele>271.061685622358</ele>
+<name>SMB050</name>
+</rtept>
+<rtept lat="57.189047739836" lon="-5.4370343882777">
+<ele>278.381685622358</ele>
+<name>SMB051</name>
+</rtept>
+<rtept lat="57.1890714722349" lon="-5.43715249816661">
+<ele>279.551685622358</ele>
+<name>SMB052</name>
+</rtept>
+<rtept lat="57.1883350229185" lon="-5.43807746711425">
+<ele>327.781513214636</ele>
+<name>SMB053</name>
+</rtept>
+<rtept lat="57.188029967942" lon="-5.43871138523731">
+<ele>322.477633284092</ele>
+<name>SMB054</name>
+</rtept>
+<rtept lat="57.1883282133999" lon="-5.43937492727967">
+<ele>371.232709497881</ele>
+<name>SMB055</name>
+</rtept>
+<rtept lat="57.1880095297143" lon="-5.4399810753098">
+<ele>348.877358266974</ele>
+<name>SMB056</name>
+</rtept>
+<rtept lat="57.1879218466643" lon="-5.44055572806126">
+<ele>387.200259498358</ele>
+<name>SMB057</name>
+</rtept>
+<rtept lat="57.1886161543556" lon="-5.4409382470762">
+<ele>375.680832422781</ele>
+<name>SMB058</name>
+</rtept>
+<rtept lat="57.1895872499512" lon="-5.44171744403874">
+<ele>390.505046187019</ele>
+<name>SMB059</name>
+</rtept>
+<rtept lat="57.1895969257572" lon="-5.44293700695059">
+<ele>415.211737960601</ele>
+<name>SMB060</name>
+</rtept>
+<rtept lat="57.1898177726394" lon="-5.4432754892137">
+<ele>416.043737960577</ele>
+<name>SMB061</name>
+</rtept>
+<rtept lat="57.1906119391869" lon="-5.44316400885792">
+<ele>427.045815591633</ele>
+<name>SMB062</name>
+</rtept>
+<rtept lat="57.1909807723262" lon="-5.44282745245872">
+<ele>445.584189469451</ele>
+<name>SMB063</name>
+</rtept>
+<rtept lat="57.1912835113996" lon="-5.44280266076473">
+<ele>438.626731796688</ele>
+<name>SMB064</name>
+</rtept>
+<rtept lat="57.191891326159" lon="-5.442143925141">
+<ele>441.696806677067</ele>
+<name>SMB065</name>
+</rtept>
+<rtept lat="57.1921319149326" lon="-5.44123902271641">
+<ele>452.497255435276</ele>
+<name>SMB066</name>
+</rtept>
+<rtept lat="57.1924326330121" lon="-5.44076362002513">
+<ele>458.248366275692</ele>
+<name>SMB067</name>
+</rtept>
+<rtept lat="57.1930624545461" lon="-5.44087523827058">
+<ele>480.043754883862</ele>
+<name>SMB068</name>
+</rtept>
+<rtept lat="57.1935666224023" lon="-5.44137259535655">
+<ele>496.029829659414</ele>
+<name>SMB069</name>
+</rtept>
+<rtept lat="57.1942875040867" lon="-5.44072101074284">
+<ele>524.350307773495</ele>
+<name>SMB070</name>
+</rtept>
+<rtept lat="57.1947188227723" lon="-5.44072804248433">
+<ele>543.24464689889</ele>
+<name>SMB071</name>
+</rtept>
+<rtept lat="57.1949295934518" lon="-5.44058206079956">
+<ele>553.26436121459</ele>
+<name>SMB072</name>
+</rtept>
+<rtept lat="57.1951779485044" lon="-5.44070454245073">
+<ele>564.36436121459</ele>
+<name>SMB073</name>
+</rtept>
+<rtept lat="57.1952591995678" lon="-5.440364337242">
+<ele>566.85436121459</ele>
+<name>SMB074</name>
+</rtept>
+<rtept lat="57.1953838303274" lon="-5.44040905940443">
+<ele>579.347378590774</ele>
+<name>SMB075</name>
+</rtept>
+<rtept lat="57.1959368677235" lon="-5.44122233430049">
+<ele>605.182416861272</ele>
+<name>SMB076</name>
+</rtept>
+<rtept lat="57.1961182757412" lon="-5.44181885421076">
+<ele>623.782767303753</ele>
+<name>SMB077</name>
+</rtept>
+<rtept lat="57.1962765565994" lon="-5.44178391173996">
+<ele>632.592767303753</ele>
+<name>SMB078</name>
+</rtept>
+<rtept lat="57.1968377455165" lon="-5.44229988639597">
+<ele>654.664873536062</ele>
+<name>SMB079</name>
+</rtept>
+<rtept lat="57.1976324226212" lon="-5.44315229751368">
+<ele>690.562615895152</ele>
+<name>SMB080</name>
+</rtept>
+<rtept lat="57.1977838495559" lon="-5.44353076067688">
+<ele>692.582615895152</ele>
+<name>SMB081</name>
+</rtept>
+<rtept lat="57.1977957824281" lon="-5.44407840524156">
+<ele>693.80830095973</ele>
+<name>SMB082</name>
+</rtept>
+<rtept lat="57.198492156787" lon="-5.44523639092132">
+<ele>707.425730589032</ele>
+<name>SMB083</name>
+</rtept>
+<rtept lat="57.1985819503481" lon="-5.44622191799559">
+<ele>701.575730589032</ele>
+<name>SMB084</name>
+</rtept>
+<rtept lat="57.1988738875161" lon="-5.44737536569961">
+<ele>711.615061902666</ele>
+<name>SMB085</name>
+</rtept>
+<rtept lat="57.1992751153563" lon="-5.44880402801767">
+<ele>730.037031003761</ele>
+<name>SMB086</name>
+</rtept>
+<rtept lat="57.1996155155195" lon="-5.44878279718328">
+<ele>747.946704298353</ele>
+<name>SMB087</name>
+</rtept>
+<rtept lat="57.1994340276372" lon="-5.4482557385442">
+<ele>738.340704298258</ele>
+<name>SMB088</name>
+</rtept>
+<rtept lat="57.1991117911298" lon="-5.4478778634327">
+<ele>715.425061902666</ele>
+<name>SMB089</name>
+</rtept>
+<rtept lat="57.1991115661414" lon="-5.44723191612008">
+<ele>719.215061902666</ele>
+<name>SMB090</name>
+</rtept>
+<rtept lat="57.1987742840902" lon="-5.44625641621084">
+<ele>704.455730589032</ele>
+<name>SMB091</name>
+</rtept>
+<rtept lat="57.1986311974637" lon="-5.44508373362619">
+<ele>707.910045524466</ele>
+<name>SMB092</name>
+</rtept>
+<rtept lat="57.1982131061651" lon="-5.4429579730895">
+<ele>685.642114798725</ele>
+<name>SMB093</name>
+</rtept>
+<rtept lat="57.1982196560526" lon="-5.44206424735575">
+<ele>700.122224326676</ele>
+<name>SMB094</name>
+</rtept>
+<rtept lat="57.1982049297461" lon="-5.44030732909522">
+<ele>680.527657809448</ele>
+<name>SMB095</name>
+</rtept>
+<rtept lat="57.1985163364213" lon="-5.43944197706417">
+<ele>634.914154172039</ele>
+<name>SMB096</name>
+</rtept>
+<rtept lat="57.198489889942" lon="-5.43778332866605">
+<ele>568.616311870289</ele>
+<name>SMB097</name>
+</rtept>
+<rtept lat="57.198737971279" lon="-5.43725986163898">
+<ele>568.496983181572</ele>
+<name>SMB098</name>
+</rtept>
+<rtept lat="57.1986080804105" lon="-5.43675092289862">
+<ele>561.236983181572</ele>
+<name>SMB099</name>
+</rtept>
+<rtept lat="57.1985672021173" lon="-5.43528967532459">
+<ele>546.257390604162</ele>
+<name>SMB100</name>
+</rtept>
+<rtept lat="57.198807211041" lon="-5.43473231677364">
+<ele>499.232786898327</ele>
+<name>SMB101</name>
+</rtept>
+<rtept lat="57.1986988622325" lon="-5.43409289296348">
+<ele>486.972786898327</ele>
+<name>SMB102</name>
+</rtept>
+<rtept lat="57.1989821957438" lon="-5.43228083454998">
+<ele>420.281012432671</ele>
+<name>SMB103</name>
+</rtept>
+<rtept lat="57.1993956555642" lon="-5.43195486737592">
+<ele>470.682398415899</ele>
+<name>SMB104</name>
+</rtept>
+<rtept lat="57.1992756139797" lon="-5.43141372954195">
+<ele>383.367390373564</ele>
+<name>SMB105</name>
+</rtept>
+<rtept lat="57.1998582299489" lon="-5.43049064643087">
+<ele>382.886867384863</ele>
+<name>SMB106</name>
+</rtept>
+<rtept lat="57.2000202592128" lon="-5.42966100085717">
+<ele>355.906856717634</ele>
+<name>SMB107</name>
+</rtept>
+<rtept lat="57.1997648646196" lon="-5.42880917896429">
+<ele>336.796856717634</ele>
+<name>SMB108</name>
+</rtept>
+<rtept lat="57.1998964011882" lon="-5.42794357520243">
+<ele>315.358298662043</ele>
+<name>SMB109</name>
+</rtept>
+<rtept lat="57.1996812546172" lon="-5.4275923710169">
+<ele>314.462197281218</ele>
+<name>SMB110</name>
+</rtept>
+<rtept lat="57.1993433962518" lon="-5.42646793064576">
+<ele>258.189556407785</ele>
+<name>SMB111</name>
+</rtept>
+<rtept lat="57.1998308918491" lon="-5.42573470084095">
+<ele>273.261694641781</ele>
+<name>SMB112</name>
+</rtept>
+<rtept lat="57.1998889477758" lon="-5.42443165319425">
+<ele>233.168037725449</ele>
+<name>SMB113</name>
+</rtept>
+<rtept lat="57.1993515808973" lon="-5.42304032300477">
+<ele>155.680802173758</ele>
+<name>SMB114</name>
+</rtept>
+<rtept lat="57.1992199707765" lon="-5.42160379323564">
+<ele>120.596651415002</ele>
+<name>SMB115</name>
+</rtept>
+<rtept lat="57.1992805329766" lon="-5.42136096913203">
+<ele>115.256651415002</ele>
+<name>SMB116</name>
+</rtept>
+<rtept lat="57.1992103633037" lon="-5.41964858010191">
+<ele>85.7573898158074</ele>
+<name>SMB117</name>
+</rtept>
+<rtept lat="57.1990218679563" lon="-5.41732902450576">
+<ele>75.0455393669277</ele>
+<name>SMB118</name>
+</rtept>
+<rtept lat="57.1990913719331" lon="-5.4172526418039">
+<ele>75</ele>
+<name>SMB119</name>
+</rtept>
+<rtept lat="57.1996298845266" lon="-5.41695463262532">
+<ele>83.0529882299423</ele>
+<name>SMB120</name>
+</rtept>
+<rtept lat="57.2002719519827" lon="-5.41681525227177">
+<ele>78.1618639716148</ele>
+<name>SMB121</name>
+</rtept>
+<rtept lat="57.2007530272242" lon="-5.41697567383103">
+<ele>83.9318639716148</ele>
+<name>SMB122</name>
+</rtept>
+<rtept lat="57.2019487370634" lon="-5.41763283244344">
+<ele>70.9286327263236</ele>
+<name>SMB123</name>
+</rtept>
+<rtept lat="57.202523083547" lon="-5.41766939198086">
+<ele>69.4381040266454</ele>
+<name>SMB124</name>
+</rtept>
+<rtept lat="57.2032135158136" lon="-5.41806453132996">
+<ele>65.3135112186551</ele>
+<name>SMB125</name>
+</rtept>
+<rtept lat="57.2037044751594" lon="-5.41802712918715">
+<ele>62.0035005514085</ele>
+<name>SMB126</name>
+</rtept>
+<rtept lat="57.2041855482867" lon="-5.4181875830783">
+<ele>60.4029718517244</ele>
+<name>SMB127</name>
+</rtept>
+<rtept lat="57.2058139620688" lon="-5.41847076281668">
+<ele>60.8112244315028</ele>
+<name>SMB128</name>
+</rtept>
+<rtept lat="57.2062314024416" lon="-5.4183271709996">
+<ele>59.3370765282154</ele>
+<name>SMB129</name>
+</rtept>
+<rtept lat="57.2066985930886" lon="-5.41833726784287">
+<ele>70.9370765282154</ele>
+<name>SMB130</name>
+</rtept>
+<rtept lat="57.2070917565435" lon="-5.41875465514974">
+<ele>73.9305130761624</ele>
+<name>SMB131</name>
+</rtept>
+<rtept lat="57.2082418181325" lon="-5.41861259437002">
+<ele>68.1646141424864</ele>
+<name>SMB132</name>
+</rtept>
+<rtept lat="57.208732834802" lon="-5.41807821268865">
+<ele>64.5256715418488</ele>
+<name>SMB133</name>
+</rtept>
+<rtept lat="57.2087861872608" lon="-5.41809971561165">
+<ele>64.4756715418488</ele>
+<name>SMB134</name>
+</rtept>
+<rtept lat="57.2089332630189" lon="-5.41798079307846">
+<ele>64.2356715418488</ele>
+<name>SMB135</name>
+</rtept>
+<rtept lat="57.2092013760641" lon="-5.41803873367522">
+<ele>61.1513402282119</ele>
+<name>SMB136</name>
+</rtept>
+<rtept lat="57.2093888223644" lon="-5.41775787881788">
+<ele>58.9313402282119</ele>
+<name>SMB137</name>
+</rtept>
+<rtept lat="57.2094224398037" lon="-5.41784382227885">
+<ele>58.4013402282119</ele>
+<name>SMB138</name>
+</rtept>
+<rtept lat="57.2095878997765" lon="-5.41771003101247">
+<ele>56.3313402282119</ele>
+<name>SMB139</name>
+</rtept>
+<rtept lat="57.2095964531063" lon="-5.41739605501761">
+<ele>44.6002451161385</ele>
+<name>SMB140</name>
+</rtept>
+<rtept lat="57.2098578137362" lon="-5.41770187018782">
+<ele>41.0259010344624</ele>
+<name>SMB141</name>
+</rtept>
+<rtept lat="57.2103327105927" lon="-5.41693402439772">
+<ele>27.0875269470215</ele>
+<name>SMB142</name>
+</rtept>
+<rtept lat="57.2106326765504" lon="-5.41681266770496">
+<ele>24.4613373727322</ele>
+<name>SMB143</name>
+</rtept>
+<rtept lat="57.2109339580458" lon="-5.41697307489211">
+<ele>19.3103830020308</ele>
+<name>SMB144</name>
+</rtept>
+<rtept lat="57.2113670806148" lon="-5.41691373666498">
+<ele>18.0195899525046</ele>
+<name>SMB145</name>
+</rtept>
+<rtept lat="57.2116257768781" lon="-5.41698737047298">
+<ele>15.3495899525046</ele>
+<name>SMB146</name>
+</rtept>
+<rtept lat="57.2121575723552" lon="-5.41660580275344">
+<ele>13.3613430836976</ele>
+<name>SMB147</name>
+</rtept>
+<rtept lat="57.2120971813713" lon="-5.41519195245583">
+<ele>13.7854150037766</ele>
+<name>SMB148</name>
+</rtept>
+</rte>
+</gpx>

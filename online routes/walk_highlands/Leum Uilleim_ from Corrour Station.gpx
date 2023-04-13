@@ -1,0 +1,614 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Leum Uilleim, from Corrour Station</name>
+<rtept lat="56.7602551634451" lon="-4.69064195868817">
+<ele>408.491562073233</ele>
+<name>LU001</name>
+</rtept>
+<rtept lat="56.7605615705646" lon="-4.69143624977912">
+<ele>408.398119027738</ele>
+<name>LU002</name>
+</rtept>
+<rtept lat="56.7603954447829" lon="-4.69180399249452">
+<ele>408</ele>
+<name>LU003</name>
+</rtept>
+<rtept lat="56.759383" lon="-4.692845">
+<ele>406</ele>
+<name>LU004</name>
+</rtept>
+<rtept lat="56.759128" lon="-4.693589">
+<ele>413</ele>
+<name>LU005</name>
+</rtept>
+<rtept lat="56.759231" lon="-4.694724">
+<ele>401</ele>
+<name>LU006</name>
+</rtept>
+<rtept lat="56.759439" lon="-4.694992">
+<ele>400</ele>
+<name>LU007</name>
+</rtept>
+<rtept lat="56.759501" lon="-4.695264">
+<ele>400</ele>
+<name>LU008</name>
+</rtept>
+<rtept lat="56.759453" lon="-4.696568">
+<ele>412</ele>
+<name>LU009</name>
+</rtept>
+<rtept lat="56.759673" lon="-4.698327">
+<ele>417</ele>
+<name>LU010</name>
+</rtept>
+<rtept lat="56.759559" lon="-4.699021">
+<ele>419</ele>
+<name>LU011</name>
+</rtept>
+<rtept lat="56.759253" lon="-4.700109">
+<ele>418</ele>
+<name>LU012</name>
+</rtept>
+<rtept lat="56.758944" lon="-4.700285">
+<ele>420</ele>
+<name>LU013</name>
+</rtept>
+<rtept lat="56.758695" lon="-4.700645">
+<ele>418</ele>
+<name>LU014</name>
+</rtept>
+<rtept lat="56.758155" lon="-4.700799">
+<ele>433</ele>
+<name>LU015</name>
+</rtept>
+<rtept lat="56.758024" lon="-4.700988">
+<ele>433</ele>
+<name>LU016</name>
+</rtept>
+<rtept lat="56.757698" lon="-4.701007">
+<ele>440</ele>
+<name>LU017</name>
+</rtept>
+<rtept lat="56.757204" lon="-4.701801">
+<ele>443</ele>
+<name>LU018</name>
+</rtept>
+<rtept lat="56.756764" lon="-4.702223">
+<ele>450</ele>
+<name>LU019</name>
+</rtept>
+<rtept lat="56.756194" lon="-4.702499">
+<ele>456</ele>
+<name>LU020</name>
+</rtept>
+<rtept lat="56.755907" lon="-4.702788">
+<ele>459</ele>
+<name>LU021</name>
+</rtept>
+<rtept lat="56.754309" lon="-4.70343">
+<ele>473</ele>
+<name>LU022</name>
+</rtept>
+<rtept lat="56.753782" lon="-4.703879">
+<ele>483</ele>
+<name>LU023</name>
+</rtept>
+<rtept lat="56.75347" lon="-4.703936">
+<ele>486</ele>
+<name>LU024</name>
+</rtept>
+<rtept lat="56.752832" lon="-4.704417">
+<ele>490</ele>
+<name>LU025</name>
+</rtept>
+<rtept lat="56.752024" lon="-4.705166">
+<ele>500</ele>
+<name>LU026</name>
+</rtept>
+<rtept lat="56.751788" lon="-4.705269">
+<ele>506</ele>
+<name>LU027</name>
+</rtept>
+<rtept lat="56.750668" lon="-4.706563">
+<ele>535</ele>
+<name>LU028</name>
+</rtept>
+<rtept lat="56.750193" lon="-4.706647">
+<ele>544</ele>
+<name>LU029</name>
+</rtept>
+<rtept lat="56.749373" lon="-4.707387">
+<ele>561</ele>
+<name>LU030</name>
+</rtept>
+<rtept lat="56.748898" lon="-4.707545">
+<ele>570</ele>
+<name>LU031</name>
+</rtept>
+<rtept lat="56.747597" lon="-4.709177">
+<ele>620</ele>
+<name>LU032</name>
+</rtept>
+<rtept lat="56.747451" lon="-4.710045">
+<ele>636</ele>
+<name>LU033</name>
+</rtept>
+<rtept lat="56.747235" lon="-4.710493">
+<ele>652</ele>
+<name>LU034</name>
+</rtept>
+<rtept lat="56.747155" lon="-4.711513">
+<ele>673</ele>
+<name>LU035</name>
+</rtept>
+<rtept lat="56.747054" lon="-4.711741">
+<ele>678</ele>
+<name>LU036</name>
+</rtept>
+<rtept lat="56.746957" lon="-4.712485">
+<ele>697</ele>
+<name>LU037</name>
+</rtept>
+<rtept lat="56.746484" lon="-4.713516">
+<ele>706</ele>
+<name>LU038</name>
+</rtept>
+<rtept lat="56.74605" lon="-4.7153">
+<ele>739</ele>
+<name>LU039</name>
+</rtept>
+<rtept lat="56.745752" lon="-4.715529">
+<ele>758</ele>
+<name>LU040</name>
+</rtept>
+<rtept lat="56.745269" lon="-4.716572">
+<ele>777</ele>
+<name>LU041</name>
+</rtept>
+<rtept lat="56.745051" lon="-4.716739">
+<ele>787</ele>
+<name>LU042</name>
+</rtept>
+<rtept lat="56.744666" lon="-4.717929">
+<ele>804</ele>
+<name>LU043</name>
+</rtept>
+<rtept lat="56.744379" lon="-4.718229">
+<ele>821</ele>
+<name>LU044</name>
+</rtept>
+<rtept lat="56.744034" lon="-4.719219">
+<ele>831</ele>
+<name>LU045</name>
+</rtept>
+<rtept lat="56.744005" lon="-4.719066">
+<ele>837</ele>
+<name>LU046</name>
+</rtept>
+<rtept lat="56.74393" lon="-4.719134">
+<ele>840</ele>
+<name>LU047</name>
+</rtept>
+<rtept lat="56.743139" lon="-4.720207">
+<ele>861</ele>
+<name>LU048</name>
+</rtept>
+<rtept lat="56.742515" lon="-4.721502">
+<ele>876</ele>
+<name>LU049</name>
+</rtept>
+<rtept lat="56.742064" lon="-4.72211">
+<ele>879</ele>
+<name>LU050</name>
+</rtept>
+<rtept lat="56.741125" lon="-4.72372">
+<ele>893</ele>
+<name>LU051</name>
+</rtept>
+<rtept lat="56.740643" lon="-4.724918">
+<ele>891</ele>
+<name>LU052</name>
+</rtept>
+<rtept lat="56.740086" lon="-4.725801">
+<ele>879</ele>
+<name>LU053</name>
+</rtept>
+<rtept lat="56.739822" lon="-4.726897">
+<ele>894</ele>
+<name>LU054</name>
+</rtept>
+<rtept lat="56.739318" lon="-4.728099">
+<ele>901</ele>
+<name>LU055</name>
+</rtept>
+<rtept lat="56.739051" lon="-4.729397">
+<ele>905</ele>
+<name>LU056</name>
+</rtept>
+<rtept lat="56.738972" lon="-4.731956">
+<ele>903</ele>
+<name>LU057</name>
+</rtept>
+<rtept lat="56.738789" lon="-4.733255">
+<ele>898</ele>
+<name>LU058</name>
+</rtept>
+<rtept lat="56.738899" lon="-4.733681">
+<ele>892</ele>
+<name>LU059</name>
+</rtept>
+<rtept lat="56.738863" lon="-4.734263">
+<ele>868</ele>
+<name>LU060</name>
+</rtept>
+<rtept lat="56.738946" lon="-4.734525">
+<ele>873</ele>
+<name>LU061</name>
+</rtept>
+<rtept lat="56.739131" lon="-4.736433">
+<ele>865</ele>
+<name>LU062</name>
+</rtept>
+<rtept lat="56.739121" lon="-4.73716">
+<ele>852</ele>
+<name>LU063</name>
+</rtept>
+<rtept lat="56.739234" lon="-4.737551">
+<ele>853</ele>
+<name>LU064</name>
+</rtept>
+<rtept lat="56.739111" lon="-4.738706">
+<ele>840</ele>
+<name>LU065</name>
+</rtept>
+<rtept lat="56.738873" lon="-4.739789">
+<ele>829</ele>
+<name>LU066</name>
+</rtept>
+<rtept lat="56.738866" lon="-4.740371">
+<ele>821</ele>
+<name>LU067</name>
+</rtept>
+<rtept lat="56.739" lon="-4.741064">
+<ele>811</ele>
+<name>LU068</name>
+</rtept>
+<rtept lat="56.739346" lon="-4.741906">
+<ele>802</ele>
+<name>LU069</name>
+</rtept>
+<rtept lat="56.739738" lon="-4.7424">
+<ele>802</ele>
+<name>LU070</name>
+</rtept>
+<rtept lat="56.740216" lon="-4.742367">
+<ele>807</ele>
+<name>LU071</name>
+</rtept>
+<rtept lat="56.740688" lon="-4.7425">
+<ele>809</ele>
+<name>LU072</name>
+</rtept>
+<rtept lat="56.741085" lon="-4.74241">
+<ele>811</ele>
+<name>LU073</name>
+</rtept>
+<rtept lat="56.741643" lon="-4.743012">
+<ele>798</ele>
+<name>LU074</name>
+</rtept>
+<rtept lat="56.742434" lon="-4.743044">
+<ele>804</ele>
+<name>LU075</name>
+</rtept>
+<rtept lat="56.743278" lon="-4.743656">
+<ele>823</ele>
+<name>LU076</name>
+</rtept>
+<rtept lat="56.744065" lon="-4.743793">
+<ele>828</ele>
+<name>LU077</name>
+</rtept>
+<rtept lat="56.74443" lon="-4.743434">
+<ele>824</ele>
+<name>LU078</name>
+</rtept>
+<rtept lat="56.744829" lon="-4.743485">
+<ele>821</ele>
+<name>LU079</name>
+</rtept>
+<rtept lat="56.745122" lon="-4.743271">
+<ele>819</ele>
+<name>LU080</name>
+</rtept>
+<rtept lat="56.745737" lon="-4.74351">
+<ele>821</ele>
+<name>LU081</name>
+</rtept>
+<rtept lat="56.746231" lon="-4.743032">
+<ele>809</ele>
+<name>LU082</name>
+</rtept>
+<rtept lat="56.746852" lon="-4.742655">
+<ele>806</ele>
+<name>LU083</name>
+</rtept>
+<rtept lat="56.747042" lon="-4.742175">
+<ele>799</ele>
+<name>LU084</name>
+</rtept>
+<rtept lat="56.747683" lon="-4.741185">
+<ele>793</ele>
+<name>LU085</name>
+</rtept>
+<rtept lat="56.748957" lon="-4.739615">
+<ele>782</ele>
+<name>LU086</name>
+</rtept>
+<rtept lat="56.749998" lon="-4.737943">
+<ele>774</ele>
+<name>LU087</name>
+</rtept>
+<rtept lat="56.751025" lon="-4.736724">
+<ele>774</ele>
+<name>LU088</name>
+</rtept>
+<rtept lat="56.752487" lon="-4.735465">
+<ele>762</ele>
+<name>LU089</name>
+</rtept>
+<rtept lat="56.752639" lon="-4.734962">
+<ele>761</ele>
+<name>LU090</name>
+</rtept>
+<rtept lat="56.753409" lon="-4.734144">
+<ele>748</ele>
+<name>LU091</name>
+</rtept>
+<rtept lat="56.754242" lon="-4.732719">
+<ele>740</ele>
+<name>LU092</name>
+</rtept>
+<rtept lat="56.755236" lon="-4.731621">
+<ele>721</ele>
+<name>LU093</name>
+</rtept>
+<rtept lat="56.755384" lon="-4.731281">
+<ele>720</ele>
+<name>LU094</name>
+</rtept>
+<rtept lat="56.755808" lon="-4.730814">
+<ele>714</ele>
+<name>LU095</name>
+</rtept>
+<rtept lat="56.756365" lon="-4.730623">
+<ele>705</ele>
+<name>LU096</name>
+</rtept>
+<rtept lat="56.756869" lon="-4.730141">
+<ele>698</ele>
+<name>LU097</name>
+</rtept>
+<rtept lat="56.75722" lon="-4.729311">
+<ele>691</ele>
+<name>LU098</name>
+</rtept>
+<rtept lat="56.757593" lon="-4.729064">
+<ele>686</ele>
+<name>LU099</name>
+</rtept>
+<rtept lat="56.758198" lon="-4.728103">
+<ele>670</ele>
+<name>LU100</name>
+</rtept>
+<rtept lat="56.758376" lon="-4.727273">
+<ele>653</ele>
+<name>LU101</name>
+</rtept>
+<rtept lat="56.758934" lon="-4.726471">
+<ele>635</ele>
+<name>LU102</name>
+</rtept>
+<rtept lat="56.75936" lon="-4.725545">
+<ele>622</ele>
+<name>LU103</name>
+</rtept>
+<rtept lat="56.75983" lon="-4.724932">
+<ele>612</ele>
+<name>LU104</name>
+</rtept>
+<rtept lat="56.759835" lon="-4.724332">
+<ele>593</ele>
+<name>LU105</name>
+</rtept>
+<rtept lat="56.759965" lon="-4.723787">
+<ele>588</ele>
+<name>LU106</name>
+</rtept>
+<rtept lat="56.760248" lon="-4.723471">
+<ele>590</ele>
+<name>LU107</name>
+</rtept>
+<rtept lat="56.760676" lon="-4.722593">
+<ele>590</ele>
+<name>LU108</name>
+</rtept>
+<rtept lat="56.7613" lon="-4.721654">
+<ele>580</ele>
+<name>LU109</name>
+</rtept>
+<rtept lat="56.761566" lon="-4.720888">
+<ele>573</ele>
+<name>LU110</name>
+</rtept>
+<rtept lat="56.761853" lon="-4.720578">
+<ele>568</ele>
+<name>LU111</name>
+</rtept>
+<rtept lat="56.761877" lon="-4.719754">
+<ele>562</ele>
+<name>LU112</name>
+</rtept>
+<rtept lat="56.762031" lon="-4.718949">
+<ele>568</ele>
+<name>LU113</name>
+</rtept>
+<rtept lat="56.762189" lon="-4.718621">
+<ele>567</ele>
+<name>LU114</name>
+</rtept>
+<rtept lat="56.762223" lon="-4.718329">
+<ele>566</ele>
+<name>LU115</name>
+</rtept>
+<rtept lat="56.762446" lon="-4.718161">
+<ele>559</ele>
+<name>LU116</name>
+</rtept>
+<rtept lat="56.762636" lon="-4.717684">
+<ele>565</ele>
+<name>LU117</name>
+</rtept>
+<rtept lat="56.76273" lon="-4.717273">
+<ele>559</ele>
+<name>LU118</name>
+</rtept>
+<rtept lat="56.762694" lon="-4.716819">
+<ele>557</ele>
+<name>LU119</name>
+</rtept>
+<rtept lat="56.762766" lon="-4.716397">
+<ele>557</ele>
+<name>LU120</name>
+</rtept>
+<rtept lat="56.763127" lon="-4.716019">
+<ele>560</ele>
+<name>LU121</name>
+</rtept>
+<rtept lat="56.763219" lon="-4.71474">
+<ele>546</ele>
+<name>LU122</name>
+</rtept>
+<rtept lat="56.763348" lon="-4.714022">
+<ele>538</ele>
+<name>LU123</name>
+</rtept>
+<rtept lat="56.763284" lon="-4.712987">
+<ele>524</ele>
+<name>LU124</name>
+</rtept>
+<rtept lat="56.763323" lon="-4.712266">
+<ele>513</ele>
+<name>LU125</name>
+</rtept>
+<rtept lat="56.763538" lon="-4.712071">
+<ele>508</ele>
+<name>LU126</name>
+</rtept>
+<rtept lat="56.763509" lon="-4.711649">
+<ele>502</ele>
+<name>LU127</name>
+</rtept>
+<rtept lat="56.763625" lon="-4.710809">
+<ele>487</ele>
+<name>LU128</name>
+</rtept>
+<rtept lat="56.763656" lon="-4.709347">
+<ele>462</ele>
+<name>LU129</name>
+</rtept>
+<rtept lat="56.763769" lon="-4.708937">
+<ele>456</ele>
+<name>LU130</name>
+</rtept>
+<rtept lat="56.763837" lon="-4.708054">
+<ele>447</ele>
+<name>LU131</name>
+</rtept>
+<rtept lat="56.763966" lon="-4.707836">
+<ele>445</ele>
+<name>LU132</name>
+</rtept>
+<rtept lat="56.764012" lon="-4.707385">
+<ele>437</ele>
+<name>LU133</name>
+</rtept>
+<rtept lat="56.763868" lon="-4.706523">
+<ele>428</ele>
+<name>LU134</name>
+</rtept>
+<rtept lat="56.764005" lon="-4.704786">
+<ele>417</ele>
+<name>LU135</name>
+</rtept>
+<rtept lat="56.763956" lon="-4.70436">
+<ele>413</ele>
+<name>LU136</name>
+</rtept>
+<rtept lat="56.764051" lon="-4.703795">
+<ele>411</ele>
+<name>LU137</name>
+</rtept>
+<rtept lat="56.763982" lon="-4.702904">
+<ele>411</ele>
+<name>LU138</name>
+</rtept>
+<rtept lat="56.764016" lon="-4.702189">
+<ele>413</ele>
+<name>LU139</name>
+</rtept>
+<rtept lat="56.763836" lon="-4.701353">
+<ele>415</ele>
+<name>LU140</name>
+</rtept>
+<rtept lat="56.763812" lon="-4.70066">
+<ele>415</ele>
+<name>LU141</name>
+</rtept>
+<rtept lat="56.763457" lon="-4.699918">
+<ele>405</ele>
+<name>LU142</name>
+</rtept>
+<rtept lat="56.763473" lon="-4.699657">
+<ele>407</ele>
+<name>LU143</name>
+</rtept>
+<rtept lat="56.763784" lon="-4.698645">
+<ele>411</ele>
+<name>LU144</name>
+</rtept>
+<rtept lat="56.763623" lon="-4.697565">
+<ele>411</ele>
+<name>LU145</name>
+</rtept>
+<rtept lat="56.763209" lon="-4.696895">
+<ele>409</ele>
+<name>LU146</name>
+</rtept>
+<rtept lat="56.762483" lon="-4.694974">
+<ele>404</ele>
+<name>LU147</name>
+</rtept>
+<rtept lat="56.760503" lon="-4.692017">
+<ele>412</ele>
+<name>LU148</name>
+</rtept>
+<rtept lat="56.760431" lon="-4.691783">
+<ele>408</ele>
+<name>LU149</name>
+</rtept>
+<rtept lat="56.760577" lon="-4.691427">
+<ele>408</ele>
+<name>LU150</name>
+</rtept>
+<rtept lat="56.760256" lon="-4.690623">
+<ele>412</ele>
+<name>LU151</name>
+</rtept>
+</rte>
+</gpx>

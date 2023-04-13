@@ -1,0 +1,526 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Ruthven and Glen Tromie Circuit</name>
+<rtept lat="57.0712074725302" lon="-4.03898187628372">
+<ele>231.70661284042</ele>
+<name>RGT001</name>
+</rtept>
+<rtept lat="57.0707758094494" lon="-4.03966591260044">
+<ele>234.357760111911</ele>
+<name>RGT002</name>
+</rtept>
+<rtept lat="57.0701152900017" lon="-4.03862171984475">
+<ele>244.156567019653</ele>
+<name>RGT003</name>
+</rtept>
+<rtept lat="57.0692315691617" lon="-4.04052475400113">
+<ele>251.959648098168</ele>
+<name>RGT004</name>
+</rtept>
+<rtept lat="57.0690221911362" lon="-4.04047036924617">
+<ele>253.936793042658</ele>
+<name>RGT005</name>
+</rtept>
+<rtept lat="57.0677007397184" lon="-4.04127704102469">
+<ele>261.778314634918</ele>
+<name>RGT006</name>
+</rtept>
+<rtept lat="57.0674000895435" lon="-4.0410889778712">
+<ele>266.865691926828</ele>
+<name>RGT007</name>
+</rtept>
+<rtept lat="57.0671008352919" lon="-4.04081521890716">
+<ele>270.132205230526</ele>
+<name>RGT008</name>
+</rtept>
+<rtept lat="57.0664939488465" lon="-4.04078189952314">
+<ele>271.958151573807</ele>
+<name>RGT009</name>
+</rtept>
+<rtept lat="57.0661300568189" lon="-4.04089058167654">
+<ele>272.095531859563</ele>
+<name>RGT010</name>
+</rtept>
+<rtept lat="57.065290101448" lon="-4.04082302382006">
+<ele>271.057215583327</ele>
+<name>RGT011</name>
+</rtept>
+<rtept lat="57.0651535409642" lon="-4.04060109906599">
+<ele>270.68632285068</ele>
+<name>RGT012</name>
+</rtept>
+<rtept lat="57.0648868552891" lon="-4.04047924685384">
+<ele>270.454035188181</ele>
+<name>RGT013</name>
+</rtept>
+<rtept lat="57.0646915907086" lon="-4.0402755464548">
+<ele>270.110052397722</ele>
+<name>RGT014</name>
+</rtept>
+<rtept lat="57.0644182743567" lon="-4.04056073875501">
+<ele>270</ele>
+<name>RGT015</name>
+</rtept>
+<rtept lat="57.0641667490822" lon="-4.04022529952625">
+<ele>270</ele>
+<name>RGT016</name>
+</rtept>
+<rtept lat="57.0641641493893" lon="-4.03966765987669">
+<ele>271.39844798608</ele>
+<name>RGT017</name>
+</rtept>
+<rtept lat="57.0636907113339" lon="-4.03861247268089">
+<ele>280.576064478406</ele>
+<name>RGT018</name>
+</rtept>
+<rtept lat="57.0635257572234" lon="-4.03798161457122">
+<ele>282.756003223091</ele>
+<name>RGT019</name>
+</rtept>
+<rtept lat="57.0626892846858" lon="-4.03769990624474">
+<ele>289.434801751724</ele>
+<name>RGT020</name>
+</rtept>
+<rtept lat="57.0622525838485" lon="-4.03653959409627">
+<ele>295.476797193187</ele>
+<name>RGT021</name>
+</rtept>
+<rtept lat="57.0615054648436" lon="-4.03579112843248">
+<ele>298.675249408032</ele>
+<name>RGT022</name>
+</rtept>
+<rtept lat="57.0608318642818" lon="-4.03626881135542">
+<ele>303.606505945702</ele>
+<name>RGT023</name>
+</rtept>
+<rtept lat="57.0592987922441" lon="-4.0364421251428">
+<ele>324.565173217239</ele>
+<name>RGT024</name>
+</rtept>
+<rtept lat="57.0588202837292" lon="-4.03641591806166">
+<ele>328.593744006396</ele>
+<name>RGT025</name>
+</rtept>
+<rtept lat="57.0580456433063" lon="-4.03592328262007">
+<ele>332.85217765786</ele>
+<name>RGT026</name>
+</rtept>
+<rtept lat="57.0577279081984" lon="-4.03534848616925">
+<ele>337.481433261007</ele>
+<name>RGT027</name>
+</rtept>
+<rtept lat="57.0573120906634" lon="-4.03433956842507">
+<ele>342.861404421313</ele>
+<name>RGT028</name>
+</rtept>
+<rtept lat="57.0571504367331" lon="-4.03422353407724">
+<ele>343.641404421313</ele>
+<name>RGT029</name>
+</rtept>
+<rtept lat="57.0566966608094" lon="-4.03411295927136">
+<ele>342.379303355562</ele>
+<name>RGT030</name>
+</rtept>
+<rtept lat="57.055530761632" lon="-4.03325601032593">
+<ele>342.873557790322</ele>
+<name>RGT031</name>
+</rtept>
+<rtept lat="57.0549940460247" lon="-4.03249781230881">
+<ele>344.979557790322</ele>
+<name>RGT032</name>
+</rtept>
+<rtept lat="57.0541413695921" lon="-4.03249408422974">
+<ele>349.626800645675</ele>
+<name>RGT033</name>
+</rtept>
+<rtept lat="57.0538767602296" lon="-4.03224382453101">
+<ele>351.965528950635</ele>
+<name>RGT034</name>
+</rtept>
+<rtept lat="57.0535283684468" lon="-4.03211760689233">
+<ele>355.215528950635</ele>
+<name>RGT035</name>
+</rtept>
+<rtept lat="57.0533259351268" lon="-4.03163495616353">
+<ele>358.869902977373</ele>
+<name>RGT036</name>
+</rtept>
+<rtept lat="57.052712931171" lon="-4.03125850148928">
+<ele>367.569055440978</ele>
+<name>RGT037</name>
+</rtept>
+<rtept lat="57.0520629648188" lon="-4.03027985667997">
+<ele>378.796650878517</ele>
+<name>RGT038</name>
+</rtept>
+<rtept lat="57.0517479792026" lon="-4.02953387321012">
+<ele>385.189608763654</ele>
+<name>RGT039</name>
+</rtept>
+<rtept lat="57.0514463946851" lon="-4.0286814595886">
+<ele>391.46932081118</ele>
+<name>RGT040</name>
+</rtept>
+<rtept lat="57.0513411308271" lon="-4.02796837193468">
+<ele>394.776020223095</ele>
+<name>RGT041</name>
+</rtept>
+<rtept lat="57.0507937507255" lon="-4.02714545361926">
+<ele>400.735557790324</ele>
+<name>RGT042</name>
+</rtept>
+<rtept lat="57.0493948339946" lon="-4.02552599540142">
+<ele>400.220442209677</ele>
+<name>RGT043</name>
+</rtept>
+<rtept lat="57.0488258261517" lon="-4.02459481374218">
+<ele>396.656884419352</ele>
+<name>RGT044</name>
+</rtept>
+<rtept lat="57.048404129996" lon="-4.02322158182347">
+<ele>389.53199037901</ele>
+<name>RGT045</name>
+</rtept>
+<rtept lat="57.0481694152764" lon="-4.02256582940626">
+<ele>383.389772603142</ele>
+<name>RGT046</name>
+</rtept>
+<rtept lat="57.0481692375213" lon="-4.02112981748468">
+<ele>371.171435591447</ele>
+<name>RGT047</name>
+</rtept>
+<rtept lat="57.0476049575081" lon="-4.02062764273482">
+<ele>361.20423398597</ele>
+<name>RGT048</name>
+</rtept>
+<rtept lat="57.0471814906688" lon="-4.01936156789466">
+<ele>345.190960324902</ele>
+<name>RGT049</name>
+</rtept>
+<rtept lat="57.0476958392661" lon="-4.0178892087743">
+<ele>335.651204455522</ele>
+<name>RGT050</name>
+</rtept>
+<rtept lat="57.0475472203962" lon="-4.01768825449303">
+<ele>328.438035793154</ele>
+<name>RGT051</name>
+</rtept>
+<rtept lat="57.0472033524332" lon="-4.01655512440637">
+<ele>306.759062173652</ele>
+<name>RGT052</name>
+</rtept>
+<rtept lat="57.046946294246" lon="-4.01583392931122">
+<ele>297.652884419351</ele>
+<name>RGT053</name>
+</rtept>
+<rtept lat="57.0466906521053" lon="-4.01429840586454">
+<ele>293.378901371091</ele>
+<name>RGT054</name>
+</rtept>
+<rtept lat="57.0462983472425" lon="-4.01326987189887">
+<ele>290.402630272031</ele>
+<name>RGT055</name>
+</rtept>
+<rtept lat="57.0463532930486" lon="-4.01275848287362">
+<ele>290.516553588116</ele>
+<name>RGT056</name>
+</rtept>
+<rtept lat="57.0467539249056" lon="-4.01181571913871">
+<ele>290.650526128893</ele>
+<name>RGT057</name>
+</rtept>
+<rtept lat="57.0470378162553" lon="-4.01159531839878">
+<ele>290.731751458036</ele>
+<name>RGT058</name>
+</rtept>
+<rtept lat="57.0472283588691" lon="-4.01064116990284">
+<ele>293.53031103742</ele>
+<name>RGT059</name>
+</rtept>
+<rtept lat="57.0480154977043" lon="-4.00963351236201">
+<ele>290.860733298602</ele>
+<name>RGT060</name>
+</rtept>
+<rtept lat="57.0494253135477" lon="-4.00913097472859">
+<ele>288.00328980202</ele>
+<name>RGT061</name>
+</rtept>
+<rtept lat="57.0504015771263" lon="-4.00871215794449">
+<ele>286.22778717225</ele>
+<name>RGT062</name>
+</rtept>
+<rtept lat="57.0515010754534" lon="-4.00789271428594">
+<ele>282.257886232537</ele>
+<name>RGT063</name>
+</rtept>
+<rtept lat="57.0522075250715" lon="-4.00754502031902">
+<ele>283.05209048579</ele>
+<name>RGT064</name>
+</rtept>
+<rtept lat="57.0529198036047" lon="-4.00610441621438">
+<ele>281.275783714298</ele>
+<name>RGT065</name>
+</rtept>
+<rtept lat="57.0535870952037" lon="-4.00455415335889">
+<ele>280.083492911333</ele>
+<name>RGT066</name>
+</rtept>
+<rtept lat="57.0539838752942" lon="-4.00311788319531">
+<ele>281.420925990672</ele>
+<name>RGT067</name>
+</rtept>
+<rtept lat="57.0544424496798" lon="-4.00219938206494">
+<ele>284.45216663241</ele>
+<name>RGT068</name>
+</rtept>
+<rtept lat="57.0548365004237" lon="-4.00166324523942">
+<ele>286.797244629863</ele>
+<name>RGT069</name>
+</rtept>
+<rtept lat="57.0552710376181" lon="-4.00078628617622">
+<ele>290.332403204628</ele>
+<name>RGT070</name>
+</rtept>
+<rtept lat="57.0556033055022" lon="-4.00046117007629">
+<ele>290.196491162283</ele>
+<name>RGT071</name>
+</rtept>
+<rtept lat="57.0559904656773" lon="-3.99962450638732">
+<ele>294.582791834163</ele>
+<name>RGT072</name>
+</rtept>
+<rtept lat="57.0584678393474" lon="-3.99956478054625">
+<ele>286.431555542372</ele>
+<name>RGT073</name>
+</rtept>
+<rtept lat="57.0587129346518" lon="-3.99957796060106">
+<ele>284.835375581635</ele>
+<name>RGT074</name>
+</rtept>
+<rtept lat="57.0608434910302" lon="-3.99782725596701">
+<ele>282.799243564024</ele>
+<name>RGT075</name>
+</rtept>
+<rtept lat="57.0627970778595" lon="-3.99838249931577">
+<ele>267.637563655271</ele>
+<name>RGT076</name>
+</rtept>
+<rtept lat="57.063714266951" lon="-3.99800296730904">
+<ele>268.150304547968</ele>
+<name>RGT077</name>
+</rtept>
+<rtept lat="57.066016455612" lon="-3.99647559111835">
+<ele>266.085349650866</ele>
+<name>RGT078</name>
+</rtept>
+<rtept lat="57.0671550506655" lon="-3.99612931417849">
+<ele>261.523349650863</ele>
+<name>RGT079</name>
+</rtept>
+<rtept lat="57.0683602582153" lon="-3.99600103724554">
+<ele>257.319109428357</ele>
+<name>RGT080</name>
+</rtept>
+<rtept lat="57.069096227325" lon="-3.99599766958031">
+<ele>258.2407851206</ele>
+<name>RGT081</name>
+</rtept>
+<rtept lat="57.0697028500004" lon="-3.99678082661943">
+<ele>255.504801459814</ele>
+<name>RGT082</name>
+</rtept>
+<rtept lat="57.070195488813" lon="-3.9973863199874">
+<ele>249.97794014626</ele>
+<name>RGT083</name>
+</rtept>
+<rtept lat="57.0704831687894" lon="-3.99765912745955">
+<ele>249.015557790322</ele>
+<name>RGT084</name>
+</rtept>
+<rtept lat="57.0705748809102" lon="-3.99850043778035">
+<ele>248.846855579664</ele>
+<name>RGT085</name>
+</rtept>
+<rtept lat="57.0709267257368" lon="-3.99841212773388">
+<ele>248.309569087264</ele>
+<name>RGT086</name>
+</rtept>
+<rtept lat="57.0715099902611" lon="-3.99919410745615">
+<ele>246.200756760521</ele>
+<name>RGT087</name>
+</rtept>
+<rtept lat="57.0719422085563" lon="-3.99992509080513">
+<ele>245.066572992674</ele>
+<name>RGT088</name>
+</rtept>
+<rtept lat="57.0720730906783" lon="-4.00196955569832">
+<ele>241.29158653871</ele>
+<name>RGT089</name>
+</rtept>
+<rtept lat="57.0720484045228" lon="-4.00278319438126">
+<ele>241.74784254073</ele>
+<name>RGT090</name>
+</rtept>
+<rtept lat="57.0726038432697" lon="-4.0038425767177">
+<ele>240.311142768349</ele>
+<name>RGT091</name>
+</rtept>
+<rtept lat="57.0728698947339" lon="-4.00473625006039">
+<ele>241.205671274211</ele>
+<name>RGT092</name>
+</rtept>
+<rtept lat="57.0734139884982" lon="-4.0057736261473">
+<ele>240.171780399805</ele>
+<name>RGT093</name>
+</rtept>
+<rtept lat="57.0730871967644" lon="-4.00575598845764">
+<ele>244.178802970997</ele>
+<name>RGT094</name>
+</rtept>
+<rtept lat="57.072999322784" lon="-4.00613729368372">
+<ele>247.837044283069</ele>
+<name>RGT095</name>
+</rtept>
+<rtept lat="57.073429440024" lon="-4.00699695947733">
+<ele>245.020491597635</ele>
+<name>RGT096</name>
+</rtept>
+<rtept lat="57.0735554192213" lon="-4.00715389515111">
+<ele>243.683332291924</ele>
+<name>RGT097</name>
+</rtept>
+<rtept lat="57.0737551980244" lon="-4.00780811187393">
+<ele>243.428241502131</ele>
+<name>RGT098</name>
+</rtept>
+<rtept lat="57.0751560545832" lon="-4.00932084181131">
+<ele>240.258591881426</ele>
+<name>RGT099</name>
+</rtept>
+<rtept lat="57.0751536485998" lon="-4.0094708502975">
+<ele>240.523342964368</ele>
+<name>RGT100</name>
+</rtept>
+<rtept lat="57.0755370762998" lon="-4.00959882775571">
+<ele>240.826393670617</ele>
+<name>RGT101</name>
+</rtept>
+<rtept lat="57.0756596141414" lon="-4.00997008193434">
+<ele>241.305705698985</ele>
+<name>RGT102</name>
+</rtept>
+<rtept lat="57.0752335599548" lon="-4.01177015271375">
+<ele>240.530198257735</ele>
+<name>RGT103</name>
+</rtept>
+<rtept lat="57.0751768946584" lon="-4.01238908847353">
+<ele>240.429904516082</ele>
+<name>RGT104</name>
+</rtept>
+<rtept lat="57.0753100624001" lon="-4.01282526968932">
+<ele>240.109472288483</ele>
+<name>RGT105</name>
+</rtept>
+<rtept lat="57.0756639458845" lon="-4.01333775832547">
+<ele>239.285089649884</ele>
+<name>RGT106</name>
+</rtept>
+<rtept lat="57.0753113619093" lon="-4.01419804293497">
+<ele>241.128393399905</ele>
+<name>RGT107</name>
+</rtept>
+<rtept lat="57.0747651891478" lon="-4.0147475395395">
+<ele>243.221323720103</ele>
+<name>RGT108</name>
+</rtept>
+<rtept lat="57.0750330593006" lon="-4.0177004849133">
+<ele>240.818506187324</ele>
+<name>RGT109</name>
+</rtept>
+<rtept lat="57.0749430778059" lon="-4.01821035820715">
+<ele>239.376123386198</ele>
+<name>RGT110</name>
+</rtept>
+<rtept lat="57.0745372856185" lon="-4.01874596914578">
+<ele>236.58620808721</ele>
+<name>RGT111</name>
+</rtept>
+<rtept lat="57.0737020805451" lon="-4.0191081023119">
+<ele>240.940095084303</ele>
+<name>RGT112</name>
+</rtept>
+<rtept lat="57.0734982532772" lon="-4.02160638217827">
+<ele>235.678790912824</ele>
+<name>RGT113</name>
+</rtept>
+<rtept lat="57.0734803573878" lon="-4.02199146310746">
+<ele>234.457737497647</ele>
+<name>RGT114</name>
+</rtept>
+<rtept lat="57.0736117619179" lon="-4.02253480152672">
+<ele>231.780780049673</ele>
+<name>RGT115</name>
+</rtept>
+<rtept lat="57.0732898164742" lon="-4.02221701686455">
+<ele>235.147997091061</ele>
+<name>RGT116</name>
+</rtept>
+<rtept lat="57.073181752559" lon="-4.02167495409007">
+<ele>238.137997091061</ele>
+<name>RGT117</name>
+</rtept>
+<rtept lat="57.0730413545199" lon="-4.02168876360391">
+<ele>239.307997091069</ele>
+<name>RGT118</name>
+</rtept>
+<rtept lat="57.0729753908282" lon="-4.02215701307672">
+<ele>238.111997091071</ele>
+<name>RGT119</name>
+</rtept>
+<rtept lat="57.0722487322583" lon="-4.02447661858211">
+<ele>235.204881510424</ele>
+<name>RGT120</name>
+</rtept>
+<rtept lat="57.072153764721" lon="-4.02601560934686">
+<ele>235.348636941875</ele>
+<name>RGT121</name>
+</rtept>
+<rtept lat="57.0722638759431" lon="-4.02859522778836">
+<ele>229.945359289092</ele>
+<name>RGT122</name>
+</rtept>
+<rtept lat="57.0720679859094" lon="-4.02987133686464">
+<ele>228.681323720103</ele>
+<name>RGT123</name>
+</rtept>
+<rtept lat="57.0717990705735" lon="-4.03060727817431">
+<ele>229.85637769728</ele>
+<name>RGT124</name>
+</rtept>
+<rtept lat="57.0718200868641" lon="-4.03363239243832">
+<ele>227.097323720104</ele>
+<name>RGT125</name>
+</rtept>
+<rtept lat="57.0721470827717" lon="-4.03579496277526">
+<ele>227.845530238139</ele>
+<name>RGT126</name>
+</rtept>
+<rtept lat="57.0721495251611" lon="-4.03708190341494">
+<ele>228</ele>
+<name>RGT127</name>
+</rtept>
+<rtept lat="57.0717547950368" lon="-4.03836850736565">
+<ele>228.840628379821</ele>
+<name>RGT128</name>
+</rtept>
+<rtept lat="57.0711604401812" lon="-4.03900074219741">
+<ele>232.227798766993</ele>
+<name>RGT129</name>
+</rtept>
+</rte>
+</gpx>

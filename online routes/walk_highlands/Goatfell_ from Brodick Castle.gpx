@@ -1,0 +1,478 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Goatfell, from Brodick Castle</name>
+<rtept lat="55.592261156324" lon="-5.15670663908848">
+<ele>8.99384737080894</ele>
+<name>GF 001</name>
+</rtept>
+<rtept lat="55.5925596136234" lon="-5.1573704211145">
+<ele>13.2811255103995</ele>
+<name>GF 002</name>
+</rtept>
+<rtept lat="55.5925106918663" lon="-5.16062740828107">
+<ele>24.9544868688314</ele>
+<name>GF 003</name>
+</rtept>
+<rtept lat="55.5934861009304" lon="-5.16177912393322">
+<ele>34.516845266461</ele>
+<name>GF 004</name>
+</rtept>
+<rtept lat="55.5936090815013" lon="-5.1619954150213">
+<ele>35.1668452664657</ele>
+<name>GF 005</name>
+</rtept>
+<rtept lat="55.5940162338994" lon="-5.16206946560088">
+<ele>39.63379872913</ele>
+<name>GF 006</name>
+</rtept>
+<rtept lat="55.5955121831962" lon="-5.16388239006392">
+<ele>58.135519595197</ele>
+<name>GF 007</name>
+</rtept>
+<rtept lat="55.5959934881005" lon="-5.16470549876971">
+<ele>63.3188267721446</ele>
+<name>GF 008</name>
+</rtept>
+<rtept lat="55.5969016479046" lon="-5.16461353797574">
+<ele>76.0118308686674</ele>
+<name>GF 009</name>
+</rtept>
+<rtept lat="55.5970426712332" lon="-5.16458361730004">
+<ele>77.844575563125</ele>
+<name>GF 010</name>
+</rtept>
+<rtept lat="55.5973649426377" lon="-5.16522882099996">
+<ele>83.4717419500978</ele>
+<name>GF 011</name>
+</rtept>
+<rtept lat="55.5977943088494" lon="-5.16580010116732">
+<ele>90.5285837020596</ele>
+<name>GF 012</name>
+</rtept>
+<rtept lat="55.5980571925674" lon="-5.16648182355485">
+<ele>96.2952689051574</ele>
+<name>GF 013</name>
+</rtept>
+<rtept lat="55.5983158637197" lon="-5.16687422989642">
+<ele>99.3312459857875</ele>
+<name>GF 014</name>
+</rtept>
+<rtept lat="55.5984409126725" lon="-5.1674622856152">
+<ele>103.405491269806</ele>
+<name>GF 015</name>
+</rtept>
+<rtept lat="55.5989078653546" lon="-5.1683875551357">
+<ele>110.463733833936</ele>
+<name>GF 016</name>
+</rtept>
+<rtept lat="55.5990796173697" lon="-5.1685252635297">
+<ele>112.5862200264</ele>
+<name>GF 017</name>
+</rtept>
+<rtept lat="55.5993350848169" lon="-5.16904128995103">
+<ele>118.00450623216</ele>
+<name>GF 018</name>
+</rtept>
+<rtept lat="55.6000852007654" lon="-5.16941145666983">
+<ele>128.298129368584</ele>
+<name>GF 019</name>
+</rtept>
+<rtept lat="55.6003612942202" lon="-5.17025945422548">
+<ele>132.153293691763</ele>
+<name>GF 020</name>
+</rtept>
+<rtept lat="55.6016329163929" lon="-5.17170393812466">
+<ele>151.395238439267</ele>
+<name>GF 021</name>
+</rtept>
+<rtept lat="55.603541303201" lon="-5.17270449919836">
+<ele>181.541185299753</ele>
+<name>GF 022</name>
+</rtept>
+<rtept lat="55.6037904239792" lon="-5.17301365291053">
+<ele>183.754715982733</ele>
+<name>GF 023</name>
+</rtept>
+<rtept lat="55.604057076088" lon="-5.17309713339763">
+<ele>187.304487728799</ele>
+<name>GF 024</name>
+</rtept>
+<rtept lat="55.6044900613533" lon="-5.17397857101328">
+<ele>192.213269257593</ele>
+<name>GF 025</name>
+</rtept>
+<rtept lat="55.6052046369392" lon="-5.17436665765518">
+<ele>204.115680286417</ele>
+<name>GF 026</name>
+</rtept>
+<rtept lat="55.6056155156325" lon="-5.17429664454281">
+<ele>213.725298945371</ele>
+<name>GF 027</name>
+</rtept>
+<rtept lat="55.6074394816554" lon="-5.17584807546498">
+<ele>252.701875218848</ele>
+<name>GF 028</name>
+</rtept>
+<rtept lat="55.6076610809518" lon="-5.17586599938735">
+<ele>258.810032102889</ele>
+<name>GF 029</name>
+</rtept>
+<rtept lat="55.6084752764366" lon="-5.17646868574394">
+<ele>276.9498517238</ele>
+<name>GF 030</name>
+</rtept>
+<rtept lat="55.6088124384126" lon="-5.17653725824296">
+<ele>288.898923766504</ele>
+<name>GF 031</name>
+</rtept>
+<rtept lat="55.6099095668284" lon="-5.17794749796135">
+<ele>312.911444422496</ele>
+<name>GF 032</name>
+</rtept>
+<rtept lat="55.6100611870309" lon="-5.17795977090295">
+<ele>315.415887326883</ele>
+<name>GF 033</name>
+</rtept>
+<rtept lat="55.6108986490933" lon="-5.17879155768069">
+<ele>327.75711875602</ele>
+<name>GF 034</name>
+</rtept>
+<rtept lat="55.6117406247421" lon="-5.17832286015176">
+<ele>337.589864195568</ele>
+<name>GF 035</name>
+</rtept>
+<rtept lat="55.6118286795493" lon="-5.17808220073235">
+<ele>338.947174325426</ele>
+<name>GF 036</name>
+</rtept>
+<rtept lat="55.6128136284195" lon="-5.1784097335263">
+<ele>340.980569162352</ele>
+<name>GF 037</name>
+</rtept>
+<rtept lat="55.6138336612009" lon="-5.17828582281073">
+<ele>344.572450275812</ele>
+<name>GF 038</name>
+</rtept>
+<rtept lat="55.6159397514851" lon="-5.17661839883057">
+<ele>378.609470191378</ele>
+<name>GF 039</name>
+</rtept>
+<rtept lat="55.6167901778424" lon="-5.17627419249218">
+<ele>394.20644206015</ele>
+<name>GF 040</name>
+</rtept>
+<rtept lat="55.6174787904204" lon="-5.17653643829579">
+<ele>407.316337203954</ele>
+<name>GF 041</name>
+</rtept>
+<rtept lat="55.6184113036404" lon="-5.17663256306253">
+<ele>424.441321078914</ele>
+<name>GF 042</name>
+</rtept>
+<rtept lat="55.6185920365196" lon="-5.17687436954857">
+<ele>429.017321078924</ele>
+<name>GF 043</name>
+</rtept>
+<rtept lat="55.6209610596711" lon="-5.17791294907491">
+<ele>478.578235096856</ele>
+<name>GF 044</name>
+</rtept>
+<rtept lat="55.6217208098134" lon="-5.17768531399639">
+<ele>502.408258731623</ele>
+<name>GF 045</name>
+</rtept>
+<rtept lat="55.6222472513126" lon="-5.17766597930502">
+<ele>514.018194972309</ele>
+<name>GF 046</name>
+</rtept>
+<rtept lat="55.623160270388" lon="-5.17716157357563">
+<ele>539.484082120549</ele>
+<name>GF 047</name>
+</rtept>
+<rtept lat="55.6238080590002" lon="-5.17742057626661">
+<ele>554.505330444922</ele>
+<name>GF 048</name>
+</rtept>
+<rtept lat="55.6245967293658" lon="-5.17833132528822">
+<ele>574.385330187769</ele>
+<name>GF 049</name>
+</rtept>
+<rtept lat="55.625665479039" lon="-5.18083468668243">
+<ele>607.530156417095</ele>
+<name>GF 050</name>
+</rtept>
+<rtept lat="55.6257735266126" lon="-5.18342549620472">
+<ele>633.182342629848</ele>
+<name>GF 051</name>
+</rtept>
+<rtept lat="55.6259607290868" lon="-5.18521714516801">
+<ele>668.93291966277</ele>
+<name>GF 052</name>
+</rtept>
+<rtept lat="55.6260406642704" lon="-5.18753717070384">
+<ele>728.103465042642</ele>
+<name>GF 053</name>
+</rtept>
+<rtept lat="55.6256572571007" lon="-5.18969560079348">
+<ele>791.423241855415</ele>
+<name>GF 054</name>
+</rtept>
+<rtept lat="55.6253219705611" lon="-5.19045328118036">
+<ele>809.287576827766</ele>
+<name>GF 055</name>
+</rtept>
+<rtept lat="55.6253716994732" lon="-5.19078782476117">
+<ele>819.108575977444</ele>
+<name>GF 056</name>
+</rtept>
+<rtept lat="55.6256652752456" lon="-5.19118351392032">
+<ele>834.46588111628</ele>
+<name>GF 057</name>
+</rtept>
+<rtept lat="55.6257589699094" lon="-5.1916249199433">
+<ele>841.48588111626</ele>
+<name>GF 058</name>
+</rtept>
+<rtept lat="55.6260765220982" lon="-5.19189386334931">
+<ele>856.138239495886</ele>
+<name>GF 059</name>
+</rtept>
+<rtept lat="55.6257589699094" lon="-5.1916249199433">
+<ele>841.48588111626</ele>
+<name>GF 060</name>
+</rtept>
+<rtept lat="55.6256652752456" lon="-5.19118351392032">
+<ele>834.46588111628</ele>
+<name>GF 061</name>
+</rtept>
+<rtept lat="55.6253716994732" lon="-5.19078782476117">
+<ele>819.108575977444</ele>
+<name>GF 062</name>
+</rtept>
+<rtept lat="55.6253219705611" lon="-5.19045328118036">
+<ele>809.287576827766</ele>
+<name>GF 063</name>
+</rtept>
+<rtept lat="55.6256572571007" lon="-5.18969560079348">
+<ele>791.423241855415</ele>
+<name>GF 064</name>
+</rtept>
+<rtept lat="55.6260406642704" lon="-5.18753717070384">
+<ele>728.103465042642</ele>
+<name>GF 065</name>
+</rtept>
+<rtept lat="55.6259607290868" lon="-5.18521714516801">
+<ele>668.93291966277</ele>
+<name>GF 066</name>
+</rtept>
+<rtept lat="55.6257735266126" lon="-5.18342549620472">
+<ele>633.182342629848</ele>
+<name>GF 067</name>
+</rtept>
+<rtept lat="55.625665479039" lon="-5.18083468668243">
+<ele>607.530156417095</ele>
+<name>GF 068</name>
+</rtept>
+<rtept lat="55.6245967293658" lon="-5.17833132528822">
+<ele>574.385330187769</ele>
+<name>GF 069</name>
+</rtept>
+<rtept lat="55.6238080590002" lon="-5.17742057626661">
+<ele>554.505330444922</ele>
+<name>GF 070</name>
+</rtept>
+<rtept lat="55.623160270388" lon="-5.17716157357563">
+<ele>539.484082120549</ele>
+<name>GF 071</name>
+</rtept>
+<rtept lat="55.6222472513126" lon="-5.17766597930502">
+<ele>514.018194972309</ele>
+<name>GF 072</name>
+</rtept>
+<rtept lat="55.6217208098134" lon="-5.17768531399639">
+<ele>502.408258731623</ele>
+<name>GF 073</name>
+</rtept>
+<rtept lat="55.6209610596711" lon="-5.17791294907491">
+<ele>478.578235096856</ele>
+<name>GF 074</name>
+</rtept>
+<rtept lat="55.6185920365196" lon="-5.17687436954857">
+<ele>429.017321078924</ele>
+<name>GF 075</name>
+</rtept>
+<rtept lat="55.6184113036404" lon="-5.17663256306253">
+<ele>424.441321078914</ele>
+<name>GF 076</name>
+</rtept>
+<rtept lat="55.6174787904204" lon="-5.17653643829579">
+<ele>407.316337203954</ele>
+<name>GF 077</name>
+</rtept>
+<rtept lat="55.6167901778424" lon="-5.17627419249218">
+<ele>394.20644206015</ele>
+<name>GF 078</name>
+</rtept>
+<rtept lat="55.6159397514851" lon="-5.17661839883057">
+<ele>378.609470191378</ele>
+<name>GF 079</name>
+</rtept>
+<rtept lat="55.6138336612009" lon="-5.17828582281073">
+<ele>344.572450275812</ele>
+<name>GF 080</name>
+</rtept>
+<rtept lat="55.6128136284195" lon="-5.1784097335263">
+<ele>340.980569162352</ele>
+<name>GF 081</name>
+</rtept>
+<rtept lat="55.6118286795493" lon="-5.17808220073235">
+<ele>338.947174325426</ele>
+<name>GF 082</name>
+</rtept>
+<rtept lat="55.6117406247421" lon="-5.17832286015176">
+<ele>337.589864195568</ele>
+<name>GF 083</name>
+</rtept>
+<rtept lat="55.6108986490933" lon="-5.17879155768069">
+<ele>327.75711875602</ele>
+<name>GF 084</name>
+</rtept>
+<rtept lat="55.6100611870309" lon="-5.17795977090295">
+<ele>315.415887326883</ele>
+<name>GF 085</name>
+</rtept>
+<rtept lat="55.6099095668284" lon="-5.17794749796135">
+<ele>312.911444422496</ele>
+<name>GF 086</name>
+</rtept>
+<rtept lat="55.6088124384126" lon="-5.17653725824296">
+<ele>288.898923766504</ele>
+<name>GF 087</name>
+</rtept>
+<rtept lat="55.6084752764366" lon="-5.17646868574394">
+<ele>276.9498517238</ele>
+<name>GF 088</name>
+</rtept>
+<rtept lat="55.6076610809518" lon="-5.17586599938735">
+<ele>258.810032102889</ele>
+<name>GF 089</name>
+</rtept>
+<rtept lat="55.6074394816554" lon="-5.17584807546498">
+<ele>252.701875218848</ele>
+<name>GF 090</name>
+</rtept>
+<rtept lat="55.6056155156325" lon="-5.17429664454281">
+<ele>213.725298945371</ele>
+<name>GF 091</name>
+</rtept>
+<rtept lat="55.6052046369392" lon="-5.17436665765518">
+<ele>204.115680286417</ele>
+<name>GF 092</name>
+</rtept>
+<rtept lat="55.6044900613533" lon="-5.17397857101328">
+<ele>192.213269257593</ele>
+<name>GF 093</name>
+</rtept>
+<rtept lat="55.604057076088" lon="-5.17309713339763">
+<ele>187.304487728799</ele>
+<name>GF 094</name>
+</rtept>
+<rtept lat="55.6037904239792" lon="-5.17301365291053">
+<ele>183.754715982733</ele>
+<name>GF 095</name>
+</rtept>
+<rtept lat="55.603541303201" lon="-5.17270449919836">
+<ele>181.541185299753</ele>
+<name>GF 096</name>
+</rtept>
+<rtept lat="55.6016329163929" lon="-5.17170393812466">
+<ele>151.395238439267</ele>
+<name>GF 097</name>
+</rtept>
+<rtept lat="55.6003612942202" lon="-5.17025945422548">
+<ele>132.153293691763</ele>
+<name>GF 098</name>
+</rtept>
+<rtept lat="55.6000852007654" lon="-5.16941145666983">
+<ele>128.298129368584</ele>
+<name>GF 099</name>
+</rtept>
+<rtept lat="55.5993350848169" lon="-5.16904128995103">
+<ele>118.00450623216</ele>
+<name>GF 100</name>
+</rtept>
+<rtept lat="55.5990796173697" lon="-5.1685252635297">
+<ele>112.5862200264</ele>
+<name>GF 101</name>
+</rtept>
+<rtept lat="55.5989078653546" lon="-5.1683875551357">
+<ele>110.463733833936</ele>
+<name>GF 102</name>
+</rtept>
+<rtept lat="55.5984409126725" lon="-5.1674622856152">
+<ele>103.405491269806</ele>
+<name>GF 103</name>
+</rtept>
+<rtept lat="55.5983158637197" lon="-5.16687422989642">
+<ele>99.3312459857875</ele>
+<name>GF 104</name>
+</rtept>
+<rtept lat="55.5980571925674" lon="-5.16648182355485">
+<ele>96.2952689051574</ele>
+<name>GF 105</name>
+</rtept>
+<rtept lat="55.5977943088494" lon="-5.16580010116732">
+<ele>90.5285837020596</ele>
+<name>GF 106</name>
+</rtept>
+<rtept lat="55.5973649426377" lon="-5.16522882099996">
+<ele>83.4717419500978</ele>
+<name>GF 107</name>
+</rtept>
+<rtept lat="55.5970426712332" lon="-5.16458361730004">
+<ele>77.844575563125</ele>
+<name>GF 108</name>
+</rtept>
+<rtept lat="55.5969016479046" lon="-5.16461353797574">
+<ele>76.0118308686674</ele>
+<name>GF 109</name>
+</rtept>
+<rtept lat="55.5959934881005" lon="-5.16470549876971">
+<ele>63.3188267721446</ele>
+<name>GF 110</name>
+</rtept>
+<rtept lat="55.5955121831962" lon="-5.16388239006392">
+<ele>58.135519595197</ele>
+<name>GF 111</name>
+</rtept>
+<rtept lat="55.5940162338994" lon="-5.16206946560088">
+<ele>39.63379872913</ele>
+<name>GF 112</name>
+</rtept>
+<rtept lat="55.5936090815013" lon="-5.1619954150213">
+<ele>35.1668452664657</ele>
+<name>GF 113</name>
+</rtept>
+<rtept lat="55.5934861009304" lon="-5.16177912393322">
+<ele>34.516845266461</ele>
+<name>GF 114</name>
+</rtept>
+<rtept lat="55.5925106918663" lon="-5.16062740828107">
+<ele>24.9544868688314</ele>
+<name>GF 115</name>
+</rtept>
+<rtept lat="55.5925596136234" lon="-5.1573704211145">
+<ele>13.2811255103995</ele>
+<name>GF 116</name>
+</rtept>
+<rtept lat="55.592261156324" lon="-5.15670663908848">
+<ele>8.99384737080894</ele>
+<name>GF 117</name>
+</rtept>
+</rte>
+</gpx>

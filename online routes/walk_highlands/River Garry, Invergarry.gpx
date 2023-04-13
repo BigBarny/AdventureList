@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.1" creator="Quo v2" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <desc>GPX file generated with Quo.</desc>
+    <link href="http://www.mapyx.com">
+      <text>Mapyx</text>
+    </link>
+    <time>2020-10-05T10:52:24.1364749+01:00</time>
+  </metadata>
+  <rte>
+    <name>River Garry</name>
+    <desc />
+    <extensions>
+      <drawing v="True" pv="True" pw="1" pc="255|255|255" pt="0" lv="True" lw="4" lc="0|0|255" lt="0" ls="0" lcs="3" fc="255|255|255" ft="120" fs="-1" fsc="0|0|0" xmlns="" />
+    </extensions>
+    <rtept lat="57.0683843265896" lon="-4.8040809243103">
+      <ele>52.1571675419638</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 001</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0680664663976" lon="-4.80503040847808">
+      <ele>47.2647782554757</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 002</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0676607952835" lon="-4.80503739531794">
+      <ele>43.7663162196636</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 003</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0675656758834" lon="-4.80596110561991">
+      <ele>44.2639406477634</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 004</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0663994728709" lon="-4.80666498281448">
+      <ele>60.5695019996734</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 005</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0665130707991" lon="-4.80865342682365">
+      <ele>63.8832126783647</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 006</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0659427480454" lon="-4.81227961298021">
+      <ele>71.8187222186332</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 007</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0654768261402" lon="-4.81509528107067">
+      <ele>72.4344674805692</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 008</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.065085586355" lon="-4.81778455850415">
+      <ele>66.0390871682641</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 009</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0647118611538" lon="-4.81841614455367">
+      <ele>70.373538935405</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 010</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0646576382254" lon="-4.81954710159962">
+      <ele>68.4478803522427</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 011</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0644712339569" lon="-4.82080000678399">
+      <ele>72.6525763836515</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 012</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0646993709545" lon="-4.82359033250583">
+      <ele>61.8036858237266</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 013</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0641231701481" lon="-4.82793499408478">
+      <ele>68.5156039193869</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 014</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0637576960962" lon="-4.83126117776">
+      <ele>71.1377039612293</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 015</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0636532134076" lon="-4.83417860272264">
+      <ele>70.21145250478</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 016</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0640005242682" lon="-4.83432057660293">
+      <ele>64.3460181204369</ele>
+      <time>2013-06-27T11:09:23.2904925</time>
+      <name>WPT 017</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0641112223592" lon="-4.83498893786444">
+      <ele>62.9460181204369</ele>
+      <time>2013-06-27T11:09:27.2947215</time>
+      <name>WPT 018</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0639826687272" lon="-4.83590301297086">
+      <ele>62.9012886404396</ele>
+      <time>2013-06-27T11:09:32.3100084</time>
+      <name>WPT 019</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.064403994118" lon="-4.83595166461132">
+      <ele>59.9756534329863</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 020</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0647340633296" lon="-4.83526743057942">
+      <ele>57.1112655240515</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 021</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0653696328063" lon="-4.8347381407003">
+      <ele>55.5470466574401</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 022</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0656379345461" lon="-4.83385152056162">
+      <ele>55.33594716053</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 023</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0668328297955" lon="-4.83422280060339">
+      <ele>57</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 024</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0679139452944" lon="-4.83474415849096">
+      <ele>58.6809533425607</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 025</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0696931523209" lon="-4.833092913557">
+      <ele>62.9456837803364</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 026</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0710583611037" lon="-4.83313431848451">
+      <ele>71.2340503129006</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 027</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0712763826883" lon="-4.8325552543353">
+      <ele>68.7290876160622</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 028</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0695588409916" lon="-4.83223620312044">
+      <ele>65.1797449198246</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 029</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0693911981655" lon="-4.83209802133912">
+      <ele>70.182450493145</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 030</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0684770665077" lon="-4.8324985880364">
+      <ele>63.4644914517403</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 031</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0679685314005" lon="-4.83308680712704">
+      <ele>59.0003094926894</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 032</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0663113916695" lon="-4.83311719690278">
+      <ele>57.9297952327371</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 033</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0644439035325" lon="-4.83187769442118">
+      <ele>53.1650466574393</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 034</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0646369519869" lon="-4.83013700140075">
+      <ele>53.3364209450841</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 035</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0651849740541" lon="-4.82704404492035">
+      <ele>54.8408351632118</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 036</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0658697794449" lon="-4.8224253700518">
+      <ele>49.117374287647</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 037</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0669913160944" lon="-4.81812178747926">
+      <ele>49.6897952327371</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 038</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0674696065726" lon="-4.81583825585059">
+      <ele>48.0363276302099</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 039</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0669812219882" lon="-4.81097360705135">
+      <ele>45.2241114523888</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 040</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0681433998131" lon="-4.80864763875501">
+      <ele>45.2496837803483</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 041</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0681852165534" lon="-4.80830595788993">
+      <ele>45.5536837803364</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 042</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0681054408833" lon="-4.80500826508566">
+      <ele>47.7785256705165</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 043</name>
+      <desc />
+    </rtept>
+    <rtept lat="57.0683992345811" lon="-4.80408996284407">
+      <ele>52.3094790130734</ele>
+      <time>2007-11-28T12:10:34</time>
+      <name>WPT 044</name>
+      <desc />
+    </rtept>
+  </rte>
+</gpx>

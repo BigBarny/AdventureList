@@ -1,0 +1,678 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>River Ayr Way 2: Sorn to Stair</name>
+<rtept lat="55.5122724863896" lon="-4.29518755569046">
+<ele>112.958377740636</ele>
+<name>RAW2001</name>
+</rtept>
+<rtept lat="55.5124471944929" lon="-4.29622413022589">
+<ele>112.229410102394</ele>
+<name>RAW2002</name>
+</rtept>
+<rtept lat="55.5129961296173" lon="-4.29800956735465">
+<ele>117.146575605087</ele>
+<name>RAW2003</name>
+</rtept>
+<rtept lat="55.5126697625565" lon="-4.29858928233677">
+<ele>132.846005318271</ele>
+<name>RAW2004</name>
+</rtept>
+<rtept lat="55.5129219802884" lon="-4.2993738004481">
+<ele>134.400124229046</ele>
+<name>RAW2005</name>
+</rtept>
+<rtept lat="55.5128582507295" lon="-4.30018266202786">
+<ele>129.814980782947</ele>
+<name>RAW2006</name>
+</rtept>
+<rtept lat="55.5116599823042" lon="-4.30066870862227">
+<ele>131.060092985482</ele>
+<name>RAW2007</name>
+</rtept>
+<rtept lat="55.5104682859416" lon="-4.30209593420923">
+<ele>140.845996266051</ele>
+<name>RAW2008</name>
+</rtept>
+<rtept lat="55.5107496758456" lon="-4.30390849630267">
+<ele>129.236534608321</ele>
+<name>RAW2009</name>
+</rtept>
+<rtept lat="55.5100557501113" lon="-4.30596339820971">
+<ele>123.323993100649</ele>
+<name>RAW2010</name>
+</rtept>
+<rtept lat="55.5099378604199" lon="-4.30706837246054">
+<ele>115.780220712553</ele>
+<name>RAW2011</name>
+</rtept>
+<rtept lat="55.5103338617252" lon="-4.30794683731487">
+<ele>105.877486099964</ele>
+<name>RAW2012</name>
+</rtept>
+<rtept lat="55.5095105374845" lon="-4.30913879215837">
+<ele>106.826124741617</ele>
+<name>RAW2013</name>
+</rtept>
+<rtept lat="55.5082170229014" lon="-4.3133820399665">
+<ele>108.802470178858</ele>
+<name>RAW2014</name>
+</rtept>
+<rtept lat="55.5079681723698" lon="-4.31627526613364">
+<ele>109.146981296245</ele>
+<name>RAW2015</name>
+</rtept>
+<rtept lat="55.5087495203985" lon="-4.31858760710539">
+<ele>101.016023540776</ele>
+<name>RAW2016</name>
+</rtept>
+<rtept lat="55.5089959446083" lon="-4.31967118084944">
+<ele>105.374238666743</ele>
+<name>RAW2017</name>
+</rtept>
+<rtept lat="55.5083486744368" lon="-4.32053111630446">
+<ele>101.904402482534</ele>
+<name>RAW2018</name>
+</rtept>
+<rtept lat="55.5077377869632" lon="-4.32075173641766">
+<ele>103.425108706885</ele>
+<name>RAW2019</name>
+</rtept>
+<rtept lat="55.5064570928028" lon="-4.31917974184915">
+<ele>99.7983681671839</ele>
+<name>RAW2020</name>
+</rtept>
+<rtept lat="55.5061968759025" lon="-4.32010516373501">
+<ele>100.313740556233</ele>
+<name>RAW2021</name>
+</rtept>
+<rtept lat="55.5059269847938" lon="-4.32026032423557">
+<ele>101.831133240184</ele>
+<name>RAW2022</name>
+</rtept>
+<rtept lat="55.50568931951" lon="-4.3225553665442">
+<ele>103.095724747185</ele>
+<name>RAW2023</name>
+</rtept>
+<rtept lat="55.5060205915563" lon="-4.32300247932745">
+<ele>103.782893089043</ele>
+<name>RAW2024</name>
+</rtept>
+<rtept lat="55.5059049820171" lon="-4.32397914893028">
+<ele>100.158771971638</ele>
+<name>RAW2025</name>
+</rtept>
+<rtept lat="55.5061287402778" lon="-4.32497582217851">
+<ele>101.220086695208</ele>
+<name>RAW2026</name>
+</rtept>
+<rtept lat="55.5058821704" lon="-4.3264578846136">
+<ele>98.4352204356357</ele>
+<name>RAW2027</name>
+</rtept>
+<rtept lat="55.5058708053385" lon="-4.32705585418237">
+<ele>102.53456489329</ele>
+<name>RAW2028</name>
+</rtept>
+<rtept lat="55.5053858617889" lon="-4.32831002140121">
+<ele>98.1804798205752</ele>
+<name>RAW2029</name>
+</rtept>
+<rtept lat="55.5041243796991" lon="-4.32956104404791">
+<ele>90.1222343613077</ele>
+<name>RAW2030</name>
+</rtept>
+<rtept lat="55.504387629712" lon="-4.3310303818377">
+<ele>93.9840353111643</ele>
+<name>RAW2031</name>
+</rtept>
+<rtept lat="55.5040318754592" lon="-4.33203554677443">
+<ele>92.242224569942</ele>
+<name>RAW2032</name>
+</rtept>
+<rtept lat="55.5031389455783" lon="-4.33238656173512">
+<ele>89.0296228451342</ele>
+<name>RAW2033</name>
+</rtept>
+<rtept lat="55.5040462853045" lon="-4.3344862795131">
+<ele>87.8703395973876</ele>
+<name>RAW2034</name>
+</rtept>
+<rtept lat="55.5053525583367" lon="-4.33889816236582">
+<ele>85.0702821336325</ele>
+<name>RAW2035</name>
+</rtept>
+<rtept lat="55.5060070017247" lon="-4.34063313813552">
+<ele>84.6780235407734</ele>
+<name>RAW2036</name>
+</rtept>
+<rtept lat="55.5060378764111" lon="-4.34141574297554">
+<ele>85.5967537982872</ele>
+<name>RAW2037</name>
+</rtept>
+<rtept lat="55.5057919587682" lon="-4.34228960058169">
+<ele>89.0174305997869</ele>
+<name>RAW2038</name>
+</rtept>
+<rtept lat="55.5045417831953" lon="-4.34294224230235">
+<ele>84.0925112794818</ele>
+<name>RAW2039</name>
+</rtept>
+<rtept lat="55.5033994729676" lon="-4.34354741120493">
+<ele>83.9098607538256</ele>
+<name>RAW2040</name>
+</rtept>
+<rtept lat="55.502866123875" lon="-4.34426950581152">
+<ele>87.4448705257359</ele>
+<name>RAW2041</name>
+</rtept>
+<rtept lat="55.5026843281474" lon="-4.34498556400562">
+<ele>91.3364165225157</ele>
+<name>RAW2042</name>
+</rtept>
+<rtept lat="55.5028393383053" lon="-4.34566780669241">
+<ele>86.531226515721</ele>
+<name>RAW2043</name>
+</rtept>
+<rtept lat="55.5028005679831" lon="-4.34609623670548">
+<ele>84.6204960114086</ele>
+<name>RAW2044</name>
+</rtept>
+<rtept lat="55.5016716434257" lon="-4.34600215981227">
+<ele>87.9414017672152</ele>
+<name>RAW2045</name>
+</rtept>
+<rtept lat="55.501217171129" lon="-4.34659428435777">
+<ele>85.3527835374786</ele>
+<name>RAW2046</name>
+</rtept>
+<rtept lat="55.5005488110748" lon="-4.34798125081915">
+<ele>94.8682191243115</ele>
+<name>RAW2047</name>
+</rtept>
+<rtept lat="55.5003659622766" lon="-4.34875102679235">
+<ele>97.6224654625704</ele>
+<name>RAW2048</name>
+</rtept>
+<rtept lat="55.5003688411113" lon="-4.34939726292586">
+<ele>90.8149073646387</ele>
+<name>RAW2049</name>
+</rtept>
+<rtept lat="55.4995930949579" lon="-4.35080467191998">
+<ele>83.5109606498626</ele>
+<name>RAW2050</name>
+</rtept>
+<rtept lat="55.4997260951433" lon="-4.35183551867709">
+<ele>81.3311657732776</ele>
+<name>RAW2051</name>
+</rtept>
+<rtept lat="55.4989459376951" lon="-4.35426549487318">
+<ele>87.1511670720952</ele>
+<name>RAW2052</name>
+</rtept>
+<rtept lat="55.498934559534" lon="-4.35485702099024">
+<ele>86.227597986248</ele>
+<name>RAW2053</name>
+</rtept>
+<rtept lat="55.499346392163" lon="-4.35568917022175">
+<ele>85.8504227088244</ele>
+<name>RAW2054</name>
+</rtept>
+<rtept lat="55.4996744070698" lon="-4.35611254520524">
+<ele>84.0542707422452</ele>
+<name>RAW2055</name>
+</rtept>
+<rtept lat="55.5001594373617" lon="-4.35711061351497">
+<ele>85.6801522359781</ele>
+<name>RAW2056</name>
+</rtept>
+<rtept lat="55.5007958057511" lon="-4.35739092300998">
+<ele>94.6291743860099</ele>
+<name>RAW2057</name>
+</rtept>
+<rtept lat="55.5005823729974" lon="-4.35815883335263">
+<ele>90.8887335312964</ele>
+<name>RAW2058</name>
+</rtept>
+<rtept lat="55.500247353125" lon="-4.35889254416157">
+<ele>89.0148784710777</ele>
+<name>RAW2059</name>
+</rtept>
+<rtept lat="55.5003272393037" lon="-4.36029713119747">
+<ele>92.6420454183024</ele>
+<name>RAW2060</name>
+</rtept>
+<rtept lat="55.4998025319035" lon="-4.36215006511631">
+<ele>84.8358406323199</ele>
+<name>RAW2061</name>
+</rtept>
+<rtept lat="55.4998102213707" lon="-4.36333496496281">
+<ele>92.1258355917205</ele>
+<name>RAW2062</name>
+</rtept>
+<rtept lat="55.4995872010631" lon="-4.36380614233453">
+<ele>84.5748778378215</ele>
+<name>RAW2063</name>
+</rtept>
+<rtept lat="55.4990879587744" lon="-4.3667103497051">
+<ele>81.946195200625</ele>
+<name>RAW2064</name>
+</rtept>
+<rtept lat="55.4992423277158" lon="-4.36741949922076">
+<ele>84.2740428606524</ele>
+<name>RAW2065</name>
+</rtept>
+<rtept lat="55.4995876440306" lon="-4.36773633479108">
+<ele>92.0379902725213</ele>
+<name>RAW2066</name>
+</rtept>
+<rtept lat="55.4998099945543" lon="-4.36888028571609">
+<ele>92.7271061193579</ele>
+<name>RAW2067</name>
+</rtept>
+<rtept lat="55.4997314142411" lon="-4.3705714675386">
+<ele>78.5005348655201</ele>
+<name>RAW2068</name>
+</rtept>
+<rtept lat="55.4997967902173" lon="-4.37114069847071">
+<ele>82.691960346929</ele>
+<name>RAW2069</name>
+</rtept>
+<rtept lat="55.4995001864226" lon="-4.37225346218669">
+<ele>82.1874019828561</ele>
+<name>RAW2070</name>
+</rtept>
+<rtept lat="55.4994156823758" lon="-4.37345972906427">
+<ele>81.9113223946136</ele>
+<name>RAW2071</name>
+</rtept>
+<rtept lat="55.499053176219" lon="-4.37403012496836">
+<ele>76.229516224326</ele>
+<name>RAW2072</name>
+</rtept>
+<rtept lat="55.4986777555728" lon="-4.37605332611529">
+<ele>74.8361620986544</ele>
+<name>RAW2073</name>
+</rtept>
+<rtept lat="55.4983449547001" lon="-4.37824056858312">
+<ele>69.4708423595507</ele>
+<name>RAW2074</name>
+</rtept>
+<rtept lat="55.4984688380767" lon="-4.37972854320617">
+<ele>69.1408429915622</ele>
+<name>RAW2075</name>
+</rtept>
+<rtept lat="55.4986446675726" lon="-4.38011600924525">
+<ele>69.9767693154015</ele>
+<name>RAW2076</name>
+</rtept>
+<rtept lat="55.499239898623" lon="-4.38015192831117">
+<ele>74.8416024294682</ele>
+<name>RAW2077</name>
+</rtept>
+<rtept lat="55.5013155755552" lon="-4.38027719502562">
+<ele>88.5125847057848</ele>
+<name>RAW2078</name>
+</rtept>
+<rtept lat="55.5022987370963" lon="-4.3807941896358">
+<ele>91.1922068554081</ele>
+<name>RAW2079</name>
+</rtept>
+<rtept lat="55.5062479206021" lon="-4.37847488673817">
+<ele>108.158910732687</ele>
+<name>RAW2080</name>
+</rtept>
+<rtept lat="55.5062939181892" lon="-4.38003923118972">
+<ele>102.912035879701</ele>
+<name>RAW2081</name>
+</rtept>
+<rtept lat="55.5058182863741" lon="-4.38641827359661">
+<ele>102.072749919957</ele>
+<name>RAW2082</name>
+</rtept>
+<rtept lat="55.5044536553292" lon="-4.38665875881091">
+<ele>104.965281794049</ele>
+<name>RAW2083</name>
+</rtept>
+<rtept lat="55.5041675790279" lon="-4.39035671274755">
+<ele>99.2764900757701</ele>
+<name>RAW2084</name>
+</rtept>
+<rtept lat="55.5050175364938" lon="-4.39065054067276">
+<ele>91.5300061270414</ele>
+<name>RAW2085</name>
+</rtept>
+<rtept lat="55.5049959720758" lon="-4.39097230708295">
+<ele>90.2161243504726</ele>
+<name>RAW2086</name>
+</rtept>
+<rtept lat="55.5045176402675" lon="-4.39277403413648">
+<ele>89.4639764592238</ele>
+<name>RAW2087</name>
+</rtept>
+<rtept lat="55.5046881699393" lon="-4.39343052450539">
+<ele>89.1273023563902</ele>
+<name>RAW2088</name>
+</rtept>
+<rtept lat="55.5052444572316" lon="-4.39389505719231">
+<ele>88.8847616638309</ele>
+<name>RAW2089</name>
+</rtept>
+<rtept lat="55.5054770813561" lon="-4.39450148918635">
+<ele>88.2202832278222</ele>
+<name>RAW2090</name>
+</rtept>
+<rtept lat="55.504133467081" lon="-4.39835055307024">
+<ele>85.6560117703886</ele>
+<name>RAW2091</name>
+</rtept>
+<rtept lat="55.5036329607152" lon="-4.39893931782904">
+<ele>85</ele>
+<name>RAW2092</name>
+</rtept>
+<rtept lat="55.5050291438758" lon="-4.40020886279052">
+<ele>86</ele>
+<name>RAW2093</name>
+</rtept>
+<rtept lat="55.5057459039011" lon="-4.401060193526">
+<ele>87</ele>
+<name>RAW2094</name>
+</rtept>
+<rtept lat="55.5058732401968" lon="-4.40157949350196">
+<ele>87.4859919635626</ele>
+<name>RAW2095</name>
+</rtept>
+<rtept lat="55.5054931883512" lon="-4.4030371246311">
+<ele>88.3559919635626</ele>
+<name>RAW2096</name>
+</rtept>
+<rtept lat="55.5048668673335" lon="-4.40380664113605">
+<ele>89</ele>
+<name>RAW2097</name>
+</rtept>
+<rtept lat="55.504770217684" lon="-4.40794685538278">
+<ele>94</ele>
+<name>RAW2098</name>
+</rtept>
+<rtept lat="55.5041504822279" lon="-4.41070893868163">
+<ele>80.5999282984768</ele>
+<name>RAW2099</name>
+</rtept>
+<rtept lat="55.5042541386862" lon="-4.4108768101976">
+<ele>79.0904657639387</ele>
+<name>RAW2100</name>
+</rtept>
+<rtept lat="55.5038548971172" lon="-4.41330232073938">
+<ele>71.0292371867181</ele>
+<name>RAW2101</name>
+</rtept>
+<rtept lat="55.5026436686307" lon="-4.41815481190549">
+<ele>82.3429860706458</ele>
+<name>RAW2102</name>
+</rtept>
+<rtept lat="55.5026341065639" lon="-4.41863881069274">
+<ele>77.9038274191432</ele>
+<name>RAW2103</name>
+</rtept>
+<rtept lat="55.5029780728102" lon="-4.41979061530716">
+<ele>68.393136184681</ele>
+<name>RAW2104</name>
+</rtept>
+<rtept lat="55.5058564091701" lon="-4.42414040940691">
+<ele>80.8547528643317</ele>
+<name>RAW2105</name>
+</rtept>
+<rtept lat="55.5060430962232" lon="-4.42474420944887">
+<ele>80.7000679371557</ele>
+<name>RAW2106</name>
+</rtept>
+<rtept lat="55.5062835566393" lon="-4.42494746385087">
+<ele>81.8464087962209</ele>
+<name>RAW2107</name>
+</rtept>
+<rtept lat="55.5062319112904" lon="-4.42524045061753">
+<ele>80.3358431694426</ele>
+<name>RAW2108</name>
+</rtept>
+<rtept lat="55.5068091260641" lon="-4.43157624438434">
+<ele>80.4819778113509</ele>
+<name>RAW2109</name>
+</rtept>
+<rtept lat="55.5058598354356" lon="-4.43628320118578">
+<ele>50.2289628539131</ele>
+<name>RAW2110</name>
+</rtept>
+<rtept lat="55.5057503276921" lon="-4.43641105341946">
+<ele>48.446330231492</ele>
+<name>RAW2111</name>
+</rtept>
+<rtept lat="55.5054255555307" lon="-4.43814100967116">
+<ele>52.7653993154361</ele>
+<name>RAW2112</name>
+</rtept>
+<rtept lat="55.504545158907" lon="-4.4409134737244">
+<ele>51.158054144874</ele>
+<name>RAW2113</name>
+</rtept>
+<rtept lat="55.5041660096984" lon="-4.44153614697036">
+<ele>51.5079710196657</ele>
+<name>RAW2114</name>
+</rtept>
+<rtept lat="55.5035801679324" lon="-4.44179601923931">
+<ele>49.7873725308568</ele>
+<name>RAW2115</name>
+</rtept>
+<rtept lat="55.5033932736579" lon="-4.44197290124899">
+<ele>49.020304590785</ele>
+<name>RAW2116</name>
+</rtept>
+<rtept lat="55.5027332686515" lon="-4.44212048284742">
+<ele>51.2952164118127</ele>
+<name>RAW2117</name>
+</rtept>
+<rtept lat="55.5026025919461" lon="-4.44254313518305">
+<ele>60.3070965756955</ele>
+<name>RAW2118</name>
+</rtept>
+<rtept lat="55.5024068733573" lon="-4.44239640588874">
+<ele>62.8180601280464</ele>
+<name>RAW2119</name>
+</rtept>
+<rtept lat="55.5018657926112" lon="-4.44117836990665">
+<ele>72.6535308118908</ele>
+<name>RAW2120</name>
+</rtept>
+<rtept lat="55.5017881624933" lon="-4.44047361910513">
+<ele>71.8677883439675</ele>
+<name>RAW2121</name>
+</rtept>
+<rtept lat="55.5019828367897" lon="-4.43913961102855">
+<ele>53.6814268321623</ele>
+<name>RAW2122</name>
+</rtept>
+<rtept lat="55.501463536042" lon="-4.43644234031992">
+<ele>50.6929734946906</ele>
+<name>RAW2123</name>
+</rtept>
+<rtept lat="55.5006709687168" lon="-4.43480508633826">
+<ele>48.3697375754718</ele>
+<name>RAW2124</name>
+</rtept>
+<rtept lat="55.4998596693777" lon="-4.43410893006996">
+<ele>46.3886649115767</ele>
+<name>RAW2125</name>
+</rtept>
+<rtept lat="55.4990355360212" lon="-4.43405806838597">
+<ele>45.5836082677401</ele>
+<name>RAW2126</name>
+</rtept>
+<rtept lat="55.4987975203875" lon="-4.43450100076077">
+<ele>47.2693705808124</ele>
+<name>RAW2127</name>
+</rtept>
+<rtept lat="55.4983964690662" lon="-4.43622595685169">
+<ele>49.588692726375</ele>
+<name>RAW2128</name>
+</rtept>
+<rtept lat="55.4985852381933" lon="-4.43672215434953">
+<ele>53.8457694521991</ele>
+<name>RAW2129</name>
+</rtept>
+<rtept lat="55.4986063967467" lon="-4.43796172541058">
+<ele>59.4793512657314</ele>
+<name>RAW2130</name>
+</rtept>
+<rtept lat="55.4983943038809" lon="-4.44093658581326">
+<ele>72.9756112252483</ele>
+<name>RAW2131</name>
+</rtept>
+<rtept lat="55.4981348557609" lon="-4.44092052950948">
+<ele>69.2139361295934</ele>
+<name>RAW2132</name>
+</rtept>
+<rtept lat="55.4972619713735" lon="-4.4417817200574">
+<ele>54.7042441736993</ele>
+<name>RAW2133</name>
+</rtept>
+<rtept lat="55.4968654109728" lon="-4.44251086452625">
+<ele>79.7815821773236</ele>
+<name>RAW2134</name>
+</rtept>
+<rtept lat="55.4964047589654" lon="-4.44224008403709">
+<ele>70.7137635365865</ele>
+<name>RAW2135</name>
+</rtept>
+<rtept lat="55.4956307061161" lon="-4.4419768251938">
+<ele>74.7158074416607</ele>
+<name>RAW2136</name>
+</rtept>
+<rtept lat="55.4954076809086" lon="-4.44166693559106">
+<ele>75.9352134369842</ele>
+<name>RAW2137</name>
+</rtept>
+<rtept lat="55.4954288413814" lon="-4.44137216235061">
+<ele>63.6198035674695</ele>
+<name>RAW2138</name>
+</rtept>
+<rtept lat="55.4945102114262" lon="-4.44069624080056">
+<ele>49.4857839797234</ele>
+<name>RAW2139</name>
+</rtept>
+<rtept lat="55.4941188946277" lon="-4.44077969259745">
+<ele>45.4491283341975</ele>
+<name>RAW2140</name>
+</rtept>
+<rtept lat="55.4934765451724" lon="-4.44157432377526">
+<ele>44.6587967272798</ele>
+<name>RAW2141</name>
+</rtept>
+<rtept lat="55.4931303035564" lon="-4.44284481818523">
+<ele>44.4994227962895</ele>
+<name>RAW2142</name>
+</rtept>
+<rtept lat="55.4924640914701" lon="-4.44406855274464">
+<ele>44.3168164229377</ele>
+<name>RAW2143</name>
+</rtept>
+<rtept lat="55.4921060073795" lon="-4.44593037652216">
+<ele>43.0564799417434</ele>
+<name>RAW2144</name>
+</rtept>
+<rtept lat="55.4914051508866" lon="-4.44812078148341">
+<ele>46.4818298448774</ele>
+<name>RAW2145</name>
+</rtept>
+<rtept lat="55.4909988719807" lon="-4.44933359970569">
+<ele>66.8446250808601</ele>
+<name>RAW2146</name>
+</rtept>
+<rtept lat="55.4906740751758" lon="-4.44952874322048">
+<ele>63.567953380152</ele>
+<name>RAW2147</name>
+</rtept>
+<rtept lat="55.4902799640094" lon="-4.44936970842695">
+<ele>53.1129329671631</ele>
+<name>RAW2148</name>
+</rtept>
+<rtept lat="55.4895120434235" lon="-4.44956424941014">
+<ele>55.1781704572542</ele>
+<name>RAW2149</name>
+</rtept>
+<rtept lat="55.4883204133936" lon="-4.45107806879256">
+<ele>55.0533352296823</ele>
+<name>RAW2150</name>
+</rtept>
+<rtept lat="55.487663458128" lon="-4.45259812101347">
+<ele>53.3018418911259</ele>
+<name>RAW2151</name>
+</rtept>
+<rtept lat="55.4872283217637" lon="-4.45181756287922">
+<ele>43.4901336781572</ele>
+<name>RAW2152</name>
+</rtept>
+<rtept lat="55.485524583518" lon="-4.45448342948151">
+<ele>41.4773029092071</ele>
+<name>RAW2153</name>
+</rtept>
+<rtept lat="55.4846664906393" lon="-4.45612534870927">
+<ele>40.7101734896079</ele>
+<name>RAW2154</name>
+</rtept>
+<rtept lat="55.4837682801492" lon="-4.45900250419488">
+<ele>40.5056896777075</ele>
+<name>RAW2155</name>
+</rtept>
+<rtept lat="55.4834830382705" lon="-4.46102978570856">
+<ele>41.6199411480571</ele>
+<name>RAW2156</name>
+</rtept>
+<rtept lat="55.483645212787" lon="-4.46284278521069">
+<ele>39.7395305366333</ele>
+<name>RAW2157</name>
+</rtept>
+<rtept lat="55.4859075818265" lon="-4.46583647866709">
+<ele>38.9963740765645</ele>
+<name>RAW2158</name>
+</rtept>
+<rtept lat="55.4866987375022" lon="-4.46828098602122">
+<ele>40.4103442762601</ele>
+<name>RAW2159</name>
+</rtept>
+<rtept lat="55.4866067842634" lon="-4.46980915060954">
+<ele>38.6400235407753</ele>
+<name>RAW2160</name>
+</rtept>
+<rtept lat="55.485875042419" lon="-4.47275039743364">
+<ele>41.6680959445986</ele>
+<name>RAW2161</name>
+</rtept>
+<rtept lat="55.4843244682063" lon="-4.47386415342056">
+<ele>37.8787440367432</ele>
+<name>RAW2162</name>
+</rtept>
+<rtept lat="55.4837473463126" lon="-4.47520032868941">
+<ele>39.8500068993674</ele>
+<name>RAW2163</name>
+</rtept>
+<rtept lat="55.4825302877408" lon="-4.47568906472092">
+<ele>38.7719758906891</ele>
+<name>RAW2164</name>
+</rtept>
+<rtept lat="55.4817345059236" lon="-4.47537006978477">
+<ele>38.6567051537695</ele>
+<name>RAW2165</name>
+</rtept>
+<rtept lat="55.4814227153001" lon="-4.47491999672169">
+<ele>36.6349876610778</ele>
+<name>RAW2166</name>
+</rtept>
+<rtept lat="55.4810531828595" lon="-4.47505826617269">
+<ele>36.1299994314625</ele>
+<name>RAW2167</name>
+</rtept>
+</rte>
+</gpx>

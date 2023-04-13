@@ -1,0 +1,886 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Loch Ness 360: Invermoriston to Fort Augustus</name>
+<rtept lat="57.2145868733969" lon="-4.61750305531847">
+<ele>42.5982303435018</ele>
+<name>IFA001</name>
+</rtept>
+<rtept lat="57.2137842074863" lon="-4.61737994423835">
+<ele>40.6337915006414</ele>
+<name>IFA002</name>
+</rtept>
+<rtept lat="57.2126" lon="-4.617882">
+<ele>34.305448</ele>
+<name>IFA003</name>
+</rtept>
+<rtept lat="57.211961" lon="-4.618154">
+<ele>46.533241</ele>
+<name>IFA004</name>
+</rtept>
+<rtept lat="57.212053" lon="-4.618658">
+<ele>43.722634</ele>
+<name>IFA005</name>
+</rtept>
+<rtept lat="57.212275" lon="-4.619233">
+<ele>42.240231</ele>
+<name>IFA006</name>
+</rtept>
+<rtept lat="57.212716" lon="-4.621575">
+<ele>48.985136</ele>
+<name>IFA007</name>
+</rtept>
+<rtept lat="57.213074" lon="-4.622116">
+<ele>65.058654</ele>
+<name>IFA008</name>
+</rtept>
+<rtept lat="57.213129" lon="-4.622534">
+<ele>53.947486</ele>
+<name>IFA009</name>
+</rtept>
+<rtept lat="57.214102" lon="-4.625403">
+<ele>53.254492</ele>
+<name>IFA010</name>
+</rtept>
+<rtept lat="57.214115" lon="-4.625553">
+<ele>53.686385</ele>
+<name>IFA011</name>
+</rtept>
+<rtept lat="57.213834" lon="-4.625636">
+<ele>59.952473</ele>
+<name>IFA012</name>
+</rtept>
+<rtept lat="57.213681" lon="-4.626104">
+<ele>58.480691</ele>
+<name>IFA013</name>
+</rtept>
+<rtept lat="57.213223" lon="-4.626537">
+<ele>67.391924</ele>
+<name>IFA014</name>
+</rtept>
+<rtept lat="57.21304" lon="-4.627001">
+<ele>70.406547</ele>
+<name>IFA015</name>
+</rtept>
+<rtept lat="57.212816" lon="-4.627144">
+<ele>75.840666</ele>
+<name>IFA016</name>
+</rtept>
+<rtept lat="57.212602" lon="-4.626934">
+<ele>79.250015</ele>
+<name>IFA017</name>
+</rtept>
+<rtept lat="57.212577" lon="-4.626783">
+<ele>82.419383</ele>
+<name>IFA018</name>
+</rtept>
+<rtept lat="57.212513" lon="-4.625154">
+<ele>63.579767</ele>
+<name>IFA019</name>
+</rtept>
+<rtept lat="57.21204" lon="-4.623956">
+<ele>81.109401</ele>
+<name>IFA020</name>
+</rtept>
+<rtept lat="57.21184" lon="-4.62311">
+<ele>78.678277</ele>
+<name>IFA021</name>
+</rtept>
+<rtept lat="57.21146" lon="-4.622367">
+<ele>75.589391</ele>
+<name>IFA022</name>
+</rtept>
+<rtept lat="57.210771" lon="-4.621404">
+<ele>67.638042</ele>
+<name>IFA023</name>
+</rtept>
+<rtept lat="57.210313" lon="-4.619804">
+<ele>69.777926</ele>
+<name>IFA024</name>
+</rtept>
+<rtept lat="57.209783" lon="-4.618987">
+<ele>82.224371</ele>
+<name>IFA025</name>
+</rtept>
+<rtept lat="57.209759" lon="-4.618828">
+<ele>81.073515</ele>
+<name>IFA026</name>
+</rtept>
+<rtept lat="57.209822" lon="-4.618728">
+<ele>82.611024</ele>
+<name>IFA027</name>
+</rtept>
+<rtept lat="57.20931" lon="-4.617265">
+<ele>75.433773</ele>
+<name>IFA028</name>
+</rtept>
+<rtept lat="57.209147" lon="-4.616387">
+<ele>86.957853</ele>
+<name>IFA029</name>
+</rtept>
+<rtept lat="57.208924" lon="-4.615821">
+<ele>82.566805</ele>
+<name>IFA030</name>
+</rtept>
+<rtept lat="57.208136" lon="-4.614937">
+<ele>68.933075</ele>
+<name>IFA031</name>
+</rtept>
+<rtept lat="57.207687" lon="-4.614207">
+<ele>76.27181</ele>
+<name>IFA032</name>
+</rtept>
+<rtept lat="57.20747" lon="-4.614092">
+<ele>72.534476</ele>
+<name>IFA033</name>
+</rtept>
+<rtept lat="57.207275" lon="-4.614306">
+<ele>83.861441</ele>
+<name>IFA034</name>
+</rtept>
+<rtept lat="57.207194" lon="-4.614254">
+<ele>84.304581</ele>
+<name>IFA035</name>
+</rtept>
+<rtept lat="57.207289" lon="-4.614488">
+<ele>92.62347</ele>
+<name>IFA036</name>
+</rtept>
+<rtept lat="57.207228" lon="-4.614703">
+<ele>91.963735</ele>
+<name>IFA037</name>
+</rtept>
+<rtept lat="57.206844" lon="-4.614724">
+<ele>89.089077</ele>
+<name>IFA038</name>
+</rtept>
+<rtept lat="57.205808" lon="-4.615344">
+<ele>135.246264</ele>
+<name>IFA039</name>
+</rtept>
+<rtept lat="57.205486" lon="-4.615377">
+<ele>143.216715</ele>
+<name>IFA040</name>
+</rtept>
+<rtept lat="57.205266" lon="-4.615579">
+<ele>144.785485</ele>
+<name>IFA041</name>
+</rtept>
+<rtept lat="57.204348" lon="-4.615698">
+<ele>171.247414</ele>
+<name>IFA042</name>
+</rtept>
+<rtept lat="57.204272" lon="-4.615756">
+<ele>171.374868</ele>
+<name>IFA043</name>
+</rtept>
+<rtept lat="57.204384" lon="-4.615963">
+<ele>178.578751</ele>
+<name>IFA044</name>
+</rtept>
+<rtept lat="57.204323" lon="-4.616062">
+<ele>182.632983</ele>
+<name>IFA045</name>
+</rtept>
+<rtept lat="57.203468" lon="-4.616322">
+<ele>217.43486</ele>
+<name>IFA046</name>
+</rtept>
+<rtept lat="57.203169" lon="-4.616162">
+<ele>219.101025</ele>
+<name>IFA047</name>
+</rtept>
+<rtept lat="57.203004" lon="-4.616532">
+<ele>217.998103</ele>
+<name>IFA048</name>
+</rtept>
+<rtept lat="57.202641" lon="-4.616814">
+<ele>236.82205</ele>
+<name>IFA049</name>
+</rtept>
+<rtept lat="57.202571" lon="-4.617205">
+<ele>230.484062</ele>
+<name>IFA050</name>
+</rtept>
+<rtept lat="57.201838" lon="-4.618288">
+<ele>241.992545</ele>
+<name>IFA051</name>
+</rtept>
+<rtept lat="57.201201" lon="-4.618788">
+<ele>269.63935</ele>
+<name>IFA052</name>
+</rtept>
+<rtept lat="57.200524" lon="-4.619054">
+<ele>263.608991</ele>
+<name>IFA053</name>
+</rtept>
+<rtept lat="57.199933" lon="-4.61949">
+<ele>249.961555</ele>
+<name>IFA054</name>
+</rtept>
+<rtept lat="57.19931" lon="-4.619475">
+<ele>255.448432</ele>
+<name>IFA055</name>
+</rtept>
+<rtept lat="57.198855" lon="-4.619985">
+<ele>256.832437</ele>
+<name>IFA056</name>
+</rtept>
+<rtept lat="57.198376" lon="-4.621074">
+<ele>249.910356</ele>
+<name>IFA057</name>
+</rtept>
+<rtept lat="57.198033" lon="-4.621466">
+<ele>245.168189</ele>
+<name>IFA058</name>
+</rtept>
+<rtept lat="57.197865" lon="-4.622155">
+<ele>245.264125</ele>
+<name>IFA059</name>
+</rtept>
+<rtept lat="57.197364" lon="-4.622881">
+<ele>240.182853</ele>
+<name>IFA060</name>
+</rtept>
+<rtept lat="57.196267" lon="-4.625006">
+<ele>254.59043</ele>
+<name>IFA061</name>
+</rtept>
+<rtept lat="57.195499" lon="-4.626128">
+<ele>244.590032</ele>
+<name>IFA062</name>
+</rtept>
+<rtept lat="57.195208" lon="-4.627114">
+<ele>244.579131</ele>
+<name>IFA063</name>
+</rtept>
+<rtept lat="57.194715" lon="-4.629431">
+<ele>252.637673</ele>
+<name>IFA064</name>
+</rtept>
+<rtept lat="57.194205" lon="-4.63004">
+<ele>248.212138</ele>
+<name>IFA065</name>
+</rtept>
+<rtept lat="57.193191" lon="-4.63195">
+<ele>237.702914</ele>
+<name>IFA066</name>
+</rtept>
+<rtept lat="57.193062" lon="-4.632788">
+<ele>234.354225</ele>
+<name>IFA067</name>
+</rtept>
+<rtept lat="57.193028" lon="-4.63362">
+<ele>245.029545</ele>
+<name>IFA068</name>
+</rtept>
+<rtept lat="57.193169" lon="-4.633596">
+<ele>248.214213</ele>
+<name>IFA069</name>
+</rtept>
+<rtept lat="57.193224" lon="-4.633706">
+<ele>250.254362</ele>
+<name>IFA070</name>
+</rtept>
+<rtept lat="57.192976" lon="-4.634775">
+<ele>261.675193</ele>
+<name>IFA071</name>
+</rtept>
+<rtept lat="57.192765" lon="-4.634968">
+<ele>269.93535</ele>
+<name>IFA072</name>
+</rtept>
+<rtept lat="57.192242" lon="-4.635053">
+<ele>276.070874</ele>
+<name>IFA073</name>
+</rtept>
+<rtept lat="57.191916" lon="-4.635866">
+<ele>269.493033</ele>
+<name>IFA074</name>
+</rtept>
+<rtept lat="57.191823" lon="-4.636434">
+<ele>268.796489</ele>
+<name>IFA075</name>
+</rtept>
+<rtept lat="57.191948" lon="-4.637348">
+<ele>264.604417</ele>
+<name>IFA076</name>
+</rtept>
+<rtept lat="57.191882" lon="-4.637869">
+<ele>263.889321</ele>
+<name>IFA077</name>
+</rtept>
+<rtept lat="57.191599" lon="-4.637983">
+<ele>265.729441</ele>
+<name>IFA078</name>
+</rtept>
+<rtept lat="57.190877" lon="-4.63863">
+<ele>274.856249</ele>
+<name>IFA079</name>
+</rtept>
+<rtept lat="57.189131" lon="-4.640518">
+<ele>298.718872</ele>
+<name>IFA080</name>
+</rtept>
+<rtept lat="57.188947" lon="-4.640747">
+<ele>295.526369</ele>
+<name>IFA081</name>
+</rtept>
+<rtept lat="57.188655" lon="-4.641432">
+<ele>293.502694</ele>
+<name>IFA082</name>
+</rtept>
+<rtept lat="57.188169" lon="-4.642016">
+<ele>301.534354</ele>
+<name>IFA083</name>
+</rtept>
+<rtept lat="57.187255" lon="-4.642517">
+<ele>293.012392</ele>
+<name>IFA084</name>
+</rtept>
+<rtept lat="57.186945" lon="-4.64251">
+<ele>291.741302</ele>
+<name>IFA085</name>
+</rtept>
+<rtept lat="57.186393" lon="-4.643147">
+<ele>280.605207</ele>
+<name>IFA086</name>
+</rtept>
+<rtept lat="57.185891" lon="-4.644135">
+<ele>275.691587</ele>
+<name>IFA087</name>
+</rtept>
+<rtept lat="57.185657" lon="-4.644234">
+<ele>274.341277</ele>
+<name>IFA088</name>
+</rtept>
+<rtept lat="57.185589" lon="-4.644492">
+<ele>276.119786</ele>
+<name>IFA089</name>
+</rtept>
+<rtept lat="57.185098" lon="-4.644975">
+<ele>270.476436</ele>
+<name>IFA090</name>
+</rtept>
+<rtept lat="57.184884" lon="-4.64558">
+<ele>272.97603</ele>
+<name>IFA091</name>
+</rtept>
+<rtept lat="57.184646" lon="-4.645895">
+<ele>270.987647</ele>
+<name>IFA092</name>
+</rtept>
+<rtept lat="57.18447" lon="-4.6465">
+<ele>274.486511</ele>
+<name>IFA093</name>
+</rtept>
+<rtept lat="57.184094" lon="-4.647121">
+<ele>268.486466</ele>
+<name>IFA094</name>
+</rtept>
+<rtept lat="57.183818" lon="-4.647386">
+<ele>267.425105</ele>
+<name>IFA095</name>
+</rtept>
+<rtept lat="57.183375" lon="-4.648426">
+<ele>270.945787</ele>
+<name>IFA096</name>
+</rtept>
+<rtept lat="57.183107" lon="-4.648739">
+<ele>266.415663</ele>
+<name>IFA097</name>
+</rtept>
+<rtept lat="57.183009" lon="-4.649094">
+<ele>264.478698</ele>
+<name>IFA098</name>
+</rtept>
+<rtept lat="57.182871" lon="-4.649251">
+<ele>266.021037</ele>
+<name>IFA099</name>
+</rtept>
+<rtept lat="57.182271" lon="-4.651535">
+<ele>268.150879</ele>
+<name>IFA100</name>
+</rtept>
+<rtept lat="57.182145" lon="-4.652695">
+<ele>273.703061</ele>
+<name>IFA101</name>
+</rtept>
+<rtept lat="57.18197" lon="-4.652998">
+<ele>271.905464</ele>
+<name>IFA102</name>
+</rtept>
+<rtept lat="57.181739" lon="-4.653072">
+<ele>269.922868</ele>
+<name>IFA103</name>
+</rtept>
+<rtept lat="57.181089" lon="-4.652876">
+<ele>272.680854</ele>
+<name>IFA104</name>
+</rtept>
+<rtept lat="57.180872" lon="-4.653318">
+<ele>278.457588</ele>
+<name>IFA105</name>
+</rtept>
+<rtept lat="57.180668" lon="-4.653506">
+<ele>286.833305</ele>
+<name>IFA106</name>
+</rtept>
+<rtept lat="57.180613" lon="-4.653929">
+<ele>285.823617</ele>
+<name>IFA107</name>
+</rtept>
+<rtept lat="57.180482" lon="-4.654059">
+<ele>289.340794</ele>
+<name>IFA108</name>
+</rtept>
+<rtept lat="57.18016" lon="-4.653586">
+<ele>298.836583</ele>
+<name>IFA109</name>
+</rtept>
+<rtept lat="57.179865" lon="-4.653587">
+<ele>301.196321</ele>
+<name>IFA110</name>
+</rtept>
+<rtept lat="57.179693" lon="-4.653091">
+<ele>307.918398</ele>
+<name>IFA111</name>
+</rtept>
+<rtept lat="57.17934" lon="-4.653149">
+<ele>316.540968</ele>
+<name>IFA112</name>
+</rtept>
+<rtept lat="57.179122" lon="-4.652626">
+<ele>313.133697</ele>
+<name>IFA113</name>
+</rtept>
+<rtept lat="57.178971" lon="-4.652742">
+<ele>313.273308</ele>
+<name>IFA114</name>
+</rtept>
+<rtept lat="57.178655" lon="-4.652693">
+<ele>310.974066</ele>
+<name>IFA115</name>
+</rtept>
+<rtept lat="57.17756" lon="-4.652092">
+<ele>292.491304</ele>
+<name>IFA116</name>
+</rtept>
+<rtept lat="57.177343" lon="-4.65215">
+<ele>287.059859</ele>
+<name>IFA117</name>
+</rtept>
+<rtept lat="57.176678" lon="-4.65199">
+<ele>282.323682</ele>
+<name>IFA118</name>
+</rtept>
+<rtept lat="57.176504" lon="-4.652272">
+<ele>282.30839</ele>
+<name>IFA119</name>
+</rtept>
+<rtept lat="57.176417" lon="-4.652618">
+<ele>284.586</ele>
+<name>IFA120</name>
+</rtept>
+<rtept lat="57.175841" lon="-4.652577">
+<ele>276.365461</ele>
+<name>IFA121</name>
+</rtept>
+<rtept lat="57.175415" lon="-4.652911">
+<ele>277.041553</ele>
+<name>IFA122</name>
+</rtept>
+<rtept lat="57.174856" lon="-4.654443">
+<ele>268.625025</ele>
+<name>IFA123</name>
+</rtept>
+<rtept lat="57.174533" lon="-4.655053">
+<ele>272.253873</ele>
+<name>IFA124</name>
+</rtept>
+<rtept lat="57.174601" lon="-4.655974">
+<ele>286.589115</ele>
+<name>IFA125</name>
+</rtept>
+<rtept lat="57.174453" lon="-4.65661">
+<ele>290.303187</ele>
+<name>IFA126</name>
+</rtept>
+<rtept lat="57.174294" lon="-4.656637">
+<ele>285.829019</ele>
+<name>IFA127</name>
+</rtept>
+<rtept lat="57.174037" lon="-4.65718">
+<ele>280.247989</ele>
+<name>IFA128</name>
+</rtept>
+<rtept lat="57.173678" lon="-4.657514">
+<ele>262.819651</ele>
+<name>IFA129</name>
+</rtept>
+<rtept lat="57.173075" lon="-4.657509">
+<ele>245.386932</ele>
+<name>IFA130</name>
+</rtept>
+<rtept lat="57.172193" lon="-4.657893">
+<ele>244.509906</ele>
+<name>IFA131</name>
+</rtept>
+<rtept lat="57.171721" lon="-4.657955">
+<ele>240.963882</ele>
+<name>IFA132</name>
+</rtept>
+<rtept lat="57.17116" lon="-4.657409">
+<ele>235.928651</ele>
+<name>IFA133</name>
+</rtept>
+<rtept lat="57.170949" lon="-4.657439">
+<ele>233.771856</ele>
+<name>IFA134</name>
+</rtept>
+<rtept lat="57.170348" lon="-4.658675">
+<ele>227.611151</ele>
+<name>IFA135</name>
+</rtept>
+<rtept lat="57.170203" lon="-4.659766">
+<ele>235.020236</ele>
+<name>IFA136</name>
+</rtept>
+<rtept lat="57.169981" lon="-4.660395">
+<ele>235.662496</ele>
+<name>IFA137</name>
+</rtept>
+<rtept lat="57.169867" lon="-4.661006">
+<ele>227.042132</ele>
+<name>IFA138</name>
+</rtept>
+<rtept lat="57.169853" lon="-4.66158">
+<ele>235.215129</ele>
+<name>IFA139</name>
+</rtept>
+<rtept lat="57.169683" lon="-4.662414">
+<ele>230.991703</ele>
+<name>IFA140</name>
+</rtept>
+<rtept lat="57.16868" lon="-4.663965">
+<ele>229.343652</ele>
+<name>IFA141</name>
+</rtept>
+<rtept lat="57.168499" lon="-4.664639">
+<ele>229.47572</ele>
+<name>IFA142</name>
+</rtept>
+<rtept lat="57.168253" lon="-4.665134">
+<ele>233.092517</ele>
+<name>IFA143</name>
+</rtept>
+<rtept lat="57.16836" lon="-4.666004">
+<ele>229.832017</ele>
+<name>IFA144</name>
+</rtept>
+<rtept lat="57.168082" lon="-4.667189">
+<ele>224.142584</ele>
+<name>IFA145</name>
+</rtept>
+<rtept lat="57.167899" lon="-4.667461">
+<ele>217.690326</ele>
+<name>IFA146</name>
+</rtept>
+<rtept lat="57.167115" lon="-4.667743">
+<ele>201.631519</ele>
+<name>IFA147</name>
+</rtept>
+<rtept lat="57.166818" lon="-4.667042">
+<ele>196.793015</ele>
+<name>IFA148</name>
+</rtept>
+<rtept lat="57.166728" lon="-4.666622">
+<ele>191.500079</ele>
+<name>IFA149</name>
+</rtept>
+<rtept lat="57.166508" lon="-4.666226">
+<ele>186.972244</ele>
+<name>IFA150</name>
+</rtept>
+<rtept lat="57.166103" lon="-4.66637">
+<ele>169.420946</ele>
+<name>IFA151</name>
+</rtept>
+<rtept lat="57.165999" lon="-4.666577">
+<ele>162.926037</ele>
+<name>IFA152</name>
+</rtept>
+<rtept lat="57.165866" lon="-4.66646">
+<ele>161.15728</ele>
+<name>IFA153</name>
+</rtept>
+<rtept lat="57.165521" lon="-4.666853">
+<ele>157.424996</ele>
+<name>IFA154</name>
+</rtept>
+<rtept lat="57.164773" lon="-4.665997">
+<ele>146.055435</ele>
+<name>IFA155</name>
+</rtept>
+<rtept lat="57.16449" lon="-4.66594">
+<ele>143.494015</ele>
+<name>IFA156</name>
+</rtept>
+<rtept lat="57.164136" lon="-4.665132">
+<ele>127.515681</ele>
+<name>IFA157</name>
+</rtept>
+<rtept lat="57.163732" lon="-4.66499">
+<ele>125.756666</ele>
+<name>IFA158</name>
+</rtept>
+<rtept lat="57.163374" lon="-4.664525">
+<ele>103.177227</ele>
+<name>IFA159</name>
+</rtept>
+<rtept lat="57.163033" lon="-4.664349">
+<ele>90.25978</ele>
+<name>IFA160</name>
+</rtept>
+<rtept lat="57.162998" lon="-4.664206">
+<ele>89.252601</ele>
+<name>IFA161</name>
+</rtept>
+<rtept lat="57.162786" lon="-4.664464">
+<ele>91.841471</ele>
+<name>IFA162</name>
+</rtept>
+<rtept lat="57.162735" lon="-4.664356">
+<ele>90.328964</ele>
+<name>IFA163</name>
+</rtept>
+<rtept lat="57.162484" lon="-4.664472">
+<ele>84.987436</ele>
+<name>IFA164</name>
+</rtept>
+<rtept lat="57.162464" lon="-4.66489">
+<ele>79.755114</ele>
+<name>IFA165</name>
+</rtept>
+<rtept lat="57.162301" lon="-4.665403">
+<ele>78.679209</ele>
+<name>IFA166</name>
+</rtept>
+<rtept lat="57.161796" lon="-4.664672">
+<ele>74.821535</ele>
+<name>IFA167</name>
+</rtept>
+<rtept lat="57.16143" lon="-4.664692">
+<ele>75.425826</ele>
+<name>IFA168</name>
+</rtept>
+<rtept lat="57.161136" lon="-4.665006">
+<ele>77.902661</ele>
+<name>IFA169</name>
+</rtept>
+<rtept lat="57.160991" lon="-4.664952">
+<ele>76.289716</ele>
+<name>IFA170</name>
+</rtept>
+<rtept lat="57.160765" lon="-4.665371">
+<ele>68.971817</ele>
+<name>IFA171</name>
+</rtept>
+<rtept lat="57.160758" lon="-4.665788">
+<ele>66.98272</ele>
+<name>IFA172</name>
+</rtept>
+<rtept lat="57.160637" lon="-4.666177">
+<ele>61.004543</ele>
+<name>IFA173</name>
+</rtept>
+<rtept lat="57.159968" lon="-4.666461">
+<ele>73.218251</ele>
+<name>IFA174</name>
+</rtept>
+<rtept lat="57.159829" lon="-4.666633">
+<ele>72.092318</ele>
+<name>IFA175</name>
+</rtept>
+<rtept lat="57.1596" lon="-4.667554">
+<ele>61.237256</ele>
+<name>IFA176</name>
+</rtept>
+<rtept lat="57.15959" lon="-4.668757">
+<ele>54.585043</ele>
+<name>IFA177</name>
+</rtept>
+<rtept lat="57.15914" lon="-4.66989">
+<ele>56.936955</ele>
+<name>IFA178</name>
+</rtept>
+<rtept lat="57.15889" lon="-4.670221">
+<ele>60.412743</ele>
+<name>IFA179</name>
+</rtept>
+<rtept lat="57.158779" lon="-4.670913">
+<ele>69.096134</ele>
+<name>IFA180</name>
+</rtept>
+<rtept lat="57.158601" lon="-4.671212">
+<ele>71.867032</ele>
+<name>IFA181</name>
+</rtept>
+<rtept lat="57.157702" lon="-4.67201">
+<ele>71.03175</ele>
+<name>IFA182</name>
+</rtept>
+<rtept lat="57.15751" lon="-4.673089">
+<ele>68.508204</ele>
+<name>IFA183</name>
+</rtept>
+<rtept lat="57.157059" lon="-4.673339">
+<ele>74.930545</ele>
+<name>IFA184</name>
+</rtept>
+<rtept lat="57.156865" lon="-4.673805">
+<ele>76.813079</ele>
+<name>IFA185</name>
+</rtept>
+<rtept lat="57.156737" lon="-4.674938">
+<ele>72.806351</ele>
+<name>IFA186</name>
+</rtept>
+<rtept lat="57.156475" lon="-4.675615">
+<ele>81.465752</ele>
+<name>IFA187</name>
+</rtept>
+<rtept lat="57.15646" lon="-4.676016">
+<ele>87.064367</ele>
+<name>IFA188</name>
+</rtept>
+<rtept lat="57.156623" lon="-4.676891">
+<ele>79.331621</ele>
+<name>IFA189</name>
+</rtept>
+<rtept lat="57.156469" lon="-4.677722">
+<ele>76.540212</ele>
+<name>IFA190</name>
+</rtept>
+<rtept lat="57.156451" lon="-4.678393">
+<ele>87.061696</ele>
+<name>IFA191</name>
+</rtept>
+<rtept lat="57.156336" lon="-4.678606">
+<ele>93.061028</ele>
+<name>IFA192</name>
+</rtept>
+<rtept lat="57.1562" lon="-4.679313">
+<ele>91.121919</ele>
+<name>IFA193</name>
+</rtept>
+<rtept lat="57.156036" lon="-4.679625">
+<ele>91.343572</ele>
+<name>IFA194</name>
+</rtept>
+<rtept lat="57.156111" lon="-4.680434">
+<ele>90.713202</ele>
+<name>IFA195</name>
+</rtept>
+<rtept lat="57.155502" lon="-4.681859">
+<ele>84.607646</ele>
+<name>IFA196</name>
+</rtept>
+<rtept lat="57.154642" lon="-4.682554">
+<ele>80.149363</ele>
+<name>IFA197</name>
+</rtept>
+<rtept lat="57.154254" lon="-4.683411">
+<ele>77.208739</ele>
+<name>IFA198</name>
+</rtept>
+<rtept lat="57.154164" lon="-4.683134">
+<ele>61.450264</ele>
+<name>IFA199</name>
+</rtept>
+<rtept lat="57.154172" lon="-4.682686">
+<ele>59.885406</ele>
+<name>IFA200</name>
+</rtept>
+<rtept lat="57.154088" lon="-4.682257">
+<ele>54.267797</ele>
+<name>IFA201</name>
+</rtept>
+<rtept lat="57.154126" lon="-4.681128">
+<ele>34.621498</ele>
+<name>IFA202</name>
+</rtept>
+<rtept lat="57.153624" lon="-4.679954">
+<ele>28.346469</ele>
+<name>IFA203</name>
+</rtept>
+<rtept lat="57.15331" lon="-4.68005">
+<ele>23.760512</ele>
+<name>IFA204</name>
+</rtept>
+<rtept lat="57.153006" lon="-4.679593">
+<ele>17.017834</ele>
+<name>IFA205</name>
+</rtept>
+<rtept lat="57.152568" lon="-4.680383">
+<ele>8.800317</ele>
+<name>IFA206</name>
+</rtept>
+<rtept lat="57.151964" lon="-4.682248">
+<ele>33.372936</ele>
+<name>IFA207</name>
+</rtept>
+<rtept lat="57.1514" lon="-4.683682">
+<ele>34.62123</ele>
+<name>IFA208</name>
+</rtept>
+<rtept lat="57.15102" lon="-4.684318">
+<ele>34.289338</ele>
+<name>IFA209</name>
+</rtept>
+<rtept lat="57.15087" lon="-4.684408">
+<ele>33.507789</ele>
+<name>IFA210</name>
+</rtept>
+<rtept lat="57.149967" lon="-4.684268">
+<ele>28.402821</ele>
+<name>IFA211</name>
+</rtept>
+<rtept lat="57.149228" lon="-4.683787">
+<ele>34.39278</ele>
+<name>IFA212</name>
+</rtept>
+<rtept lat="57.148726" lon="-4.683214">
+<ele>29.337029</ele>
+<name>IFA213</name>
+</rtept>
+<rtept lat="57.148325" lon="-4.682949">
+<ele>29.341326</ele>
+<name>IFA214</name>
+</rtept>
+<rtept lat="57.147684" lon="-4.680948">
+<ele>18.519862</ele>
+<name>IFA215</name>
+</rtept>
+<rtept lat="57.14738" lon="-4.680802">
+<ele>13.404419</ele>
+<name>IFA216</name>
+</rtept>
+<rtept lat="57.146475" lon="-4.681526">
+<ele>19.936005</ele>
+<name>IFA217</name>
+</rtept>
+<rtept lat="57.14609" lon="-4.681448">
+<ele>14.331092</ele>
+<name>IFA218</name>
+</rtept>
+<rtept lat="57.1451476734453" lon="-4.68087435889133">
+<ele>20.070289053199</ele>
+<name>IFA219</name>
+</rtept>
+</rte>
+</gpx>

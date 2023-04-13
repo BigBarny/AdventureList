@@ -1,0 +1,958 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Rum Cuillin traverse</name>
+<rtept lat="57.013412" lon="-6.281494">
+<ele>62</ele>
+<name>Rum001</name>
+</rtept>
+<rtept lat="57.015106" lon="-6.281982">
+<ele>64</ele>
+<name>Rum002</name>
+</rtept>
+<rtept lat="57.015244" lon="-6.283218">
+<ele>63</ele>
+<name>Rum003</name>
+</rtept>
+<rtept lat="57.015182" lon="-6.284409">
+<ele>63</ele>
+<name>Rum004</name>
+</rtept>
+<rtept lat="57.01358" lon="-6.2854">
+<ele>68</ele>
+<name>Rum005</name>
+</rtept>
+<rtept lat="57.013382" lon="-6.28508">
+<ele>70</ele>
+<name>Rum006</name>
+</rtept>
+<rtept lat="57.012527" lon="-6.285507">
+<ele>76</ele>
+<name>Rum007</name>
+</rtept>
+<rtept lat="57.011826" lon="-6.286926">
+<ele>74</ele>
+<name>Rum008</name>
+</rtept>
+<rtept lat="57.01123" lon="-6.287064">
+<ele>77</ele>
+<name>Rum009</name>
+</rtept>
+<rtept lat="57.010895" lon="-6.287476">
+<ele>80</ele>
+<name>Rum010</name>
+</rtept>
+<rtept lat="57.010284" lon="-6.289124">
+<ele>83</ele>
+<name>Rum011</name>
+</rtept>
+<rtept lat="57.009827" lon="-6.289276">
+<ele>89</ele>
+<name>Rum012</name>
+</rtept>
+<rtept lat="57.009506" lon="-6.290207">
+<ele>96</ele>
+<name>Rum013</name>
+</rtept>
+<rtept lat="57.009323" lon="-6.290085">
+<ele>97</ele>
+<name>Rum014</name>
+</rtept>
+<rtept lat="57.009048" lon="-6.290512">
+<ele>101</ele>
+<name>Rum015</name>
+</rtept>
+<rtept lat="57.008682" lon="-6.290619">
+<ele>104</ele>
+<name>Rum016</name>
+</rtept>
+<rtept lat="57.008194" lon="-6.291306">
+<ele>109</ele>
+<name>Rum017</name>
+</rtept>
+<rtept lat="57.007812" lon="-6.291214">
+<ele>112</ele>
+<name>Rum018</name>
+</rtept>
+<rtept lat="57.007553" lon="-6.291641">
+<ele>114</ele>
+<name>Rum019</name>
+</rtept>
+<rtept lat="57.0065" lon="-6.291946">
+<ele>126</ele>
+<name>Rum020</name>
+</rtept>
+<rtept lat="57.005554" lon="-6.292725">
+<ele>141</ele>
+<name>Rum021</name>
+</rtept>
+<rtept lat="57.004883" lon="-6.292603">
+<ele>156</ele>
+<name>Rum022</name>
+</rtept>
+<rtept lat="57.004669" lon="-6.293137">
+<ele>161</ele>
+<name>Rum023</name>
+</rtept>
+<rtept lat="57.004028" lon="-6.292953">
+<ele>174</ele>
+<name>Rum024</name>
+</rtept>
+<rtept lat="57.00386" lon="-6.293533">
+<ele>182</ele>
+<name>Rum025</name>
+</rtept>
+<rtept lat="57.003265" lon="-6.29422">
+<ele>197</ele>
+<name>Rum026</name>
+</rtept>
+<rtept lat="57.00293" lon="-6.294312">
+<ele>204</ele>
+<name>Rum027</name>
+</rtept>
+<rtept lat="57.002594" lon="-6.294052">
+<ele>212</ele>
+<name>Rum028</name>
+</rtept>
+<rtept lat="57.002396" lon="-6.294556">
+<ele>217</ele>
+<name>Rum029</name>
+</rtept>
+<rtept lat="57.001892" lon="-6.294586">
+<ele>235</ele>
+<name>Rum030</name>
+</rtept>
+<rtept lat="57.001968" lon="-6.294891">
+<ele>240</ele>
+<name>Rum031</name>
+</rtept>
+<rtept lat="57.00177" lon="-6.29541">
+<ele>247</ele>
+<name>Rum032</name>
+</rtept>
+<rtept lat="57.001266" lon="-6.295334">
+<ele>256</ele>
+<name>Rum033</name>
+</rtept>
+<rtept lat="57.000671" lon="-6.296432">
+<ele>261</ele>
+<name>Rum034</name>
+</rtept>
+<rtept lat="56.999771" lon="-6.297348">
+<ele>271</ele>
+<name>Rum035</name>
+</rtept>
+<rtept lat="56.99881" lon="-6.299744">
+<ele>297</ele>
+<name>Rum036</name>
+</rtept>
+<rtept lat="56.997696" lon="-6.300705">
+<ele>305</ele>
+<name>Rum037</name>
+</rtept>
+<rtept lat="56.996857" lon="-6.299973">
+<ele>315</ele>
+<name>Rum038</name>
+</rtept>
+<rtept lat="56.99646" lon="-6.299301">
+<ele>320</ele>
+<name>Rum039</name>
+</rtept>
+<rtept lat="56.995651" lon="-6.299805">
+<ele>330</ele>
+<name>Rum040</name>
+</rtept>
+<rtept lat="56.995316" lon="-6.299728">
+<ele>335</ele>
+<name>Rum041</name>
+</rtept>
+<rtept lat="56.994659" lon="-6.297928">
+<ele>368</ele>
+<name>Rum042</name>
+</rtept>
+<rtept lat="56.994019" lon="-6.297745">
+<ele>389</ele>
+<name>Rum043</name>
+</rtept>
+<rtept lat="56.993881" lon="-6.295914">
+<ele>411</ele>
+<name>Rum044</name>
+</rtept>
+<rtept lat="56.993607" lon="-6.29512">
+<ele>429</ele>
+<name>Rum045</name>
+</rtept>
+<rtept lat="56.9935" lon="-6.295364">
+<ele>443</ele>
+<name>Rum046</name>
+</rtept>
+<rtept lat="56.993011" lon="-6.295029">
+<ele>447</ele>
+<name>Rum047</name>
+</rtept>
+<rtept lat="56.99173" lon="-6.295685">
+<ele>480</ele>
+<name>Rum048</name>
+</rtept>
+<rtept lat="56.991043" lon="-6.295456">
+<ele>502</ele>
+<name>Rum049</name>
+</rtept>
+<rtept lat="56.990829" lon="-6.295898">
+<ele>514</ele>
+<name>Rum050</name>
+</rtept>
+<rtept lat="56.990906" lon="-6.29631">
+<ele>514</ele>
+<name>Rum051</name>
+</rtept>
+<rtept lat="56.990692" lon="-6.295883">
+<ele>526</ele>
+<name>Rum052</name>
+</rtept>
+<rtept lat="56.989426" lon="-6.29805">
+<ele>563</ele>
+<name>Rum053</name>
+</rtept>
+<rtept lat="56.989075" lon="-6.297531">
+<ele>586</ele>
+<name>Rum054</name>
+</rtept>
+<rtept lat="56.987839" lon="-6.296555">
+<ele>592</ele>
+<name>Rum055</name>
+</rtept>
+<rtept lat="56.987167" lon="-6.294693">
+<ele>598</ele>
+<name>Rum056</name>
+</rtept>
+<rtept lat="56.986343" lon="-6.293091">
+<ele>614</ele>
+<name>Rum057</name>
+</rtept>
+<rtept lat="56.986053" lon="-6.291901">
+<ele>626</ele>
+<name>Rum058</name>
+</rtept>
+<rtept lat="56.985214" lon="-6.290802">
+<ele>672</ele>
+<name>Rum059</name>
+</rtept>
+<rtept lat="56.985046" lon="-6.289902">
+<ele>695</ele>
+<name>Rum060</name>
+</rtept>
+<rtept lat="56.984543" lon="-6.289734">
+<ele>734</ele>
+<name>Rum061</name>
+</rtept>
+<rtept lat="56.98381" lon="-6.288925">
+<ele>777</ele>
+<name>Rum062</name>
+</rtept>
+<rtept lat="56.983505" lon="-6.289246">
+<ele>781</ele>
+<name>Rum063</name>
+</rtept>
+<rtept lat="56.982651" lon="-6.289322">
+<ele>776</ele>
+<name>Rum064</name>
+</rtept>
+<rtept lat="56.98143" lon="-6.290512">
+<ele>708</ele>
+<name>Rum065</name>
+</rtept>
+<rtept lat="56.980896" lon="-6.290497">
+<ele>693</ele>
+<name>Rum066</name>
+</rtept>
+<rtept lat="56.980042" lon="-6.290939">
+<ele>677</ele>
+<name>Rum067</name>
+</rtept>
+<rtept lat="56.9785" lon="-6.290863">
+<ele>679</ele>
+<name>Rum068</name>
+</rtept>
+<rtept lat="56.978043" lon="-6.291275">
+<ele>692</ele>
+<name>Rum069</name>
+</rtept>
+<rtept lat="56.97702" lon="-6.291077">
+<ele>710</ele>
+<name>Rum070</name>
+</rtept>
+<rtept lat="56.976196" lon="-6.290512">
+<ele>740</ele>
+<name>Rum071</name>
+</rtept>
+<rtept lat="56.975525" lon="-6.290588">
+<ele>775</ele>
+<name>Rum072</name>
+</rtept>
+<rtept lat="56.975525" lon="-6.290909">
+<ele>791</ele>
+<name>Rum073</name>
+</rtept>
+<rtept lat="56.975189" lon="-6.290741">
+<ele>807</ele>
+<name>Rum074</name>
+</rtept>
+<rtept lat="56.974854" lon="-6.290924">
+<ele>829</ele>
+<name>Rum075</name>
+</rtept>
+<rtept lat="56.974808" lon="-6.291229">
+<ele>839</ele>
+<name>Rum076</name>
+</rtept>
+<rtept lat="56.974213" lon="-6.291931">
+<ele>868</ele>
+<name>Rum077</name>
+</rtept>
+<rtept lat="56.974258" lon="-6.293076">
+<ele>861</ele>
+<name>Rum078</name>
+</rtept>
+<rtept lat="56.97406" lon="-6.2939">
+<ele>843</ele>
+<name>Rum079</name>
+</rtept>
+<rtept lat="56.973892" lon="-6.293854">
+<ele>829</ele>
+<name>Rum080</name>
+</rtept>
+<rtept lat="56.973724" lon="-6.294434">
+<ele>821</ele>
+<name>Rum081</name>
+</rtept>
+<rtept lat="56.973801" lon="-6.29538">
+<ele>798</ele>
+<name>Rum082</name>
+</rtept>
+<rtept lat="56.973694" lon="-6.296616">
+<ele>755</ele>
+<name>Rum083</name>
+</rtept>
+<rtept lat="56.974121" lon="-6.297974">
+<ele>733</ele>
+<name>Rum084</name>
+</rtept>
+<rtept lat="56.973694" lon="-6.299667">
+<ele>630</ele>
+<name>Rum085</name>
+</rtept>
+<rtept lat="56.973831" lon="-6.300262">
+<ele>604</ele>
+<name>Rum086</name>
+</rtept>
+<rtept lat="56.973923" lon="-6.299973">
+<ele>603</ele>
+<name>Rum087</name>
+</rtept>
+<rtept lat="56.974503" lon="-6.300705">
+<ele>558</ele>
+<name>Rum088</name>
+</rtept>
+<rtept lat="56.974731" lon="-6.303177">
+<ele>527</ele>
+<name>Rum089</name>
+</rtept>
+<rtept lat="56.974152" lon="-6.304184">
+<ele>508</ele>
+<name>Rum090</name>
+</rtept>
+<rtept lat="56.974319" lon="-6.304077">
+<ele>506</ele>
+<name>Rum091</name>
+</rtept>
+<rtept lat="56.974396" lon="-6.304367">
+<ele>505</ele>
+<name>Rum092</name>
+</rtept>
+<rtept lat="56.973648" lon="-6.306107">
+<ele>517</ele>
+<name>Rum093</name>
+</rtept>
+<rtept lat="56.973953" lon="-6.30629">
+<ele>525</ele>
+<name>Rum094</name>
+</rtept>
+<rtept lat="56.973969" lon="-6.307205">
+<ele>539</ele>
+<name>Rum095</name>
+</rtept>
+<rtept lat="56.974304" lon="-6.307098">
+<ele>543</ele>
+<name>Rum096</name>
+</rtept>
+<rtept lat="56.974335" lon="-6.307358">
+<ele>543</ele>
+<name>Rum097</name>
+</rtept>
+<rtept lat="56.974014" lon="-6.30806">
+<ele>545</ele>
+<name>Rum098</name>
+</rtept>
+<rtept lat="56.973984" lon="-6.308701">
+<ele>548</ele>
+<name>Rum099</name>
+</rtept>
+<rtept lat="56.974136" lon="-6.309296">
+<ele>555</ele>
+<name>Rum100</name>
+</rtept>
+<rtept lat="56.974045" lon="-6.309921">
+<ele>563</ele>
+<name>Rum101</name>
+</rtept>
+<rtept lat="56.97377" lon="-6.310303">
+<ele>570</ele>
+<name>Rum102</name>
+</rtept>
+<rtept lat="56.97377" lon="-6.310913">
+<ele>575</ele>
+<name>Rum103</name>
+</rtept>
+<rtept lat="56.972946" lon="-6.31337">
+<ele>622</ele>
+<name>Rum104</name>
+</rtept>
+<rtept lat="56.973053" lon="-6.31459">
+<ele>658</ele>
+<name>Rum105</name>
+</rtept>
+<rtept lat="56.972885" lon="-6.314545">
+<ele>666</ele>
+<name>Rum106</name>
+</rtept>
+<rtept lat="56.972946" lon="-6.315155">
+<ele>689</ele>
+<name>Rum107</name>
+</rtept>
+<rtept lat="56.972824" lon="-6.31572">
+<ele>703</ele>
+<name>Rum108</name>
+</rtept>
+<rtept lat="56.9733588792243" lon="-6.31697304439464">
+<ele>655.450976041137</ele>
+<name>Rum109</name>
+</rtept>
+<rtept lat="56.972748" lon="-6.315872">
+<ele>753</ele>
+<name>Rum110</name>
+</rtept>
+<rtept lat="56.972626" lon="-6.316101">
+<ele>751</ele>
+<name>Rum111</name>
+</rtept>
+<rtept lat="56.972641" lon="-6.315781">
+<ele>735</ele>
+<name>Rum112</name>
+</rtept>
+<rtept lat="56.97226" lon="-6.31485">
+<ele>719</ele>
+<name>Rum113</name>
+</rtept>
+<rtept lat="56.971771" lon="-6.315125">
+<ele>705</ele>
+<name>Rum114</name>
+</rtept>
+<rtept lat="56.971695" lon="-6.315399">
+<ele>700</ele>
+<name>Rum115</name>
+</rtept>
+<rtept lat="56.970856" lon="-6.31517">
+<ele>647</ele>
+<name>Rum116</name>
+</rtept>
+<rtept lat="56.970749" lon="-6.315414">
+<ele>634</ele>
+<name>Rum117</name>
+</rtept>
+<rtept lat="56.970306" lon="-6.315125">
+<ele>633</ele>
+<name>Rum118</name>
+</rtept>
+<rtept lat="56.970459" lon="-6.314896">
+<ele>631</ele>
+<name>Rum119</name>
+</rtept>
+<rtept lat="56.970337" lon="-6.314682">
+<ele>609</ele>
+<name>Rum120</name>
+</rtept>
+<rtept lat="56.969833" lon="-6.314484">
+<ele>569</ele>
+<name>Rum121</name>
+</rtept>
+<rtept lat="56.969299" lon="-6.315247">
+<ele>580</ele>
+<name>Rum122</name>
+</rtept>
+<rtept lat="56.968826" lon="-6.31485">
+<ele>602</ele>
+<name>Rum123</name>
+</rtept>
+<rtept lat="56.968643" lon="-6.313965">
+<ele>647</ele>
+<name>Rum124</name>
+</rtept>
+<rtept lat="56.968353" lon="-6.313705">
+<ele>661</ele>
+<name>Rum125</name>
+</rtept>
+<rtept lat="56.967056" lon="-6.315216">
+<ele>745</ele>
+<name>Rum126</name>
+</rtept>
+<rtept lat="56.966064" lon="-6.314926">
+<ele>796</ele>
+<name>Rum127</name>
+</rtept>
+<rtept lat="56.965927" lon="-6.315109">
+<ele>807</ele>
+<name>Rum128</name>
+</rtept>
+<rtept lat="56.965622" lon="-6.314789">
+<ele>828</ele>
+<name>Rum129</name>
+</rtept>
+<rtept lat="56.964478" lon="-6.314957">
+<ele>835</ele>
+<name>Rum130</name>
+</rtept>
+<rtept lat="56.963486" lon="-6.314468">
+<ele>832</ele>
+<name>Rum131</name>
+</rtept>
+<rtept lat="56.962952" lon="-6.314651">
+<ele>829</ele>
+<name>Rum132</name>
+</rtept>
+<rtept lat="56.961929" lon="-6.314407">
+<ele>818</ele>
+<name>Rum133</name>
+</rtept>
+<rtept lat="56.961105" lon="-6.314941">
+<ele>800</ele>
+<name>Rum134</name>
+</rtept>
+<rtept lat="56.961121" lon="-6.315582">
+<ele>798</ele>
+<name>Rum135</name>
+</rtept>
+<rtept lat="56.960815" lon="-6.315491">
+<ele>798</ele>
+<name>Rum136</name>
+</rtept>
+<rtept lat="56.959091" lon="-6.316147">
+<ele>794</ele>
+<name>Rum137</name>
+</rtept>
+<rtept lat="56.957703" lon="-6.315964">
+<ele>801</ele>
+<name>Rum138</name>
+</rtept>
+<rtept lat="56.956635" lon="-6.315369">
+<ele>798</ele>
+<name>Rum139</name>
+</rtept>
+<rtept lat="56.955643" lon="-6.314346">
+<ele>794</ele>
+<name>Rum140</name>
+</rtept>
+<rtept lat="56.954956" lon="-6.313293">
+<ele>793</ele>
+<name>Rum141</name>
+</rtept>
+<rtept lat="56.954132" lon="-6.310455">
+<ele>821</ele>
+<name>Rum142</name>
+</rtept>
+<rtept lat="56.953323" lon="-6.311005">
+<ele>814</ele>
+<name>Rum143</name>
+</rtept>
+<rtept lat="56.952835" lon="-6.310791">
+<ele>805</ele>
+<name>Rum144</name>
+</rtept>
+<rtept lat="56.951965" lon="-6.309738">
+<ele>797</ele>
+<name>Rum145</name>
+</rtept>
+<rtept lat="56.951279" lon="-6.309845">
+<ele>791</ele>
+<name>Rum146</name>
+</rtept>
+<rtept lat="56.950531" lon="-6.309067">
+<ele>743</ele>
+<name>Rum147</name>
+</rtept>
+<rtept lat="56.950287" lon="-6.308228">
+<ele>636</ele>
+<name>Rum148</name>
+</rtept>
+<rtept lat="56.950027" lon="-6.307922">
+<ele>614</ele>
+<name>Rum149</name>
+</rtept>
+<rtept lat="56.948853" lon="-6.307175">
+<ele>555</ele>
+<name>Rum150</name>
+</rtept>
+<rtept lat="56.94902" lon="-6.30481">
+<ele>529</ele>
+<name>Rum151</name>
+</rtept>
+<rtept lat="56.948669" lon="-6.304825">
+<ele>521</ele>
+<name>Rum152</name>
+</rtept>
+<rtept lat="56.948044" lon="-6.304306">
+<ele>483</ele>
+<name>Rum153</name>
+</rtept>
+<rtept lat="56.947891" lon="-6.303726">
+<ele>475</ele>
+<name>Rum154</name>
+</rtept>
+<rtept lat="56.948135" lon="-6.302841">
+<ele>461</ele>
+<name>Rum155</name>
+</rtept>
+<rtept lat="56.947952" lon="-6.302841">
+<ele>455</ele>
+<name>Rum156</name>
+</rtept>
+<rtept lat="56.947601" lon="-6.30217">
+<ele>429</ele>
+<name>Rum157</name>
+</rtept>
+<rtept lat="56.947235" lon="-6.302094">
+<ele>422</ele>
+<name>Rum158</name>
+</rtept>
+<rtept lat="56.946991" lon="-6.301559">
+<ele>416</ele>
+<name>Rum159</name>
+</rtept>
+<rtept lat="56.947098" lon="-6.300964">
+<ele>410</ele>
+<name>Rum160</name>
+</rtept>
+<rtept lat="56.946869" lon="-6.299713">
+<ele>395</ele>
+<name>Rum161</name>
+</rtept>
+<rtept lat="56.946899" lon="-6.299072">
+<ele>377</ele>
+<name>Rum162</name>
+</rtept>
+<rtept lat="56.947861" lon="-6.2948">
+<ele>265</ele>
+<name>Rum163</name>
+</rtept>
+<rtept lat="56.948135" lon="-6.294403">
+<ele>249</ele>
+<name>Rum164</name>
+</rtept>
+<rtept lat="56.948257" lon="-6.292313">
+<ele>207</ele>
+<name>Rum165</name>
+</rtept>
+<rtept lat="56.948837" lon="-6.292328">
+<ele>197</ele>
+<name>Rum166</name>
+</rtept>
+<rtept lat="56.948792" lon="-6.292023">
+<ele>194</ele>
+<name>Rum167</name>
+</rtept>
+<rtept lat="56.948959" lon="-6.291946">
+<ele>189</ele>
+<name>Rum168</name>
+</rtept>
+<rtept lat="56.949478" lon="-6.292267">
+<ele>177</ele>
+<name>Rum169</name>
+</rtept>
+<rtept lat="56.951019" lon="-6.291245">
+<ele>143</ele>
+<name>Rum170</name>
+</rtept>
+<rtept lat="56.951385" lon="-6.291367">
+<ele>138</ele>
+<name>Rum171</name>
+</rtept>
+<rtept lat="56.95195" lon="-6.290161">
+<ele>118</ele>
+<name>Rum172</name>
+</rtept>
+<rtept lat="56.952179" lon="-6.288956">
+<ele>93</ele>
+<name>Rum173</name>
+</rtept>
+<rtept lat="56.953613" lon="-6.288712">
+<ele>83</ele>
+<name>Rum174</name>
+</rtept>
+<rtept lat="56.955078" lon="-6.286484">
+<ele>90</ele>
+<name>Rum175</name>
+</rtept>
+<rtept lat="56.955322" lon="-6.285294">
+<ele>107</ele>
+<name>Rum176</name>
+</rtept>
+<rtept lat="56.955109" lon="-6.284363">
+<ele>119</ele>
+<name>Rum177</name>
+</rtept>
+<rtept lat="56.955185" lon="-6.283081">
+<ele>136</ele>
+<name>Rum178</name>
+</rtept>
+<rtept lat="56.954803" lon="-6.281799">
+<ele>145</ele>
+<name>Rum179</name>
+</rtept>
+<rtept lat="56.955063" lon="-6.279099">
+<ele>142</ele>
+<name>Rum180</name>
+</rtept>
+<rtept lat="56.954773" lon="-6.276947">
+<ele>140</ele>
+<name>Rum181</name>
+</rtept>
+<rtept lat="56.955215" lon="-6.275024">
+<ele>144</ele>
+<name>Rum182</name>
+</rtept>
+<rtept lat="56.95636" lon="-6.272141">
+<ele>143</ele>
+<name>Rum183</name>
+</rtept>
+<rtept lat="56.958694" lon="-6.268661">
+<ele>150</ele>
+<name>Rum184</name>
+</rtept>
+<rtept lat="56.959381" lon="-6.268234">
+<ele>149</ele>
+<name>Rum185</name>
+</rtept>
+<rtept lat="56.961777" lon="-6.265884">
+<ele>151</ele>
+<name>Rum186</name>
+</rtept>
+<rtept lat="56.963394" lon="-6.264709">
+<ele>155</ele>
+<name>Rum187</name>
+</rtept>
+<rtept lat="56.966858" lon="-6.264374">
+<ele>155</ele>
+<name>Rum188</name>
+</rtept>
+<rtept lat="56.967972" lon="-6.263474">
+<ele>155</ele>
+<name>Rum189</name>
+</rtept>
+<rtept lat="56.968323" lon="-6.262802">
+<ele>157</ele>
+<name>Rum190</name>
+</rtept>
+<rtept lat="56.968506" lon="-6.262817">
+<ele>159</ele>
+<name>Rum191</name>
+</rtept>
+<rtept lat="56.968567" lon="-6.264114">
+<ele>163</ele>
+<name>Rum192</name>
+</rtept>
+<rtept lat="56.968719" lon="-6.264297">
+<ele>166</ele>
+<name>Rum193</name>
+</rtept>
+<rtept lat="56.968964" lon="-6.263412">
+<ele>176</ele>
+<name>Rum194</name>
+</rtept>
+<rtept lat="56.971146" lon="-6.261337">
+<ele>199</ele>
+<name>Rum195</name>
+</rtept>
+<rtept lat="56.972748" lon="-6.261215">
+<ele>215</ele>
+<name>Rum196</name>
+</rtept>
+<rtept lat="56.973358" lon="-6.260452">
+<ele>220</ele>
+<name>Rum197</name>
+</rtept>
+<rtept lat="56.973877" lon="-6.260269">
+<ele>227</ele>
+<name>Rum198</name>
+</rtept>
+<rtept lat="56.976273" lon="-6.258316">
+<ele>245</ele>
+<name>Rum199</name>
+</rtept>
+<rtept lat="56.977783" lon="-6.258118">
+<ele>256</ele>
+<name>Rum200</name>
+</rtept>
+<rtept lat="56.979355" lon="-6.259445">
+<ele>264</ele>
+<name>Rum201</name>
+</rtept>
+<rtept lat="56.980286" lon="-6.260803">
+<ele>269</ele>
+<name>Rum202</name>
+</rtept>
+<rtept lat="56.981628" lon="-6.261444">
+<ele>271</ele>
+<name>Rum203</name>
+</rtept>
+<rtept lat="56.982056" lon="-6.262131">
+<ele>272</ele>
+<name>Rum204</name>
+</rtept>
+<rtept lat="56.984177" lon="-6.262283">
+<ele>272</ele>
+<name>Rum205</name>
+</rtept>
+<rtept lat="56.984512" lon="-6.26265">
+<ele>272</ele>
+<name>Rum206</name>
+</rtept>
+<rtept lat="56.986008" lon="-6.263138">
+<ele>269</ele>
+<name>Rum207</name>
+</rtept>
+<rtept lat="56.987457" lon="-6.264236">
+<ele>266</ele>
+<name>Rum208</name>
+</rtept>
+<rtept lat="56.988098" lon="-6.265427">
+<ele>265</ele>
+<name>Rum209</name>
+</rtept>
+<rtept lat="56.988663" lon="-6.265381">
+<ele>264</ele>
+<name>Rum210</name>
+</rtept>
+<rtept lat="56.989014" lon="-6.266159">
+<ele>262</ele>
+<name>Rum211</name>
+</rtept>
+<rtept lat="56.989624" lon="-6.266785">
+<ele>241</ele>
+<name>Rum212</name>
+</rtept>
+<rtept lat="56.99144" lon="-6.267273">
+<ele>241</ele>
+<name>Rum213</name>
+</rtept>
+<rtept lat="56.993286" lon="-6.267349">
+<ele>242</ele>
+<name>Rum214</name>
+</rtept>
+<rtept lat="56.994064" lon="-6.268585">
+<ele>243</ele>
+<name>Rum215</name>
+</rtept>
+<rtept lat="56.994553" lon="-6.270859">
+<ele>244</ele>
+<name>Rum216</name>
+</rtept>
+<rtept lat="56.994934" lon="-6.2715">
+<ele>243</ele>
+<name>Rum217</name>
+</rtept>
+<rtept lat="56.997192" lon="-6.271667">
+<ele>243</ele>
+<name>Rum218</name>
+</rtept>
+<rtept lat="56.999741" lon="-6.272934">
+<ele>248</ele>
+<name>Rum219</name>
+</rtept>
+<rtept lat="57.000534" lon="-6.274109">
+<ele>249</ele>
+<name>Rum220</name>
+</rtept>
+<rtept lat="57.000931" lon="-6.274231">
+<ele>249</ele>
+<name>Rum221</name>
+</rtept>
+<rtept lat="57.001617" lon="-6.27504">
+<ele>247</ele>
+<name>Rum222</name>
+</rtept>
+<rtept lat="57.002243" lon="-6.276352">
+<ele>243</ele>
+<name>Rum223</name>
+</rtept>
+<rtept lat="57.002411" lon="-6.276474">
+<ele>242</ele>
+<name>Rum224</name>
+</rtept>
+<rtept lat="57.002701" lon="-6.276093">
+<ele>239</ele>
+<name>Rum225</name>
+</rtept>
+<rtept lat="57.003235" lon="-6.277374">
+<ele>232</ele>
+<name>Rum226</name>
+</rtept>
+<rtept lat="57.004059" lon="-6.277298">
+<ele>221</ele>
+<name>Rum227</name>
+</rtept>
+<rtept lat="57.005066" lon="-6.276749">
+<ele>208</ele>
+<name>Rum228</name>
+</rtept>
+<rtept lat="57.005386" lon="-6.277145">
+<ele>204</ele>
+<name>Rum229</name>
+</rtept>
+<rtept lat="57.005707" lon="-6.278152">
+<ele>198</ele>
+<name>Rum230</name>
+</rtept>
+<rtept lat="57.006912" lon="-6.277496">
+<ele>175</ele>
+<name>Rum231</name>
+</rtept>
+<rtept lat="57.008057" lon="-6.277908">
+<ele>160</ele>
+<name>Rum232</name>
+</rtept>
+<rtept lat="57.008957" lon="-6.277313">
+<ele>146</ele>
+<name>Rum233</name>
+</rtept>
+<rtept lat="57.009918" lon="-6.2771">
+<ele>132</ele>
+<name>Rum234</name>
+</rtept>
+<rtept lat="57.010269" lon="-6.278046">
+<ele>120</ele>
+<name>Rum235</name>
+</rtept>
+<rtept lat="57.011261" lon="-6.279526">
+<ele>111</ele>
+<name>Rum236</name>
+</rtept>
+<rtept lat="57.0133942960088" lon="-6.28151126395889">
+<ele>4.22114197525054</ele>
+<name>Rum237</name>
+</rtept>
+</rte>
+</gpx>

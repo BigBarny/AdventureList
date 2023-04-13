@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Falls of Falloch</name>
+<rtept lat="56.3496428522318" lon="-4.69745655813638">
+<ele>87.0010072115183</ele>
+<name>WPT 1</name>
+</rtept>
+<rtept lat="56.3499429115045" lon="-4.69638997260069">
+<ele>80.1542344246626</ele>
+<name>WPT 2</name>
+</rtept>
+<rtept lat="56.3502008376974" lon="-4.69552435701646">
+<ele>94.1938079864979</ele>
+<name>WPT 3</name>
+</rtept>
+<rtept lat="56.3499643247325" lon="-4.69482780132332">
+<ele>91.854249063611</ele>
+<name>WPT 4</name>
+</rtept>
+<rtept lat="56.3500047118985" lon="-4.69412812638618">
+<ele>115.365893554527</ele>
+<name>WPT 5</name>
+</rtept>
+<rtept lat="56.3504932057095" lon="-4.69307479393001">
+<ele>103.363386937475</ele>
+<name>WPT 6</name>
+</rtept>
+<rtept lat="56.3503907562432" lon="-4.69431399658686">
+<ele>97.5513188037783</ele>
+<name>WPT 7</name>
+</rtept>
+<rtept lat="56.3502259660294" lon="-4.6955261306384">
+<ele>94.0818079864979</ele>
+<name>WPT 8</name>
+</rtept>
+<rtept lat="56.3499288696235" lon="-4.69645696735927">
+<ele>79.8182344246626</ele>
+<name>WPT 9</name>
+</rtept>
+<rtept lat="56.3496554163789" lon="-4.6974574455635">
+<ele>87.0290072115183</ele>
+<name>WPT 10</name>
+</rtept>
+</rte>
+</gpx>

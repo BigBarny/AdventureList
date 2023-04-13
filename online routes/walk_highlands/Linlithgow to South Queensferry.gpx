@@ -1,0 +1,794 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Linlithgow to South Queensferry</name>
+<rtept lat="55.9760573846605" lon="-3.60620877135167">
+<ele>48.9144865876517</ele>
+<name>LSQu001</name>
+</rtept>
+<rtept lat="55.9762885633897" lon="-3.6039826835256">
+<ele>49.8589603485931</ele>
+<name>LSQu002</name>
+</rtept>
+<rtept lat="55.977004" lon="-3.604162">
+<ele>60</ele>
+<name>LSQu003</name>
+</rtept>
+<rtept lat="55.977107" lon="-3.606057">
+<ele>51</ele>
+<name>LSQu004</name>
+</rtept>
+<rtept lat="55.977396" lon="-3.607355">
+<ele>46</ele>
+<name>LSQu005</name>
+</rtept>
+<rtept lat="55.977422" lon="-3.608473">
+<ele>49</ele>
+<name>LSQu006</name>
+</rtept>
+<rtept lat="55.97755" lon="-3.608891">
+<ele>47</ele>
+<name>LSQu007</name>
+</rtept>
+<rtept lat="55.978203" lon="-3.609756">
+<ele>43</ele>
+<name>LSQu008</name>
+</rtept>
+<rtept lat="55.979059" lon="-3.610126">
+<ele>28</ele>
+<name>LSQu009</name>
+</rtept>
+<rtept lat="55.979418" lon="-3.611046">
+<ele>37</ele>
+<name>LSQu010</name>
+</rtept>
+<rtept lat="55.979376" lon="-3.612549">
+<ele>42</ele>
+<name>LSQu011</name>
+</rtept>
+<rtept lat="55.979946" lon="-3.613323">
+<ele>49</ele>
+<name>LSQu012</name>
+</rtept>
+<rtept lat="55.980872" lon="-3.613634">
+<ele>48</ele>
+<name>LSQu013</name>
+</rtept>
+<rtept lat="55.98348" lon="-3.61376">
+<ele>54</ele>
+<name>LSQu014</name>
+</rtept>
+<rtept lat="55.984293" lon="-3.614223">
+<ele>59</ele>
+<name>LSQu015</name>
+</rtept>
+<rtept lat="55.98572" lon="-3.613885">
+<ele>56</ele>
+<name>LSQu016</name>
+</rtept>
+<rtept lat="55.987145" lon="-3.614247">
+<ele>54</ele>
+<name>LSQu017</name>
+</rtept>
+<rtept lat="55.987265" lon="-3.614849">
+<ele>57</ele>
+<name>LSQu018</name>
+</rtept>
+<rtept lat="55.987147" lon="-3.621351">
+<ele>49</ele>
+<name>LSQu019</name>
+</rtept>
+<rtept lat="55.987181" lon="-3.621901">
+<ele>55</ele>
+<name>LSQu020</name>
+</rtept>
+<rtept lat="55.98737" lon="-3.622106">
+<ele>53</ele>
+<name>LSQu021</name>
+</rtept>
+<rtept lat="55.990546" lon="-3.623209">
+<ele>57</ele>
+<name>LSQu022</name>
+</rtept>
+<rtept lat="55.996395" lon="-3.623636">
+<ele>99</ele>
+<name>LSQu023</name>
+</rtept>
+<rtept lat="55.996491" lon="-3.624641">
+<ele>111</ele>
+<name>LSQu024</name>
+</rtept>
+<rtept lat="55.996843" lon="-3.625144">
+<ele>105</ele>
+<name>LSQu025</name>
+</rtept>
+<rtept lat="56.000763" lon="-3.626935">
+<ele>80</ele>
+<name>LSQu026</name>
+</rtept>
+<rtept lat="56.000904" lon="-3.626814">
+<ele>78</ele>
+<name>LSQu027</name>
+</rtept>
+<rtept lat="56.00093" lon="-3.626537">
+<ele>84</ele>
+<name>LSQu028</name>
+</rtept>
+<rtept lat="56.000831" lon="-3.626976">
+<ele>86</ele>
+<name>LSQu029</name>
+</rtept>
+<rtept lat="56.001961" lon="-3.62795">
+<ele>65</ele>
+<name>LSQu030</name>
+</rtept>
+<rtept lat="56.002308" lon="-3.630449">
+<ele>75</ele>
+<name>LSQu031</name>
+</rtept>
+<rtept lat="56.003532" lon="-3.631332">
+<ele>65</ele>
+<name>LSQu032</name>
+</rtept>
+<rtept lat="56.004216" lon="-3.632114">
+<ele>62</ele>
+<name>LSQu033</name>
+</rtept>
+<rtept lat="56.004588" lon="-3.633107">
+<ele>48</ele>
+<name>LSQu034</name>
+</rtept>
+<rtept lat="56.005331" lon="-3.633837">
+<ele>27</ele>
+<name>LSQu035</name>
+</rtept>
+<rtept lat="56.005525" lon="-3.633919">
+<ele>26</ele>
+<name>LSQu036</name>
+</rtept>
+<rtept lat="56.005883" lon="-3.633772">
+<ele>32</ele>
+<name>LSQu037</name>
+</rtept>
+<rtept lat="56.006001" lon="-3.633462">
+<ele>32</ele>
+<name>LSQu038</name>
+</rtept>
+<rtept lat="56.006272" lon="-3.633457">
+<ele>30</ele>
+<name>LSQu039</name>
+</rtept>
+<rtept lat="56.007126" lon="-3.63439">
+<ele>17</ele>
+<name>LSQu040</name>
+</rtept>
+<rtept lat="56.007338" lon="-3.63387">
+<ele>22</ele>
+<name>LSQu041</name>
+</rtept>
+<rtept lat="56.007083" lon="-3.633772">
+<ele>29</ele>
+<name>LSQu042</name>
+</rtept>
+<rtept lat="56.007235" lon="-3.633636">
+<ele>32</ele>
+<name>LSQu043</name>
+</rtept>
+<rtept lat="56.00762" lon="-3.631615">
+<ele>25</ele>
+<name>LSQu044</name>
+</rtept>
+<rtept lat="56.008176" lon="-3.629551">
+<ele>30</ele>
+<name>LSQu045</name>
+</rtept>
+<rtept lat="56.009192" lon="-3.627239">
+<ele>22</ele>
+<name>LSQu046</name>
+</rtept>
+<rtept lat="56.010459" lon="-3.628172">
+<ele>21</ele>
+<name>LSQu047</name>
+</rtept>
+<rtept lat="56.010696" lon="-3.628612">
+<ele>26</ele>
+<name>LSQu048</name>
+</rtept>
+<rtept lat="56.011253" lon="-3.628794">
+<ele>12</ele>
+<name>LSQu049</name>
+</rtept>
+<rtept lat="56.012022" lon="-3.629436">
+<ele>1</ele>
+<name>LSQu050</name>
+</rtept>
+<rtept lat="56.012426" lon="-3.629462">
+<ele>7</ele>
+<name>LSQu051</name>
+</rtept>
+<rtept lat="56.012829" lon="-3.62991">
+<ele>-3</ele>
+<name>LSQu052</name>
+</rtept>
+<rtept lat="56.013657" lon="-3.628993">
+<ele>-2</ele>
+<name>LSQu053</name>
+</rtept>
+<rtept lat="56.014435" lon="-3.627619">
+<ele>0</ele>
+<name>LSQu054</name>
+</rtept>
+<rtept lat="56.014907" lon="-3.626097">
+<ele>5</ele>
+<name>LSQu055</name>
+</rtept>
+<rtept lat="56.015755" lon="-3.624239">
+<ele>14</ele>
+<name>LSQu056</name>
+</rtept>
+<rtept lat="56.016149" lon="-3.622763">
+<ele>8</ele>
+<name>LSQu057</name>
+</rtept>
+<rtept lat="56.016105" lon="-3.61892">
+<ele>8</ele>
+<name>LSQu058</name>
+</rtept>
+<rtept lat="56.01581" lon="-3.617046">
+<ele>0</ele>
+<name>LSQu059</name>
+</rtept>
+<rtept lat="56.015889" lon="-3.615495">
+<ele>4</ele>
+<name>LSQu060</name>
+</rtept>
+<rtept lat="56.016505" lon="-3.613095">
+<ele>7</ele>
+<name>LSQu061</name>
+</rtept>
+<rtept lat="56.017612879502" lon="-3.61148246817692">
+<ele>1.09895166647504</ele>
+<name>LSQu062</name>
+</rtept>
+<rtept lat="56.019308" lon="-3.60986">
+<ele>11</ele>
+<name>LSQu063</name>
+</rtept>
+<rtept lat="56.01983" lon="-3.609148">
+<ele>8</ele>
+<name>LSQu064</name>
+</rtept>
+<rtept lat="56.019834" lon="-3.608559">
+<ele>7</ele>
+<name>LSQu065</name>
+</rtept>
+<rtept lat="56.019297" lon="-3.606273">
+<ele>8</ele>
+<name>LSQu066</name>
+</rtept>
+<rtept lat="56.020373" lon="-3.605068">
+<ele>7</ele>
+<name>LSQu067</name>
+</rtept>
+<rtept lat="56.020016" lon="-3.602306">
+<ele>3</ele>
+<name>LSQu068</name>
+</rtept>
+<rtept lat="56.020859" lon="-3.597243">
+<ele>0</ele>
+<name>LSQu069</name>
+</rtept>
+<rtept lat="56.020846" lon="-3.596789">
+<ele>-2</ele>
+<name>LSQu070</name>
+</rtept>
+<rtept lat="56.020383" lon="-3.594365">
+<ele>-4</ele>
+<name>LSQu071</name>
+</rtept>
+<rtept lat="56.019376" lon="-3.59454">
+<ele>0</ele>
+<name>LSQu072</name>
+</rtept>
+<rtept lat="56.01896" lon="-3.594153">
+<ele>0</ele>
+<name>LSQu073</name>
+</rtept>
+<rtept lat="56.0182660247724" lon="-3.59126550540702">
+<ele>0.940135686786828</ele>
+<name>LSQu074</name>
+</rtept>
+<rtept lat="56.0181901041873" lon="-3.59046341072792">
+<ele>0.562705605863594</ele>
+<name>LSQu075</name>
+</rtept>
+<rtept lat="56.0182847039689" lon="-3.58939879186521">
+<ele>0.382705605863594</ele>
+<name>LSQu076</name>
+</rtept>
+<rtept lat="56.0178936736482" lon="-3.58668742278445">
+<ele>1</ele>
+<name>LSQu077</name>
+</rtept>
+<rtept lat="56.018076" lon="-3.58391">
+<ele>2</ele>
+<name>LSQu078</name>
+</rtept>
+<rtept lat="56.01861" lon="-3.582369">
+<ele>0</ele>
+<name>LSQu079</name>
+</rtept>
+<rtept lat="56.018351" lon="-3.579839">
+<ele>8</ele>
+<name>LSQu080</name>
+</rtept>
+<rtept lat="56.018009" lon="-3.578816">
+<ele>4</ele>
+<name>LSQu081</name>
+</rtept>
+<rtept lat="56.0167" lon="-3.572575">
+<ele>0</ele>
+<name>LSQu082</name>
+</rtept>
+<rtept lat="56.016507" lon="-3.572102">
+<ele>-1</ele>
+<name>LSQu083</name>
+</rtept>
+<rtept lat="56.01597" lon="-3.572058">
+<ele>-7</ele>
+<name>LSQu084</name>
+</rtept>
+<rtept lat="56.015869" lon="-3.570897">
+<ele>-5</ele>
+<name>LSQu085</name>
+</rtept>
+<rtept lat="56.015892" lon="-3.570643">
+<ele>-4</ele>
+<name>LSQu086</name>
+</rtept>
+<rtept lat="56.016137" lon="-3.570549">
+<ele>-4</ele>
+<name>LSQu087</name>
+</rtept>
+<rtept lat="56.01612" lon="-3.570191">
+<ele>-1</ele>
+<name>LSQu088</name>
+</rtept>
+<rtept lat="56.015811" lon="-3.569295">
+<ele>3</ele>
+<name>LSQu089</name>
+</rtept>
+<rtept lat="56.0146" lon="-3.568778">
+<ele>4</ele>
+<name>LSQu090</name>
+</rtept>
+<rtept lat="56.013598" lon="-3.567978">
+<ele>-6</ele>
+<name>LSQu091</name>
+</rtept>
+<rtept lat="56.012771" lon="-3.566971">
+<ele>-9</ele>
+<name>LSQu092</name>
+</rtept>
+<rtept lat="56.012489" lon="-3.566868">
+<ele>-11</ele>
+<name>LSQu093</name>
+</rtept>
+<rtept lat="56.012098" lon="-3.565653">
+<ele>-5</ele>
+<name>LSQu094</name>
+</rtept>
+<rtept lat="56.011225" lon="-3.564038">
+<ele>0</ele>
+<name>LSQu095</name>
+</rtept>
+<rtept lat="56.011153" lon="-3.560764">
+<ele>0</ele>
+<name>LSQu096</name>
+</rtept>
+<rtept lat="56.010652" lon="-3.557195">
+<ele>-14</ele>
+<name>LSQu097</name>
+</rtept>
+<rtept lat="56.010651" lon="-3.554407">
+<ele>-9</ele>
+<name>LSQu098</name>
+</rtept>
+<rtept lat="56.00958" lon="-3.549456">
+<ele>-16</ele>
+<name>LSQu099</name>
+</rtept>
+<rtept lat="56.008634" lon="-3.546491">
+<ele>-8</ele>
+<name>LSQu100</name>
+</rtept>
+<rtept lat="56.008527" lon="-3.545645">
+<ele>-2</ele>
+<name>LSQu101</name>
+</rtept>
+<rtept lat="56.008581" lon="-3.544797">
+<ele>-6</ele>
+<name>LSQu102</name>
+</rtept>
+<rtept lat="56.0083" lon="-3.543196">
+<ele>-2</ele>
+<name>LSQu103</name>
+</rtept>
+<rtept lat="56.008441" lon="-3.541336">
+<ele>-2</ele>
+<name>LSQu104</name>
+</rtept>
+<rtept lat="56.008324" lon="-3.540592">
+<ele>-4</ele>
+<name>LSQu105</name>
+</rtept>
+<rtept lat="56.007768" lon="-3.539109">
+<ele>-4</ele>
+<name>LSQu106</name>
+</rtept>
+<rtept lat="56.007074" lon="-3.535446">
+<ele>7</ele>
+<name>LSQu107</name>
+</rtept>
+<rtept lat="56.006848" lon="-3.533656">
+<ele>5</ele>
+<name>LSQu108</name>
+</rtept>
+<rtept lat="56.006739" lon="-3.53146">
+<ele>0</ele>
+<name>LSQu109</name>
+</rtept>
+<rtept lat="56.006139" lon="-3.529715">
+<ele>1</ele>
+<name>LSQu110</name>
+</rtept>
+<rtept lat="56.004749" lon="-3.527513">
+<ele>-1</ele>
+<name>LSQu111</name>
+</rtept>
+<rtept lat="56.003956" lon="-3.525234">
+<ele>-8</ele>
+<name>LSQu112</name>
+</rtept>
+<rtept lat="56.003765" lon="-3.522704">
+<ele>-4</ele>
+<name>LSQu113</name>
+</rtept>
+<rtept lat="56.004358" lon="-3.518984">
+<ele>-2</ele>
+<name>LSQu114</name>
+</rtept>
+<rtept lat="56.005304" lon="-3.517185">
+<ele>-3</ele>
+<name>LSQu115</name>
+</rtept>
+<rtept lat="56.005654" lon="-3.515957">
+<ele>-1</ele>
+<name>LSQu116</name>
+</rtept>
+<rtept lat="56.005618" lon="-3.516254">
+<ele>-2</ele>
+<name>LSQu117</name>
+</rtept>
+<rtept lat="56.005892" lon="-3.516554">
+<ele>-3</ele>
+<name>LSQu118</name>
+</rtept>
+<rtept lat="56.005855" lon="-3.516775">
+<ele>0</ele>
+<name>LSQu119</name>
+</rtept>
+<rtept lat="56.005345" lon="-3.517122">
+<ele>6</ele>
+<name>LSQu120</name>
+</rtept>
+<rtept lat="56.00513" lon="-3.516545">
+<ele>3</ele>
+<name>LSQu121</name>
+</rtept>
+<rtept lat="56.004964" lon="-3.516482">
+<ele>1</ele>
+<name>LSQu122</name>
+</rtept>
+<rtept lat="56.003996" lon="-3.516561">
+<ele>-3</ele>
+<name>LSQu123</name>
+</rtept>
+<rtept lat="56.00248" lon="-3.516059">
+<ele>-7</ele>
+<name>LSQu124</name>
+</rtept>
+<rtept lat="56.00131" lon="-3.517154">
+<ele>-5</ele>
+<name>LSQu125</name>
+</rtept>
+<rtept lat="56.000825" lon="-3.516669">
+<ele>-3</ele>
+<name>LSQu126</name>
+</rtept>
+<rtept lat="56.000352" lon="-3.515877">
+<ele>7</ele>
+<name>LSQu127</name>
+</rtept>
+<rtept lat="55.999548" lon="-3.514195">
+<ele>3</ele>
+<name>LSQu128</name>
+</rtept>
+<rtept lat="55.998628" lon="-3.510977">
+<ele>13</ele>
+<name>LSQu129</name>
+</rtept>
+<rtept lat="55.99822" lon="-3.510262">
+<ele>12</ele>
+<name>LSQu130</name>
+</rtept>
+<rtept lat="55.998087" lon="-3.509616">
+<ele>5</ele>
+<name>LSQu131</name>
+</rtept>
+<rtept lat="55.997833" lon="-3.507853">
+<ele>14</ele>
+<name>LSQu132</name>
+</rtept>
+<rtept lat="55.997862" lon="-3.506718">
+<ele>13</ele>
+<name>LSQu133</name>
+</rtept>
+<rtept lat="55.997733" lon="-3.506227">
+<ele>9</ele>
+<name>LSQu134</name>
+</rtept>
+<rtept lat="55.997721" lon="-3.505369">
+<ele>0</ele>
+<name>LSQu135</name>
+</rtept>
+<rtept lat="55.997514" lon="-3.504271">
+<ele>13</ele>
+<name>LSQu136</name>
+</rtept>
+<rtept lat="55.997819" lon="-3.502018">
+<ele>-3</ele>
+<name>LSQu137</name>
+</rtept>
+<rtept lat="55.997723" lon="-3.501344">
+<ele>9</ele>
+<name>LSQu138</name>
+</rtept>
+<rtept lat="55.9978" lon="-3.493006">
+<ele>7</ele>
+<name>LSQu139</name>
+</rtept>
+<rtept lat="55.99757" lon="-3.488174">
+<ele>3</ele>
+<name>LSQu140</name>
+</rtept>
+<rtept lat="55.997692" lon="-3.486248">
+<ele>0</ele>
+<name>LSQu141</name>
+</rtept>
+<rtept lat="55.997406" lon="-3.481901">
+<ele>5</ele>
+<name>LSQu142</name>
+</rtept>
+<rtept lat="55.997527" lon="-3.479424">
+<ele>2</ele>
+<name>LSQu143</name>
+</rtept>
+<rtept lat="55.997382" lon="-3.477062">
+<ele>11</ele>
+<name>LSQu144</name>
+</rtept>
+<rtept lat="55.997701" lon="-3.476657">
+<ele>-4</ele>
+<name>LSQu145</name>
+</rtept>
+<rtept lat="55.997736" lon="-3.476298">
+<ele>4</ele>
+<name>LSQu146</name>
+</rtept>
+<rtept lat="55.997235" lon="-3.475556">
+<ele>5</ele>
+<name>LSQu147</name>
+</rtept>
+<rtept lat="55.997221" lon="-3.474954">
+<ele>8</ele>
+<name>LSQu148</name>
+</rtept>
+<rtept lat="55.996875" lon="-3.473171">
+<ele>12</ele>
+<name>LSQu149</name>
+</rtept>
+<rtept lat="55.996923" lon="-3.471172">
+<ele>17</ele>
+<name>LSQu150</name>
+</rtept>
+<rtept lat="55.996351" lon="-3.469747">
+<ele>28</ele>
+<name>LSQu151</name>
+</rtept>
+<rtept lat="55.996207" lon="-3.468491">
+<ele>23</ele>
+<name>LSQu152</name>
+</rtept>
+<rtept lat="55.995892" lon="-3.467952">
+<ele>20</ele>
+<name>LSQu153</name>
+</rtept>
+<rtept lat="55.995549" lon="-3.468308">
+<ele>24</ele>
+<name>LSQu154</name>
+</rtept>
+<rtept lat="55.995063" lon="-3.469741">
+<ele>35</ele>
+<name>LSQu155</name>
+</rtept>
+<rtept lat="55.994807" lon="-3.469756">
+<ele>30</ele>
+<name>LSQu156</name>
+</rtept>
+<rtept lat="55.994375" lon="-3.469421">
+<ele>29</ele>
+<name>LSQu157</name>
+</rtept>
+<rtept lat="55.993601" lon="-3.46966">
+<ele>32</ele>
+<name>LSQu158</name>
+</rtept>
+<rtept lat="55.992798" lon="-3.469561">
+<ele>35</ele>
+<name>LSQu159</name>
+</rtept>
+<rtept lat="55.992395" lon="-3.469426">
+<ele>36</ele>
+<name>LSQu160</name>
+</rtept>
+<rtept lat="55.992083" lon="-3.469072">
+<ele>36</ele>
+<name>LSQu161</name>
+</rtept>
+<rtept lat="55.992496" lon="-3.4628">
+<ele>41</ele>
+<name>LSQu162</name>
+</rtept>
+<rtept lat="55.992829" lon="-3.460723">
+<ele>40</ele>
+<name>LSQu163</name>
+</rtept>
+<rtept lat="55.99268" lon="-3.45955">
+<ele>35</ele>
+<name>LSQu164</name>
+</rtept>
+<rtept lat="55.992846" lon="-3.458951">
+<ele>35</ele>
+<name>LSQu165</name>
+</rtept>
+<rtept lat="55.99298" lon="-3.457435">
+<ele>38</ele>
+<name>LSQu166</name>
+</rtept>
+<rtept lat="55.993035" lon="-3.453835">
+<ele>33</ele>
+<name>LSQu167</name>
+</rtept>
+<rtept lat="55.993223" lon="-3.452269">
+<ele>24</ele>
+<name>LSQu168</name>
+</rtept>
+<rtept lat="55.993722" lon="-3.451483">
+<ele>22</ele>
+<name>LSQu169</name>
+</rtept>
+<rtept lat="55.995282" lon="-3.451727">
+<ele>17</ele>
+<name>LSQu170</name>
+</rtept>
+<rtept lat="55.995375" lon="-3.451429">
+<ele>12</ele>
+<name>LSQu171</name>
+</rtept>
+<rtept lat="55.994778" lon="-3.446718">
+<ele>5</ele>
+<name>LSQu172</name>
+</rtept>
+<rtept lat="55.99459" lon="-3.443374">
+<ele>0</ele>
+<name>LSQu173</name>
+</rtept>
+<rtept lat="55.993894" lon="-3.439106">
+<ele>4</ele>
+<name>LSQu174</name>
+</rtept>
+<rtept lat="55.993736" lon="-3.436364">
+<ele>6</ele>
+<name>LSQu175</name>
+</rtept>
+<rtept lat="55.993426" lon="-3.435388">
+<ele>2</ele>
+<name>LSQu176</name>
+</rtept>
+<rtept lat="55.993218" lon="-3.433857">
+<ele>4</ele>
+<name>LSQu177</name>
+</rtept>
+<rtept lat="55.993256" lon="-3.433474">
+<ele>0</ele>
+<name>LSQu178</name>
+</rtept>
+<rtept lat="55.993527" lon="-3.434124">
+<ele>-16</ele>
+<name>LSQu179</name>
+</rtept>
+<rtept lat="55.993304" lon="-3.432711">
+<ele>-8</ele>
+<name>LSQu180</name>
+</rtept>
+<rtept lat="55.993282" lon="-3.431646">
+<ele>5</ele>
+<name>LSQu181</name>
+</rtept>
+<rtept lat="55.9938" lon="-3.426631">
+<ele>9</ele>
+<name>LSQu182</name>
+</rtept>
+<rtept lat="55.993549" lon="-3.422922">
+<ele>10</ele>
+<name>LSQu183</name>
+</rtept>
+<rtept lat="55.993296" lon="-3.422059">
+<ele>6</ele>
+<name>LSQu184</name>
+</rtept>
+<rtept lat="55.993143" lon="-3.420034">
+<ele>5</ele>
+<name>LSQu185</name>
+</rtept>
+<rtept lat="55.992013" lon="-3.415878">
+<ele>18</ele>
+<name>LSQu186</name>
+</rtept>
+<rtept lat="55.991419" lon="-3.414521">
+<ele>14</ele>
+<name>LSQu187</name>
+</rtept>
+<rtept lat="55.991085" lon="-3.413248">
+<ele>19</ele>
+<name>LSQu188</name>
+</rtept>
+<rtept lat="55.990944" lon="-3.411888">
+<ele>10</ele>
+<name>LSQu189</name>
+</rtept>
+<rtept lat="55.991016" lon="-3.410914">
+<ele>6</ele>
+<name>LSQu190</name>
+</rtept>
+<rtept lat="55.990907" lon="-3.408388">
+<ele>6</ele>
+<name>LSQu191</name>
+</rtept>
+<rtept lat="55.990137" lon="-3.404083">
+<ele>3</ele>
+<name>LSQu192</name>
+</rtept>
+<rtept lat="55.990522" lon="-3.4005">
+<ele>8</ele>
+<name>LSQu193</name>
+</rtept>
+<rtept lat="55.990875" lon="-3.399767">
+<ele>2</ele>
+<name>LSQu194</name>
+</rtept>
+<rtept lat="55.990699" lon="-3.397761">
+<ele>7</ele>
+<name>LSQu195</name>
+</rtept>
+<rtept lat="55.990224" lon="-3.396632">
+<ele>5</ele>
+<name>LSQu196</name>
+</rtept>
+</rte>
+</gpx>

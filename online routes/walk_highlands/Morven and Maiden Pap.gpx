@@ -1,0 +1,666 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Morven and Maiden Pap</name>
+<rtept lat="58.2529615821397" lon="-3.58088550006248">
+<ele>151.347837790444</ele>
+<name>MV001</name>
+</rtept>
+<rtept lat="58.2525149811658" lon="-3.58184034462375">
+<ele>148</ele>
+<name>MV002</name>
+</rtept>
+<rtept lat="58.2526727936992" lon="-3.5834594316413">
+<ele>149</ele>
+<name>MV003</name>
+</rtept>
+<rtept lat="58.2518283459156" lon="-3.58462141815054">
+<ele>149.059170353567</ele>
+<name>MV004</name>
+</rtept>
+<rtept lat="58.2517244740405" lon="-3.58502915875969">
+<ele>149.476570462909</ele>
+<name>MV005</name>
+</rtept>
+<rtept lat="58.2517209734436" lon="-3.58690343831569">
+<ele>151.388641790239</ele>
+<name>MV006</name>
+</rtept>
+<rtept lat="58.2518269174318" lon="-3.58792037148784">
+<ele>154.422526219466</ele>
+<name>MV007</name>
+</rtept>
+<rtept lat="58.2517725078974" lon="-3.58911757975881">
+<ele>155.976424627129</ele>
+<name>MV008</name>
+</rtept>
+<rtept lat="58.2521530962519" lon="-3.59029677697953">
+<ele>157.276095992414</ele>
+<name>MV009</name>
+</rtept>
+<rtept lat="58.2521814051994" lon="-3.59119778657901">
+<ele>159.227475423298</ele>
+<name>MV010</name>
+</rtept>
+<rtept lat="58.2505980848083" lon="-3.60087362031488">
+<ele>182.300081691791</ele>
+<name>MV011</name>
+</rtept>
+<rtept lat="58.2504255129463" lon="-3.60202795248405">
+<ele>186.794307045003</ele>
+<name>MV012</name>
+</rtept>
+<rtept lat="58.2501922394192" lon="-3.60644092459209">
+<ele>199.956727761379</ele>
+<name>MV013</name>
+</rtept>
+<rtept lat="58.2507019059723" lon="-3.6099128599555">
+<ele>209.544975402667</ele>
+<name>MV014</name>
+</rtept>
+<rtept lat="58.2493736558267" lon="-3.61806218241704">
+<ele>233.670401263852</ele>
+<name>MV015</name>
+</rtept>
+<rtept lat="58.2491312263079" lon="-3.62003790821582">
+<ele>237.848849254255</ele>
+<name>MV016</name>
+</rtept>
+<rtept lat="58.2497828204468" lon="-3.62475350392341">
+<ele>244</ele>
+<name>MV017</name>
+</rtept>
+<rtept lat="58.2496143238434" lon="-3.62557050486312">
+<ele>244.451678921169</ele>
+<name>MV018</name>
+</rtept>
+<rtept lat="58.2495278821328" lon="-3.62770329187494">
+<ele>248.033980099461</ele>
+<name>MV019</name>
+</rtept>
+<rtept lat="58.2479303236736" lon="-3.63441487309264">
+<ele>220.116422984365</ele>
+<name>MV020</name>
+</rtept>
+<rtept lat="58.2476057570929" lon="-3.63661153846869">
+<ele>210.958847611494</ele>
+<name>MV021</name>
+</rtept>
+<rtept lat="58.2440355361225" lon="-3.64990274177296">
+<ele>208.322121492873</ele>
+<name>MV022</name>
+</rtept>
+<rtept lat="58.2435103869864" lon="-3.65077788310746">
+<ele>212.154509958817</ele>
+<name>MV023</name>
+</rtept>
+<rtept lat="58.2425515588097" lon="-3.65309453816531">
+<ele>216.676942483883</ele>
+<name>MV024</name>
+</rtept>
+<rtept lat="58.2417414760043" lon="-3.65613009784541">
+<ele>221.47680627977</ele>
+<name>MV025</name>
+</rtept>
+<rtept lat="58.2415540005132" lon="-3.65687092895773">
+<ele>221.14266857013</ele>
+<name>MV026</name>
+</rtept>
+<rtept lat="58.2407035465695" lon="-3.6584428039046">
+<ele>225.189172289047</ele>
+<name>MV027</name>
+</rtept>
+<rtept lat="58.240379543626" lon="-3.66056388737175">
+<ele>230.536223085215</ele>
+<name>MV028</name>
+</rtept>
+<rtept lat="58.2397645981246" lon="-3.66225907250615">
+<ele>238.950879683033</ele>
+<name>MV029</name>
+</rtept>
+<rtept lat="58.2390254911964" lon="-3.66589713495562">
+<ele>244.197495323839</ele>
+<name>MV030</name>
+</rtept>
+<rtept lat="58.2379843574174" lon="-3.66768458631414">
+<ele>251.845070696707</ele>
+<name>MV031</name>
+</rtept>
+<rtept lat="58.2372915975701" lon="-3.66776449180243">
+<ele>256.62549700773</ele>
+<name>MV032</name>
+</rtept>
+<rtept lat="58.2362407259653" lon="-3.67105026841003">
+<ele>275.862377922059</ele>
+<name>MV033</name>
+</rtept>
+<rtept lat="58.2358936848011" lon="-3.67189581949449">
+<ele>287.490114168604</ele>
+<name>MV034</name>
+</rtept>
+<rtept lat="58.235731886299" lon="-3.67368688921852">
+<ele>292.734906028628</ele>
+<name>MV035</name>
+</rtept>
+<rtept lat="58.235241168817" lon="-3.67493782463003">
+<ele>289.6729890049</ele>
+<name>MV036</name>
+</rtept>
+<rtept lat="58.2340715277792" lon="-3.67671876247809">
+<ele>291.116614159759</ele>
+<name>MV037</name>
+</rtept>
+<rtept lat="58.2336202832672" lon="-3.67797146278773">
+<ele>297.019973561366</ele>
+<name>MV038</name>
+</rtept>
+<rtept lat="58.2333621067529" lon="-3.67957048639922">
+<ele>305.401148326892</ele>
+<name>MV039</name>
+</rtept>
+<rtept lat="58.2328150353289" lon="-3.68059377653079">
+<ele>318.942932588805</ele>
+<name>MV040</name>
+</rtept>
+<rtept lat="58.2328101818743" lon="-3.68123563882523">
+<ele>328.980060829952</ele>
+<name>MV041</name>
+</rtept>
+<rtept lat="58.2324122581407" lon="-3.6819832268527">
+<ele>342.329797014665</ele>
+<name>MV042</name>
+</rtept>
+<rtept lat="58.2321840099516" lon="-3.68273883288848">
+<ele>356.302579785421</ele>
+<name>MV043</name>
+</rtept>
+<rtept lat="58.232200986908" lon="-3.68390457982587">
+<ele>382.925377428125</ele>
+<name>MV044</name>
+</rtept>
+<rtept lat="58.2320537293267" lon="-3.68464868072501">
+<ele>406.514566233007</ele>
+<name>MV045</name>
+</rtept>
+<rtept lat="58.2321123071541" lon="-3.685111302633">
+<ele>422.768187920302</ele>
+<name>MV046</name>
+</rtept>
+<rtept lat="58.2320258479278" lon="-3.68553639042459">
+<ele>434.073141474419</ele>
+<name>MV047</name>
+</rtept>
+<rtept lat="58.2320620023413" lon="-3.68585999634149">
+<ele>443.313482248076</ele>
+<name>MV048</name>
+</rtept>
+<rtept lat="58.2319438274205" lon="-3.68623759251716">
+<ele>452.045367125258</ele>
+<name>MV049</name>
+</rtept>
+<rtept lat="58.2320435958385" lon="-3.68725398398399">
+<ele>479.929073768168</ele>
+<name>MV050</name>
+</rtept>
+<rtept lat="58.2321651846595" lon="-3.68784222848187">
+<ele>501.539210407224</ele>
+<name>MV051</name>
+</rtept>
+<rtept lat="58.2323172681002" lon="-3.68856988038406">
+<ele>531.094854824041</ele>
+<name>MV052</name>
+</rtept>
+<rtept lat="58.2322721863934" lon="-3.68953341789792">
+<ele>561.314695566286</ele>
+<name>MV053</name>
+</rtept>
+<rtept lat="58.232367903131" lon="-3.6902430701547">
+<ele>584.471301993354</ele>
+<name>MV054</name>
+</rtept>
+<rtept lat="58.2323301094006" lon="-3.69065513604434">
+<ele>592.639655315018</ele>
+<name>MV055</name>
+</rtept>
+<rtept lat="58.2327465838341" lon="-3.69156400115447">
+<ele>618.718308000564</ele>
+<name>MV056</name>
+</rtept>
+<rtept lat="58.2330742099866" lon="-3.69185551192554">
+<ele>635.399528004943</ele>
+<name>MV057</name>
+</rtept>
+<rtept lat="58.2332337413217" lon="-3.69262954115162">
+<ele>646.575989127735</ele>
+<name>MV058</name>
+</rtept>
+<rtept lat="58.2334031756382" lon="-3.69326609064389">
+<ele>652.252866358718</ele>
+<name>MV059</name>
+</rtept>
+<rtept lat="58.2340770715373" lon="-3.69549025702243">
+<ele>680.995515757908</ele>
+<name>MV060</name>
+</rtept>
+<rtept lat="58.2343121479946" lon="-3.69605332332897">
+<ele>692.039382132858</ele>
+<name>MV061</name>
+</rtept>
+<rtept lat="58.2343062482535" lon="-3.69649758712372">
+<ele>692.984299298346</ele>
+<name>MV062</name>
+</rtept>
+<rtept lat="58.2342803806688" lon="-3.69661898523403">
+<ele>692.038406977199</ele>
+<name>MV063</name>
+</rtept>
+<rtept lat="58.2342979648534" lon="-3.69651252078982">
+<ele>692.76904322217</ele>
+<name>MV064</name>
+</rtept>
+<rtept lat="58.2343206347515" lon="-3.69602307010092">
+<ele>691.612702877354</ele>
+<name>MV065</name>
+</rtept>
+<rtept lat="58.2333948926129" lon="-3.69328102469449">
+<ele>652.233812499004</ele>
+<name>MV066</name>
+</rtept>
+<rtept lat="58.2332335383209" lon="-3.69264486015805">
+<ele>646.706774940866</ele>
+<name>MV067</name>
+</rtept>
+<rtept lat="58.2330663329382" lon="-3.69183980829024">
+<ele>634.780153157912</ele>
+<name>MV068</name>
+</rtept>
+<rtept lat="58.2327430152838" lon="-3.69156212812134">
+<ele>618.543776096039</ele>
+<name>MV069</name>
+</rtept>
+<rtept lat="58.2323460440292" lon="-3.69067292557712">
+<ele>593.335708019048</ele>
+<name>MV070</name>
+</rtept>
+<rtept lat="58.232364604841" lon="-3.6902207724067">
+<ele>583.932588619783</ele>
+<name>MV071</name>
+</rtept>
+<rtept lat="58.2322665971227" lon="-3.68954848040878">
+<ele>561.513982196628</ele>
+<name>MV072</name>
+</rtept>
+<rtept lat="58.2323235075178" lon="-3.68857358314516">
+<ele>531.325444198019</ele>
+<name>MV073</name>
+</rtept>
+<rtept lat="58.2320228391566" lon="-3.68705713897208">
+<ele>474.366219107865</ele>
+<name>MV074</name>
+</rtept>
+<rtept lat="58.2319394284234" lon="-3.68623057129479">
+<ele>451.823069538654</ele>
+<name>MV075</name>
+</rtept>
+<rtept lat="58.2320643370479" lon="-3.68581923204028">
+<ele>442.214768063764</ele>
+<name>MV076</name>
+</rtept>
+<rtept lat="58.2320189358745" lon="-3.68544750006729">
+<ele>431.534669510296</ele>
+<name>MV077</name>
+</rtept>
+<rtept lat="58.2320926234487" lon="-3.68510525985957">
+<ele>422.45626591232</ele>
+<name>MV078</name>
+</rtept>
+<rtept lat="58.232048634504" lon="-3.68462629855698">
+<ele>405.683490673177</ele>
+<name>MV079</name>
+</rtept>
+<rtept lat="58.2322095156732" lon="-3.68387092129164">
+<ele>382.219613692945</ele>
+<name>MV080</name>
+</rtept>
+<rtept lat="58.2321865687411" lon="-3.68274917284704">
+<ele>356.557967422997</ele>
+<name>MV081</name>
+</rtept>
+<rtept lat="58.2324231659495" lon="-3.68197352428">
+<ele>342.211537604482</ele>
+<name>MV082</name>
+</rtept>
+<rtept lat="58.2328225267232" lon="-3.6812532544996">
+<ele>329.219914884261</ele>
+<name>MV083</name>
+</rtept>
+<rtept lat="58.2329069844241" lon="-3.67913510589251">
+<ele>305.355331313553</ele>
+<name>MV084</name>
+</rtept>
+<rtept lat="58.2329643644356" lon="-3.67668184959857">
+<ele>290.809473624398</ele>
+<name>MV085</name>
+</rtept>
+<rtept lat="58.2330111958436" lon="-3.67454998859788">
+<ele>301.215546756943</ele>
+<name>MV086</name>
+</rtept>
+<rtept lat="58.2328873749325" lon="-3.67248162432466">
+<ele>328.380063339685</ele>
+<name>MV087</name>
+</rtept>
+<rtept lat="58.2323156577553" lon="-3.66955768626979">
+<ele>347.921335370791</ele>
+<name>MV088</name>
+</rtept>
+<rtept lat="58.2319002080779" lon="-3.66670078208214">
+<ele>355.686752242282</ele>
+<name>MV089</name>
+</rtept>
+<rtept lat="58.2309102831118" lon="-3.663769364798">
+<ele>380.060427499227</ele>
+<name>MV090</name>
+</rtept>
+<rtept lat="58.2298361557412" lon="-3.66126333717079">
+<ele>411.91547345407</ele>
+<name>MV091</name>
+</rtept>
+<rtept lat="58.2292135673591" lon="-3.65981565243952">
+<ele>429.364989808381</ele>
+<name>MV092</name>
+</rtept>
+<rtept lat="58.2287149588423" lon="-3.65777776933332">
+<ele>454.581176249146</ele>
+<name>MV093</name>
+</rtept>
+<rtept lat="58.2285104063129" lon="-3.65706491156457">
+<ele>456.426340263377</ele>
+<name>MV094</name>
+</rtept>
+<rtept lat="58.2282509381177" lon="-3.65670711894661">
+<ele>455.946890327015</ele>
+<name>MV095</name>
+</rtept>
+<rtept lat="58.2278362782276" lon="-3.65376729496755">
+<ele>451.623772181138</ele>
+<name>MV096</name>
+</rtept>
+<rtept lat="58.2275033030568" lon="-3.64985387365754">
+<ele>473.064728278088</ele>
+<name>MV097</name>
+</rtept>
+<rtept lat="58.2274448471429" lon="-3.64965021896004">
+<ele>477.768187362102</ele>
+<name>MV098</name>
+</rtept>
+<rtept lat="58.227153549117" lon="-3.64911221278702">
+<ele>493.049995220603</ele>
+<name>MV099</name>
+</rtept>
+<rtept lat="58.227029264394" lon="-3.64899746259354">
+<ele>497.789150612667</ele>
+<name>MV100</name>
+</rtept>
+<rtept lat="58.2269359817984" lon="-3.64898632344965">
+<ele>495.764609236222</ele>
+<name>MV101</name>
+</rtept>
+<rtept lat="58.2268907906397" lon="-3.64886843206426">
+<ele>494.924215469041</ele>
+<name>MV102</name>
+</rtept>
+<rtept lat="58.2268738893601" lon="-3.64878591052836">
+<ele>494.735518892741</ele>
+<name>MV103</name>
+</rtept>
+<rtept lat="58.2268871994669" lon="-3.64886826547187">
+<ele>494.840597843559</ele>
+<name>MV104</name>
+</rtept>
+<rtept lat="58.2270479353245" lon="-3.64866456572372">
+<ele>498.32028355031</ele>
+<name>MV105</name>
+</rtept>
+<rtept lat="58.2271633035081" lon="-3.64835658738062">
+<ele>499.402591710666</ele>
+<name>MV106</name>
+</rtept>
+<rtept lat="58.2277852900079" lon="-3.64805166296355">
+<ele>491.43496930833</ele>
+<name>MV107</name>
+</rtept>
+<rtept lat="58.2284932977224" lon="-3.64748505719951">
+<ele>481.071810087212</ele>
+<name>MV108</name>
+</rtept>
+<rtept lat="58.2286698799463" lon="-3.64744555982942">
+<ele>477.456714933846</ele>
+<name>MV109</name>
+</rtept>
+<rtept lat="58.2288308372776" lon="-3.64708518179904">
+<ele>470.620962162403</ele>
+<name>MV110</name>
+</rtept>
+<rtept lat="58.2288345241831" lon="-3.64679925576098">
+<ele>466.858814126401</ele>
+<name>MV111</name>
+</rtept>
+<rtept lat="58.2290866159076" lon="-3.64647715439024">
+<ele>459.204474401178</ele>
+<name>MV112</name>
+</rtept>
+<rtept lat="58.2289929070472" lon="-3.64594148814588">
+<ele>448.175582616819</ele>
+<name>MV113</name>
+</rtept>
+<rtept lat="58.2289899400725" lon="-3.64533509531452">
+<ele>434.16368001284</ele>
+<name>MV114</name>
+</rtept>
+<rtept lat="58.2292314333908" lon="-3.64471957985831">
+<ele>416.335397660445</ele>
+<name>MV115</name>
+</rtept>
+<rtept lat="58.2295091840871" lon="-3.64435777579465">
+<ele>405.038651776708</ele>
+<name>MV116</name>
+</rtept>
+<rtept lat="58.2296976782851" lon="-3.64423025709697">
+<ele>399.264042832543</ele>
+<name>MV117</name>
+</rtept>
+<rtept lat="58.230061923177" lon="-3.64287107236377">
+<ele>374.170870797511</ele>
+<name>MV118</name>
+</rtept>
+<rtept lat="58.2310596436621" lon="-3.64128906707364">
+<ele>352.135496966547</ele>
+<name>MV119</name>
+</rtept>
+<rtept lat="58.2320055745576" lon="-3.63954108612073">
+<ele>333.760890117512</ele>
+<name>MV120</name>
+</rtept>
+<rtept lat="58.2326308994984" lon="-3.6388341816914">
+<ele>325.56264771231</ele>
+<name>MV121</name>
+</rtept>
+<rtept lat="58.233421416188" lon="-3.63715383956833">
+<ele>318.103373830954</ele>
+<name>MV122</name>
+</rtept>
+<rtept lat="58.2348840917938" lon="-3.63503426563195">
+<ele>313.98304470601</ele>
+<name>MV123</name>
+</rtept>
+<rtept lat="58.2357312426231" lon="-3.6341194090139">
+<ele>314.1044507116</ele>
+<name>MV124</name>
+</rtept>
+<rtept lat="58.2367365608246" lon="-3.63249638055508">
+<ele>317.301020027241</ele>
+<name>MV125</name>
+</rtept>
+<rtept lat="58.2381735873727" lon="-3.63040931264182">
+<ele>329.39977937491</ele>
+<name>MV126</name>
+</rtept>
+<rtept lat="58.2394200938502" lon="-3.62776142524316">
+<ele>346.323823708596</ele>
+<name>MV127</name>
+</rtept>
+<rtept lat="58.240120550224" lon="-3.62636940058954">
+<ele>361.016361837397</ele>
+<name>MV128</name>
+</rtept>
+<rtept lat="58.2410155519284" lon="-3.62422985184306">
+<ele>385.84672447593</ele>
+<name>MV129</name>
+</rtept>
+<rtept lat="58.2413272982365" lon="-3.62316746310843">
+<ele>398.424600655431</ele>
+<name>MV130</name>
+</rtept>
+<rtept lat="58.2417204683713" lon="-3.62248355860534">
+<ele>412.119097618969</ele>
+<name>MV131</name>
+</rtept>
+<rtept lat="58.2419161235803" lon="-3.62235620880656">
+<ele>422.894803158469</ele>
+<name>MV132</name>
+</rtept>
+<rtept lat="58.2420488047507" lon="-3.62251899792067">
+<ele>431.354717650842</ele>
+<name>MV133</name>
+</rtept>
+<rtept lat="58.2421988571623" lon="-3.62258718077672">
+<ele>440.592431253308</ele>
+<name>MV134</name>
+</rtept>
+<rtept lat="58.2423671250903" lon="-3.62263575312232">
+<ele>454.368104055602</ele>
+<name>MV135</name>
+</rtept>
+<rtept lat="58.2426362929093" lon="-3.6226616773297">
+<ele>476.049829632573</ele>
+<name>MV136</name>
+</rtept>
+<rtept lat="58.2427926625646" lon="-3.62279829526017">
+<ele>462.979711023286</ele>
+<name>MV137</name>
+</rtept>
+<rtept lat="58.2426509172583" lon="-3.62264190203597">
+<ele>475.822627970675</ele>
+<name>MV138</name>
+</rtept>
+<rtept lat="58.2427332516506" lon="-3.62210050627824">
+<ele>468.281839492026</ele>
+<name>MV139</name>
+</rtept>
+<rtept lat="58.2427738790944" lon="-3.622013773434">
+<ele>464.613981083018</ele>
+<name>MV140</name>
+</rtept>
+<rtept lat="58.2434465597675" lon="-3.62195590021306">
+<ele>424.350821901747</ele>
+<name>MV141</name>
+</rtept>
+<rtept lat="58.2437452355835" lon="-3.62192183573484">
+<ele>401.580163423287</ele>
+<name>MV142</name>
+</rtept>
+<rtept lat="58.2438055079875" lon="-3.62198591981671">
+<ele>396.511331362937</ele>
+<name>MV143</name>
+</rtept>
+<rtept lat="58.2439496953368" lon="-3.62180850717422">
+<ele>385.643401755488</ele>
+<name>MV144</name>
+</rtept>
+<rtept lat="58.244109131424" lon="-3.62142053288214">
+<ele>369.657938452329</ele>
+<name>MV145</name>
+</rtept>
+<rtept lat="58.2447654114699" lon="-3.62123923080722">
+<ele>335.685149756312</ele>
+<name>MV146</name>
+</rtept>
+<rtept lat="58.2463340259418" lon="-3.61981149927628">
+<ele>279.643436817969</ele>
+<name>MV147</name>
+</rtept>
+<rtept lat="58.2469688256469" lon="-3.61905669487325">
+<ele>258.756377474867</ele>
+<name>MV148</name>
+</rtept>
+<rtept lat="58.2484895994428" lon="-3.61856714861963">
+<ele>238.498148806129</ele>
+<name>MV149</name>
+</rtept>
+<rtept lat="58.2493817360609" lon="-3.61806255057104">
+<ele>233.643778349502</ele>
+<name>MV150</name>
+</rtept>
+<rtept lat="58.2507028466946" lon="-3.60990949461808">
+<ele>209.544258999607</ele>
+<name>MV151</name>
+</rtept>
+<rtept lat="58.2501932656948" lon="-3.60643074721622">
+<ele>199.934727761378</ele>
+<name>MV152</name>
+</rtept>
+<rtept lat="58.2504245724307" lon="-3.60203131800766">
+<ele>186.804143448102</ele>
+<name>MV153</name>
+</rtept>
+<rtept lat="58.2505970162996" lon="-3.60088720401921">
+<ele>182.358081691808</ele>
+<name>MV154</name>
+</rtept>
+<rtept lat="58.2521786269195" lon="-3.59120447830911">
+<ele>159.249475423277</ele>
+<name>MV155</name>
+</rtept>
+<rtept lat="58.2521610918061" lon="-3.59030395128088">
+<ele>157.276316068712</ele>
+<name>MV156</name>
+</rtept>
+<rtept lat="58.2517700262549" lon="-3.58910042834217">
+<ele>155.962424627113</ele>
+<name>MV157</name>
+</rtept>
+<rtept lat="58.2518315335035" lon="-3.58791035367506">
+<ele>154.376526219439</ele>
+<name>MV158</name>
+</rtept>
+<rtept lat="58.2517217866558" lon="-3.5869102907887">
+<ele>151.401246679273</ele>
+<name>MV159</name>
+</rtept>
+<rtept lat="58.251730336237" lon="-3.58506350107651">
+<ele>149.50054270499</ele>
+<name>MV160</name>
+</rtept>
+<rtept lat="58.2518221879133" lon="-3.58461091913173">
+<ele>149.053220578737</ele>
+<name>MV161</name>
+</rtept>
+<rtept lat="58.2526792894828" lon="-3.58344268053269">
+<ele>149</ele>
+<name>MV162</name>
+</rtept>
+<rtept lat="58.2525120346997" lon="-3.58186066219484">
+<ele>148</ele>
+<name>MV163</name>
+</rtept>
+<rtept lat="58.2529623113882" lon="-3.58089916525164">
+<ele>151.276813068737</ele>
+<name>MV164</name>
+</rtept>
+</rte>
+</gpx>

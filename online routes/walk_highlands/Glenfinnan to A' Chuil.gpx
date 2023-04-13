@@ -1,0 +1,826 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Glenfinnan to A' Chuil</name>
+<rtept lat="56.8716717031" lon="-5.4378247286">
+<ele>65</ele>
+<name>CWT2A001</name>
+</rtept>
+<rtept lat="56.8716931608" lon="-5.4375243212">
+<ele>68</ele>
+<name>CWT2A002</name>
+</rtept>
+<rtept lat="56.8715858724" lon="-5.4374170329">
+<ele>78</ele>
+<name>CWT2A003</name>
+</rtept>
+<rtept lat="56.8718648222" lon="-5.4367947604">
+<ele>80</ele>
+<name>CWT2A004</name>
+</rtept>
+<rtept lat="56.8726158407" lon="-5.4358935381">
+<ele>69</ele>
+<name>CWT2A005</name>
+</rtept>
+<rtept lat="56.8729162481" lon="-5.4349923159">
+<ele>65</ele>
+<name>CWT2A006</name>
+</rtept>
+<rtept lat="56.8735170629" lon="-5.4339838053">
+<ele>70</ele>
+<name>CWT2A007</name>
+</rtept>
+<rtept lat="56.8749118116" lon="-5.4329752947">
+<ele>71</ele>
+<name>CWT2A008</name>
+</rtept>
+<rtept lat="56.8754053381" lon="-5.4321813609">
+<ele>71</ele>
+<name>CWT2A009</name>
+</rtept>
+<rtept lat="56.8759203222" lon="-5.4319024111">
+<ele>66</ele>
+<name>CWT2A010</name>
+</rtept>
+<rtept lat="56.8759632375" lon="-5.4316878344">
+<ele>71</ele>
+<name>CWT2A011</name>
+</rtept>
+<rtept lat="56.8763494756" lon="-5.4318594958">
+<ele>69</ele>
+<name>CWT2A012</name>
+</rtept>
+<rtept lat="56.877572563" lon="-5.4303574587">
+<ele>83</ele>
+<name>CWT2A013</name>
+</rtept>
+<rtept lat="56.8791604307" lon="-5.4288125063">
+<ele>87</ele>
+<name>CWT2A014</name>
+</rtept>
+<rtept lat="56.8797827032" lon="-5.4279541995">
+<ele>98</ele>
+<name>CWT2A015</name>
+</rtept>
+<rtept lat="56.880319145" lon="-5.4268169428">
+<ele>85</ele>
+<name>CWT2A016</name>
+</rtept>
+<rtept lat="56.8810272482" lon="-5.4264521624">
+<ele>80</ele>
+<name>CWT2A017</name>
+</rtept>
+<rtept lat="56.8819928434" lon="-5.4266238238">
+<ele>84</ele>
+<name>CWT2A018</name>
+</rtept>
+<rtept lat="56.8827224043" lon="-5.4272246386">
+<ele>76</ele>
+<name>CWT2A019</name>
+</rtept>
+<rtept lat="56.8836665418" lon="-5.4272890116">
+<ele>92</ele>
+<name>CWT2A020</name>
+</rtept>
+<rtept lat="56.8851471212" lon="-5.4283618952">
+<ele>94</ele>
+<name>CWT2A021</name>
+</rtept>
+<rtept lat="56.8859839704" lon="-5.4281258608">
+<ele>90</ele>
+<name>CWT2A022</name>
+</rtept>
+<rtept lat="56.8872499731" lon="-5.4282760645">
+<ele>99</ele>
+<name>CWT2A023</name>
+</rtept>
+<rtept lat="56.888237026" lon="-5.4285764719">
+<ele>105</ele>
+<name>CWT2A024</name>
+</rtept>
+<rtept lat="56.8889665869" lon="-5.4292416598">
+<ele>112</ele>
+<name>CWT2A025</name>
+</rtept>
+<rtept lat="56.8907690313" lon="-5.4295420672">
+<ele>104</ele>
+<name>CWT2A026</name>
+</rtept>
+<rtept lat="56.8913483885" lon="-5.4303789164">
+<ele>105</ele>
+<name>CWT2A027</name>
+</rtept>
+<rtept lat="56.8920779493" lon="-5.4307866122">
+<ele>107</ele>
+<name>CWT2A028</name>
+</rtept>
+<rtept lat="56.8928933409" lon="-5.4307436968">
+<ele>108</ele>
+<name>CWT2A029</name>
+</rtept>
+<rtept lat="56.8940520551" lon="-5.4319882418">
+<ele>105</ele>
+<name>CWT2A030</name>
+</rtept>
+<rtept lat="56.8960690763" lon="-5.4306364085">
+<ele>93</ele>
+<name>CWT2A031</name>
+</rtept>
+<rtept lat="56.8968630102" lon="-5.4307007815">
+<ele>93</ele>
+<name>CWT2A032</name>
+</rtept>
+<rtept lat="56.8975496557" lon="-5.4310870196">
+<ele>97</ele>
+<name>CWT2A033</name>
+</rtept>
+<rtept lat="56.8977856901" lon="-5.4314732577">
+<ele>101</ele>
+<name>CWT2A034</name>
+</rtept>
+<rtept lat="56.8979788091" lon="-5.4332757021">
+<ele>115</ele>
+<name>CWT2A035</name>
+</rtept>
+<rtept lat="56.8982792166" lon="-5.4335761096">
+<ele>121</ele>
+<name>CWT2A036</name>
+</rtept>
+<rtept lat="56.9009185102" lon="-5.4329967524">
+<ele>119</ele>
+<name>CWT2A037</name>
+</rtept>
+<rtept lat="56.9019484785" lon="-5.4317951228">
+<ele>120</ele>
+<name>CWT2A038</name>
+</rtept>
+<rtept lat="56.9028926161" lon="-5.4310441042">
+<ele>122</ele>
+<name>CWT2A039</name>
+</rtept>
+<rtept lat="56.9038582113" lon="-5.4312801386">
+<ele>133</ele>
+<name>CWT2A040</name>
+</rtept>
+<rtept lat="56.9037723806" lon="-5.4308080699">
+<ele>130</ele>
+<name>CWT2A041</name>
+</rtept>
+<rtept lat="56.9033432272" lon="-5.4302287127">
+<ele>125</ele>
+<name>CWT2A042</name>
+</rtept>
+<rtept lat="56.9033003118" lon="-5.4299283053">
+<ele>124</ele>
+<name>CWT2A043</name>
+</rtept>
+<rtept lat="56.9034505155" lon="-5.4293489481">
+<ele>122</ele>
+<name>CWT2A044</name>
+</rtept>
+<rtept lat="56.9036650923" lon="-5.4290270831">
+<ele>119</ele>
+<name>CWT2A045</name>
+</rtept>
+<rtept lat="56.9037938383" lon="-5.4290699984">
+<ele>120</ele>
+<name>CWT2A046</name>
+</rtept>
+<rtept lat="56.9037938383" lon="-5.4288554217">
+<ele>123</ele>
+<name>CWT2A047</name>
+</rtept>
+<rtept lat="56.9062614706" lon="-5.4276108767">
+<ele>146</ele>
+<name>CWT2A048</name>
+</rtept>
+<rtept lat="56.9069481161" lon="-5.4257655169">
+<ele>159</ele>
+<name>CWT2A049</name>
+</rtept>
+<rtept lat="56.9074631002" lon="-5.4252076174">
+<ele>166</ele>
+<name>CWT2A050</name>
+</rtept>
+<rtept lat="56.9081712034" lon="-5.423662665">
+<ele>170</ele>
+<name>CWT2A051</name>
+</rtept>
+<rtept lat="56.9092226293" lon="-5.4230403925">
+<ele>179</ele>
+<name>CWT2A052</name>
+</rtept>
+<rtept lat="56.9098019865" lon="-5.422353747">
+<ele>189</ele>
+<name>CWT2A053</name>
+</rtept>
+<rtept lat="56.9104028013" lon="-5.420916083">
+<ele>193</ele>
+<name>CWT2A054</name>
+</rtept>
+<rtept lat="56.9108963278" lon="-5.4201006915">
+<ele>193</ele>
+<name>CWT2A055</name>
+</rtept>
+<rtept lat="56.9115615156" lon="-5.419671538">
+<ele>195</ele>
+<name>CWT2A056</name>
+</rtept>
+<rtept lat="56.9120979574" lon="-5.4187488581">
+<ele>190</ele>
+<name>CWT2A057</name>
+</rtept>
+<rtept lat="56.9126558569" lon="-5.4188776041">
+<ele>188</ele>
+<name>CWT2A058</name>
+</rtept>
+<rtept lat="56.9136858251" lon="-5.4173541094">
+<ele>203</ele>
+<name>CWT2A059</name>
+</rtept>
+<rtept lat="56.9139862326" lon="-5.4171609904">
+<ele>203</ele>
+<name>CWT2A060</name>
+</rtept>
+<rtept lat="56.9141793516" lon="-5.4176974322">
+<ele>204</ele>
+<name>CWT2A061</name>
+</rtept>
+<rtept lat="56.9144368437" lon="-5.4176330592">
+<ele>203</ele>
+<name>CWT2A062</name>
+</rtept>
+<rtept lat="56.914479759" lon="-5.4172039057">
+<ele>201</ele>
+<name>CWT2A063</name>
+</rtept>
+<rtept lat="56.9143080976" lon="-5.4165601756">
+<ele>198</ele>
+<name>CWT2A064</name>
+</rtept>
+<rtept lat="56.9145226744" lon="-5.4152512576">
+<ele>199</ele>
+<name>CWT2A065</name>
+</rtept>
+<rtept lat="56.914351013" lon="-5.4146933581">
+<ele>201</ele>
+<name>CWT2A066</name>
+</rtept>
+<rtept lat="56.9140076902" lon="-5.4142642046">
+<ele>209</ele>
+<name>CWT2A067</name>
+</rtept>
+<rtept lat="56.9140720632" lon="-5.4133200671">
+<ele>220</ele>
+<name>CWT2A068</name>
+</rtept>
+<rtept lat="56.9148230818" lon="-5.4122686411">
+<ele>240</ele>
+<name>CWT2A069</name>
+</rtept>
+<rtept lat="56.9150162008" lon="-5.4112601305">
+<ele>254</ele>
+<name>CWT2A070</name>
+</rtept>
+<rtept lat="56.9157672193" lon="-5.4092860247">
+<ele>265</ele>
+<name>CWT2A071</name>
+</rtept>
+<rtept lat="56.9179344442" lon="-5.4048872019">
+<ele>301</ele>
+<name>CWT2A072</name>
+</rtept>
+<rtept lat="56.9183850553" lon="-5.402398112">
+<ele>313</ele>
+<name>CWT2A073</name>
+</rtept>
+<rtept lat="56.9200158384" lon="-5.3992867495">
+<ele>334</ele>
+<name>CWT2A074</name>
+</rtept>
+<rtept lat="56.9201874998" lon="-5.398600104">
+<ele>336</ele>
+<name>CWT2A075</name>
+</rtept>
+<rtept lat="56.9204664495" lon="-5.3982567812">
+<ele>350</ele>
+<name>CWT2A076</name>
+</rtept>
+<rtept lat="56.920766857" lon="-5.3967547442">
+<ele>357</ele>
+<name>CWT2A077</name>
+</rtept>
+<rtept lat="56.9219041136" lon="-5.3947162653">
+<ele>377</ele>
+<name>CWT2A078</name>
+</rtept>
+<rtept lat="56.9227195051" lon="-5.3921628023">
+<ele>406</ele>
+<name>CWT2A079</name>
+</rtept>
+<rtept lat="56.9231272009" lon="-5.3915619875">
+<ele>416</ele>
+<name>CWT2A080</name>
+</rtept>
+<rtept lat="56.9234919813" lon="-5.3903174425">
+<ele>440</ele>
+<name>CWT2A081</name>
+</rtept>
+<rtept lat="56.9239211348" lon="-5.3897810007">
+<ele>473</ele>
+<name>CWT2A082</name>
+</rtept>
+<rtept lat="56.9238996771" lon="-5.3890943552">
+<ele>474</ele>
+<name>CWT2A083</name>
+</rtept>
+<rtept lat="56.9242859152" lon="-5.388321879">
+<ele>479</ele>
+<name>CWT2A084</name>
+</rtept>
+<rtept lat="56.9242859152" lon="-5.3878498102">
+<ele>481</ele>
+<name>CWT2A085</name>
+</rtept>
+<rtept lat="56.9255733755" lon="-5.3851676012">
+<ele>514</ele>
+<name>CWT2A086</name>
+</rtept>
+<rtept lat="56.9257235792" lon="-5.3845024134">
+<ele>519</ele>
+<name>CWT2A087</name>
+</rtept>
+<rtept lat="56.9259810713" lon="-5.3844165827">
+<ele>522</ele>
+<name>CWT2A088</name>
+</rtept>
+<rtept lat="56.9265604284" lon="-5.3827214266">
+<ele>520</ele>
+<name>CWT2A089</name>
+</rtept>
+<rtept lat="56.9265818861" lon="-5.3820991541">
+<ele>525</ele>
+<name>CWT2A090</name>
+</rtept>
+<rtept lat="56.9267750051" lon="-5.3819274927">
+<ele>518</ele>
+<name>CWT2A091</name>
+</rtept>
+<rtept lat="56.9270324972" lon="-5.3809189822">
+<ele>515</ele>
+<name>CWT2A092</name>
+</rtept>
+<rtept lat="56.9280839231" lon="-5.3792452837">
+<ele>488</ele>
+<name>CWT2A093</name>
+</rtept>
+<rtept lat="56.9289207724" lon="-5.3775072123">
+<ele>474</ele>
+<name>CWT2A094</name>
+</rtept>
+<rtept lat="56.929006603" lon="-5.3768849398">
+<ele>466</ele>
+<name>CWT2A095</name>
+</rtept>
+<rtept lat="56.9292211798" lon="-5.3767991091">
+<ele>466</ele>
+<name>CWT2A096</name>
+</rtept>
+<rtept lat="56.9296932486" lon="-5.3760910059">
+<ele>456</ele>
+<name>CWT2A097</name>
+</rtept>
+<rtept lat="56.9298649099" lon="-5.3756189371">
+<ele>444</ele>
+<name>CWT2A098</name>
+</rtept>
+<rtept lat="56.9298005369" lon="-5.3752756144">
+<ele>432</ele>
+<name>CWT2A099</name>
+</rtept>
+<rtept lat="56.9299721983" lon="-5.3749537493">
+<ele>431</ele>
+<name>CWT2A100</name>
+</rtept>
+<rtept lat="56.9303584364" lon="-5.3748250033">
+<ele>432</ele>
+<name>CWT2A101</name>
+</rtept>
+<rtept lat="56.9308734205" lon="-5.3737521197">
+<ele>416</ele>
+<name>CWT2A102</name>
+</rtept>
+<rtept lat="56.9312167433" lon="-5.3734302546">
+<ele>413</ele>
+<name>CWT2A103</name>
+</rtept>
+<rtept lat="56.9323754576" lon="-5.3713917757">
+<ele>355</ele>
+<name>CWT2A104</name>
+</rtept>
+<rtept lat="56.9331908491" lon="-5.3702974344">
+<ele>353</ele>
+<name>CWT2A105</name>
+</rtept>
+<rtept lat="56.9332552221" lon="-5.369803908">
+<ele>350</ele>
+<name>CWT2A106</name>
+</rtept>
+<rtept lat="56.9339633253" lon="-5.3686022783">
+<ele>336</ele>
+<name>CWT2A107</name>
+</rtept>
+<rtept lat="56.9341349867" lon="-5.3679156328">
+<ele>325</ele>
+<name>CWT2A108</name>
+</rtept>
+<rtept lat="56.9348001745" lon="-5.3671646143">
+<ele>304</ele>
+<name>CWT2A109</name>
+</rtept>
+<rtept lat="56.9350362089" lon="-5.3665852572">
+<ele>296</ele>
+<name>CWT2A110</name>
+</rtept>
+<rtept lat="56.935422447" lon="-5.3663063074">
+<ele>290</ele>
+<name>CWT2A111</name>
+</rtept>
+<rtept lat="56.9362378386" lon="-5.3647184397">
+<ele>252</ele>
+<name>CWT2A112</name>
+</rtept>
+<rtept lat="56.9367528227" lon="-5.3642678286">
+<ele>256</ele>
+<name>CWT2A113</name>
+</rtept>
+<rtept lat="56.9372248915" lon="-5.3634738947">
+<ele>256</ele>
+<name>CWT2A114</name>
+</rtept>
+<rtept lat="56.938104656" lon="-5.3627872492">
+<ele>268</ele>
+<name>CWT2A115</name>
+</rtept>
+<rtept lat="56.9383621481" lon="-5.3622937227">
+<ele>263</ele>
+<name>CWT2A116</name>
+</rtept>
+<rtept lat="56.9390702513" lon="-5.3621006037">
+<ele>252</ele>
+<name>CWT2A117</name>
+</rtept>
+<rtept lat="56.9402933386" lon="-5.3599762942">
+<ele>228</ele>
+<name>CWT2A118</name>
+</rtept>
+<rtept lat="56.940593746" lon="-5.3598046328">
+<ele>225</ele>
+<name>CWT2A119</name>
+</rtept>
+<rtept lat="56.9407654074" lon="-5.359332564">
+<ele>228</ele>
+<name>CWT2A120</name>
+</rtept>
+<rtept lat="56.9416022566" lon="-5.3588175799">
+<ele>243</ele>
+<name>CWT2A121</name>
+</rtept>
+<rtept lat="56.9421172407" lon="-5.3577446963">
+<ele>229</ele>
+<name>CWT2A122</name>
+</rtept>
+<rtept lat="56.9425678518" lon="-5.3577017809">
+<ele>215</ele>
+<name>CWT2A123</name>
+</rtept>
+<rtept lat="56.9438767698" lon="-5.3570151354">
+<ele>272</ele>
+<name>CWT2A124</name>
+</rtept>
+<rtept lat="56.9472885397" lon="-5.354032519">
+<ele>241</ele>
+<name>CWT2A125</name>
+</rtept>
+<rtept lat="56.9495630529" lon="-5.350298884">
+<ele>219</ele>
+<name>CWT2A126</name>
+</rtept>
+<rtept lat="56.9505286482" lon="-5.3499341036">
+<ele>207</ele>
+<name>CWT2A127</name>
+</rtept>
+<rtept lat="56.9507217672" lon="-5.3491187121">
+<ele>207</ele>
+<name>CWT2A128</name>
+</rtept>
+<rtept lat="56.9513225821" lon="-5.3480672861">
+<ele>215</ele>
+<name>CWT2A129</name>
+</rtept>
+<rtept lat="56.9527387884" lon="-5.34637213">
+<ele>189</ele>
+<name>CWT2A130</name>
+</rtept>
+<rtept lat="56.9542408255" lon="-5.3454279924">
+<ele>198</ele>
+<name>CWT2A131</name>
+</rtept>
+<rtept lat="56.9551420477" lon="-5.3444623972">
+<ele>194</ele>
+<name>CWT2A132</name>
+</rtept>
+<rtept lat="56.9558072355" lon="-5.3442263628">
+<ele>181</ele>
+<name>CWT2A133</name>
+</rtept>
+<rtept lat="56.9579315451" lon="-5.342187884">
+<ele>166</ele>
+<name>CWT2A134</name>
+</rtept>
+<rtept lat="56.9581675795" lon="-5.3423595453">
+<ele>156</ele>
+<name>CWT2A135</name>
+</rtept>
+<rtept lat="56.958789852" lon="-5.34231663">
+<ele>148</ele>
+<name>CWT2A136</name>
+</rtept>
+<rtept lat="56.9590258864" lon="-5.3420376803">
+<ele>141</ele>
+<name>CWT2A137</name>
+</rtept>
+<rtept lat="56.9593906668" lon="-5.3420376803">
+<ele>132</ele>
+<name>CWT2A138</name>
+</rtept>
+<rtept lat="56.96009877" lon="-5.342252257">
+<ele>127</ele>
+<name>CWT2A139</name>
+</rtept>
+<rtept lat="56.9605708387" lon="-5.3429603602">
+<ele>127</ele>
+<name>CWT2A140</name>
+</rtept>
+<rtept lat="56.9616866377" lon="-5.3432178522">
+<ele>123</ele>
+<name>CWT2A141</name>
+</rtept>
+<rtept lat="56.9619870451" lon="-5.3432178522">
+<ele>120</ele>
+<name>CWT2A142</name>
+</rtept>
+<rtept lat="56.9618153837" lon="-5.3430891062">
+<ele>115</ele>
+<name>CWT2A143</name>
+</rtept>
+<rtept lat="56.9619441298" lon="-5.3427457834">
+<ele>116</ele>
+<name>CWT2A144</name>
+</rtept>
+<rtept lat="56.9622016218" lon="-5.342445376">
+<ele>114</ele>
+<name>CWT2A145</name>
+</rtept>
+<rtept lat="56.9624376562" lon="-5.342445376">
+<ele>117</ele>
+<name>CWT2A146</name>
+</rtept>
+<rtept lat="56.962845352" lon="-5.3427243258">
+<ele>124</ele>
+<name>CWT2A147</name>
+</rtept>
+<rtept lat="56.9629311827" lon="-5.3430247332">
+<ele>123</ele>
+<name>CWT2A148</name>
+</rtept>
+<rtept lat="56.9629955557" lon="-5.3427886988">
+<ele>120</ele>
+<name>CWT2A149</name>
+</rtept>
+<rtept lat="56.9628882673" lon="-5.3426384951">
+<ele>120</ele>
+<name>CWT2A150</name>
+</rtept>
+<rtept lat="56.9628238943" lon="-5.3416514422">
+<ele>114</ele>
+<name>CWT2A151</name>
+</rtept>
+<rtept lat="56.962909725" lon="-5.3413724924">
+<ele>113</ele>
+<name>CWT2A152</name>
+</rtept>
+<rtept lat="56.962780979" lon="-5.3411150004">
+<ele>115</ele>
+<name>CWT2A153</name>
+</rtept>
+<rtept lat="56.9628024367" lon="-5.3404927279">
+<ele>114</ele>
+<name>CWT2A154</name>
+</rtept>
+<rtept lat="56.962909725" lon="-5.3401494051">
+<ele>113</ele>
+<name>CWT2A155</name>
+</rtept>
+<rtept lat="56.9631243017" lon="-5.3400850321">
+<ele>115</ele>
+<name>CWT2A156</name>
+</rtept>
+<rtept lat="56.9635105398" lon="-5.3391194368">
+<ele>114</ele>
+<name>CWT2A157</name>
+</rtept>
+<rtept lat="56.9636392859" lon="-5.3377890612">
+<ele>112</ele>
+<name>CWT2A158</name>
+</rtept>
+<rtept lat="56.9641971853" lon="-5.3358793284">
+<ele>114</ele>
+<name>CWT2A159</name>
+</rtept>
+<rtept lat="56.964283016" lon="-5.3345704104">
+<ele>108</ele>
+<name>CWT2A160</name>
+</rtept>
+<rtept lat="56.9644546774" lon="-5.3341197992">
+<ele>108</ele>
+<name>CWT2A161</name>
+</rtept>
+<rtept lat="56.965398815" lon="-5.3325748468">
+<ele>103</ele>
+<name>CWT2A162</name>
+</rtept>
+<rtept lat="56.9658708838" lon="-5.3312015558">
+<ele>103</ele>
+<name>CWT2A163</name>
+</rtept>
+<rtept lat="56.9664716986" lon="-5.330471995">
+<ele>104</ele>
+<name>CWT2A164</name>
+</rtept>
+<rtept lat="56.9668579367" lon="-5.3304290796">
+<ele>105</ele>
+<name>CWT2A165</name>
+</rtept>
+<rtept lat="56.9666648176" lon="-5.3302788759">
+<ele>102</ele>
+<name>CWT2A166</name>
+</rtept>
+<rtept lat="56.9668579367" lon="-5.330729487">
+<ele>103</ele>
+<name>CWT2A167</name>
+</rtept>
+<rtept lat="56.9669223097" lon="-5.3303217913">
+<ele>102</ele>
+<name>CWT2A168</name>
+</rtept>
+<rtept lat="56.9673943785" lon="-5.3298711802">
+<ele>108</ele>
+<name>CWT2A169</name>
+</rtept>
+<rtept lat="56.9681239393" lon="-5.3297209765">
+<ele>111</ele>
+<name>CWT2A170</name>
+</rtept>
+<rtept lat="56.9681239393" lon="-5.3295278574">
+<ele>110</ele>
+<name>CWT2A171</name>
+</rtept>
+<rtept lat="56.9687247542" lon="-5.3293776537">
+<ele>115</ele>
+<name>CWT2A172</name>
+</rtept>
+<rtept lat="56.9688320425" lon="-5.3291201616">
+<ele>118</ele>
+<name>CWT2A173</name>
+</rtept>
+<rtept lat="56.9693684843" lon="-5.3297209765">
+<ele>120</ele>
+<name>CWT2A174</name>
+</rtept>
+<rtept lat="56.9690466192" lon="-5.3302574183">
+<ele>117</ele>
+<name>CWT2A175</name>
+</rtept>
+<rtept lat="56.9684672621" lon="-5.3329396273">
+<ele>99</ele>
+<name>CWT2A176</name>
+</rtept>
+<rtept lat="56.9680381087" lon="-5.3336477304">
+<ele>102</ele>
+<name>CWT2A177</name>
+</rtept>
+<rtept lat="56.9680381087" lon="-5.3341412569">
+<ele>105</ele>
+<name>CWT2A178</name>
+</rtept>
+<rtept lat="56.9684458044" lon="-5.3345060373">
+<ele>106</ele>
+<name>CWT2A179</name>
+</rtept>
+<rtept lat="56.9697332647" lon="-5.3344202066">
+<ele>132</ele>
+<name>CWT2A180</name>
+</rtept>
+<rtept lat="56.9711280134" lon="-5.334656241">
+<ele>144</ele>
+<name>CWT2A181</name>
+</rtept>
+<rtept lat="56.9715142515" lon="-5.3349566484">
+<ele>145</ele>
+<name>CWT2A182</name>
+</rtept>
+<rtept lat="56.9723296431" lon="-5.3361153627">
+<ele>150</ele>
+<name>CWT2A183</name>
+</rtept>
+<rtept lat="56.9729304579" lon="-5.3375530268">
+<ele>145</ele>
+<name>CWT2A184</name>
+</rtept>
+<rtept lat="56.9735312727" lon="-5.3381323839">
+<ele>151</ele>
+<name>CWT2A185</name>
+</rtept>
+<rtept lat="56.9752264288" lon="-5.3407716776">
+<ele>152</ele>
+<name>CWT2A186</name>
+</rtept>
+<rtept lat="56.9757980103" lon="-5.34190336">
+<ele>102.970247703117</ele>
+<name>CWT2A187</name>
+</rtept>
+<rtept lat="56.9769374574" lon="-5.3469871582">
+<ele>107.180424533593</ele>
+<name>CWT2A188</name>
+</rtept>
+<rtept lat="56.9770492786" lon="-5.3497969063">
+<ele>117.356276983618</ele>
+<name>CWT2A189</name>
+</rtept>
+<rtept lat="56.9772007512" lon="-5.3506751158">
+<ele>115.783940458431</ele>
+<name>CWT2A190</name>
+</rtept>
+<rtept lat="56.9771834097" lon="-5.3540085428">
+<ele>130.29272420961</ele>
+<name>CWT2A191</name>
+</rtept>
+<rtept lat="56.9767722057" lon="-5.355618507">
+<ele>138.230959944557</ele>
+<name>CWT2A192</name>
+</rtept>
+<rtept lat="56.9761607699" lon="-5.3564693528">
+<ele>147.526699443638</ele>
+<name>CWT2A193</name>
+</rtept>
+<rtept lat="56.976109238" lon="-5.3587703231">
+<ele>144.156074044624</ele>
+<name>CWT2A194</name>
+</rtept>
+<rtept lat="56.9764359466" lon="-5.3597878232">
+<ele>141.773542357285</ele>
+<name>CWT2A195</name>
+</rtept>
+<rtept lat="56.9765228603" lon="-5.3605779067">
+<ele>144.251447953091</ele>
+<name>CWT2A196</name>
+</rtept>
+<rtept lat="56.9756648576" lon="-5.3642061026">
+<ele>156.314063407577</ele>
+<name>CWT2A197</name>
+</rtept>
+<rtept lat="56.97520583" lon="-5.3721929993">
+<ele>151.621830668566</ele>
+<name>CWT2A198</name>
+</rtept>
+<rtept lat="56.9751805311" lon="-5.3764724388">
+<ele>153.507400667446</ele>
+<name>CWT2A199</name>
+</rtept>
+<rtept lat="56.975423936" lon="-5.3821759944">
+<ele>148.316029333039</ele>
+<name>CWT2A200</name>
+</rtept>
+<rtept lat="56.9755634811" lon="-5.3841236585">
+<ele>144.468240762571</ele>
+<name>CWT2A201</name>
+</rtept>
+<rtept lat="56.975857266" lon="-5.3847678413">
+<ele>137.279802990468</ele>
+<name>CWT2A202</name>
+</rtept>
+<rtept lat="56.9761457258" lon="-5.3862761528">
+<ele>133.955126310578</ele>
+<name>CWT2A203</name>
+</rtept>
+<rtept lat="56.9762060937651" lon="-5.38645118276958">
+<ele>132.470733759305</ele>
+<name>CWT2A204</name>
+</rtept>
+</rte>
+</gpx>

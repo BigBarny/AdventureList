@@ -1,0 +1,818 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Foinaven circuit</name>
+<rtept lat="58.465812" lon="-4.902215">
+<ele>169</ele>
+<name>FOI001</name>
+</rtept>
+<rtept lat="58.465721" lon="-4.901998">
+<ele>172</ele>
+<name>FOI002</name>
+</rtept>
+<rtept lat="58.465513" lon="-4.902181">
+<ele>172</ele>
+<name>FOI003</name>
+</rtept>
+<rtept lat="58.464915" lon="-4.903254">
+<ele>182</ele>
+<name>FOI004</name>
+</rtept>
+<rtept lat="58.464535" lon="-4.903612">
+<ele>175</ele>
+<name>FOI005</name>
+</rtept>
+<rtept lat="58.464002" lon="-4.90116">
+<ele>157</ele>
+<name>FOI006</name>
+</rtept>
+<rtept lat="58.464127" lon="-4.899991">
+<ele>156</ele>
+<name>FOI007</name>
+</rtept>
+<rtept lat="58.464606" lon="-4.898739">
+<ele>149</ele>
+<name>FOI008</name>
+</rtept>
+<rtept lat="58.464645" lon="-4.898179">
+<ele>145</ele>
+<name>FOI009</name>
+</rtept>
+<rtept lat="58.465142" lon="-4.897398">
+<ele>140</ele>
+<name>FOI010</name>
+</rtept>
+<rtept lat="58.465305" lon="-4.89653">
+<ele>127</ele>
+<name>FOI011</name>
+</rtept>
+<rtept lat="58.465718" lon="-4.89563">
+<ele>123</ele>
+<name>FOI012</name>
+</rtept>
+<rtept lat="58.466345" lon="-4.892657">
+<ele>103</ele>
+<name>FOI013</name>
+</rtept>
+<rtept lat="58.466349" lon="-4.891509">
+<ele>87</ele>
+<name>FOI014</name>
+</rtept>
+<rtept lat="58.466687" lon="-4.89053">
+<ele>93</ele>
+<name>FOI015</name>
+</rtept>
+<rtept lat="58.466622" lon="-4.88887">
+<ele>79</ele>
+<name>FOI016</name>
+</rtept>
+<rtept lat="58.466449" lon="-4.887778">
+<ele>82</ele>
+<name>FOI017</name>
+</rtept>
+<rtept lat="58.466875" lon="-4.884316">
+<ele>75</ele>
+<name>FOI018</name>
+</rtept>
+<rtept lat="58.466263" lon="-4.883319">
+<ele>76</ele>
+<name>FOI019</name>
+</rtept>
+<rtept lat="58.465845" lon="-4.882143">
+<ele>80</ele>
+<name>FOI020</name>
+</rtept>
+<rtept lat="58.465687" lon="-4.882052">
+<ele>77</ele>
+<name>FOI021</name>
+</rtept>
+<rtept lat="58.465247" lon="-4.882324">
+<ele>89</ele>
+<name>FOI022</name>
+</rtept>
+<rtept lat="58.464953" lon="-4.882091">
+<ele>88</ele>
+<name>FOI023</name>
+</rtept>
+<rtept lat="58.464183" lon="-4.8821">
+<ele>94</ele>
+<name>FOI024</name>
+</rtept>
+<rtept lat="58.463708" lon="-4.881535">
+<ele>97</ele>
+<name>FOI025</name>
+</rtept>
+<rtept lat="58.46312" lon="-4.881434">
+<ele>103</ele>
+<name>FOI026</name>
+</rtept>
+<rtept lat="58.462409" lon="-4.880802">
+<ele>102</ele>
+<name>FOI027</name>
+</rtept>
+<rtept lat="58.461953" lon="-4.880108">
+<ele>105</ele>
+<name>FOI028</name>
+</rtept>
+<rtept lat="58.460922" lon="-4.879135">
+<ele>100</ele>
+<name>FOI029</name>
+</rtept>
+<rtept lat="58.460285" lon="-4.877505">
+<ele>92</ele>
+<name>FOI030</name>
+</rtept>
+<rtept lat="58.459224" lon="-4.87645">
+<ele>83</ele>
+<name>FOI031</name>
+</rtept>
+<rtept lat="58.458004" lon="-4.875593">
+<ele>81</ele>
+<name>FOI032</name>
+</rtept>
+<rtept lat="58.456799" lon="-4.873383">
+<ele>73</ele>
+<name>FOI033</name>
+</rtept>
+<rtept lat="58.456787" lon="-4.872946">
+<ele>70</ele>
+<name>FOI034</name>
+</rtept>
+<rtept lat="58.456639" lon="-4.872611">
+<ele>67</ele>
+<name>FOI035</name>
+</rtept>
+<rtept lat="58.454524" lon="-4.871267">
+<ele>74</ele>
+<name>FOI036</name>
+</rtept>
+<rtept lat="58.453626" lon="-4.870236">
+<ele>72</ele>
+<name>FOI037</name>
+</rtept>
+<rtept lat="58.453394" lon="-4.869425">
+<ele>74</ele>
+<name>FOI038</name>
+</rtept>
+<rtept lat="58.452809" lon="-4.868414">
+<ele>75</ele>
+<name>FOI039</name>
+</rtept>
+<rtept lat="58.452058" lon="-4.867819">
+<ele>75</ele>
+<name>FOI040</name>
+</rtept>
+<rtept lat="58.451672" lon="-4.867201">
+<ele>83</ele>
+<name>FOI041</name>
+</rtept>
+<rtept lat="58.451433" lon="-4.867096">
+<ele>77</ele>
+<name>FOI042</name>
+</rtept>
+<rtept lat="58.450732" lon="-4.867655">
+<ele>81</ele>
+<name>FOI043</name>
+</rtept>
+<rtept lat="58.448723" lon="-4.866151">
+<ele>79</ele>
+<name>FOI044</name>
+</rtept>
+<rtept lat="58.447782" lon="-4.865718">
+<ele>88</ele>
+<name>FOI045</name>
+</rtept>
+<rtept lat="58.447121" lon="-4.865028">
+<ele>79</ele>
+<name>FOI046</name>
+</rtept>
+<rtept lat="58.446809" lon="-4.863782">
+<ele>77</ele>
+<name>FOI047</name>
+</rtept>
+<rtept lat="58.446283" lon="-4.863494">
+<ele>80</ele>
+<name>FOI048</name>
+</rtept>
+<rtept lat="58.445671" lon="-4.862555">
+<ele>78</ele>
+<name>FOI049</name>
+</rtept>
+<rtept lat="58.445257" lon="-4.861571">
+<ele>74</ele>
+<name>FOI050</name>
+</rtept>
+<rtept lat="58.445069" lon="-4.860416">
+<ele>79</ele>
+<name>FOI051</name>
+</rtept>
+<rtept lat="58.444793" lon="-4.859652">
+<ele>79</ele>
+<name>FOI052</name>
+</rtept>
+<rtept lat="58.444387" lon="-4.858965">
+<ele>79</ele>
+<name>FOI053</name>
+</rtept>
+<rtept lat="58.443833" lon="-4.858635">
+<ele>78</ele>
+<name>FOI054</name>
+</rtept>
+<rtept lat="58.443152" lon="-4.856889">
+<ele>81</ele>
+<name>FOI055</name>
+</rtept>
+<rtept lat="58.442778" lon="-4.856749">
+<ele>82</ele>
+<name>FOI056</name>
+</rtept>
+<rtept lat="58.441889" lon="-4.855904">
+<ele>87</ele>
+<name>FOI057</name>
+</rtept>
+<rtept lat="58.441122" lon="-4.855572">
+<ele>94</ele>
+<name>FOI058</name>
+</rtept>
+<rtept lat="58.440946" lon="-4.855245">
+<ele>87</ele>
+<name>FOI059</name>
+</rtept>
+<rtept lat="58.44058" lon="-4.853242">
+<ele>90</ele>
+<name>FOI060</name>
+</rtept>
+<rtept lat="58.438727" lon="-4.850548">
+<ele>98</ele>
+<name>FOI061</name>
+</rtept>
+<rtept lat="58.438056" lon="-4.848601">
+<ele>89</ele>
+<name>FOI062</name>
+</rtept>
+<rtept lat="58.436869" lon="-4.846739">
+<ele>94</ele>
+<name>FOI063</name>
+</rtept>
+<rtept lat="58.436466" lon="-4.845775">
+<ele>89</ele>
+<name>FOI064</name>
+</rtept>
+<rtept lat="58.433336" lon="-4.842796">
+<ele>102</ele>
+<name>FOI065</name>
+</rtept>
+<rtept lat="58.432076" lon="-4.841068">
+<ele>107</ele>
+<name>FOI066</name>
+</rtept>
+<rtept lat="58.43131" lon="-4.840887">
+<ele>106</ele>
+<name>FOI067</name>
+</rtept>
+<rtept lat="58.430599" lon="-4.840182">
+<ele>105</ele>
+<name>FOI068</name>
+</rtept>
+<rtept lat="58.4300130769735" lon="-4.83986738768674">
+<ele>102.68197676085</ele>
+<name>FOI069</name>
+</rtept>
+<rtept lat="58.4292067137569" lon="-4.84146084654942">
+<ele>114.521681260638</ele>
+<name>FOI070</name>
+</rtept>
+<rtept lat="58.428959047555" lon="-4.84193086777188">
+<ele>119.009681260635</ele>
+<name>FOI071</name>
+</rtept>
+<rtept lat="58.428652" lon="-4.842362">
+<ele>119</ele>
+<name>FOI072</name>
+</rtept>
+<rtept lat="58.427517" lon="-4.843937">
+<ele>149</ele>
+<name>FOI073</name>
+</rtept>
+<rtept lat="58.426586" lon="-4.846101">
+<ele>154</ele>
+<name>FOI074</name>
+</rtept>
+<rtept lat="58.426214" lon="-4.847297">
+<ele>163</ele>
+<name>FOI075</name>
+</rtept>
+<rtept lat="58.425638" lon="-4.848029">
+<ele>176</ele>
+<name>FOI076</name>
+</rtept>
+<rtept lat="58.4249222427527" lon="-4.84921821085369">
+<ele>180.327365540087</ele>
+<name>FOI077</name>
+</rtept>
+<rtept lat="58.424326" lon="-4.851164">
+<ele>213</ele>
+<name>FOI078</name>
+</rtept>
+<rtept lat="58.424082" lon="-4.852329">
+<ele>223</ele>
+<name>FOI079</name>
+</rtept>
+<rtept lat="58.424025" lon="-4.853665">
+<ele>240</ele>
+<name>FOI080</name>
+</rtept>
+<rtept lat="58.423821" lon="-4.854844">
+<ele>249</ele>
+<name>FOI081</name>
+</rtept>
+<rtept lat="58.423858" lon="-4.85724">
+<ele>282</ele>
+<name>FOI082</name>
+</rtept>
+<rtept lat="58.423334" lon="-4.858242">
+<ele>307</ele>
+<name>FOI083</name>
+</rtept>
+<rtept lat="58.42292" lon="-4.861698">
+<ele>358</ele>
+<name>FOI084</name>
+</rtept>
+<rtept lat="58.423075" lon="-4.862474">
+<ele>367</ele>
+<name>FOI085</name>
+</rtept>
+<rtept lat="58.42368" lon="-4.862824">
+<ele>380</ele>
+<name>FOI086</name>
+</rtept>
+<rtept lat="58.423732" lon="-4.863129">
+<ele>387</ele>
+<name>FOI087</name>
+</rtept>
+<rtept lat="58.423437" lon="-4.864925">
+<ele>409</ele>
+<name>FOI088</name>
+</rtept>
+<rtept lat="58.423588" lon="-4.866724">
+<ele>430</ele>
+<name>FOI089</name>
+</rtept>
+<rtept lat="58.42341" lon="-4.870537">
+<ele>453</ele>
+<name>FOI090</name>
+</rtept>
+<rtept lat="58.423614" lon="-4.872766">
+<ele>471</ele>
+<name>FOI091</name>
+</rtept>
+<rtept lat="58.424015" lon="-4.874146">
+<ele>486</ele>
+<name>FOI092</name>
+</rtept>
+<rtept lat="58.424117" lon="-4.87507">
+<ele>485</ele>
+<name>FOI093</name>
+</rtept>
+<rtept lat="58.423297" lon="-4.878304">
+<ele>533</ele>
+<name>FOI094</name>
+</rtept>
+<rtept lat="58.423297" lon="-4.878771">
+<ele>540</ele>
+<name>FOI095</name>
+</rtept>
+<rtept lat="58.422876" lon="-4.879175">
+<ele>568</ele>
+<name>FOI096</name>
+</rtept>
+<rtept lat="58.422559" lon="-4.880079">
+<ele>593</ele>
+<name>FOI097</name>
+</rtept>
+<rtept lat="58.422527" lon="-4.880543">
+<ele>588</ele>
+<name>FOI098</name>
+</rtept>
+<rtept lat="58.422336" lon="-4.880873">
+<ele>622</ele>
+<name>FOI099</name>
+</rtept>
+<rtept lat="58.422334" lon="-4.881436">
+<ele>646</ele>
+<name>FOI100</name>
+</rtept>
+<rtept lat="58.421925" lon="-4.883365">
+<ele>727</ele>
+<name>FOI101</name>
+</rtept>
+<rtept lat="58.42188" lon="-4.884716">
+<ele>765</ele>
+<name>FOI102</name>
+</rtept>
+<rtept lat="58.421372" lon="-4.885789">
+<ele>796</ele>
+<name>FOI103</name>
+</rtept>
+<rtept lat="58.421274" lon="-4.886354">
+<ele>804</ele>
+<name>FOI104</name>
+</rtept>
+<rtept lat="58.420398" lon="-4.887984">
+<ele>869</ele>
+<name>FOI105</name>
+</rtept>
+<rtept lat="58.420177" lon="-4.888164">
+<ele>877</ele>
+<name>FOI106</name>
+</rtept>
+<rtept lat="58.419428" lon="-4.89013">
+<ele>891</ele>
+<name>FOI107</name>
+</rtept>
+<rtept lat="58.417331" lon="-4.890224">
+<ele>885</ele>
+<name>FOI108</name>
+</rtept>
+<rtept lat="58.416391" lon="-4.890558">
+<ele>868</ele>
+<name>FOI109</name>
+</rtept>
+<rtept lat="58.414261" lon="-4.889937">
+<ele>841</ele>
+<name>FOI110</name>
+</rtept>
+<rtept lat="58.413793" lon="-4.890005">
+<ele>836</ele>
+<name>FOI111</name>
+</rtept>
+<rtept lat="58.412938" lon="-4.889459">
+<ele>844</ele>
+<name>FOI112</name>
+</rtept>
+<rtept lat="58.412381" lon="-4.88828">
+<ele>869</ele>
+<name>FOI113</name>
+</rtept>
+<rtept lat="58.41211" lon="-4.886979">
+<ele>897</ele>
+<name>FOI114</name>
+</rtept>
+<rtept lat="58.412047" lon="-4.885895">
+<ele>910</ele>
+<name>FOI115</name>
+</rtept>
+<rtept lat="58.412168" lon="-4.882955">
+<ele>911</ele>
+<name>FOI116</name>
+</rtept>
+<rtept lat="58.412054" lon="-4.885633">
+<ele>905</ele>
+<name>FOI117</name>
+</rtept>
+<rtept lat="58.41213" lon="-4.887025">
+<ele>897</ele>
+<name>FOI118</name>
+</rtept>
+<rtept lat="58.412465" lon="-4.888687">
+<ele>873</ele>
+<name>FOI119</name>
+</rtept>
+<rtept lat="58.412874" lon="-4.889489">
+<ele>855</ele>
+<name>FOI120</name>
+</rtept>
+<rtept lat="58.413658" lon="-4.889953">
+<ele>851</ele>
+<name>FOI121</name>
+</rtept>
+<rtept lat="58.414828" lon="-4.890209">
+<ele>863</ele>
+<name>FOI122</name>
+</rtept>
+<rtept lat="58.4153573089569" lon="-4.89027739067388">
+<ele>850.588543974675</ele>
+<name>FOI123</name>
+</rtept>
+<rtept lat="58.4156459389947" lon="-4.89042949574488">
+<ele>855.647008735009</ele>
+<name>FOI124</name>
+</rtept>
+<rtept lat="58.4164522702232" lon="-4.89053840922254">
+<ele>868.410518444882</ele>
+<name>FOI125</name>
+</rtept>
+<rtept lat="58.4167428290678" lon="-4.89060504532059">
+<ele>873.13055200898</ele>
+<name>FOI126</name>
+</rtept>
+<rtept lat="58.4172245999641" lon="-4.89115835341325">
+<ele>871.00615708739</ele>
+<name>FOI127</name>
+</rtept>
+<rtept lat="58.419104" lon="-4.893398">
+<ele>820</ele>
+<name>FOI128</name>
+</rtept>
+<rtept lat="58.419254" lon="-4.895337">
+<ele>769</ele>
+<name>FOI129</name>
+</rtept>
+<rtept lat="58.419408" lon="-4.895687">
+<ele>759</ele>
+<name>FOI130</name>
+</rtept>
+<rtept lat="58.419718" lon="-4.895862">
+<ele>751</ele>
+<name>FOI131</name>
+</rtept>
+<rtept lat="58.419784" lon="-4.896491">
+<ele>733</ele>
+<name>FOI132</name>
+</rtept>
+<rtept lat="58.420613" lon="-4.897819">
+<ele>695</ele>
+<name>FOI133</name>
+</rtept>
+<rtept lat="58.421233" lon="-4.898557">
+<ele>676</ele>
+<name>FOI134</name>
+</rtept>
+<rtept lat="58.422154" lon="-4.899188">
+<ele>646</ele>
+<name>FOI135</name>
+</rtept>
+<rtept lat="58.422836" lon="-4.900243">
+<ele>612</ele>
+<name>FOI136</name>
+</rtept>
+<rtept lat="58.423297" lon="-4.900534">
+<ele>601</ele>
+<name>FOI137</name>
+</rtept>
+<rtept lat="58.423569" lon="-4.901133">
+<ele>586</ele>
+<name>FOI138</name>
+</rtept>
+<rtept lat="58.424728" lon="-4.901645">
+<ele>541</ele>
+<name>FOI139</name>
+</rtept>
+<rtept lat="58.425095" lon="-4.902201">
+<ele>523</ele>
+<name>FOI140</name>
+</rtept>
+<rtept lat="58.425244" lon="-4.902089">
+<ele>526</ele>
+<name>FOI141</name>
+</rtept>
+<rtept lat="58.426088" lon="-4.902696">
+<ele>498</ele>
+<name>FOI142</name>
+</rtept>
+<rtept lat="58.426154" lon="-4.902914">
+<ele>485</ele>
+<name>FOI143</name>
+</rtept>
+<rtept lat="58.426944" lon="-4.903269">
+<ele>448</ele>
+<name>FOI144</name>
+</rtept>
+<rtept lat="58.427086" lon="-4.903397">
+<ele>449</ele>
+<name>FOI145</name>
+</rtept>
+<rtept lat="58.4271" lon="-4.903813">
+<ele>428</ele>
+<name>FOI146</name>
+</rtept>
+<rtept lat="58.42793" lon="-4.903073">
+<ele>390</ele>
+<name>FOI147</name>
+</rtept>
+<rtept lat="58.42838" lon="-4.903182">
+<ele>378</ele>
+<name>FOI148</name>
+</rtept>
+<rtept lat="58.429976" lon="-4.902572">
+<ele>329</ele>
+<name>FOI149</name>
+</rtept>
+<rtept lat="58.431845" lon="-4.902564">
+<ele>334</ele>
+<name>FOI150</name>
+</rtept>
+<rtept lat="58.432201" lon="-4.902139">
+<ele>333</ele>
+<name>FOI151</name>
+</rtept>
+<rtept lat="58.432749" lon="-4.901967">
+<ele>334</ele>
+<name>FOI152</name>
+</rtept>
+<rtept lat="58.434621" lon="-4.902179">
+<ele>322</ele>
+<name>FOI153</name>
+</rtept>
+<rtept lat="58.434985" lon="-4.902485">
+<ele>323</ele>
+<name>FOI154</name>
+</rtept>
+<rtept lat="58.435285" lon="-4.902318">
+<ele>317</ele>
+<name>FOI155</name>
+</rtept>
+<rtept lat="58.435828" lon="-4.9027">
+<ele>322</ele>
+<name>FOI156</name>
+</rtept>
+<rtept lat="58.436008" lon="-4.903176">
+<ele>314</ele>
+<name>FOI157</name>
+</rtept>
+<rtept lat="58.436942" lon="-4.903915">
+<ele>314</ele>
+<name>FOI158</name>
+</rtept>
+<rtept lat="58.437716" lon="-4.903971">
+<ele>306</ele>
+<name>FOI159</name>
+</rtept>
+<rtept lat="58.438242" lon="-4.904684">
+<ele>303</ele>
+<name>FOI160</name>
+</rtept>
+<rtept lat="58.439296" lon="-4.905478">
+<ele>304</ele>
+<name>FOI161</name>
+</rtept>
+<rtept lat="58.439983" lon="-4.905688">
+<ele>297</ele>
+<name>FOI162</name>
+</rtept>
+<rtept lat="58.440167" lon="-4.90601">
+<ele>295</ele>
+<name>FOI163</name>
+</rtept>
+<rtept lat="58.443189" lon="-4.905775">
+<ele>245</ele>
+<name>FOI164</name>
+</rtept>
+<rtept lat="58.444064" lon="-4.905822">
+<ele>232</ele>
+<name>FOI165</name>
+</rtept>
+<rtept lat="58.44428" lon="-4.906036">
+<ele>232</ele>
+<name>FOI166</name>
+</rtept>
+<rtept lat="58.445788" lon="-4.906011">
+<ele>214</ele>
+<name>FOI167</name>
+</rtept>
+<rtept lat="58.446191" lon="-4.906239">
+<ele>209</ele>
+<name>FOI168</name>
+</rtept>
+<rtept lat="58.446435" lon="-4.906077">
+<ele>208</ele>
+<name>FOI169</name>
+</rtept>
+<rtept lat="58.447264" lon="-4.90672">
+<ele>205</ele>
+<name>FOI170</name>
+</rtept>
+<rtept lat="58.448066" lon="-4.906725">
+<ele>204</ele>
+<name>FOI171</name>
+</rtept>
+<rtept lat="58.448354" lon="-4.90702">
+<ele>197</ele>
+<name>FOI172</name>
+</rtept>
+<rtept lat="58.448995" lon="-4.907001">
+<ele>188</ele>
+<name>FOI173</name>
+</rtept>
+<rtept lat="58.44936" lon="-4.907389">
+<ele>181</ele>
+<name>FOI174</name>
+</rtept>
+<rtept lat="58.449746" lon="-4.907279">
+<ele>182</ele>
+<name>FOI175</name>
+</rtept>
+<rtept lat="58.450353" lon="-4.907742">
+<ele>177</ele>
+<name>FOI176</name>
+</rtept>
+<rtept lat="58.450918" lon="-4.907721">
+<ele>177</ele>
+<name>FOI177</name>
+</rtept>
+<rtept lat="58.451506" lon="-4.90833">
+<ele>179</ele>
+<name>FOI178</name>
+</rtept>
+<rtept lat="58.451956" lon="-4.908472">
+<ele>179</ele>
+<name>FOI179</name>
+</rtept>
+<rtept lat="58.45246" lon="-4.907987">
+<ele>181</ele>
+<name>FOI180</name>
+</rtept>
+<rtept lat="58.452782" lon="-4.908003">
+<ele>174</ele>
+<name>FOI181</name>
+</rtept>
+<rtept lat="58.453281" lon="-4.908435">
+<ele>175</ele>
+<name>FOI182</name>
+</rtept>
+<rtept lat="58.453667" lon="-4.909186">
+<ele>174</ele>
+<name>FOI183</name>
+</rtept>
+<rtept lat="58.45396" lon="-4.909438">
+<ele>167</ele>
+<name>FOI184</name>
+</rtept>
+<rtept lat="58.454813" lon="-4.909078">
+<ele>160</ele>
+<name>FOI185</name>
+</rtept>
+<rtept lat="58.455114" lon="-4.909348">
+<ele>156</ele>
+<name>FOI186</name>
+</rtept>
+<rtept lat="58.455824" lon="-4.909068">
+<ele>159</ele>
+<name>FOI187</name>
+</rtept>
+<rtept lat="58.457158" lon="-4.909325">
+<ele>166</ele>
+<name>FOI188</name>
+</rtept>
+<rtept lat="58.457683" lon="-4.90978">
+<ele>167</ele>
+<name>FOI189</name>
+</rtept>
+<rtept lat="58.45779" lon="-4.909529">
+<ele>166</ele>
+<name>FOI190</name>
+</rtept>
+<rtept lat="58.458156" lon="-4.909356">
+<ele>164</ele>
+<name>FOI191</name>
+</rtept>
+<rtept lat="58.458395" lon="-4.910193">
+<ele>165</ele>
+<name>FOI192</name>
+</rtept>
+<rtept lat="58.459033" lon="-4.910802">
+<ele>161</ele>
+<name>FOI193</name>
+</rtept>
+<rtept lat="58.46046" lon="-4.9105">
+<ele>173</ele>
+<name>FOI194</name>
+</rtept>
+<rtept lat="58.461536" lon="-4.909939">
+<ele>172</ele>
+<name>FOI195</name>
+</rtept>
+<rtept lat="58.461891" lon="-4.909545">
+<ele>176</ele>
+<name>FOI196</name>
+</rtept>
+<rtept lat="58.462597" lon="-4.909366">
+<ele>181</ele>
+<name>FOI197</name>
+</rtept>
+<rtept lat="58.463738" lon="-4.906899">
+<ele>181</ele>
+<name>FOI198</name>
+</rtept>
+<rtept lat="58.464774" lon="-4.903265">
+<ele>183</ele>
+<name>FOI199</name>
+</rtept>
+<rtept lat="58.465262" lon="-4.902417">
+<ele>181</ele>
+<name>FOI200</name>
+</rtept>
+<rtept lat="58.465665" lon="-4.901931">
+<ele>181</ele>
+<name>FOI201</name>
+</rtept>
+<rtept lat="58.465817" lon="-4.901956">
+<ele>174</ele>
+<name>FOI202</name>
+</rtept>
+</rte>
+</gpx>

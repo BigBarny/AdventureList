@@ -1,0 +1,682 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Urgha and Maraig circuit</name>
+<rtept lat="57.9042811304387" lon="-6.75508145520656">
+<ele>18.529946559134</ele>
+<name>U-M 001</name>
+</rtept>
+<rtept lat="57.9041844359412" lon="-6.75410997365451">
+<ele>19.7604440617362</ele>
+<name>U-M 002</name>
+</rtept>
+<rtept lat="57.9039118794981" lon="-6.75161469639477">
+<ele>33.3871162511054</ele>
+<name>U-M 003</name>
+</rtept>
+<rtept lat="57.903927269366" lon="-6.75090814796919">
+<ele>38.7661835419666</ele>
+<name>U-M 004</name>
+</rtept>
+<rtept lat="57.903542859837" lon="-6.7487315799589">
+<ele>51.4990687439423</ele>
+<name>U-M 005</name>
+</rtept>
+<rtept lat="57.9039285406399" lon="-6.74613580156658">
+<ele>78.6724949590721</ele>
+<name>U-M 006</name>
+</rtept>
+<rtept lat="57.9036843760738" lon="-6.74524908155716">
+<ele>85.0102319349153</ele>
+<name>U-M 007</name>
+</rtept>
+<rtept lat="57.9036888626715" lon="-6.74483286443624">
+<ele>89.3053299276986</ele>
+<name>U-M 008</name>
+</rtept>
+<rtept lat="57.9038022750309" lon="-6.74328480400789">
+<ele>104.45583324481</ele>
+<name>U-M 009</name>
+</rtept>
+<rtept lat="57.9036729673666" lon="-6.74199646249158">
+<ele>115.961522033099</ele>
+<name>U-M 010</name>
+</rtept>
+<rtept lat="57.903755319381" lon="-6.74127791663256">
+<ele>121.439713232145</ele>
+<name>U-M 011</name>
+</rtept>
+<rtept lat="57.9041648081771" lon="-6.74041497333087">
+<ele>131.580650059714</ele>
+<name>U-M 012</name>
+</rtept>
+<rtept lat="57.9041195441756" lon="-6.73865838404082">
+<ele>143.221697891654</ele>
+<name>U-M 013</name>
+</rtept>
+<rtept lat="57.9043084021754" lon="-6.73805807469508">
+<ele>148.766630966577</ele>
+<name>U-M 014</name>
+</rtept>
+<rtept lat="57.904516048283" lon="-6.73725182847398">
+<ele>155.943069974702</ele>
+<name>U-M 015</name>
+</rtept>
+<rtept lat="57.9058433931793" lon="-6.73528019682838">
+<ele>182.203026254421</ele>
+<name>U-M 016</name>
+</rtept>
+<rtept lat="57.9063874569844" lon="-6.73526855439453">
+<ele>191.886318192558</ele>
+<name>U-M 017</name>
+</rtept>
+<rtept lat="57.9067196259201" lon="-6.7343952924428">
+<ele>201.340567840115</ele>
+<name>U-M 018</name>
+</rtept>
+<rtept lat="57.9067937961416" lon="-6.73330043508425">
+<ele>215.582771374643</ele>
+<name>U-M 019</name>
+</rtept>
+<rtept lat="57.9073957608944" lon="-6.73262943389327">
+<ele>225.888650294838</ele>
+<name>U-M 020</name>
+</rtept>
+<rtept lat="57.9075708259199" lon="-6.73150615968834">
+<ele>236.002189374354</ele>
+<name>U-M 021</name>
+</rtept>
+<rtept lat="57.9085920567054" lon="-6.72941047768996">
+<ele>258.595316210843</ele>
+<name>U-M 022</name>
+</rtept>
+<rtept lat="57.9090241496485" lon="-6.72719544921251">
+<ele>280.306038883965</ele>
+<name>U-M 023</name>
+</rtept>
+<rtept lat="57.9095947702099" lon="-6.72260157677692">
+<ele>268.043663053507</ele>
+<name>U-M 024</name>
+</rtept>
+<rtept lat="57.9094958323713" lon="-6.72108783081707">
+<ele>257.055603261561</ele>
+<name>U-M 025</name>
+</rtept>
+<rtept lat="57.9098015077891" lon="-6.71973148374919">
+<ele>239.618942884864</ele>
+<name>U-M 026</name>
+</rtept>
+<rtept lat="57.9101680068957" lon="-6.71852901316186">
+<ele>226.746164705144</ele>
+<name>U-M 027</name>
+</rtept>
+<rtept lat="57.910776845188" lon="-6.71767101477214">
+<ele>218.176535004943</ele>
+<name>U-M 028</name>
+</rtept>
+<rtept lat="57.9120118925777" lon="-6.71697861729952">
+<ele>205.086485485482</ele>
+<name>U-M 029</name>
+</rtept>
+<rtept lat="57.9135314351335" lon="-6.71609423550618">
+<ele>162.055348401139</ele>
+<name>U-M 030</name>
+</rtept>
+<rtept lat="57.9137452975843" lon="-6.71630993644982">
+<ele>160.563117360321</ele>
+<name>U-M 031</name>
+</rtept>
+<rtept lat="57.9136121008687" lon="-6.71541691583302">
+<ele>148.230490517001</ele>
+<name>U-M 032</name>
+</rtept>
+<rtept lat="57.9139243183905" lon="-6.71537453067387">
+<ele>137.17953019141</ele>
+<name>U-M 033</name>
+</rtept>
+<rtept lat="57.9140093167494" lon="-6.71517723127459">
+<ele>126.724285020576</ele>
+<name>U-M 034</name>
+</rtept>
+<rtept lat="57.9141168728939" lon="-6.71556658535359">
+<ele>126.873884840509</ele>
+<name>U-M 035</name>
+</rtept>
+<rtept lat="57.9143494928483" lon="-6.71557628717937">
+<ele>110.878176336472</ele>
+<name>U-M 036</name>
+</rtept>
+<rtept lat="57.9144683843191" lon="-6.71536259034115">
+<ele>96.0513714302939</ele>
+<name>U-M 037</name>
+</rtept>
+<rtept lat="57.9146745317131" lon="-6.71578574445485">
+<ele>92.3907669876335</ele>
+<name>U-M 038</name>
+</rtept>
+<rtept lat="57.9154591077" lon="-6.71676435752679">
+<ele>66.3454551411853</ele>
+<name>U-M 039</name>
+</rtept>
+<rtept lat="57.9154177978084" lon="-6.71638368623431">
+<ele>57.9719359857241</ele>
+<name>U-M 040</name>
+</rtept>
+<rtept lat="57.9157440836705" lon="-6.7152174120261">
+<ele>23.6371546839247</ele>
+<name>U-M 041</name>
+</rtept>
+<rtept lat="57.91558571345" lon="-6.71440442878904">
+<ele>17.3007176737174</ele>
+<name>U-M 042</name>
+</rtept>
+<rtept lat="57.9158920489804" lon="-6.71392347041875">
+<ele>4.73516205888433</ele>
+<name>U-M 043</name>
+</rtept>
+<rtept lat="57.9161215837271" lon="-6.71401614683469">
+<ele>8.79791606899172</ele>
+<name>U-M 044</name>
+</rtept>
+<rtept lat="57.9163385351936" lon="-6.71414886731075">
+<ele>15.9290580675017</ele>
+<name>U-M 045</name>
+</rtept>
+<rtept lat="57.9159853252705" lon="-6.71230963324968">
+<ele>7.51675231132158</ele>
+<name>U-M 046</name>
+</rtept>
+<rtept lat="57.9160967799917" lon="-6.71169884255127">
+<ele>10.4180525992052</ele>
+<name>U-M 047</name>
+</rtept>
+<rtept lat="57.9164631810401" lon="-6.71139251629092">
+<ele>19.7426542503689</ele>
+<name>U-M 048</name>
+</rtept>
+<rtept lat="57.9165204718764" lon="-6.7101491839701">
+<ele>27.4791968759966</ele>
+<name>U-M 049</name>
+</rtept>
+<rtept lat="57.9166426878919" lon="-6.71014436898228">
+<ele>34.8410308101226</ele>
+<name>U-M 050</name>
+</rtept>
+<rtept lat="57.9176809908626" lon="-6.71086432932306">
+<ele>73.8584803884058</ele>
+<name>U-M 051</name>
+</rtept>
+<rtept lat="57.9176103960606" lon="-6.71037555980535">
+<ele>77.0574452549273</ele>
+<name>U-M 052</name>
+</rtept>
+<rtept lat="57.9171777754749" lon="-6.70977675895704">
+<ele>69.8853842176004</ele>
+<name>U-M 053</name>
+</rtept>
+<rtept lat="57.9170445336921" lon="-6.70888367421734">
+<ele>75.1502280415964</ele>
+<name>U-M 054</name>
+</rtept>
+<rtept lat="57.9170694432958" lon="-6.70851168088701">
+<ele>78.4305765465177</ele>
+<name>U-M 055</name>
+</rtept>
+<rtept lat="57.9169318257631" lon="-6.70803498451326">
+<ele>79.5642086080688</ele>
+<name>U-M 056</name>
+</rtept>
+<rtept lat="57.91721836805" lon="-6.70748881745486">
+<ele>86.7096852160999</ele>
+<name>U-M 057</name>
+</rtept>
+<rtept lat="57.9173423750354" lon="-6.70594148204838">
+<ele>86.7376700678157</ele>
+<name>U-M 058</name>
+</rtept>
+<rtept lat="57.9170324130133" lon="-6.70323234901496">
+<ele>62.3279842359354</ele>
+<name>U-M 059</name>
+</rtept>
+<rtept lat="57.9170256480235" lon="-6.70102160907031">
+<ele>19.4151929624674</ele>
+<name>U-M 060</name>
+</rtept>
+<rtept lat="57.9171750583214" lon="-6.70058252086558">
+<ele>5.41443680955093</ele>
+<name>U-M 061</name>
+</rtept>
+<rtept lat="57.9176531538918" lon="-6.70085359313952">
+<ele>14.458697404116</ele>
+<name>U-M 062</name>
+</rtept>
+<rtept lat="57.9179065443198" lon="-6.70030302043058">
+<ele>5.1365616693122</ele>
+<name>U-M 063</name>
+</rtept>
+<rtept lat="57.9186192979827" lon="-6.70022954295302">
+<ele>21.0026304389974</ele>
+<name>U-M 064</name>
+</rtept>
+<rtept lat="57.9185866720887" lon="-6.69991254337028">
+<ele>11.2976301862216</ele>
+<name>U-M 065</name>
+</rtept>
+<rtept lat="57.9188441213113" lon="-6.69865362600523">
+<ele>13.0655753756584</ele>
+<name>U-M 066</name>
+</rtept>
+<rtept lat="57.9187719417369" lon="-6.69820635821578">
+<ele>9.22765207497056</ele>
+<name>U-M 067</name>
+</rtept>
+<rtept lat="57.9188612484751" lon="-6.69759258416131">
+<ele>16.5076775644015</ele>
+<name>U-M 068</name>
+</rtept>
+<rtept lat="57.9186437188855" lon="-6.69687612000658">
+<ele>10.5008544072431</ele>
+<name>U-M 069</name>
+</rtept>
+<rtept lat="57.9183183654894" lon="-6.69637489350535">
+<ele>4.46824873169141</ele>
+<name>U-M 070</name>
+</rtept>
+<rtept lat="57.9183378595297" lon="-6.6961481114355">
+<ele>4.57586489952215</ele>
+<name>U-M 071</name>
+</rtept>
+<rtept lat="57.9187871720799" lon="-6.69599839583964">
+<ele>15.0433684562911</ele>
+<name>U-M 072</name>
+</rtept>
+<rtept lat="57.919049277765" lon="-6.69551145959839">
+<ele>21.7684237357271</ele>
+<name>U-M 073</name>
+</rtept>
+<rtept lat="57.919449816707" lon="-6.69548044880973">
+<ele>32.8863712911827</ele>
+<name>U-M 074</name>
+</rtept>
+<rtept lat="57.9194544268513" lon="-6.69535595774178">
+<ele>33.9662014674098</ele>
+<name>U-M 075</name>
+</rtept>
+<rtept lat="57.9188994263463" lon="-6.69386566515327">
+<ele>31.4716517478792</ele>
+<name>U-M 076</name>
+</rtept>
+<rtept lat="57.9186356970116" lon="-6.6934976098993">
+<ele>21.4401799517694</ele>
+<name>U-M 077</name>
+</rtept>
+<rtept lat="57.9185604271855" lon="-6.69313334643006">
+<ele>17.4794812873853</ele>
+<name>U-M 078</name>
+</rtept>
+<rtept lat="57.9187567549407" lon="-6.69232506734234">
+<ele>31.6855694741785</ele>
+<name>U-M 079</name>
+</rtept>
+<rtept lat="57.9184261913892" lon="-6.69136453730482">
+<ele>35.0691373538967</ele>
+<name>U-M 080</name>
+</rtept>
+<rtept lat="57.9181077237251" lon="-6.6906766319056">
+<ele>29.6687659280731</ele>
+<name>U-M 081</name>
+</rtept>
+<rtept lat="57.9176906524191" lon="-6.68995501129206">
+<ele>22.7846049220974</ele>
+<name>U-M 082</name>
+</rtept>
+<rtept lat="57.9177339231824" lon="-6.68908505063073">
+<ele>30.7097728198341</ele>
+<name>U-M 083</name>
+</rtept>
+<rtept lat="57.9180811265031" lon="-6.68779611623925">
+<ele>53.6427106757445</ele>
+<name>U-M 084</name>
+</rtept>
+<rtept lat="57.9181931276164" lon="-6.68809189347944">
+<ele>57.4185828936571</ele>
+<name>U-M 085</name>
+</rtept>
+<rtept lat="57.918235810856" lon="-6.68898097973996">
+<ele>57.4250683394063</ele>
+<name>U-M 086</name>
+</rtept>
+<rtept lat="57.9182471653131" lon="-6.68958198973878">
+<ele>55.9317355147086</ele>
+<name>U-M 087</name>
+</rtept>
+<rtept lat="57.9184798175817" lon="-6.69010146914276">
+<ele>60.7899640432204</ele>
+<name>U-M 088</name>
+</rtept>
+<rtept lat="57.9221326165551" lon="-6.6951860979696">
+<ele>108.593286583141</ele>
+<name>U-M 089</name>
+</rtept>
+<rtept lat="57.9238331443702" lon="-6.69506137540438">
+<ele>125.961391488987</ele>
+<name>U-M 090</name>
+</rtept>
+<rtept lat="57.9248135556874" lon="-6.6956787936931">
+<ele>131.860208688261</ele>
+<name>U-M 091</name>
+</rtept>
+<rtept lat="57.9327456386367" lon="-6.70127817110711">
+<ele>161.998851113516</ele>
+<name>U-M 092</name>
+</rtept>
+<rtept lat="57.9331091084174" lon="-6.702004491064">
+<ele>161.570217822535</ele>
+<name>U-M 093</name>
+</rtept>
+<rtept lat="57.9335572070685" lon="-6.70327857066956">
+<ele>164.466630066096</ele>
+<name>U-M 094</name>
+</rtept>
+<rtept lat="57.9349642818025" lon="-6.70597275607649">
+<ele>161.180122268127</ele>
+<name>U-M 095</name>
+</rtept>
+<rtept lat="57.9377915074646" lon="-6.71010063337915">
+<ele>178.224811888983</ele>
+<name>U-M 096</name>
+</rtept>
+<rtept lat="57.940953130745" lon="-6.71618339320161">
+<ele>166.951332801913</ele>
+<name>U-M 097</name>
+</rtept>
+<rtept lat="57.9415656650402" lon="-6.71732169550942">
+<ele>156.052481354329</ele>
+<name>U-M 098</name>
+</rtept>
+<rtept lat="57.9442229658675" lon="-6.71980267261389">
+<ele>129.125508263602</ele>
+<name>U-M 099</name>
+</rtept>
+<rtept lat="57.9469008399092" lon="-6.71958665660791">
+<ele>103.221448348129</ele>
+<name>U-M 100</name>
+</rtept>
+<rtept lat="57.947021069947" lon="-6.71996564929425">
+<ele>97.2769241886492</ele>
+<name>U-M 101</name>
+</rtept>
+<rtept lat="57.9469997665331" lon="-6.72256819788711">
+<ele>83.36276993374</ele>
+<name>U-M 102</name>
+</rtept>
+<rtept lat="57.9473172476701" lon="-6.72261000589879">
+<ele>75.1401087912253</ele>
+<name>U-M 103</name>
+</rtept>
+<rtept lat="57.9484286906287" lon="-6.72150891343308">
+<ele>51.8421181287145</ele>
+<name>U-M 104</name>
+</rtept>
+<rtept lat="57.9489120979603" lon="-6.72160414297162">
+<ele>42.8742209062305</ele>
+<name>U-M 105</name>
+</rtept>
+<rtept lat="57.9497236650278" lon="-6.7232585436189">
+<ele>33.1337310787478</ele>
+<name>U-M 106</name>
+</rtept>
+<rtept lat="57.9494858126992" lon="-6.72603803803953">
+<ele>19.5733835978744</ele>
+<name>U-M 107</name>
+</rtept>
+<rtept lat="57.9495358709165" lon="-6.72762375434245">
+<ele>16.0159007235452</ele>
+<name>U-M 108</name>
+</rtept>
+<rtept lat="57.951205665266" lon="-6.73316580319724">
+<ele>10.2396914986946</ele>
+<name>U-M 109</name>
+</rtept>
+<rtept lat="57.9517042547915" lon="-6.73645323390118">
+<ele>3.56775882855315</ele>
+<name>U-M 110</name>
+</rtept>
+<rtept lat="57.9519813767679" lon="-6.74072220085626">
+<ele>3.68127892276197</ele>
+<name>U-M 111</name>
+</rtept>
+<rtept lat="57.9516708885484" lon="-6.74341321367295">
+<ele>6.83419752636453</ele>
+<name>U-M 112</name>
+</rtept>
+<rtept lat="57.9518223669392" lon="-6.74430183356965">
+<ele>7.08442374892342</ele>
+<name>U-M 113</name>
+</rtept>
+<rtept lat="57.952410872909" lon="-6.74562732401126">
+<ele>10.3249070178637</ele>
+<name>U-M 114</name>
+</rtept>
+<rtept lat="57.9526853203477" lon="-6.74771671095504">
+<ele>23.8908470946669</ele>
+<name>U-M 115</name>
+</rtept>
+<rtept lat="57.9524026926187" lon="-6.74921117503449">
+<ele>36.2633134348993</ele>
+<name>U-M 116</name>
+</rtept>
+<rtept lat="57.9519672975664" lon="-6.7518698135051">
+<ele>47.3115465573129</ele>
+<name>U-M 117</name>
+</rtept>
+<rtept lat="57.9518321671384" lon="-6.75368383010647">
+<ele>49.6046222562032</ele>
+<name>U-M 118</name>
+</rtept>
+<rtept lat="57.9505835255752" lon="-6.759219182912">
+<ele>75.7211409975995</ele>
+<name>U-M 119</name>
+</rtept>
+<rtept lat="57.9474429532368" lon="-6.76023932133242">
+<ele>104.522605186953</ele>
+<name>U-M 120</name>
+</rtept>
+<rtept lat="57.942792596407" lon="-6.75965369326127">
+<ele>127.001057528509</ele>
+<name>U-M 121</name>
+</rtept>
+<rtept lat="57.9413448893427" lon="-6.75941422473573">
+<ele>133.466918412124</ele>
+<name>U-M 122</name>
+</rtept>
+<rtept lat="57.9405125052059" lon="-6.75944586811975">
+<ele>134.813257910559</ele>
+<name>U-M 123</name>
+</rtept>
+<rtept lat="57.9395953987008" lon="-6.75949784426422">
+<ele>138.418903656556</ele>
+<name>U-M 124</name>
+</rtept>
+<rtept lat="57.9387894583283" lon="-6.75994345109038">
+<ele>138.988208336262</ele>
+<name>U-M 125</name>
+</rtept>
+<rtept lat="57.9380019940657" lon="-6.7603441313624">
+<ele>128.672330980266</ele>
+<name>U-M 126</name>
+</rtept>
+<rtept lat="57.9378846305952" lon="-6.75944452018214">
+<ele>129.225288877137</ele>
+<name>U-M 127</name>
+</rtept>
+<rtept lat="57.9355014397439" lon="-6.75952299790486">
+<ele>90.879498094693</ele>
+<name>U-M 128</name>
+</rtept>
+<rtept lat="57.9352229006126" lon="-6.75978596590395">
+<ele>86.6431284577726</ele>
+<name>U-M 129</name>
+</rtept>
+<rtept lat="57.9349394538467" lon="-6.76107430985187">
+<ele>77.8573528740091</ele>
+<name>U-M 130</name>
+</rtept>
+<rtept lat="57.9348892280886" lon="-6.76218838556083">
+<ele>70.5290945670415</ele>
+<name>U-M 131</name>
+</rtept>
+<rtept lat="57.9337275191399" lon="-6.76372314521246">
+<ele>57.0287542296812</ele>
+<name>U-M 132</name>
+</rtept>
+<rtept lat="57.9330700790441" lon="-6.76401468237333">
+<ele>50.9289702901027</ele>
+<name>U-M 133</name>
+</rtept>
+<rtept lat="57.9304430071669" lon="-6.76309771246761">
+<ele>31.2551874453172</ele>
+<name>U-M 134</name>
+</rtept>
+<rtept lat="57.9289116659534" lon="-6.76262615846813">
+<ele>21.3655642206953</ele>
+<name>U-M 135</name>
+</rtept>
+<rtept lat="57.9272241927155" lon="-6.76262316390276">
+<ele>21.3328999409035</ele>
+<name>U-M 136</name>
+</rtept>
+<rtept lat="57.9259167431301" lon="-6.76244966623108">
+<ele>20.4406564017623</ele>
+<name>U-M 137</name>
+</rtept>
+<rtept lat="57.9226140350603" lon="-6.76253219612558">
+<ele>15.361611558788</ele>
+<name>U-M 138</name>
+</rtept>
+<rtept lat="57.9219468202948" lon="-6.7623016583695">
+<ele>13.4003121933718</ele>
+<name>U-M 139</name>
+</rtept>
+<rtept lat="57.9190100102596" lon="-6.76001870365376">
+<ele>10.4090434825095</ele>
+<name>U-M 140</name>
+</rtept>
+<rtept lat="57.9169927127616" lon="-6.75907282991377">
+<ele>13.9326564896825</ele>
+<name>U-M 141</name>
+</rtept>
+<rtept lat="57.9156382951182" lon="-6.75802559452935">
+<ele>10.5586991972328</ele>
+<name>U-M 142</name>
+</rtept>
+<rtept lat="57.9127334293338" lon="-6.75656796969314">
+<ele>14.513143634046</ele>
+<name>U-M 143</name>
+</rtept>
+<rtept lat="57.9121569755899" lon="-6.75649161355293">
+<ele>10.6531084363978</ele>
+<name>U-M 144</name>
+</rtept>
+<rtept lat="57.9113691501643" lon="-6.75734951949304">
+<ele>10.7597369776187</ele>
+<name>U-M 145</name>
+</rtept>
+<rtept lat="57.9100178810517" lon="-6.75789612522347">
+<ele>14.2613173601706</ele>
+<name>U-M 146</name>
+</rtept>
+<rtept lat="57.9095124938846" lon="-6.75793958767117">
+<ele>10.2941271122736</ele>
+<name>U-M 147</name>
+</rtept>
+<rtept lat="57.9083357495727" lon="-6.75909288421128">
+<ele>8.40386973756224</ele>
+<name>U-M 148</name>
+</rtept>
+<rtept lat="57.9081136478202" lon="-6.7600887166218">
+<ele>8.92178109573598</ele>
+<name>U-M 149</name>
+</rtept>
+<rtept lat="57.9075052661123" lon="-6.76063900646417">
+<ele>10.4208114238155</ele>
+<name>U-M 150</name>
+</rtept>
+<rtept lat="57.907029657056" lon="-6.76056019368104">
+<ele>10.9687230345311</ele>
+<name>U-M 151</name>
+</rtept>
+<rtept lat="57.9068233600117" lon="-6.76091139576527">
+<ele>11.9049070554804</ele>
+<name>U-M 152</name>
+</rtept>
+<rtept lat="57.9066346621026" lon="-6.76191160519928">
+<ele>15.6246356826332</ele>
+<name>U-M 153</name>
+</rtept>
+<rtept lat="57.9060092214148" lon="-6.7630273871024">
+<ele>14.9565770137418</ele>
+<name>U-M 154</name>
+</rtept>
+<rtept lat="57.9053423477461" lon="-6.76356984055014">
+<ele>17.0187483478538</ele>
+<name>U-M 155</name>
+</rtept>
+<rtept lat="57.9040575157858" lon="-6.76603330215641">
+<ele>27.9164743191339</ele>
+<name>U-M 156</name>
+</rtept>
+<rtept lat="57.9040105261163" lon="-6.7663898128035">
+<ele>29.9395245199162</ele>
+<name>U-M 157</name>
+</rtept>
+<rtept lat="57.9038017611213" lon="-6.7665829120409">
+<ele>33.7802845052385</ele>
+<name>U-M 158</name>
+</rtept>
+<rtept lat="57.9034794845761" lon="-6.76644552018196">
+<ele>34.9206511175785</ele>
+<name>U-M 159</name>
+</rtept>
+<rtept lat="57.9031968032063" lon="-6.76681806235078">
+<ele>41.1893916921948</ele>
+<name>U-M 160</name>
+</rtept>
+<rtept lat="57.9031968032063" lon="-6.76681806235078">
+<ele>41.1893916921948</ele>
+<name>U-M 161</name>
+</rtept>
+<rtept lat="57.903009216856" lon="-6.764884868238">
+<ele>32.4624218394308</ele>
+<name>U-M 162</name>
+</rtept>
+<rtept lat="57.903119798557" lon="-6.76395326879108">
+<ele>27.8913175666925</ele>
+<name>U-M 163</name>
+</rtept>
+<rtept lat="57.9029848524342" lon="-6.76240558053714">
+<ele>25.1975090614634</ele>
+<name>U-M 164</name>
+</rtept>
+<rtept lat="57.9036169659928" lon="-6.75898815428559">
+<ele>17.8553259462596</ele>
+<name>U-M 165</name>
+</rtept>
+<rtept lat="57.9036559568578" lon="-6.75817321220836">
+<ele>11.9489542176884</ele>
+<name>U-M 166</name>
+</rtept>
+<rtept lat="57.9042077687715" lon="-6.7566691528143">
+<ele>14.3832009385798</ele>
+<name>U-M 167</name>
+</rtept>
+<rtept lat="57.9042940703736" lon="-6.75504033923174">
+<ele>18.5363278888471</ele>
+<name>U-M 168</name>
+</rtept>
+</rte>
+</gpx>

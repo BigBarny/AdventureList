@@ -1,0 +1,890 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Carn a' Choire Ghairbh and Aonach Shasuinn, Affric</name>
+<rtept lat="57.2649065396108" lon="-4.98537981601619">
+<ele>242.614810275751</ele>
+<name>AC001</name>
+</rtept>
+<rtept lat="57.2649859606014" lon="-4.9869538790849">
+<ele>233.67625037349</ele>
+<name>AC002</name>
+</rtept>
+<rtept lat="57.263673" lon="-4.989917">
+<ele>228</ele>
+<name>AC003</name>
+</rtept>
+<rtept lat="57.263685" lon="-4.993593">
+<ele>236</ele>
+<name>AC004</name>
+</rtept>
+<rtept lat="57.263029" lon="-4.996712">
+<ele>245</ele>
+<name>AC005</name>
+</rtept>
+<rtept lat="57.262217" lon="-4.998195">
+<ele>243</ele>
+<name>AC006</name>
+</rtept>
+<rtept lat="57.262119" lon="-4.999252">
+<ele>251</ele>
+<name>AC007</name>
+</rtept>
+<rtept lat="57.2615105327198" lon="-5.00021580679683">
+<ele>257.980179595122</ele>
+<name>AC008</name>
+</rtept>
+<rtept lat="57.2612554109298" lon="-5.001488845785">
+<ele>257.130596968148</ele>
+<name>AC009</name>
+</rtept>
+<rtept lat="57.259761" lon="-5.005417">
+<ele>254</ele>
+<name>AC010</name>
+</rtept>
+<rtept lat="57.259312186064" lon="-5.00701148741738">
+<ele>250.791416863212</ele>
+<name>AC011</name>
+</rtept>
+<rtept lat="57.258428" lon="-5.009132">
+<ele>241</ele>
+<name>AC012</name>
+</rtept>
+<rtept lat="57.257418" lon="-5.014987">
+<ele>256</ele>
+<name>AC013</name>
+</rtept>
+<rtept lat="57.256061" lon="-5.018262">
+<ele>251</ele>
+<name>AC014</name>
+</rtept>
+<rtept lat="57.255629" lon="-5.018912">
+<ele>254</ele>
+<name>AC015</name>
+</rtept>
+<rtept lat="57.255362" lon="-5.019956">
+<ele>253</ele>
+<name>AC016</name>
+</rtept>
+<rtept lat="57.25497" lon="-5.020095">
+<ele>260</ele>
+<name>AC017</name>
+</rtept>
+<rtept lat="57.254103" lon="-5.019777">
+<ele>266</ele>
+<name>AC018</name>
+</rtept>
+<rtept lat="57.253976" lon="-5.019254">
+<ele>263</ele>
+<name>AC019</name>
+</rtept>
+<rtept lat="57.253543" lon="-5.019086">
+<ele>258</ele>
+<name>AC020</name>
+</rtept>
+<rtept lat="57.253402" lon="-5.018505">
+<ele>262</ele>
+<name>AC021</name>
+</rtept>
+<rtept lat="57.252919" lon="-5.017644">
+<ele>269</ele>
+<name>AC022</name>
+</rtept>
+<rtept lat="57.252193" lon="-5.018344">
+<ele>277</ele>
+<name>AC023</name>
+</rtept>
+<rtept lat="57.251269" lon="-5.017655">
+<ele>282</ele>
+<name>AC024</name>
+</rtept>
+<rtept lat="57.251074" lon="-5.015863">
+<ele>287</ele>
+<name>AC025</name>
+</rtept>
+<rtept lat="57.250576" lon="-5.015373">
+<ele>281</ele>
+<name>AC026</name>
+</rtept>
+<rtept lat="57.249523" lon="-5.01546">
+<ele>300</ele>
+<name>AC027</name>
+</rtept>
+<rtept lat="57.24779" lon="-5.01465">
+<ele>302</ele>
+<name>AC028</name>
+</rtept>
+<rtept lat="57.247097" lon="-5.014979">
+<ele>307</ele>
+<name>AC029</name>
+</rtept>
+<rtept lat="57.246476" lon="-5.014605">
+<ele>309</ele>
+<name>AC030</name>
+</rtept>
+<rtept lat="57.245285" lon="-5.014888">
+<ele>325</ele>
+<name>AC031</name>
+</rtept>
+<rtept lat="57.244525" lon="-5.015584">
+<ele>340</ele>
+<name>AC032</name>
+</rtept>
+<rtept lat="57.243865" lon="-5.018609">
+<ele>369</ele>
+<name>AC033</name>
+</rtept>
+<rtept lat="57.242899" lon="-5.020688">
+<ele>407</ele>
+<name>AC034</name>
+</rtept>
+<rtept lat="57.242432" lon="-5.024798">
+<ele>458</ele>
+<name>AC035</name>
+</rtept>
+<rtept lat="57.241984" lon="-5.02729">
+<ele>489</ele>
+<name>AC036</name>
+</rtept>
+<rtept lat="57.240943" lon="-5.030263">
+<ele>563</ele>
+<name>AC037</name>
+</rtept>
+<rtept lat="57.240316" lon="-5.031437">
+<ele>593</ele>
+<name>AC038</name>
+</rtept>
+<rtept lat="57.240264" lon="-5.03218">
+<ele>601</ele>
+<name>AC039</name>
+</rtept>
+<rtept lat="57.239902" lon="-5.033408">
+<ele>612</ele>
+<name>AC040</name>
+</rtept>
+<rtept lat="57.239687" lon="-5.035313">
+<ele>635</ele>
+<name>AC041</name>
+</rtept>
+<rtept lat="57.239473" lon="-5.035536">
+<ele>646</ele>
+<name>AC042</name>
+</rtept>
+<rtept lat="57.238065" lon="-5.039353">
+<ele>679</ele>
+<name>AC043</name>
+</rtept>
+<rtept lat="57.237636" lon="-5.040991">
+<ele>691</ele>
+<name>AC044</name>
+</rtept>
+<rtept lat="57.23744" lon="-5.041252">
+<ele>691</ele>
+<name>AC045</name>
+</rtept>
+<rtept lat="57.236922" lon="-5.043606">
+<ele>707</ele>
+<name>AC046</name>
+</rtept>
+<rtept lat="57.236398" lon="-5.044047">
+<ele>724</ele>
+<name>AC047</name>
+</rtept>
+<rtept lat="57.235422" lon="-5.045657">
+<ele>760</ele>
+<name>AC048</name>
+</rtept>
+<rtept lat="57.235314" lon="-5.048532">
+<ele>776</ele>
+<name>AC049</name>
+</rtept>
+<rtept lat="57.234661" lon="-5.050197">
+<ele>778</ele>
+<name>AC050</name>
+</rtept>
+<rtept lat="57.234171" lon="-5.050666">
+<ele>778</ele>
+<name>AC051</name>
+</rtept>
+<rtept lat="57.233973" lon="-5.051197">
+<ele>773</ele>
+<name>AC052</name>
+</rtept>
+<rtept lat="57.23389" lon="-5.052073">
+<ele>772</ele>
+<name>AC053</name>
+</rtept>
+<rtept lat="57.232703" lon="-5.055663">
+<ele>749</ele>
+<name>AC054</name>
+</rtept>
+<rtept lat="57.232716" lon="-5.056122">
+<ele>742</ele>
+<name>AC055</name>
+</rtept>
+<rtept lat="57.232248" lon="-5.057506">
+<ele>740</ele>
+<name>AC056</name>
+</rtept>
+<rtept lat="57.231893" lon="-5.05957">
+<ele>731</ele>
+<name>AC057</name>
+</rtept>
+<rtept lat="57.231667" lon="-5.05975">
+<ele>731</ele>
+<name>AC058</name>
+</rtept>
+<rtept lat="57.230642" lon="-5.063509">
+<ele>712</ele>
+<name>AC059</name>
+</rtept>
+<rtept lat="57.230218" lon="-5.06438">
+<ele>707</ele>
+<name>AC060</name>
+</rtept>
+<rtept lat="57.230064" lon="-5.065698">
+<ele>710</ele>
+<name>AC061</name>
+</rtept>
+<rtept lat="57.229597" lon="-5.066786">
+<ele>708</ele>
+<name>AC062</name>
+</rtept>
+<rtept lat="57.228739" lon="-5.069789">
+<ele>725</ele>
+<name>AC063</name>
+</rtept>
+<rtept lat="57.228048" lon="-5.073466">
+<ele>748</ele>
+<name>AC064</name>
+</rtept>
+<rtept lat="57.228075" lon="-5.074959">
+<ele>764</ele>
+<name>AC065</name>
+</rtept>
+<rtept lat="57.227695" lon="-5.076338">
+<ele>771</ele>
+<name>AC066</name>
+</rtept>
+<rtept lat="57.22784" lon="-5.078378">
+<ele>799</ele>
+<name>AC067</name>
+</rtept>
+<rtept lat="57.226744" lon="-5.082167">
+<ele>819</ele>
+<name>AC068</name>
+</rtept>
+<rtept lat="57.223355" lon="-5.087399">
+<ele>851</ele>
+<name>AC069</name>
+</rtept>
+<rtept lat="57.223042" lon="-5.088425">
+<ele>851</ele>
+<name>AC070</name>
+</rtept>
+<rtept lat="57.222885" lon="-5.088547">
+<ele>851</ele>
+<name>AC071</name>
+</rtept>
+<rtept lat="57.222757" lon="-5.088363">
+<ele>858</ele>
+<name>AC072</name>
+</rtept>
+<rtept lat="57.222605" lon="-5.087666">
+<ele>862</ele>
+<name>AC073</name>
+</rtept>
+<rtept lat="57.222317" lon="-5.088221">
+<ele>858</ele>
+<name>AC074</name>
+</rtept>
+<rtept lat="57.221557" lon="-5.088711">
+<ele>851</ele>
+<name>AC075</name>
+</rtept>
+<rtept lat="57.221221" lon="-5.088395">
+<ele>853</ele>
+<name>AC076</name>
+</rtept>
+<rtept lat="57.220974" lon="-5.088793">
+<ele>859</ele>
+<name>AC077</name>
+</rtept>
+<rtept lat="57.220288" lon="-5.089239">
+<ele>838</ele>
+<name>AC078</name>
+</rtept>
+<rtept lat="57.219019" lon="-5.089099">
+<ele>838</ele>
+<name>AC079</name>
+</rtept>
+<rtept lat="57.217363" lon="-5.091094">
+<ele>796</ele>
+<name>AC080</name>
+</rtept>
+<rtept lat="57.215992" lon="-5.09158">
+<ele>767</ele>
+<name>AC081</name>
+</rtept>
+<rtept lat="57.215235" lon="-5.092936">
+<ele>772</ele>
+<name>AC082</name>
+</rtept>
+<rtept lat="57.21489" lon="-5.094141">
+<ele>716</ele>
+<name>AC083</name>
+</rtept>
+<rtept lat="57.214518" lon="-5.094732">
+<ele>704</ele>
+<name>AC084</name>
+</rtept>
+<rtept lat="57.214213" lon="-5.094819">
+<ele>698</ele>
+<name>AC085</name>
+</rtept>
+<rtept lat="57.213273" lon="-5.096537">
+<ele>675</ele>
+<name>AC086</name>
+</rtept>
+<rtept lat="57.212827" lon="-5.096934">
+<ele>668</ele>
+<name>AC087</name>
+</rtept>
+<rtept lat="57.212621" lon="-5.097573">
+<ele>662</ele>
+<name>AC088</name>
+</rtept>
+<rtept lat="57.212349" lon="-5.097358">
+<ele>669</ele>
+<name>AC089</name>
+</rtept>
+<rtept lat="57.21216" lon="-5.097673">
+<ele>666</ele>
+<name>AC090</name>
+</rtept>
+<rtept lat="57.211512" lon="-5.097865">
+<ele>663</ele>
+<name>AC091</name>
+</rtept>
+<rtept lat="57.210554" lon="-5.097253">
+<ele>680</ele>
+<name>AC092</name>
+</rtept>
+<rtept lat="57.209688" lon="-5.095699">
+<ele>714</ele>
+<name>AC093</name>
+</rtept>
+<rtept lat="57.209313" lon="-5.09543">
+<ele>730</ele>
+<name>AC094</name>
+</rtept>
+<rtept lat="57.208557" lon="-5.092925">
+<ele>763</ele>
+<name>AC095</name>
+</rtept>
+<rtept lat="57.20801" lon="-5.092018">
+<ele>782</ele>
+<name>AC096</name>
+</rtept>
+<rtept lat="57.207796" lon="-5.090878">
+<ele>782</ele>
+<name>AC097</name>
+</rtept>
+<rtept lat="57.207919" lon="-5.08895">
+<ele>805</ele>
+<name>AC098</name>
+</rtept>
+<rtept lat="57.207579" lon="-5.088271">
+<ele>817</ele>
+<name>AC099</name>
+</rtept>
+<rtept lat="57.2072" lon="-5.088211">
+<ele>815</ele>
+<name>AC100</name>
+</rtept>
+<rtept lat="57.206374" lon="-5.085857">
+<ele>826</ele>
+<name>AC101</name>
+</rtept>
+<rtept lat="57.206345" lon="-5.085109">
+<ele>836</ele>
+<name>AC102</name>
+</rtept>
+<rtept lat="57.206521" lon="-5.083776">
+<ele>841</ele>
+<name>AC103</name>
+</rtept>
+<rtept lat="57.206435" lon="-5.081404">
+<ele>828</ele>
+<name>AC104</name>
+</rtept>
+<rtept lat="57.207268" lon="-5.076107">
+<ele>843</ele>
+<name>AC105</name>
+</rtept>
+<rtept lat="57.207944" lon="-5.074191">
+<ele>846</ele>
+<name>AC106</name>
+</rtept>
+<rtept lat="57.208541" lon="-5.073411">
+<ele>846</ele>
+<name>AC107</name>
+</rtept>
+<rtept lat="57.208945" lon="-5.072083">
+<ele>849</ele>
+<name>AC108</name>
+</rtept>
+<rtept lat="57.2093" lon="-5.070737">
+<ele>857</ele>
+<name>AC109</name>
+</rtept>
+<rtept lat="57.209667" lon="-5.067861">
+<ele>858</ele>
+<name>AC110</name>
+</rtept>
+<rtept lat="57.210016" lon="-5.066988">
+<ele>856</ele>
+<name>AC111</name>
+</rtept>
+<rtept lat="57.210551" lon="-5.067247">
+<ele>855</ele>
+<name>AC112</name>
+</rtept>
+<rtept lat="57.210952" lon="-5.067093">
+<ele>854</ele>
+<name>AC113</name>
+</rtept>
+<rtept lat="57.211658" lon="-5.06641">
+<ele>847</ele>
+<name>AC114</name>
+</rtept>
+<rtept lat="57.212154" lon="-5.06562">
+<ele>836</ele>
+<name>AC115</name>
+</rtept>
+<rtept lat="57.21313" lon="-5.06341">
+<ele>822</ele>
+<name>AC116</name>
+</rtept>
+<rtept lat="57.214025" lon="-5.060271">
+<ele>793</ele>
+<name>AC117</name>
+</rtept>
+<rtept lat="57.214865" lon="-5.05821">
+<ele>758</ele>
+<name>AC118</name>
+</rtept>
+<rtept lat="57.215409" lon="-5.057366">
+<ele>734</ele>
+<name>AC119</name>
+</rtept>
+<rtept lat="57.215924" lon="-5.055469">
+<ele>687</ele>
+<name>AC120</name>
+</rtept>
+<rtept lat="57.216626" lon="-5.054">
+<ele>675</ele>
+<name>AC121</name>
+</rtept>
+<rtept lat="57.21658" lon="-5.05312">
+<ele>653</ele>
+<name>AC122</name>
+</rtept>
+<rtept lat="57.216766" lon="-5.051231">
+<ele>657</ele>
+<name>AC123</name>
+</rtept>
+<rtept lat="57.216555" lon="-5.05008">
+<ele>660</ele>
+<name>AC124</name>
+</rtept>
+<rtept lat="57.216647" lon="-5.048585">
+<ele>680</ele>
+<name>AC125</name>
+</rtept>
+<rtept lat="57.216524" lon="-5.0471">
+<ele>721</ele>
+<name>AC126</name>
+</rtept>
+<rtept lat="57.216349" lon="-5.046637">
+<ele>731</ele>
+<name>AC127</name>
+</rtept>
+<rtept lat="57.21632" lon="-5.045441">
+<ele>764</ele>
+<name>AC128</name>
+</rtept>
+<rtept lat="57.21648" lon="-5.042925">
+<ele>806</ele>
+<name>AC129</name>
+</rtept>
+<rtept lat="57.216404" lon="-5.040978">
+<ele>841</ele>
+<name>AC130</name>
+</rtept>
+<rtept lat="57.216537" lon="-5.039649">
+<ele>851</ele>
+<name>AC131</name>
+</rtept>
+<rtept lat="57.217007" lon="-5.038046">
+<ele>865</ele>
+<name>AC132</name>
+</rtept>
+<rtept lat="57.21684" lon="-5.036108">
+<ele>866</ele>
+<name>AC133</name>
+</rtept>
+<rtept lat="57.217006" lon="-5.033745">
+<ele>870</ele>
+<name>AC134</name>
+</rtept>
+<rtept lat="57.216795" lon="-5.031395">
+<ele>865</ele>
+<name>AC135</name>
+</rtept>
+<rtept lat="57.216417" lon="-5.030785">
+<ele>869</ele>
+<name>AC136</name>
+</rtept>
+<rtept lat="57.216238" lon="-5.029606">
+<ele>872</ele>
+<name>AC137</name>
+</rtept>
+<rtept lat="57.216427" lon="-5.027231">
+<ele>887</ele>
+<name>AC138</name>
+</rtept>
+<rtept lat="57.216509" lon="-5.027242">
+<ele>889</ele>
+<name>AC139</name>
+</rtept>
+<rtept lat="57.216451" lon="-5.028209">
+<ele>887</ele>
+<name>AC140</name>
+</rtept>
+<rtept lat="57.216217" lon="-5.029472">
+<ele>880</ele>
+<name>AC141</name>
+</rtept>
+<rtept lat="57.216321" lon="-5.03033">
+<ele>881</ele>
+<name>AC142</name>
+</rtept>
+<rtept lat="57.216574" lon="-5.031433">
+<ele>870</ele>
+<name>AC143</name>
+</rtept>
+<rtept lat="57.217036" lon="-5.032522">
+<ele>873</ele>
+<name>AC144</name>
+</rtept>
+<rtept lat="57.217357" lon="-5.034094">
+<ele>874</ele>
+<name>AC145</name>
+</rtept>
+<rtept lat="57.217627" lon="-5.03443">
+<ele>882</ele>
+<name>AC146</name>
+</rtept>
+<rtept lat="57.217615" lon="-5.035616">
+<ele>878</ele>
+<name>AC147</name>
+</rtept>
+<rtept lat="57.217743" lon="-5.036004">
+<ele>876</ele>
+<name>AC148</name>
+</rtept>
+<rtept lat="57.218653" lon="-5.036467">
+<ele>861</ele>
+<name>AC149</name>
+</rtept>
+<rtept lat="57.219456" lon="-5.036229">
+<ele>838</ele>
+<name>AC150</name>
+</rtept>
+<rtept lat="57.219628" lon="-5.036581">
+<ele>829</ele>
+<name>AC151</name>
+</rtept>
+<rtept lat="57.21994" lon="-5.036656">
+<ele>818</ele>
+<name>AC152</name>
+</rtept>
+<rtept lat="57.220348" lon="-5.036172">
+<ele>801</ele>
+<name>AC153</name>
+</rtept>
+<rtept lat="57.220462" lon="-5.036584">
+<ele>799</ele>
+<name>AC154</name>
+</rtept>
+<rtept lat="57.220979" lon="-5.036104">
+<ele>759</ele>
+<name>AC155</name>
+</rtept>
+<rtept lat="57.221208" lon="-5.03624">
+<ele>766</ele>
+<name>AC156</name>
+</rtept>
+<rtept lat="57.22155" lon="-5.03559">
+<ele>734</ele>
+<name>AC157</name>
+</rtept>
+<rtept lat="57.221867" lon="-5.03543">
+<ele>714</ele>
+<name>AC158</name>
+</rtept>
+<rtept lat="57.223241" lon="-5.03268">
+<ele>637</ele>
+<name>AC159</name>
+</rtept>
+<rtept lat="57.224424" lon="-5.031578">
+<ele>688</ele>
+<name>AC160</name>
+</rtept>
+<rtept lat="57.224998" lon="-5.029934">
+<ele>687</ele>
+<name>AC161</name>
+</rtept>
+<rtept lat="57.226092" lon="-5.028181">
+<ele>624</ele>
+<name>AC162</name>
+</rtept>
+<rtept lat="57.226313" lon="-5.028215">
+<ele>596</ele>
+<name>AC163</name>
+</rtept>
+<rtept lat="57.226573" lon="-5.02748">
+<ele>555</ele>
+<name>AC164</name>
+</rtept>
+<rtept lat="57.227613" lon="-5.026224">
+<ele>489</ele>
+<name>AC165</name>
+</rtept>
+<rtept lat="57.227981" lon="-5.025488">
+<ele>478</ele>
+<name>AC166</name>
+</rtept>
+<rtept lat="57.229967" lon="-5.023516">
+<ele>454</ele>
+<name>AC167</name>
+</rtept>
+<rtept lat="57.230367" lon="-5.023523">
+<ele>445</ele>
+<name>AC168</name>
+</rtept>
+<rtept lat="57.231526" lon="-5.021922">
+<ele>435</ele>
+<name>AC169</name>
+</rtept>
+<rtept lat="57.231936" lon="-5.021941">
+<ele>436</ele>
+<name>AC170</name>
+</rtept>
+<rtept lat="57.232136" lon="-5.021695">
+<ele>431</ele>
+<name>AC171</name>
+</rtept>
+<rtept lat="57.232324" lon="-5.021015">
+<ele>428</ele>
+<name>AC172</name>
+</rtept>
+<rtept lat="57.233152" lon="-5.01977">
+<ele>429</ele>
+<name>AC173</name>
+</rtept>
+<rtept lat="57.233357" lon="-5.018933">
+<ele>421</ele>
+<name>AC174</name>
+</rtept>
+<rtept lat="57.233818" lon="-5.018298">
+<ele>421</ele>
+<name>AC175</name>
+</rtept>
+<rtept lat="57.234324" lon="-5.016916">
+<ele>414</ele>
+<name>AC176</name>
+</rtept>
+<rtept lat="57.235557" lon="-5.014772">
+<ele>404</ele>
+<name>AC177</name>
+</rtept>
+<rtept lat="57.236875" lon="-5.011203">
+<ele>399</ele>
+<name>AC178</name>
+</rtept>
+<rtept lat="57.238171" lon="-5.009925">
+<ele>378</ele>
+<name>AC179</name>
+</rtept>
+<rtept lat="57.241211" lon="-5.007509">
+<ele>397</ele>
+<name>AC180</name>
+</rtept>
+<rtept lat="57.242019" lon="-5.007756">
+<ele>412</ele>
+<name>AC181</name>
+</rtept>
+<rtept lat="57.243166" lon="-5.007157">
+<ele>413</ele>
+<name>AC182</name>
+</rtept>
+<rtept lat="57.244345" lon="-5.00709">
+<ele>406</ele>
+<name>AC183</name>
+</rtept>
+<rtept lat="57.245098" lon="-5.006385">
+<ele>402</ele>
+<name>AC184</name>
+</rtept>
+<rtept lat="57.245883" lon="-5.004628">
+<ele>399</ele>
+<name>AC185</name>
+</rtept>
+<rtept lat="57.246038" lon="-5.005058">
+<ele>403</ele>
+<name>AC186</name>
+</rtept>
+<rtept lat="57.24611" lon="-5.007271">
+<ele>388</ele>
+<name>AC187</name>
+</rtept>
+<rtept lat="57.246446" lon="-5.008466">
+<ele>379</ele>
+<name>AC188</name>
+</rtept>
+<rtept lat="57.246416" lon="-5.009635">
+<ele>350</ele>
+<name>AC189</name>
+</rtept>
+<rtept lat="57.246567" lon="-5.010763">
+<ele>330</ele>
+<name>AC190</name>
+</rtept>
+<rtept lat="57.247027" lon="-5.011976">
+<ele>325</ele>
+<name>AC191</name>
+</rtept>
+<rtept lat="57.247338" lon="-5.011905">
+<ele>322</ele>
+<name>AC192</name>
+</rtept>
+<rtept lat="57.24831" lon="-5.012556">
+<ele>306</ele>
+<name>AC193</name>
+</rtept>
+<rtept lat="57.249842" lon="-5.014627">
+<ele>304</ele>
+<name>AC194</name>
+</rtept>
+<rtept lat="57.251322" lon="-5.015091">
+<ele>287</ele>
+<name>AC195</name>
+</rtept>
+<rtept lat="57.25155" lon="-5.015748">
+<ele>278</ele>
+<name>AC196</name>
+</rtept>
+<rtept lat="57.251899" lon="-5.016179">
+<ele>278</ele>
+<name>AC197</name>
+</rtept>
+<rtept lat="57.252291" lon="-5.016188">
+<ele>282</ele>
+<name>AC198</name>
+</rtept>
+<rtept lat="57.253215" lon="-5.017169">
+<ele>272</ele>
+<name>AC199</name>
+</rtept>
+<rtept lat="57.253543" lon="-5.018384">
+<ele>260</ele>
+<name>AC200</name>
+</rtept>
+<rtept lat="57.254101" lon="-5.018537">
+<ele>263</ele>
+<name>AC201</name>
+</rtept>
+<rtept lat="57.255014" lon="-5.017849">
+<ele>257</ele>
+<name>AC202</name>
+</rtept>
+<rtept lat="57.255457" lon="-5.018719">
+<ele>256</ele>
+<name>AC203</name>
+</rtept>
+<rtept lat="57.255692" lon="-5.018804">
+<ele>254</ele>
+<name>AC204</name>
+</rtept>
+<rtept lat="57.256217" lon="-5.017902">
+<ele>250</ele>
+<name>AC205</name>
+</rtept>
+<rtept lat="57.257463" lon="-5.01479">
+<ele>257</ele>
+<name>AC206</name>
+</rtept>
+<rtept lat="57.258403150281" lon="-5.00912670616645">
+<ele>252.03724630951</ele>
+<name>AC207</name>
+</rtept>
+<rtept lat="57.259155" lon="-5.007512">
+<ele>244</ele>
+<name>AC208</name>
+</rtept>
+<rtept lat="57.259740649616" lon="-5.00544582893023">
+<ele>253.028833297595</ele>
+<name>AC209</name>
+</rtept>
+<rtept lat="57.26125" lon="-5.001472">
+<ele>259</ele>
+<name>AC210</name>
+</rtept>
+<rtept lat="57.26151" lon="-5.000222">
+<ele>260</ele>
+<name>AC211</name>
+</rtept>
+<rtept lat="57.262108" lon="-4.999252">
+<ele>259</ele>
+<name>AC212</name>
+</rtept>
+<rtept lat="57.262174" lon="-4.998258">
+<ele>255</ele>
+<name>AC213</name>
+</rtept>
+<rtept lat="57.263092" lon="-4.996423">
+<ele>234</ele>
+<name>AC214</name>
+</rtept>
+<rtept lat="57.2636886044448" lon="-4.99350063224752">
+<ele>239.959634088705</ele>
+<name>AC215</name>
+</rtept>
+<rtept lat="57.263675504332" lon="-4.98989994022067">
+<ele>237.310846948351</ele>
+<name>AC216</name>
+</rtept>
+<rtept lat="57.2642571565092" lon="-4.98868638639173">
+<ele>242.147400841421</ele>
+<name>AC217</name>
+</rtept>
+<rtept lat="57.2646365602339" lon="-4.98747299701658">
+<ele>230.374067547384</ele>
+<name>AC218</name>
+</rtept>
+<rtept lat="57.264991" lon="-4.986973">
+<ele>234</ele>
+<name>AC219</name>
+</rtept>
+<rtept lat="57.264902054197" lon="-4.98537945284891">
+<ele>242.550839768723</ele>
+<name>AC220</name>
+</rtept>
+</rte>
+</gpx>

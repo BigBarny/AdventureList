@@ -1,0 +1,938 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Sron na Muic, Invermoriston</name>
+<rtept lat="57.2136050307344" lon="-4.61726192521199">
+<ele>40.7609724176605</ele>
+<name>SnaM001</name>
+</rtept>
+<rtept lat="57.2134904485012" lon="-4.61758507764567">
+<ele>40.3609724176605</ele>
+<name>SnaM002</name>
+</rtept>
+<rtept lat="57.2119751412104" lon="-4.61819325395021">
+<ele>35.2739449975286</ele>
+<name>SnaM003</name>
+</rtept>
+<rtept lat="57.2125047334229" lon="-4.62003282636284">
+<ele>40.6524182854052</ele>
+<name>SnaM004</name>
+</rtept>
+<rtept lat="57.2127634383421" lon="-4.62141596749752">
+<ele>45.6555273478027</ele>
+<name>SnaM005</name>
+</rtept>
+<rtept lat="57.2146731221368" lon="-4.62670615199846">
+<ele>54.5882490836349</ele>
+<name>SnaM006</name>
+</rtept>
+<rtept lat="57.2148158276428" lon="-4.62744511460802">
+<ele>57.1124233514444</ele>
+<name>SnaM007</name>
+</rtept>
+<rtept lat="57.2146466825598" lon="-4.62968578856015">
+<ele>57.1213008247757</ele>
+<name>SnaM008</name>
+</rtept>
+<rtept lat="57.2151592823466" lon="-4.63129918334583">
+<ele>52.1983760051155</ele>
+<name>SnaM009</name>
+</rtept>
+<rtept lat="57.215254967112" lon="-4.63256488194862">
+<ele>51.0135455255106</ele>
+<name>SnaM010</name>
+</rtept>
+<rtept lat="57.2155455793992" lon="-4.63379147636246">
+<ele>50.2759898310372</ele>
+<name>SnaM011</name>
+</rtept>
+<rtept lat="57.2161180999329" lon="-4.63494543296833">
+<ele>48.4884598244047</ele>
+<name>SnaM012</name>
+</rtept>
+<rtept lat="57.2167566540484" lon="-4.63569332617625">
+<ele>48.0601495695629</ele>
+<name>SnaM013</name>
+</rtept>
+<rtept lat="57.2180136232509" lon="-4.63883105602583">
+<ele>48.1728284846462</ele>
+<name>SnaM014</name>
+</rtept>
+<rtept lat="57.218940094805" lon="-4.64297908677945">
+<ele>47.6937771770211</ele>
+<name>SnaM015</name>
+</rtept>
+<rtept lat="57.2192169381039" lon="-4.64348924905427">
+<ele>47.1619280334917</ele>
+<name>SnaM016</name>
+</rtept>
+<rtept lat="57.2198245619021" lon="-4.64536165733385">
+<ele>46.2989004511526</ele>
+<name>SnaM017</name>
+</rtept>
+<rtept lat="57.219751512844" lon="-4.64609859970495">
+<ele>46.2019121384825</ele>
+<name>SnaM018</name>
+</rtept>
+<rtept lat="57.2191462801292" lon="-4.64854679177279">
+<ele>47.4194101765726</ele>
+<name>SnaM019</name>
+</rtept>
+<rtept lat="57.2180655381472" lon="-4.65206074449192">
+<ele>52.6711580732967</ele>
+<name>SnaM020</name>
+</rtept>
+<rtept lat="57.2174363186228" lon="-4.65495758759654">
+<ele>50.7634361062613</ele>
+<name>SnaM021</name>
+</rtept>
+<rtept lat="57.2169440466408" lon="-4.6557968539036">
+<ele>59.4553286156476</ele>
+<name>SnaM022</name>
+</rtept>
+<rtept lat="57.2163602700905" lon="-4.65790170374146">
+<ele>60.201832615723</ele>
+<name>SnaM023</name>
+</rtept>
+<rtept lat="57.2157900303285" lon="-4.66072305702778">
+<ele>53.7193490472263</ele>
+<name>SnaM024</name>
+</rtept>
+<rtept lat="57.2154697294295" lon="-4.66158785064537">
+<ele>54.681311323003</ele>
+<name>SnaM025</name>
+</rtept>
+<rtept lat="57.2148203243259" lon="-4.6623759100841">
+<ele>67.4476671510873</ele>
+<name>SnaM026</name>
+</rtept>
+<rtept lat="57.2143910581195" lon="-4.66600232525218">
+<ele>69.0075128845694</ele>
+<name>SnaM027</name>
+</rtept>
+<rtept lat="57.2144192537836" lon="-4.66738249180909">
+<ele>65.4474916655018</ele>
+<name>SnaM028</name>
+</rtept>
+<rtept lat="57.214179436416" lon="-4.66919384446253">
+<ele>66.4430070957471</ele>
+<name>SnaM029</name>
+</rtept>
+<rtept lat="57.2137564662111" lon="-4.67116419927174">
+<ele>65.6587688607552</ele>
+<name>SnaM030</name>
+</rtept>
+<rtept lat="57.2131523199006" lon="-4.67252511599693">
+<ele>68.3633194505855</ele>
+<name>SnaM031</name>
+</rtept>
+<rtept lat="57.2123243607301" lon="-4.67359153270244">
+<ele>70.5900214487484</ele>
+<name>SnaM032</name>
+</rtept>
+<rtept lat="57.2117297526253" lon="-4.67517830505233">
+<ele>64.9840481516411</ele>
+<name>SnaM033</name>
+</rtept>
+<rtept lat="57.210506316479" lon="-4.67759397450749">
+<ele>72.9088113241589</ele>
+<name>SnaM034</name>
+</rtept>
+<rtept lat="57.2094551219228" lon="-4.68002197752509">
+<ele>70.1973830619534</ele>
+<name>SnaM035</name>
+</rtept>
+<rtept lat="57.2094457992102" lon="-4.68045853653721">
+<ele>65.8589647473201</ele>
+<name>SnaM036</name>
+</rtept>
+<rtept lat="57.2090465128765" lon="-4.68164852264811">
+<ele>71.2136527737175</ele>
+<name>SnaM037</name>
+</rtept>
+<rtept lat="57.2073347380693" lon="-4.68470403597355">
+<ele>97.8057095951684</ele>
+<name>SnaM038</name>
+</rtept>
+<rtept lat="57.206595652472" lon="-4.6856439925922">
+<ele>111.444746378074</ele>
+<name>SnaM039</name>
+</rtept>
+<rtept lat="57.206463142072" lon="-4.68612455884826">
+<ele>109.882439203897</ele>
+<name>SnaM040</name>
+</rtept>
+<rtept lat="57.2060466011876" lon="-4.68643874477153">
+<ele>123.49647851933</ele>
+<name>SnaM041</name>
+</rtept>
+<rtept lat="57.2056860817344" lon="-4.68783010260576">
+<ele>128.347815115521</ele>
+<name>SnaM042</name>
+</rtept>
+<rtept lat="57.2050400115428" lon="-4.68878997084546">
+<ele>140.703960933056</ele>
+<name>SnaM043</name>
+</rtept>
+<rtept lat="57.2040786442089" lon="-4.68970036799931">
+<ele>148.937030915448</ele>
+<name>SnaM044</name>
+</rtept>
+<rtept lat="57.2038451531285" lon="-4.68952440734308">
+<ele>153.385147946011</ele>
+<name>SnaM045</name>
+</rtept>
+<rtept lat="57.2029838163185" lon="-4.68979292100951">
+<ele>163.229101309226</ele>
+<name>SnaM046</name>
+</rtept>
+<rtept lat="57.202252917537" lon="-4.69034910189535">
+<ele>172.560276028534</ele>
+<name>SnaM047</name>
+</rtept>
+<rtept lat="57.2019521630547" lon="-4.69096306569579">
+<ele>173.63750903112</ele>
+<name>SnaM048</name>
+</rtept>
+<rtept lat="57.2012238122848" lon="-4.69140017441459">
+<ele>179.501454193897</ele>
+<name>SnaM049</name>
+</rtept>
+<rtept lat="57.2011748928219" lon="-4.69099921405007">
+<ele>183.374144937962</ele>
+<name>SnaM050</name>
+</rtept>
+<rtept lat="57.2014090554068" lon="-4.69047314398323">
+<ele>182.809416327232</ele>
+<name>SnaM051</name>
+</rtept>
+<rtept lat="57.2012963764024" lon="-4.69002780338108">
+<ele>188.197196263041</ele>
+<name>SnaM052</name>
+</rtept>
+<rtept lat="57.2010798852426" lon="-4.69006503679383">
+<ele>192.531813394643</ele>
+<name>SnaM053</name>
+</rtept>
+<rtept lat="57.1999063602481" lon="-4.69114531081672">
+<ele>202.114366954328</ele>
+<name>SnaM054</name>
+</rtept>
+<rtept lat="57.1996633143588" lon="-4.69175018543425">
+<ele>201.289505158183</ele>
+<name>SnaM055</name>
+</rtept>
+<rtept lat="57.1990813694533" lon="-4.69206545514436">
+<ele>207.440580880959</ele>
+<name>SnaM056</name>
+</rtept>
+<rtept lat="57.1980718816345" lon="-4.69354167878692">
+<ele>216.471986975398</ele>
+<name>SnaM057</name>
+</rtept>
+<rtept lat="57.1978107761753" lon="-4.69431738322174">
+<ele>216.770899068138</ele>
+<name>SnaM058</name>
+</rtept>
+<rtept lat="57.197699894572" lon="-4.69412386752734">
+<ele>219.577806452788</ele>
+<name>SnaM059</name>
+</rtept>
+<rtept lat="57.197697663047" lon="-4.69322301805169">
+<ele>226.911486436002</ele>
+<name>SnaM060</name>
+</rtept>
+<rtept lat="57.1979991945167" lon="-4.6922383244559">
+<ele>228.258573615288</ele>
+<name>SnaM061</name>
+</rtept>
+<rtept lat="57.1983410403852" lon="-4.69172014625126">
+<ele>223.713866599865</ele>
+<name>SnaM062</name>
+</rtept>
+<rtept lat="57.1985112716316" lon="-4.69048744618151">
+<ele>230.04396349879</ele>
+<name>SnaM063</name>
+</rtept>
+<rtept lat="57.1995466046071" lon="-4.68914546360738">
+<ele>223.052148950501</ele>
+<name>SnaM064</name>
+</rtept>
+<rtept lat="57.2001407194086" lon="-4.68725472635496">
+<ele>226.365052975775</ele>
+<name>SnaM065</name>
+</rtept>
+<rtept lat="57.2014061181862" lon="-4.68624723268261">
+<ele>221.195658917056</ele>
+<name>SnaM066</name>
+</rtept>
+<rtept lat="57.2021602350641" lon="-4.68292405729691">
+<ele>233.362569188894</ele>
+<name>SnaM067</name>
+</rtept>
+<rtept lat="57.2018406516176" lon="-4.68206631335337">
+<ele>244.765630471173</ele>
+<name>SnaM068</name>
+</rtept>
+<rtept lat="57.202296855309" lon="-4.68023158670324">
+<ele>250.297165246392</ele>
+<name>SnaM069</name>
+</rtept>
+<rtept lat="57.2023180376282" lon="-4.67923959830347">
+<ele>259.108082499376</ele>
+<name>SnaM070</name>
+</rtept>
+<rtept lat="57.2028167933994" lon="-4.67844117538383">
+<ele>260.61305491704</ele>
+<name>SnaM071</name>
+</rtept>
+<rtept lat="57.2029941986413" lon="-4.6775399710528">
+<ele>265.533312673913</ele>
+<name>SnaM072</name>
+</rtept>
+<rtept lat="57.203369463398" lon="-4.6774744210067">
+<ele>262.094519057609</ele>
+<name>SnaM073</name>
+</rtept>
+<rtept lat="57.2046369959892" lon="-4.6733269371577">
+<ele>267.824328248939</ele>
+<name>SnaM074</name>
+</rtept>
+<rtept lat="57.2061745215653" lon="-4.67101369416427">
+<ele>275.504552266616</ele>
+<name>SnaM075</name>
+</rtept>
+<rtept lat="57.206270225502" lon="-4.66921883271457">
+<ele>286.2114508738</ele>
+<name>SnaM076</name>
+</rtept>
+<rtept lat="57.2060973633254" lon="-4.66855718296469">
+<ele>294.49341488183</ele>
+<name>SnaM077</name>
+</rtept>
+<rtept lat="57.2064547283671" lon="-4.66764234612623">
+<ele>297.076075015351</ele>
+<name>SnaM078</name>
+</rtept>
+<rtept lat="57.2066631490962" lon="-4.66629279415017">
+<ele>307.41931200594</ele>
+<name>SnaM079</name>
+</rtept>
+<rtept lat="57.2072759665846" lon="-4.66519761344583">
+<ele>306.253689178688</ele>
+<name>SnaM080</name>
+</rtept>
+<rtept lat="57.208156995105" lon="-4.66298231537743">
+<ele>308.299588452058</ele>
+<name>SnaM081</name>
+</rtept>
+<rtept lat="57.2085485755198" lon="-4.6628250417161">
+<ele>300.434921073262</ele>
+<name>SnaM082</name>
+</rtept>
+<rtept lat="57.2096246781322" lon="-4.66090189710269">
+<ele>301.457491567526</ele>
+<name>SnaM083</name>
+</rtept>
+<rtept lat="57.2101516953935" lon="-4.65944262533291">
+<ele>302.426215811959</ele>
+<name>SnaM084</name>
+</rtept>
+<rtept lat="57.2108274460047" lon="-4.65639076752015">
+<ele>309.041943654026</ele>
+<name>SnaM085</name>
+</rtept>
+<rtept lat="57.2107268230408" lon="-4.64958634340678">
+<ele>348.378280087303</ele>
+<name>SnaM086</name>
+</rtept>
+<rtept lat="57.2111427225609" lon="-4.64554840875538">
+<ele>357.053781145244</ele>
+<name>SnaM087</name>
+</rtept>
+<rtept lat="57.2107243308962" lon="-4.64459096804645">
+<ele>361.622720712656</ele>
+<name>SnaM088</name>
+</rtept>
+<rtept lat="57.2103083059868" lon="-4.6442034556773">
+<ele>365.680315669822</ele>
+<name>SnaM089</name>
+</rtept>
+<rtept lat="57.2100654738042" lon="-4.64344410341899">
+<ele>369.268574222283</ele>
+<name>SnaM090</name>
+</rtept>
+<rtept lat="57.2095538262696" lon="-4.64350025307098">
+<ele>373.523506493148</ele>
+<name>SnaM091</name>
+</rtept>
+<rtept lat="57.2091773135052" lon="-4.64294335084582">
+<ele>376.534502255777</ele>
+<name>SnaM092</name>
+</rtept>
+<rtept lat="57.2089000603603" lon="-4.6431355111932">
+<ele>379.574502255768</ele>
+<name>SnaM093</name>
+</rtept>
+<rtept lat="57.2084671813631" lon="-4.64423072171802">
+<ele>384.768176026904</ele>
+<name>SnaM094</name>
+</rtept>
+<rtept lat="57.2080231408803" lon="-4.64449042882372">
+<ele>391.018375124585</ele>
+<name>SnaM095</name>
+</rtept>
+<rtept lat="57.2076958431866" lon="-4.64501021005345">
+<ele>394.763134626855</ele>
+<name>SnaM096</name>
+</rtept>
+<rtept lat="57.2074405389027" lon="-4.64586635217732">
+<ele>397.123151742245</ele>
+<name>SnaM097</name>
+</rtept>
+<rtept lat="57.2068662331768" lon="-4.64582524069477">
+<ele>408.184741721091</ele>
+<name>SnaM098</name>
+</rtept>
+<rtept lat="57.2064796925096" lon="-4.64438000016229">
+<ele>415.644261573836</ele>
+<name>SnaM099</name>
+</rtept>
+<rtept lat="57.2065530733472" lon="-4.64328563717767">
+<ele>412.649131642729</ele>
+<name>SnaM100</name>
+</rtept>
+<rtept lat="57.206326200509" lon="-4.64279247532027">
+<ele>419.001866726678</ele>
+<name>SnaM101</name>
+</rtept>
+<rtept lat="57.2062738076107" lon="-4.64084123811943">
+<ele>425.42914910529</ele>
+<name>SnaM102</name>
+</rtept>
+<rtept lat="57.206026444481" lon="-4.6406380909574">
+<ele>427.988467261305</ele>
+<name>SnaM103</name>
+</rtept>
+<rtept lat="57.2057268231378" lon="-4.6408683988015">
+<ele>430.617983430133</ele>
+<name>SnaM104</name>
+</rtept>
+<rtept lat="57.204893001349" lon="-4.64222633574058">
+<ele>440.553427244218</ele>
+<name>SnaM105</name>
+</rtept>
+<rtept lat="57.2045965933149" lon="-4.64298675940407">
+<ele>443.967565493509</ele>
+<name>SnaM106</name>
+</rtept>
+<rtept lat="57.2043453338706" lon="-4.64296879445809">
+<ele>445.780331831838</ele>
+<name>SnaM107</name>
+</rtept>
+<rtept lat="57.2039881261822" lon="-4.64251933721659">
+<ele>448.50795901765</ele>
+<name>SnaM108</name>
+</rtept>
+<rtept lat="57.2040307656598" lon="-4.64186001352369">
+<ele>450.867938009006</ele>
+<name>SnaM109</name>
+</rtept>
+<rtept lat="57.2041832522682" lon="-4.64144699186869">
+<ele>451.229497438365</ele>
+<name>SnaM110</name>
+</rtept>
+<rtept lat="57.2040311637006" lon="-4.64115792799794">
+<ele>455.194366479443</ele>
+<name>SnaM111</name>
+</rtept>
+<rtept lat="57.2027591148514" lon="-4.64113327994968">
+<ele>460.061406308036</ele>
+<name>SnaM112</name>
+</rtept>
+<rtept lat="57.2023768027738" lon="-4.64050985836455">
+<ele>464.999347917051</ele>
+<name>SnaM113</name>
+</rtept>
+<rtept lat="57.202194437571" lon="-4.63960929915888">
+<ele>469.627842787493</ele>
+<name>SnaM114</name>
+</rtept>
+<rtept lat="57.2022632737157" lon="-4.63907109582256">
+<ele>469.942390716008</ele>
+<name>SnaM115</name>
+</rtept>
+<rtept lat="57.2035377527616" lon="-4.63761215433292">
+<ele>480.058626137458</ele>
+<name>SnaM116</name>
+</rtept>
+<rtept lat="57.2041912078525" lon="-4.63833440168309">
+<ele>483.596921820748</ele>
+<name>SnaM117</name>
+</rtept>
+<rtept lat="57.2035377527616" lon="-4.63761215433292">
+<ele>480.058626137458</ele>
+<name>SnaM118</name>
+</rtept>
+<rtept lat="57.2022632737157" lon="-4.63907109582256">
+<ele>469.942390716008</ele>
+<name>SnaM119</name>
+</rtept>
+<rtept lat="57.202194437571" lon="-4.63960929915888">
+<ele>469.627842787493</ele>
+<name>SnaM120</name>
+</rtept>
+<rtept lat="57.2023768027738" lon="-4.64050985836455">
+<ele>464.999347917051</ele>
+<name>SnaM121</name>
+</rtept>
+<rtept lat="57.2027591148514" lon="-4.64113327994968">
+<ele>460.061406308036</ele>
+<name>SnaM122</name>
+</rtept>
+<rtept lat="57.2040311637006" lon="-4.64115792799794">
+<ele>455.194366479443</ele>
+<name>SnaM123</name>
+</rtept>
+<rtept lat="57.2041832522682" lon="-4.64144699186869">
+<ele>451.229497438365</ele>
+<name>SnaM124</name>
+</rtept>
+<rtept lat="57.2040307656598" lon="-4.64186001352369">
+<ele>450.867938009006</ele>
+<name>SnaM125</name>
+</rtept>
+<rtept lat="57.2039881261822" lon="-4.64251933721659">
+<ele>448.50795901765</ele>
+<name>SnaM126</name>
+</rtept>
+<rtept lat="57.2043453338706" lon="-4.64296879445809">
+<ele>445.780331831838</ele>
+<name>SnaM127</name>
+</rtept>
+<rtept lat="57.2045965933149" lon="-4.64298675940407">
+<ele>443.967565493509</ele>
+<name>SnaM128</name>
+</rtept>
+<rtept lat="57.204893001349" lon="-4.64222633574058">
+<ele>440.553427244218</ele>
+<name>SnaM129</name>
+</rtept>
+<rtept lat="57.2057268231378" lon="-4.6408683988015">
+<ele>430.617983430133</ele>
+<name>SnaM130</name>
+</rtept>
+<rtept lat="57.206026444481" lon="-4.6406380909574">
+<ele>427.988467261305</ele>
+<name>SnaM131</name>
+</rtept>
+<rtept lat="57.2062738076107" lon="-4.64084123811943">
+<ele>425.42914910529</ele>
+<name>SnaM132</name>
+</rtept>
+<rtept lat="57.206326200509" lon="-4.64279247532027">
+<ele>419.001866726678</ele>
+<name>SnaM133</name>
+</rtept>
+<rtept lat="57.2065530733472" lon="-4.64328563717767">
+<ele>412.649131642729</ele>
+<name>SnaM134</name>
+</rtept>
+<rtept lat="57.2064796925096" lon="-4.64438000016229">
+<ele>415.644261573836</ele>
+<name>SnaM135</name>
+</rtept>
+<rtept lat="57.2068662331768" lon="-4.64582524069477">
+<ele>408.184741721091</ele>
+<name>SnaM136</name>
+</rtept>
+<rtept lat="57.2074405389027" lon="-4.64586635217732">
+<ele>397.123151742245</ele>
+<name>SnaM137</name>
+</rtept>
+<rtept lat="57.2076958431866" lon="-4.64501021005345">
+<ele>394.763134626855</ele>
+<name>SnaM138</name>
+</rtept>
+<rtept lat="57.2080231408803" lon="-4.64449042882372">
+<ele>391.018375124585</ele>
+<name>SnaM139</name>
+</rtept>
+<rtept lat="57.2084671813631" lon="-4.64423072171802">
+<ele>384.768176026904</ele>
+<name>SnaM140</name>
+</rtept>
+<rtept lat="57.2089000603603" lon="-4.6431355111932">
+<ele>379.574502255768</ele>
+<name>SnaM141</name>
+</rtept>
+<rtept lat="57.2091773135052" lon="-4.64294335084582">
+<ele>376.534502255777</ele>
+<name>SnaM142</name>
+</rtept>
+<rtept lat="57.2095538262696" lon="-4.64350025307098">
+<ele>373.523506493148</ele>
+<name>SnaM143</name>
+</rtept>
+<rtept lat="57.2100654738042" lon="-4.64344410341899">
+<ele>369.268574222283</ele>
+<name>SnaM144</name>
+</rtept>
+<rtept lat="57.2103083059868" lon="-4.6442034556773">
+<ele>365.680315669822</ele>
+<name>SnaM145</name>
+</rtept>
+<rtept lat="57.2107243308962" lon="-4.64459096804645">
+<ele>361.622720712656</ele>
+<name>SnaM146</name>
+</rtept>
+<rtept lat="57.2111427225609" lon="-4.64554840875538">
+<ele>357.053781145244</ele>
+<name>SnaM147</name>
+</rtept>
+<rtept lat="57.2107268230408" lon="-4.64958634340678">
+<ele>348.378280087303</ele>
+<name>SnaM148</name>
+</rtept>
+<rtept lat="57.2108274460047" lon="-4.65639076752015">
+<ele>309.041943654026</ele>
+<name>SnaM149</name>
+</rtept>
+<rtept lat="57.2101516953935" lon="-4.65944262533291">
+<ele>302.426215811959</ele>
+<name>SnaM150</name>
+</rtept>
+<rtept lat="57.2096246781322" lon="-4.66090189710269">
+<ele>301.457491567526</ele>
+<name>SnaM151</name>
+</rtept>
+<rtept lat="57.2085485755198" lon="-4.6628250417161">
+<ele>300.434921073262</ele>
+<name>SnaM152</name>
+</rtept>
+<rtept lat="57.208156995105" lon="-4.66298231537743">
+<ele>308.299588452058</ele>
+<name>SnaM153</name>
+</rtept>
+<rtept lat="57.2072759665846" lon="-4.66519761344583">
+<ele>306.253689178688</ele>
+<name>SnaM154</name>
+</rtept>
+<rtept lat="57.2066631490962" lon="-4.66629279415017">
+<ele>307.41931200594</ele>
+<name>SnaM155</name>
+</rtept>
+<rtept lat="57.2064547283671" lon="-4.66764234612623">
+<ele>297.076075015351</ele>
+<name>SnaM156</name>
+</rtept>
+<rtept lat="57.2060973633254" lon="-4.66855718296469">
+<ele>294.49341488183</ele>
+<name>SnaM157</name>
+</rtept>
+<rtept lat="57.206270225502" lon="-4.66921883271457">
+<ele>286.2114508738</ele>
+<name>SnaM158</name>
+</rtept>
+<rtept lat="57.2061745215653" lon="-4.67101369416427">
+<ele>275.504552266616</ele>
+<name>SnaM159</name>
+</rtept>
+<rtept lat="57.2046369959892" lon="-4.6733269371577">
+<ele>267.824328248939</ele>
+<name>SnaM160</name>
+</rtept>
+<rtept lat="57.203369463398" lon="-4.6774744210067">
+<ele>262.094519057609</ele>
+<name>SnaM161</name>
+</rtept>
+<rtept lat="57.2029941986413" lon="-4.6775399710528">
+<ele>265.533312673913</ele>
+<name>SnaM162</name>
+</rtept>
+<rtept lat="57.2028167933994" lon="-4.67844117538383">
+<ele>260.61305491704</ele>
+<name>SnaM163</name>
+</rtept>
+<rtept lat="57.2023180376282" lon="-4.67923959830347">
+<ele>259.108082499376</ele>
+<name>SnaM164</name>
+</rtept>
+<rtept lat="57.202296855309" lon="-4.68023158670324">
+<ele>250.297165246392</ele>
+<name>SnaM165</name>
+</rtept>
+<rtept lat="57.2018406516176" lon="-4.68206631335337">
+<ele>244.765630471173</ele>
+<name>SnaM166</name>
+</rtept>
+<rtept lat="57.2021602350641" lon="-4.68292405729691">
+<ele>233.362569188894</ele>
+<name>SnaM167</name>
+</rtept>
+<rtept lat="57.2014061181862" lon="-4.68624723268261">
+<ele>221.195658917056</ele>
+<name>SnaM168</name>
+</rtept>
+<rtept lat="57.2001407194086" lon="-4.68725472635496">
+<ele>226.365052975775</ele>
+<name>SnaM169</name>
+</rtept>
+<rtept lat="57.1995466046071" lon="-4.68914546360738">
+<ele>223.052148950501</ele>
+<name>SnaM170</name>
+</rtept>
+<rtept lat="57.1985112716316" lon="-4.69048744618151">
+<ele>230.04396349879</ele>
+<name>SnaM171</name>
+</rtept>
+<rtept lat="57.1983410403852" lon="-4.69172014625126">
+<ele>223.713866599865</ele>
+<name>SnaM172</name>
+</rtept>
+<rtept lat="57.1979991945167" lon="-4.6922383244559">
+<ele>228.258573615288</ele>
+<name>SnaM173</name>
+</rtept>
+<rtept lat="57.197697663047" lon="-4.69322301805169">
+<ele>226.911486436002</ele>
+<name>SnaM174</name>
+</rtept>
+<rtept lat="57.197699894572" lon="-4.69412386752734">
+<ele>219.577806452788</ele>
+<name>SnaM175</name>
+</rtept>
+<rtept lat="57.1978107761753" lon="-4.69431738322174">
+<ele>216.770899068138</ele>
+<name>SnaM176</name>
+</rtept>
+<rtept lat="57.1980718816345" lon="-4.69354167878692">
+<ele>216.471986975398</ele>
+<name>SnaM177</name>
+</rtept>
+<rtept lat="57.1990813694533" lon="-4.69206545514436">
+<ele>207.440580880959</ele>
+<name>SnaM178</name>
+</rtept>
+<rtept lat="57.1996633143588" lon="-4.69175018543425">
+<ele>201.289505158183</ele>
+<name>SnaM179</name>
+</rtept>
+<rtept lat="57.1999063602481" lon="-4.69114531081672">
+<ele>202.114366954328</ele>
+<name>SnaM180</name>
+</rtept>
+<rtept lat="57.2010798852426" lon="-4.69006503679383">
+<ele>192.531813394643</ele>
+<name>SnaM181</name>
+</rtept>
+<rtept lat="57.2012963764024" lon="-4.69002780338108">
+<ele>188.197196263041</ele>
+<name>SnaM182</name>
+</rtept>
+<rtept lat="57.2014090554068" lon="-4.69047314398323">
+<ele>182.809416327232</ele>
+<name>SnaM183</name>
+</rtept>
+<rtept lat="57.2011748928219" lon="-4.69099921405007">
+<ele>183.374144937962</ele>
+<name>SnaM184</name>
+</rtept>
+<rtept lat="57.2012238122848" lon="-4.69140017441459">
+<ele>179.501454193897</ele>
+<name>SnaM185</name>
+</rtept>
+<rtept lat="57.2019521630547" lon="-4.69096306569579">
+<ele>173.63750903112</ele>
+<name>SnaM186</name>
+</rtept>
+<rtept lat="57.202252917537" lon="-4.69034910189535">
+<ele>172.560276028534</ele>
+<name>SnaM187</name>
+</rtept>
+<rtept lat="57.2029838163185" lon="-4.68979292100951">
+<ele>163.229101309226</ele>
+<name>SnaM188</name>
+</rtept>
+<rtept lat="57.2038451531285" lon="-4.68952440734308">
+<ele>153.385147946011</ele>
+<name>SnaM189</name>
+</rtept>
+<rtept lat="57.2040786442089" lon="-4.68970036799931">
+<ele>148.937030915448</ele>
+<name>SnaM190</name>
+</rtept>
+<rtept lat="57.2050400115428" lon="-4.68878997084546">
+<ele>140.703960933056</ele>
+<name>SnaM191</name>
+</rtept>
+<rtept lat="57.2056860817344" lon="-4.68783010260576">
+<ele>128.347815115521</ele>
+<name>SnaM192</name>
+</rtept>
+<rtept lat="57.2060466011876" lon="-4.68643874477153">
+<ele>123.49647851933</ele>
+<name>SnaM193</name>
+</rtept>
+<rtept lat="57.206463142072" lon="-4.68612455884826">
+<ele>109.882439203897</ele>
+<name>SnaM194</name>
+</rtept>
+<rtept lat="57.206595652472" lon="-4.6856439925922">
+<ele>111.444746378074</ele>
+<name>SnaM195</name>
+</rtept>
+<rtept lat="57.2073347380693" lon="-4.68470403597355">
+<ele>97.8057095951684</ele>
+<name>SnaM196</name>
+</rtept>
+<rtept lat="57.2090465128765" lon="-4.68164852264811">
+<ele>71.2136527737175</ele>
+<name>SnaM197</name>
+</rtept>
+<rtept lat="57.2094457992102" lon="-4.68045853653721">
+<ele>65.8589647473201</ele>
+<name>SnaM198</name>
+</rtept>
+<rtept lat="57.2094551219228" lon="-4.68002197752509">
+<ele>70.1973830619534</ele>
+<name>SnaM199</name>
+</rtept>
+<rtept lat="57.210506316479" lon="-4.67759397450749">
+<ele>72.9088113241589</ele>
+<name>SnaM200</name>
+</rtept>
+<rtept lat="57.2117297526253" lon="-4.67517830505233">
+<ele>64.9840481516411</ele>
+<name>SnaM201</name>
+</rtept>
+<rtept lat="57.2123243607301" lon="-4.67359153270244">
+<ele>70.5900214487484</ele>
+<name>SnaM202</name>
+</rtept>
+<rtept lat="57.2131523199006" lon="-4.67252511599693">
+<ele>68.3633194505855</ele>
+<name>SnaM203</name>
+</rtept>
+<rtept lat="57.2137564662111" lon="-4.67116419927174">
+<ele>65.6587688607552</ele>
+<name>SnaM204</name>
+</rtept>
+<rtept lat="57.214179436416" lon="-4.66919384446253">
+<ele>66.4430070957471</ele>
+<name>SnaM205</name>
+</rtept>
+<rtept lat="57.2144192537836" lon="-4.66738249180909">
+<ele>65.4474916655018</ele>
+<name>SnaM206</name>
+</rtept>
+<rtept lat="57.2143910581195" lon="-4.66600232525218">
+<ele>69.0075128845694</ele>
+<name>SnaM207</name>
+</rtept>
+<rtept lat="57.2148203243259" lon="-4.6623759100841">
+<ele>67.4476671510873</ele>
+<name>SnaM208</name>
+</rtept>
+<rtept lat="57.2154697294295" lon="-4.66158785064537">
+<ele>54.681311323003</ele>
+<name>SnaM209</name>
+</rtept>
+<rtept lat="57.2157900303285" lon="-4.66072305702778">
+<ele>53.7193490472263</ele>
+<name>SnaM210</name>
+</rtept>
+<rtept lat="57.2163602700905" lon="-4.65790170374146">
+<ele>60.201832615723</ele>
+<name>SnaM211</name>
+</rtept>
+<rtept lat="57.2169440466408" lon="-4.6557968539036">
+<ele>59.4553286156476</ele>
+<name>SnaM212</name>
+</rtept>
+<rtept lat="57.2174363186228" lon="-4.65495758759654">
+<ele>50.7634361062613</ele>
+<name>SnaM213</name>
+</rtept>
+<rtept lat="57.2180655381472" lon="-4.65206074449192">
+<ele>52.6711580732967</ele>
+<name>SnaM214</name>
+</rtept>
+<rtept lat="57.2183373916166" lon="-4.65144413384096">
+<ele>51.902846185491</ele>
+<name>SnaM215</name>
+</rtept>
+<rtept lat="57.219751512844" lon="-4.64609859970495">
+<ele>46.2019121384825</ele>
+<name>SnaM216</name>
+</rtept>
+<rtept lat="57.2198245619021" lon="-4.64536165733385">
+<ele>46.2989004511526</ele>
+<name>SnaM217</name>
+</rtept>
+<rtept lat="57.2192169381039" lon="-4.64348924905427">
+<ele>47.1619280334917</ele>
+<name>SnaM218</name>
+</rtept>
+<rtept lat="57.218940094805" lon="-4.64297908677945">
+<ele>47.6937771770211</ele>
+<name>SnaM219</name>
+</rtept>
+<rtept lat="57.2180136232509" lon="-4.63883105602583">
+<ele>48.1728284846462</ele>
+<name>SnaM220</name>
+</rtept>
+<rtept lat="57.2167566540484" lon="-4.63569332617625">
+<ele>48.0601495695629</ele>
+<name>SnaM221</name>
+</rtept>
+<rtept lat="57.2161180999329" lon="-4.63494543296833">
+<ele>48.4884598244047</ele>
+<name>SnaM222</name>
+</rtept>
+<rtept lat="57.2155455793992" lon="-4.63379147636246">
+<ele>50.2759898310372</ele>
+<name>SnaM223</name>
+</rtept>
+<rtept lat="57.215254967112" lon="-4.63256488194862">
+<ele>51.0135455255106</ele>
+<name>SnaM224</name>
+</rtept>
+<rtept lat="57.2151592823466" lon="-4.63129918334583">
+<ele>52.1983760051155</ele>
+<name>SnaM225</name>
+</rtept>
+<rtept lat="57.2146466825598" lon="-4.62968578856015">
+<ele>57.1213008247757</ele>
+<name>SnaM226</name>
+</rtept>
+<rtept lat="57.2148158276428" lon="-4.62744511460802">
+<ele>57.1124233514444</ele>
+<name>SnaM227</name>
+</rtept>
+<rtept lat="57.2146731221368" lon="-4.62670615199846">
+<ele>54.5882490836349</ele>
+<name>SnaM228</name>
+</rtept>
+<rtept lat="57.2127634383421" lon="-4.62141596749752">
+<ele>45.6555273478027</ele>
+<name>SnaM229</name>
+</rtept>
+<rtept lat="57.2125047334229" lon="-4.62003282636284">
+<ele>40.6524182854052</ele>
+<name>SnaM230</name>
+</rtept>
+<rtept lat="57.2119751412104" lon="-4.61819325395021">
+<ele>35.2739449975286</ele>
+<name>SnaM231</name>
+</rtept>
+<rtept lat="57.2136050307344" lon="-4.61726192521199">
+<ele>40.7609724176605</ele>
+<name>SnaM232</name>
+</rtept>
+</rte>
+</gpx>

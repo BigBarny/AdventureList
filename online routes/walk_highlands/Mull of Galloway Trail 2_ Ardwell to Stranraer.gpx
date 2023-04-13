@@ -1,0 +1,654 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Mull of Galloway Trail 2: Ardwell to Stranraer</name>
+<rtept lat="54.7707321384561" lon="-4.94103307520845">
+<ele>1.61829680991243</ele>
+<name>MoGT2001</name>
+</rtept>
+<rtept lat="54.7709281353049" lon="-4.93988409033327">
+<ele>0.122296809912077</ele>
+<name>MoGT2002</name>
+</rtept>
+<rtept lat="54.771858619135" lon="-4.93984896981022">
+<ele>0</ele>
+<name>MoGT2003</name>
+</rtept>
+<rtept lat="54.7745526553209" lon="-4.93927462931786">
+<ele>0.84606796886078</ele>
+<name>MoGT2004</name>
+</rtept>
+<rtept lat="54.7753527930908" lon="-4.93890498673316">
+<ele>0.450296809912543</ele>
+<name>MoGT2005</name>
+</rtept>
+<rtept lat="54.7759928384084" lon="-4.93901985447037">
+<ele>0.538296809912426</ele>
+<name>MoGT2006</name>
+</rtept>
+<rtept lat="54.7767851090055" lon="-4.93897468603198">
+<ele>0.0828755023153661</ele>
+<name>MoGT2007</name>
+</rtept>
+<rtept lat="54.7769179387672" lon="-4.93920673494425">
+<ele>0</ele>
+<name>MoGT2008</name>
+</rtept>
+<rtept lat="54.7769746215436" lon="-4.93972410612793">
+<ele>0.261396388452315</ele>
+<name>MoGT2009</name>
+</rtept>
+<rtept lat="54.7774363401167" lon="-4.94107499311266">
+<ele>0.688274543169537</ele>
+<name>MoGT2010</name>
+</rtept>
+<rtept lat="54.7774551832395" lon="-4.94152119063941">
+<ele>1.19427454316872</ele>
+<name>MoGT2011</name>
+</rtept>
+<rtept lat="54.7778063670421" lon="-4.94212839843009">
+<ele>1.49457135308185</ele>
+<name>MoGT2012</name>
+</rtept>
+<rtept lat="54.7787075714331" lon="-4.94248471776226">
+<ele>0.54632256171578</ele>
+<name>MoGT2013</name>
+</rtept>
+<rtept lat="54.7790546824166" lon="-4.94285212424347">
+<ele>1.07204081711712</ele>
+<name>MoGT2014</name>
+</rtept>
+<rtept lat="54.780987497806" lon="-4.94348876207435">
+<ele>3.13737304668668</ele>
+<name>MoGT2015</name>
+</rtept>
+<rtept lat="54.7814153234919" lon="-4.9433829713546">
+<ele>1.95057135308045</ele>
+<name>MoGT2016</name>
+</rtept>
+<rtept lat="54.7821326006073" lon="-4.94398264673847">
+<ele>2.78261335069157</ele>
+<name>MoGT2017</name>
+</rtept>
+<rtept lat="54.7822548008334" lon="-4.94383753195889">
+<ele>1.4149066394373</ele>
+<name>MoGT2018</name>
+</rtept>
+<rtept lat="54.7824242060998" lon="-4.94419206461141">
+<ele>2.22166063715769</ele>
+<name>MoGT2019</name>
+</rtept>
+<rtept lat="54.7837933770524" lon="-4.94523273828989">
+<ele>1.67954538617388</ele>
+<name>MoGT2020</name>
+</rtept>
+<rtept lat="54.7839714927202" lon="-4.9452285806438">
+<ele>0.683123907120005</ele>
+<name>MoGT2021</name>
+</rtept>
+<rtept lat="54.7844801970788" lon="-4.94586449164821">
+<ele>2.6527686519259</ele>
+<name>MoGT2022</name>
+</rtept>
+<rtept lat="54.7852788377645" lon="-4.94677819788737">
+<ele>5.02557521202667</ele>
+<name>MoGT2023</name>
+</rtept>
+<rtept lat="54.7872412440562" lon="-4.94741728680159">
+<ele>5.1599005566429</ele>
+<name>MoGT2024</name>
+</rtept>
+<rtept lat="54.7876003820947" lon="-4.94728941071349">
+<ele>2.67346389472122</ele>
+<name>MoGT2025</name>
+</rtept>
+<rtept lat="54.7886607692983" lon="-4.94760618756165">
+<ele>8.45251000444639</ele>
+<name>MoGT2026</name>
+</rtept>
+<rtept lat="54.7900140956152" lon="-4.9476704844645">
+<ele>8.58917762026524</ele>
+<name>MoGT2027</name>
+</rtept>
+<rtept lat="54.7911803600412" lon="-4.94729330101057">
+<ele>0</ele>
+<name>MoGT2028</name>
+</rtept>
+<rtept lat="54.7918109368775" lon="-4.94739055160356">
+<ele>0</ele>
+<name>MoGT2029</name>
+</rtept>
+<rtept lat="54.7929954102924" lon="-4.94829832787257">
+<ele>0</ele>
+<name>MoGT2030</name>
+</rtept>
+<rtept lat="54.7929698494531" lon="-4.9485360822178">
+<ele>3.49044043762237</ele>
+<name>MoGT2031</name>
+</rtept>
+<rtept lat="54.7944105751389" lon="-4.94947970621548">
+<ele>6.32342798736827</ele>
+<name>MoGT2032</name>
+</rtept>
+<rtept lat="54.7954375965632" lon="-4.94994821740835">
+<ele>2.58352404443528</ele>
+<name>MoGT2033</name>
+</rtept>
+<rtept lat="54.7959843087061" lon="-4.94983400967788">
+<ele>0.519632760212178</ele>
+<name>MoGT2034</name>
+</rtept>
+<rtept lat="54.7963733769884" lon="-4.950101999219">
+<ele>0.0246287093316413</ele>
+<name>MoGT2035</name>
+</rtept>
+<rtept lat="54.7966163341971" lon="-4.95068456667525">
+<ele>1.43567034510109</ele>
+<name>MoGT2036</name>
+</rtept>
+<rtept lat="54.7972131322168" lon="-4.9509505962055">
+<ele>0.101701967781862</ele>
+<name>MoGT2037</name>
+</rtept>
+<rtept lat="54.7978026368496" lon="-4.95232873856957">
+<ele>0.442826532825384</ele>
+<name>MoGT2038</name>
+</rtept>
+<rtept lat="54.7983749945824" lon="-4.95319213865051">
+<ele>0.271018306715509</ele>
+<name>MoGT2039</name>
+</rtept>
+<rtept lat="54.7991582160138" lon="-4.95595394218049">
+<ele>0.728664573124409</ele>
+<name>MoGT2040</name>
+</rtept>
+<rtept lat="54.7996431059796" lon="-4.95756423882186">
+<ele>1.67857135307742</ele>
+<name>MoGT2041</name>
+</rtept>
+<rtept lat="54.8001283760393" lon="-4.95794207065004">
+<ele>1.00533528991538</ele>
+<name>MoGT2042</name>
+</rtept>
+<rtept lat="54.8018542043949" lon="-4.95976301576847">
+<ele>1.02635599539916</ele>
+<name>MoGT2043</name>
+</rtept>
+<rtept lat="54.8024890768174" lon="-4.96049422905365">
+<ele>2.27824203730945</ele>
+<name>MoGT2044</name>
+</rtept>
+<rtept lat="54.8028777021577" lon="-4.96077945471812">
+<ele>0</ele>
+<name>MoGT2045</name>
+</rtept>
+<rtept lat="54.8035324558329" lon="-4.96110127926692">
+<ele>5.52521387450746</ele>
+<name>MoGT2046</name>
+</rtept>
+<rtept lat="54.8057408816143" lon="-4.96138273492727">
+<ele>0.70858915914455</ele>
+<name>MoGT2047</name>
+</rtept>
+<rtept lat="54.8074284597497" lon="-4.96071865541271">
+<ele>0.48629680991231</ele>
+<name>MoGT2048</name>
+</rtept>
+<rtept lat="54.8083834140586" lon="-4.96008653359973">
+<ele>0.584296809912194</ele>
+<name>MoGT2049</name>
+</rtept>
+<rtept lat="54.8092699561125" lon="-4.95982607097992">
+<ele>1.03126750315297</ele>
+<name>MoGT2050</name>
+</rtept>
+<rtept lat="54.8105117506477" lon="-4.95878680946619">
+<ele>0.714296809912194</ele>
+<name>MoGT2051</name>
+</rtept>
+<rtept lat="54.8115277289958" lon="-4.95767960589304">
+<ele>1</ele>
+<name>MoGT2052</name>
+</rtept>
+<rtept lat="54.8134360661695" lon="-4.95607247240854">
+<ele>0.952296809912077</ele>
+<name>MoGT2053</name>
+</rtept>
+<rtept lat="54.8150540491193" lon="-4.95420423633284">
+<ele>0.400296809912543</ele>
+<name>MoGT2054</name>
+</rtept>
+<rtept lat="54.8155851830193" lon="-4.95391765234156">
+<ele>0.899805750437175</ele>
+<name>MoGT2055</name>
+</rtept>
+<rtept lat="54.8178007907064" lon="-4.95065427446166">
+<ele>0.388987234879975</ele>
+<name>MoGT2056</name>
+</rtept>
+<rtept lat="54.8182954464881" lon="-4.94983405417307">
+<ele>0.349193629559169</ele>
+<name>MoGT2057</name>
+</rtept>
+<rtept lat="54.8190479158101" lon="-4.94939226886789">
+<ele>0.902533270009148</ele>
+<name>MoGT2058</name>
+</rtept>
+<rtept lat="54.820370881856" lon="-4.94745063503138">
+<ele>1</ele>
+<name>MoGT2059</name>
+</rtept>
+<rtept lat="54.820852639997" lon="-4.94716032942272">
+<ele>1</ele>
+<name>MoGT2060</name>
+</rtept>
+<rtept lat="54.821304877224" lon="-4.94645680806253">
+<ele>1</ele>
+<name>MoGT2061</name>
+</rtept>
+<rtept lat="54.8218849397661" lon="-4.94619077386044">
+<ele>1</ele>
+<name>MoGT2062</name>
+</rtept>
+<rtept lat="54.8234119411406" lon="-4.94398970728057">
+<ele>1</ele>
+<name>MoGT2063</name>
+</rtept>
+<rtept lat="54.8239717519122" lon="-4.94415036400271">
+<ele>1</ele>
+<name>MoGT2064</name>
+</rtept>
+<rtept lat="54.8242992820221" lon="-4.94369460876535">
+<ele>1</ele>
+<name>MoGT2065</name>
+</rtept>
+<rtept lat="54.8245363010163" lon="-4.94330077321457">
+<ele>1</ele>
+<name>MoGT2066</name>
+</rtept>
+<rtept lat="54.8251341939842" lon="-4.94229942450854">
+<ele>1</ele>
+<name>MoGT2067</name>
+</rtept>
+<rtept lat="54.8253042561917" lon="-4.94140395801424">
+<ele>0.998296809912426</ele>
+<name>MoGT2068</name>
+</rtept>
+<rtept lat="54.8256230698645" lon="-4.94130724576648">
+<ele>0.932116876126194</ele>
+<name>MoGT2069</name>
+</rtept>
+<rtept lat="54.8265279975785" lon="-4.94151011179191">
+<ele>1</ele>
+<name>MoGT2070</name>
+</rtept>
+<rtept lat="54.826765680137" lon="-4.94190425693728">
+<ele>1</ele>
+<name>MoGT2071</name>
+</rtept>
+<rtept lat="54.8269746556021" lon="-4.94185094316196">
+<ele>1</ele>
+<name>MoGT2072</name>
+</rtept>
+<rtept lat="54.8272318280594" lon="-4.94144140779675">
+<ele>1</ele>
+<name>MoGT2073</name>
+</rtept>
+<rtept lat="54.8277283417605" lon="-4.94135761942417">
+<ele>1</ele>
+<name>MoGT2074</name>
+</rtept>
+<rtept lat="54.8282342333547" lon="-4.94170276953812">
+<ele>1</ele>
+<name>MoGT2075</name>
+</rtept>
+<rtept lat="54.8290628290664" lon="-4.94097504879177">
+<ele>1</ele>
+<name>MoGT2076</name>
+</rtept>
+<rtept lat="54.8294914805844" lon="-4.94083492263376">
+<ele>1</ele>
+<name>MoGT2077</name>
+</rtept>
+<rtept lat="54.8304299093834" lon="-4.94006375659587">
+<ele>0.83662490730437</ele>
+<name>MoGT2078</name>
+</rtept>
+<rtept lat="54.830876156495" lon="-4.94042170787333">
+<ele>1.37462230483576</ele>
+<name>MoGT2079</name>
+</rtept>
+<rtept lat="54.8311002384768" lon="-4.94096908428417">
+<ele>1.97254240327626</ele>
+<name>MoGT2080</name>
+</rtept>
+<rtept lat="54.8316847725466" lon="-4.94092595080309">
+<ele>2.81631907666684</ele>
+<name>MoGT2081</name>
+</rtept>
+<rtept lat="54.8325398444704" lon="-4.94155351999882">
+<ele>4.51429680991219</ele>
+<name>MoGT2082</name>
+</rtept>
+<rtept lat="54.8333837127079" lon="-4.94264287890839">
+<ele>7.73431907666614</ele>
+<name>MoGT2083</name>
+</rtept>
+<rtept lat="54.8340427260955" lon="-4.94442126688411">
+<ele>10</ele>
+<name>MoGT2084</name>
+</rtept>
+<rtept lat="54.8340438806132" lon="-4.94478113985972">
+<ele>10</ele>
+<name>MoGT2085</name>
+</rtept>
+<rtept lat="54.8347135647959" lon="-4.94652610502694">
+<ele>10.7169553893226</ele>
+<name>MoGT2086</name>
+</rtept>
+<rtept lat="54.8386285021968" lon="-4.95633846805404">
+<ele>12</ele>
+<name>MoGT2087</name>
+</rtept>
+<rtept lat="54.8422224804387" lon="-4.96103971466122">
+<ele>15.5580222667567</ele>
+<name>MoGT2088</name>
+</rtept>
+<rtept lat="54.8425861942977" lon="-4.96194032928715">
+<ele>17.1643190766691</ele>
+<name>MoGT2089</name>
+</rtept>
+<rtept lat="54.8423320945924" lon="-4.96384098232499">
+<ele>18.9735441189463</ele>
+<name>MoGT2090</name>
+</rtept>
+<rtept lat="54.844356371701" lon="-4.96477778149411">
+<ele>21.4410573440613</ele>
+<name>MoGT2091</name>
+</rtept>
+<rtept lat="54.8453295179618" lon="-4.96502056606172">
+<ele>20.5906823128041</ele>
+<name>MoGT2092</name>
+</rtept>
+<rtept lat="54.8460256668283" lon="-4.9656714835973">
+<ele>20.0557254568464</ele>
+<name>MoGT2093</name>
+</rtept>
+<rtept lat="54.8489027619352" lon="-4.96732238344179">
+<ele>20.1096437725933</ele>
+<name>MoGT2094</name>
+</rtept>
+<rtept lat="54.8517707958928" lon="-4.96893858013313">
+<ele>18.5439554664819</ele>
+<name>MoGT2095</name>
+</rtept>
+<rtept lat="54.8534337103583" lon="-4.96928364453552">
+<ele>13.0539777332405</ele>
+<name>MoGT2096</name>
+</rtept>
+<rtept lat="54.8550796319226" lon="-4.9699189022268">
+<ele>13</ele>
+<name>MoGT2097</name>
+</rtept>
+<rtept lat="54.8558580177539" lon="-4.96963329644928">
+<ele>13.5970285288793</ele>
+<name>MoGT2098</name>
+</rtept>
+<rtept lat="54.8566300571364" lon="-4.96879865299073">
+<ele>14.0300222667586</ele>
+<name>MoGT2099</name>
+</rtept>
+<rtept lat="54.8570541315522" lon="-4.96884696941827">
+<ele>14.9760222667595</ele>
+<name>MoGT2100</name>
+</rtept>
+<rtept lat="54.8576393296846" lon="-4.96918141907511">
+<ele>15</ele>
+<name>MoGT2101</name>
+</rtept>
+<rtept lat="54.8590538806412" lon="-4.97118835798347">
+<ele>16.581721761386</ele>
+<name>MoGT2102</name>
+</rtept>
+<rtept lat="54.8607544892675" lon="-4.97362796598764">
+<ele>17.5682745431509</ele>
+<name>MoGT2103</name>
+</rtept>
+<rtept lat="54.8610361607903" lon="-4.97383729708626">
+<ele>17.3078024685306</ele>
+<name>MoGT2104</name>
+</rtept>
+<rtept lat="54.8613881932811" lon="-4.97400037973534">
+<ele>17.862265460932</ele>
+<name>MoGT2105</name>
+</rtept>
+<rtept lat="54.8618229753077" lon="-4.97401525760647">
+<ele>16.6241926898316</ele>
+<name>MoGT2106</name>
+</rtept>
+<rtept lat="54.861914983165" lon="-4.97429635092553">
+<ele>16.6982745431527</ele>
+<name>MoGT2107</name>
+</rtept>
+<rtept lat="54.865534846263" lon="-4.97590043392315">
+<ele>13.7257254568499</ele>
+<name>MoGT2108</name>
+</rtept>
+<rtept lat="54.8706591944896" lon="-4.97866185303297">
+<ele>29.6572284891918</ele>
+<name>MoGT2109</name>
+</rtept>
+<rtept lat="54.8711424869593" lon="-4.97710268450436">
+<ele>28.4877031900879</ele>
+<name>MoGT2110</name>
+</rtept>
+<rtept lat="54.8713831899561" lon="-4.97696609816352">
+<ele>28.6857031900884</ele>
+<name>MoGT2111</name>
+</rtept>
+<rtept lat="54.8772940884519" lon="-4.98031784991435">
+<ele>37.6803190766758</ele>
+<name>MoGT2112</name>
+</rtept>
+<rtept lat="54.8772386251834" lon="-4.98096550484915">
+<ele>38.4283190766757</ele>
+<name>MoGT2113</name>
+</rtept>
+<rtept lat="54.8787298306937" lon="-4.98306529161405">
+<ele>29.5577031900879</ele>
+<name>MoGT2114</name>
+</rtept>
+<rtept lat="54.8805469988184" lon="-4.98477768552417">
+<ele>29.6397254568525</ele>
+<name>MoGT2115</name>
+</rtept>
+<rtept lat="54.8815234116662" lon="-4.98569042041724">
+<ele>33.1626082736707</ele>
+<name>MoGT2116</name>
+</rtept>
+<rtept lat="54.882284443865" lon="-4.98771939036946">
+<ele>39.9509558337103</ele>
+<name>MoGT2117</name>
+</rtept>
+<rtept lat="54.8826408464861" lon="-4.98810600918109">
+<ele>37.4632563811445</ele>
+<name>MoGT2118</name>
+</rtept>
+<rtept lat="54.8829374194827" lon="-4.98811081966258">
+<ele>34.9870985130849</ele>
+<name>MoGT2119</name>
+</rtept>
+<rtept lat="54.8831347836681" lon="-4.98893166956846">
+<ele>29.2222997348684</ele>
+<name>MoGT2120</name>
+</rtept>
+<rtept lat="54.8853354114145" lon="-4.9923369712162">
+<ele>19.7774542447197</ele>
+<name>MoGT2121</name>
+</rtept>
+<rtept lat="54.8864351863079" lon="-4.99385959357962">
+<ele>15.2979777332349</ele>
+<name>MoGT2122</name>
+</rtept>
+<rtept lat="54.8873562446419" lon="-4.99180064178402">
+<ele>17.6863276007123</ele>
+<name>MoGT2123</name>
+</rtept>
+<rtept lat="54.8879676079761" lon="-4.99227488320722">
+<ele>19.6477254568553</ele>
+<name>MoGT2124</name>
+</rtept>
+<rtept lat="54.8881403940103" lon="-4.99288816170144">
+<ele>19.2957254568534</ele>
+<name>MoGT2125</name>
+</rtept>
+<rtept lat="54.8886156608152" lon="-4.99326654892565">
+<ele>19.9337254568539</ele>
+<name>MoGT2126</name>
+</rtept>
+<rtept lat="54.8887842180497" lon="-4.99405109121387">
+<ele>19.3974430268026</ele>
+<name>MoGT2127</name>
+</rtept>
+<rtept lat="54.8894519989964" lon="-4.99504427144491">
+<ele>21.5456151070453</ele>
+<name>MoGT2128</name>
+</rtept>
+<rtept lat="54.8898099467331" lon="-4.99616888293243">
+<ele>22.393243520959</ele>
+<name>MoGT2129</name>
+</rtept>
+<rtept lat="54.8900881926963" lon="-4.99651553208548">
+<ele>21.6483461931902</ele>
+<name>MoGT2130</name>
+</rtept>
+<rtept lat="54.8905080225022" lon="-4.9967354490399">
+<ele>19.2282801888349</ele>
+<name>MoGT2131</name>
+</rtept>
+<rtept lat="54.8923246997251" lon="-4.99886073881053">
+<ele>20.1097224648552</ele>
+<name>MoGT2132</name>
+</rtept>
+<rtept lat="54.8926837420984" lon="-4.99953943965028">
+<ele>22.0911734739313</ele>
+<name>MoGT2133</name>
+</rtept>
+<rtept lat="54.8924597808258" lon="-5.0009983648899">
+<ele>23</ele>
+<name>MoGT2134</name>
+</rtept>
+<rtept lat="54.892522630017" lon="-5.0028561008947">
+<ele>23</ele>
+<name>MoGT2135</name>
+</rtept>
+<rtept lat="54.8927751810094" lon="-5.00344112069649">
+<ele>22.7637031900883</ele>
+<name>MoGT2136</name>
+</rtept>
+<rtept lat="54.8935921029561" lon="-5.00399955147">
+<ele>23</ele>
+<name>MoGT2137</name>
+</rtept>
+<rtept lat="54.8945870706639" lon="-5.00575523123848">
+<ele>22.4597254568565</ele>
+<name>MoGT2138</name>
+</rtept>
+<rtept lat="54.895320226514" lon="-5.00610158122761">
+<ele>22.5689020348622</ele>
+<name>MoGT2139</name>
+</rtept>
+<rtept lat="54.8962305280612" lon="-5.00608364069214">
+<ele>22.2942968099116</ele>
+<name>MoGT2140</name>
+</rtept>
+<rtept lat="54.8974126826465" lon="-5.00666940799838">
+<ele>20.1739777332312</ele>
+<name>MoGT2141</name>
+</rtept>
+<rtept lat="54.8977389814919" lon="-5.00707126213917">
+<ele>19.7610363615266</ele>
+<name>MoGT2142</name>
+</rtept>
+<rtept lat="54.8987416336797" lon="-5.00731764102339">
+<ele>18.1819777332316</ele>
+<name>MoGT2143</name>
+</rtept>
+<rtept lat="54.9001675979728" lon="-5.00804180088946">
+<ele>13.5245170976353</ele>
+<name>MoGT2144</name>
+</rtept>
+<rtept lat="54.9008586034769" lon="-5.00809335326722">
+<ele>10.8599554664642</ele>
+<name>MoGT2145</name>
+</rtept>
+<rtept lat="54.9016107529098" lon="-5.00887026812356">
+<ele>7.14193319969345</ele>
+<name>MoGT2146</name>
+</rtept>
+<rtept lat="54.9018001163648" lon="-5.00921047701984">
+<ele>5.82193319969345</ele>
+<name>MoGT2147</name>
+</rtept>
+<rtept lat="54.9022928419017" lon="-5.00928157738111">
+<ele>4.17397773323115</ele>
+<name>MoGT2148</name>
+</rtept>
+<rtept lat="54.9023137464869" lon="-5.01043300320608">
+<ele>4.06397773323115</ele>
+<name>MoGT2149</name>
+</rtept>
+<rtept lat="54.902507353257" lon="-5.01060191996926">
+<ele>4</ele>
+<name>MoGT2150</name>
+</rtept>
+<rtept lat="54.906984329817" lon="-5.01112508326867">
+<ele>0.734883744375029</ele>
+<name>MoGT2151</name>
+</rtept>
+<rtept lat="54.9069659604235" lon="-5.01146699433429">
+<ele>0.657977733230218</ele>
+<name>MoGT2152</name>
+</rtept>
+<rtept lat="54.905804347341" lon="-5.0160315737121">
+<ele>0.989977733229752</ele>
+<name>MoGT2153</name>
+</rtept>
+<rtept lat="54.9052412273022" lon="-5.01799756772945">
+<ele>1</ele>
+<name>MoGT2154</name>
+</rtept>
+<rtept lat="54.9051846307741" lon="-5.01828510911934">
+<ele>1.01910267820138</ele>
+<name>MoGT2155</name>
+</rtept>
+<rtept lat="54.9057542635855" lon="-5.02122842305077">
+<ele>1.81397773323115</ele>
+<name>MoGT2156</name>
+</rtept>
+<rtept lat="54.9056275330572" lon="-5.0231412538532">
+<ele>1.98997773322975</ele>
+<name>MoGT2157</name>
+</rtept>
+<rtept lat="54.9056370376584" lon="-5.02355389448092">
+<ele>1.94597773323068</ele>
+<name>MoGT2158</name>
+</rtept>
+<rtept lat="54.9054538648719" lon="-5.02415804492274">
+<ele>2.31997773322975</ele>
+<name>MoGT2159</name>
+</rtept>
+<rtept lat="54.9053255939025" lon="-5.02454318352136">
+<ele>2.54807633875699</ele>
+<name>MoGT2160</name>
+</rtept>
+<rtept lat="54.9055846475267" lon="-5.0264506213031">
+<ele>1.45666844894487</ele>
+<name>MoGT2161</name>
+</rtept>
+</rte>
+</gpx>

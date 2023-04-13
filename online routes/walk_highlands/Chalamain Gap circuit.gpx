@@ -1,0 +1,766 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Chalamain Gap circuit</name>
+<rtept lat="57.146295" lon="-3.679334">
+<ele>463.58606</ele>
+<name>ChGa001</name>
+</rtept>
+<rtept lat="57.1457617293432" lon="-3.67889990967788">
+<ele>471.265350358074</ele>
+<name>ChGa002</name>
+</rtept>
+<rtept lat="57.144932" lon="-3.679709">
+<ele>476.824585</ele>
+<name>ChGa003</name>
+</rtept>
+<rtept lat="57.144326" lon="-3.679637">
+<ele>457.117737</ele>
+<name>ChGa004</name>
+</rtept>
+<rtept lat="57.143959" lon="-3.67978">
+<ele>462.911316</ele>
+<name>ChGa005</name>
+</rtept>
+<rtept lat="57.143796" lon="-3.680766">
+<ele>474.376709</ele>
+<name>ChGa006</name>
+</rtept>
+<rtept lat="57.143919" lon="-3.681162">
+<ele>474.116943</ele>
+<name>ChGa007</name>
+</rtept>
+<rtept lat="57.144441" lon="-3.681497">
+<ele>480.18335</ele>
+<name>ChGa008</name>
+</rtept>
+<rtept lat="57.144058" lon="-3.681702">
+<ele>485.280273</ele>
+<name>ChGa009</name>
+</rtept>
+<rtept lat="57.143506" lon="-3.681528">
+<ele>497.353027</ele>
+<name>ChGa010</name>
+</rtept>
+<rtept lat="57.142565" lon="-3.68161">
+<ele>521.939819</ele>
+<name>ChGa011</name>
+</rtept>
+<rtept lat="57.141986" lon="-3.681257">
+<ele>525.260742</ele>
+<name>ChGa012</name>
+</rtept>
+<rtept lat="57.141533" lon="-3.681501">
+<ele>536.767822</ele>
+<name>ChGa013</name>
+</rtept>
+<rtept lat="57.140673" lon="-3.681293">
+<ele>537.68103</ele>
+<name>ChGa014</name>
+</rtept>
+<rtept lat="57.14022" lon="-3.681457">
+<ele>543.241943</ele>
+<name>ChGa015</name>
+</rtept>
+<rtept lat="57.139024" lon="-3.683585">
+<ele>551.4552</ele>
+<name>ChGa016</name>
+</rtept>
+<rtept lat="57.138495" lon="-3.685189">
+<ele>551.27771</ele>
+<name>ChGa017</name>
+</rtept>
+<rtept lat="57.138043" lon="-3.687193">
+<ele>559.747803</ele>
+<name>ChGa018</name>
+</rtept>
+<rtept lat="57.138129" lon="-3.688822">
+<ele>559.390625</ele>
+<name>ChGa019</name>
+</rtept>
+<rtept lat="57.138079" lon="-3.692235">
+<ele>565.310059</ele>
+<name>ChGa020</name>
+</rtept>
+<rtept lat="57.137937" lon="-3.69404">
+<ele>567.316895</ele>
+<name>ChGa021</name>
+</rtept>
+<rtept lat="57.137733" lon="-3.69479">
+<ele>559.736938</ele>
+<name>ChGa022</name>
+</rtept>
+<rtept lat="57.135826" lon="-3.696939">
+<ele>533.814331</ele>
+<name>ChGa023</name>
+</rtept>
+<rtept lat="57.135389" lon="-3.697761">
+<ele>534.815674</ele>
+<name>ChGa024</name>
+</rtept>
+<rtept lat="57.135239" lon="-3.698757">
+<ele>548.945801</ele>
+<name>ChGa025</name>
+</rtept>
+<rtept lat="57.134639" lon="-3.699479">
+<ele>557.471436</ele>
+<name>ChGa026</name>
+</rtept>
+<rtept lat="57.134339" lon="-3.700348">
+<ele>572.442871</ele>
+<name>ChGa027</name>
+</rtept>
+<rtept lat="57.133959" lon="-3.700898">
+<ele>577.928955</ele>
+<name>ChGa028</name>
+</rtept>
+<rtept lat="57.133582" lon="-3.700991">
+<ele>577.08374</ele>
+<name>ChGa029</name>
+</rtept>
+<rtept lat="57.132781" lon="-3.701949">
+<ele>593.622925</ele>
+<name>ChGa030</name>
+</rtept>
+<rtept lat="57.131878" lon="-3.703939">
+<ele>618.11792</ele>
+<name>ChGa031</name>
+</rtept>
+<rtept lat="57.130936" lon="-3.705413">
+<ele>611.723633</ele>
+<name>ChGa032</name>
+</rtept>
+<rtept lat="57.129544" lon="-3.706855">
+<ele>633.178589</ele>
+<name>ChGa033</name>
+</rtept>
+<rtept lat="57.128935" lon="-3.708013">
+<ele>639.643555</ele>
+<name>ChGa034</name>
+</rtept>
+<rtept lat="57.128538" lon="-3.708088">
+<ele>650.776855</ele>
+<name>ChGa035</name>
+</rtept>
+<rtept lat="57.128013" lon="-3.708756">
+<ele>659.930054</ele>
+<name>ChGa036</name>
+</rtept>
+<rtept lat="57.127392" lon="-3.709889">
+<ele>673.519043</ele>
+<name>ChGa037</name>
+</rtept>
+<rtept lat="57.126281" lon="-3.711064">
+<ele>692.209229</ele>
+<name>ChGa038</name>
+</rtept>
+<rtept lat="57.126087" lon="-3.711585">
+<ele>692.178345</ele>
+<name>ChGa039</name>
+</rtept>
+<rtept lat="57.125416" lon="-3.712106">
+<ele>683.938965</ele>
+<name>ChGa040</name>
+</rtept>
+<rtept lat="57.124497" lon="-3.714085">
+<ele>689.986328</ele>
+<name>ChGa041</name>
+</rtept>
+<rtept lat="57.122485" lon="-3.716302">
+<ele>665.898438</ele>
+<name>ChGa042</name>
+</rtept>
+<rtept lat="57.122321" lon="-3.716904">
+<ele>656.634399</ele>
+<name>ChGa043</name>
+</rtept>
+<rtept lat="57.121935" lon="-3.717439">
+<ele>650.262451</ele>
+<name>ChGa044</name>
+</rtept>
+<rtept lat="57.119709" lon="-3.719101">
+<ele>626.098877</ele>
+<name>ChGa045</name>
+</rtept>
+<rtept lat="57.117869" lon="-3.720161">
+<ele>614.327637</ele>
+<name>ChGa046</name>
+</rtept>
+<rtept lat="57.117412" lon="-3.719912">
+<ele>617.431274</ele>
+<name>ChGa047</name>
+</rtept>
+<rtept lat="57.116099" lon="-3.719914">
+<ele>613.413086</ele>
+<name>ChGa048</name>
+</rtept>
+<rtept lat="57.114593" lon="-3.720338">
+<ele>637.658691</ele>
+<name>ChGa049</name>
+</rtept>
+<rtept lat="57.113874" lon="-3.720321">
+<ele>628.532959</ele>
+<name>ChGa050</name>
+</rtept>
+<rtept lat="57.113284" lon="-3.720592">
+<ele>590.96875</ele>
+<name>ChGa051</name>
+</rtept>
+<rtept lat="57.114424" lon="-3.722336">
+<ele>587.997437</ele>
+<name>ChGa052</name>
+</rtept>
+<rtept lat="57.115378" lon="-3.723172">
+<ele>593.552246</ele>
+<name>ChGa053</name>
+</rtept>
+<rtept lat="57.116535" lon="-3.723634">
+<ele>586.265625</ele>
+<name>ChGa054</name>
+</rtept>
+<rtept lat="57.117677" lon="-3.723496">
+<ele>581.154785</ele>
+<name>ChGa055</name>
+</rtept>
+<rtept lat="57.119284" lon="-3.724049">
+<ele>563.367065</ele>
+<name>ChGa056</name>
+</rtept>
+<rtept lat="57.119955" lon="-3.724003">
+<ele>555.828125</ele>
+<name>ChGa057</name>
+</rtept>
+<rtept lat="57.121689" lon="-3.724795">
+<ele>547.024658</ele>
+<name>ChGa058</name>
+</rtept>
+<rtept lat="57.123006" lon="-3.726326">
+<ele>542.889893</ele>
+<name>ChGa059</name>
+</rtept>
+<rtept lat="57.123468" lon="-3.726262">
+<ele>542.471436</ele>
+<name>ChGa060</name>
+</rtept>
+<rtept lat="57.124389" lon="-3.727022">
+<ele>539.719727</ele>
+<name>ChGa061</name>
+</rtept>
+<rtept lat="57.126025" lon="-3.729286">
+<ele>531.848145</ele>
+<name>ChGa062</name>
+</rtept>
+<rtept lat="57.126131" lon="-3.729676">
+<ele>529.171753</ele>
+<name>ChGa063</name>
+</rtept>
+<rtept lat="57.127299" lon="-3.731801">
+<ele>517.229492</ele>
+<name>ChGa064</name>
+</rtept>
+<rtept lat="57.128102" lon="-3.732756">
+<ele>513.128906</ele>
+<name>ChGa065</name>
+</rtept>
+<rtept lat="57.129417" lon="-3.733876">
+<ele>498.676025</ele>
+<name>ChGa066</name>
+</rtept>
+<rtept lat="57.130226" lon="-3.73503">
+<ele>499.600464</ele>
+<name>ChGa067</name>
+</rtept>
+<rtept lat="57.130527" lon="-3.736215">
+<ele>481.034668</ele>
+<name>ChGa068</name>
+</rtept>
+<rtept lat="57.130973" lon="-3.737192">
+<ele>475.159912</ele>
+<name>ChGa069</name>
+</rtept>
+<rtept lat="57.132896" lon="-3.740408">
+<ele>455.281189</ele>
+<name>ChGa070</name>
+</rtept>
+<rtept lat="57.134267" lon="-3.741879">
+<ele>442.28479</ele>
+<name>ChGa071</name>
+</rtept>
+<rtept lat="57.135093" lon="-3.742307">
+<ele>434.401855</ele>
+<name>ChGa072</name>
+</rtept>
+<rtept lat="57.1355" lon="-3.742818">
+<ele>423.479736</ele>
+<name>ChGa073</name>
+</rtept>
+<rtept lat="57.135764" lon="-3.743327">
+<ele>429.58783</ele>
+<name>ChGa074</name>
+</rtept>
+<rtept lat="57.135937" lon="-3.744116">
+<ele>418.929993</ele>
+<name>ChGa075</name>
+</rtept>
+<rtept lat="57.13632" lon="-3.745086">
+<ele>415.126099</ele>
+<name>ChGa076</name>
+</rtept>
+<rtept lat="57.13771" lon="-3.747025">
+<ele>401.997803</ele>
+<name>ChGa077</name>
+</rtept>
+<rtept lat="57.138562" lon="-3.747846">
+<ele>395.340698</ele>
+<name>ChGa078</name>
+</rtept>
+<rtept lat="57.139349" lon="-3.749218">
+<ele>396.762512</ele>
+<name>ChGa079</name>
+</rtept>
+<rtept lat="57.140858" lon="-3.750328">
+<ele>381.58805</ele>
+<name>ChGa080</name>
+</rtept>
+<rtept lat="57.141126" lon="-3.750858">
+<ele>379.953584</ele>
+<name>ChGa081</name>
+</rtept>
+<rtept lat="57.14216" lon="-3.75204">
+<ele>360.75771</ele>
+<name>ChGa082</name>
+</rtept>
+<rtept lat="57.142981" lon="-3.752669">
+<ele>353.009346</ele>
+<name>ChGa083</name>
+</rtept>
+<rtept lat="57.143713" lon="-3.753973">
+<ele>355.287372</ele>
+<name>ChGa084</name>
+</rtept>
+<rtept lat="57.14404" lon="-3.754322">
+<ele>347.253843</ele>
+<name>ChGa085</name>
+</rtept>
+<rtept lat="57.144767" lon="-3.75449">
+<ele>348.554392</ele>
+<name>ChGa086</name>
+</rtept>
+<rtept lat="57.145046" lon="-3.754736">
+<ele>340.650129</ele>
+<name>ChGa087</name>
+</rtept>
+<rtept lat="57.145261" lon="-3.755144">
+<ele>337.870285</ele>
+<name>ChGa088</name>
+</rtept>
+<rtept lat="57.145771" lon="-3.755545">
+<ele>340.863067</ele>
+<name>ChGa089</name>
+</rtept>
+<rtept lat="57.146206" lon="-3.756328">
+<ele>340.014515</ele>
+<name>ChGa090</name>
+</rtept>
+<rtept lat="57.14651" lon="-3.756533">
+<ele>346.850877</ele>
+<name>ChGa091</name>
+</rtept>
+<rtept lat="57.146819" lon="-3.755859">
+<ele>343.677522</ele>
+<name>ChGa092</name>
+</rtept>
+<rtept lat="57.14681" lon="-3.755125">
+<ele>343.526328</ele>
+<name>ChGa093</name>
+</rtept>
+<rtept lat="57.146996" lon="-3.754886">
+<ele>347.723759</ele>
+<name>ChGa094</name>
+</rtept>
+<rtept lat="57.147535" lon="-3.753468">
+<ele>352.098929</ele>
+<name>ChGa095</name>
+</rtept>
+<rtept lat="57.147666" lon="-3.753392">
+<ele>344.184022</ele>
+<name>ChGa096</name>
+</rtept>
+<rtept lat="57.147724" lon="-3.752753">
+<ele>339.732922</ele>
+<name>ChGa097</name>
+</rtept>
+<rtept lat="57.148003" lon="-3.752137">
+<ele>344.699454</ele>
+<name>ChGa098</name>
+</rtept>
+<rtept lat="57.147855" lon="-3.751436">
+<ele>350.212131</ele>
+<name>ChGa099</name>
+</rtept>
+<rtept lat="57.147463" lon="-3.751248">
+<ele>346.271023</ele>
+<name>ChGa100</name>
+</rtept>
+<rtept lat="57.1474" lon="-3.750846">
+<ele>347.267471</ele>
+<name>ChGa101</name>
+</rtept>
+<rtept lat="57.148126" lon="-3.748937">
+<ele>339.065857</ele>
+<name>ChGa102</name>
+</rtept>
+<rtept lat="57.148211" lon="-3.748112">
+<ele>348.277344</ele>
+<name>ChGa103</name>
+</rtept>
+<rtept lat="57.148897" lon="-3.746393">
+<ele>354.842957</ele>
+<name>ChGa104</name>
+</rtept>
+<rtept lat="57.149742" lon="-3.745384">
+<ele>353.897949</ele>
+<name>ChGa105</name>
+</rtept>
+<rtept lat="57.150438" lon="-3.743875">
+<ele>347.047363</ele>
+<name>ChGa106</name>
+</rtept>
+<rtept lat="57.151601" lon="-3.742178">
+<ele>346.247559</ele>
+<name>ChGa107</name>
+</rtept>
+<rtept lat="57.151956" lon="-3.740018">
+<ele>334.288818</ele>
+<name>ChGa108</name>
+</rtept>
+<rtept lat="57.152123" lon="-3.739523">
+<ele>338.844116</ele>
+<name>ChGa109</name>
+</rtept>
+<rtept lat="57.152588" lon="-3.738865">
+<ele>338.852661</ele>
+<name>ChGa110</name>
+</rtept>
+<rtept lat="57.154537" lon="-3.737959">
+<ele>334.429016</ele>
+<name>ChGa111</name>
+</rtept>
+<rtept lat="57.154966" lon="-3.737252">
+<ele>331.127441</ele>
+<name>ChGa112</name>
+</rtept>
+<rtept lat="57.155267" lon="-3.737228">
+<ele>333.165283</ele>
+<name>ChGa113</name>
+</rtept>
+<rtept lat="57.156047" lon="-3.736683">
+<ele>319.622559</ele>
+<name>ChGa114</name>
+</rtept>
+<rtept lat="57.156501" lon="-3.735728">
+<ele>329.316528</ele>
+<name>ChGa115</name>
+</rtept>
+<rtept lat="57.156786" lon="-3.734579">
+<ele>330.759033</ele>
+<name>ChGa116</name>
+</rtept>
+<rtept lat="57.158182" lon="-3.731685">
+<ele>335.953125</ele>
+<name>ChGa117</name>
+</rtept>
+<rtept lat="57.159506" lon="-3.730508">
+<ele>322.974792</ele>
+<name>ChGa118</name>
+</rtept>
+<rtept lat="57.160514" lon="-3.730235">
+<ele>326.808472</ele>
+<name>ChGa119</name>
+</rtept>
+<rtept lat="57.161237" lon="-3.729656">
+<ele>333.502808</ele>
+<name>ChGa120</name>
+</rtept>
+<rtept lat="57.162862" lon="-3.727591">
+<ele>311.373291</ele>
+<name>ChGa121</name>
+</rtept>
+<rtept lat="57.162198" lon="-3.726793">
+<ele>292.778687</ele>
+<name>ChGa122</name>
+</rtept>
+<rtept lat="57.161106" lon="-3.724588">
+<ele>318.077393</ele>
+<name>ChGa123</name>
+</rtept>
+<rtept lat="57.159965" lon="-3.72336">
+<ele>317.57251</ele>
+<name>ChGa124</name>
+</rtept>
+<rtept lat="57.159396" lon="-3.722088">
+<ele>315.65271</ele>
+<name>ChGa125</name>
+</rtept>
+<rtept lat="57.158985" lon="-3.721935">
+<ele>317.874573</ele>
+<name>ChGa126</name>
+</rtept>
+<rtept lat="57.15855" lon="-3.72147">
+<ele>308.307007</ele>
+<name>ChGa127</name>
+</rtept>
+<rtept lat="57.157284" lon="-3.718647">
+<ele>311.965088</ele>
+<name>ChGa128</name>
+</rtept>
+<rtept lat="57.156704" lon="-3.716984">
+<ele>325.756653</ele>
+<name>ChGa129</name>
+</rtept>
+<rtept lat="57.156505" lon="-3.71628">
+<ele>318.618408</ele>
+<name>ChGa130</name>
+</rtept>
+<rtept lat="57.156347" lon="-3.715055">
+<ele>322.108765</ele>
+<name>ChGa131</name>
+</rtept>
+<rtept lat="57.156916" lon="-3.714183">
+<ele>340.282593</ele>
+<name>ChGa132</name>
+</rtept>
+<rtept lat="57.157137" lon="-3.713492">
+<ele>326.043884</ele>
+<name>ChGa133</name>
+</rtept>
+<rtept lat="57.157893" lon="-3.71244">
+<ele>320.693726</ele>
+<name>ChGa134</name>
+</rtept>
+<rtept lat="57.158156" lon="-3.71128">
+<ele>330.608521</ele>
+<name>ChGa135</name>
+</rtept>
+<rtept lat="57.158221" lon="-3.710496">
+<ele>329.318054</ele>
+<name>ChGa136</name>
+</rtept>
+<rtept lat="57.158643" lon="-3.710073">
+<ele>324.477051</ele>
+<name>ChGa137</name>
+</rtept>
+<rtept lat="57.159056" lon="-3.710187">
+<ele>317.661011</ele>
+<name>ChGa138</name>
+</rtept>
+<rtept lat="57.159386" lon="-3.709396">
+<ele>316.389648</ele>
+<name>ChGa139</name>
+</rtept>
+<rtept lat="57.159401" lon="-3.705876">
+<ele>317.609253</ele>
+<name>ChGa140</name>
+</rtept>
+<rtept lat="57.159557" lon="-3.704553">
+<ele>323.571228</ele>
+<name>ChGa141</name>
+</rtept>
+<rtept lat="57.159376" lon="-3.703458">
+<ele>338.268372</ele>
+<name>ChGa142</name>
+</rtept>
+<rtept lat="57.159158" lon="-3.700102">
+<ele>330.817017</ele>
+<name>ChGa143</name>
+</rtept>
+<rtept lat="57.159231" lon="-3.699336">
+<ele>333.686523</ele>
+<name>ChGa144</name>
+</rtept>
+<rtept lat="57.159025" lon="-3.697629">
+<ele>329.411743</ele>
+<name>ChGa145</name>
+</rtept>
+<rtept lat="57.159087" lon="-3.696688">
+<ele>336.61499</ele>
+<name>ChGa146</name>
+</rtept>
+<rtept lat="57.159037" lon="-3.695339">
+<ele>328.93811</ele>
+<name>ChGa147</name>
+</rtept>
+<rtept lat="57.15891" lon="-3.694701">
+<ele>322.707642</ele>
+<name>ChGa148</name>
+</rtept>
+<rtept lat="57.158939" lon="-3.693756">
+<ele>328.262329</ele>
+<name>ChGa149</name>
+</rtept>
+<rtept lat="57.158832" lon="-3.693215">
+<ele>333.032715</ele>
+<name>ChGa150</name>
+</rtept>
+<rtept lat="57.158959" lon="-3.692471">
+<ele>337.469727</ele>
+<name>ChGa151</name>
+</rtept>
+<rtept lat="57.158865" lon="-3.691159">
+<ele>339.464844</ele>
+<name>ChGa152</name>
+</rtept>
+<rtept lat="57.159139" lon="-3.690666">
+<ele>328.112549</ele>
+<name>ChGa153</name>
+</rtept>
+<rtept lat="57.161323" lon="-3.690049">
+<ele>329.268616</ele>
+<name>ChGa154</name>
+</rtept>
+<rtept lat="57.16165" lon="-3.689666">
+<ele>318.937012</ele>
+<name>ChGa155</name>
+</rtept>
+<rtept lat="57.16183" lon="-3.689205">
+<ele>325.465088</ele>
+<name>ChGa156</name>
+</rtept>
+<rtept lat="57.161804" lon="-3.68832">
+<ele>327.832397</ele>
+<name>ChGa157</name>
+</rtept>
+<rtept lat="57.161527" lon="-3.686508">
+<ele>323.268311</ele>
+<name>ChGa158</name>
+</rtept>
+<rtept lat="57.161249" lon="-3.686225">
+<ele>327.070435</ele>
+<name>ChGa159</name>
+</rtept>
+<rtept lat="57.160614" lon="-3.686044">
+<ele>320.798218</ele>
+<name>ChGa160</name>
+</rtept>
+<rtept lat="57.160422" lon="-3.685771">
+<ele>324.954346</ele>
+<name>ChGa161</name>
+</rtept>
+<rtept lat="57.159689" lon="-3.68426">
+<ele>341.546509</ele>
+<name>ChGa162</name>
+</rtept>
+<rtept lat="57.159726" lon="-3.683864">
+<ele>336.559692</ele>
+<name>ChGa163</name>
+</rtept>
+<rtept lat="57.159569" lon="-3.683473">
+<ele>327.254028</ele>
+<name>ChGa164</name>
+</rtept>
+<rtept lat="57.158271" lon="-3.68228">
+<ele>342.7995</ele>
+<name>ChGa165</name>
+</rtept>
+<rtept lat="57.157633" lon="-3.680453">
+<ele>345.805359</ele>
+<name>ChGa166</name>
+</rtept>
+<rtept lat="57.157054" lon="-3.680552">
+<ele>341.740845</ele>
+<name>ChGa167</name>
+</rtept>
+<rtept lat="57.156575" lon="-3.680981">
+<ele>347.934082</ele>
+<name>ChGa168</name>
+</rtept>
+<rtept lat="57.155992" lon="-3.681078">
+<ele>365.971924</ele>
+<name>ChGa169</name>
+</rtept>
+<rtept lat="57.155746" lon="-3.680549">
+<ele>358.621277</ele>
+<name>ChGa170</name>
+</rtept>
+<rtept lat="57.154652" lon="-3.680226">
+<ele>365.453979</ele>
+<name>ChGa171</name>
+</rtept>
+<rtept lat="57.15378" lon="-3.67949">
+<ele>369.579712</ele>
+<name>ChGa172</name>
+</rtept>
+<rtept lat="57.153407" lon="-3.679423">
+<ele>376.448914</ele>
+<name>ChGa173</name>
+</rtept>
+<rtept lat="57.152722" lon="-3.680155">
+<ele>382.965942</ele>
+<name>ChGa174</name>
+</rtept>
+<rtept lat="57.152229" lon="-3.679486">
+<ele>391.102173</ele>
+<name>ChGa175</name>
+</rtept>
+<rtept lat="57.151391" lon="-3.678742">
+<ele>394.11853</ele>
+<name>ChGa176</name>
+</rtept>
+<rtept lat="57.151018" lon="-3.678596">
+<ele>395.321411</ele>
+<name>ChGa177</name>
+</rtept>
+<rtept lat="57.149541" lon="-3.679033">
+<ele>400.331543</ele>
+<name>ChGa178</name>
+</rtept>
+<rtept lat="57.148593" lon="-3.679839">
+<ele>411.79834</ele>
+<name>ChGa179</name>
+</rtept>
+<rtept lat="57.148053" lon="-3.67986">
+<ele>423.901978</ele>
+<name>ChGa180</name>
+</rtept>
+<rtept lat="57.147284" lon="-3.680361">
+<ele>433.178345</ele>
+<name>ChGa181</name>
+</rtept>
+<rtept lat="57.146078" lon="-3.680547">
+<ele>441.454651</ele>
+<name>ChGa182</name>
+</rtept>
+<rtept lat="57.145697" lon="-3.680438">
+<ele>445.073181</ele>
+<name>ChGa183</name>
+</rtept>
+<rtept lat="57.144973" lon="-3.680832">
+<ele>450.92981</ele>
+<name>ChGa184</name>
+</rtept>
+<rtept lat="57.143935" lon="-3.68004">
+<ele>465.407898</ele>
+<name>ChGa185</name>
+</rtept>
+<rtept lat="57.143968" lon="-3.679776">
+<ele>471.760254</ele>
+<name>ChGa186</name>
+</rtept>
+<rtept lat="57.1449314910154" lon="-3.67970856480096">
+<ele>469.179749910294</ele>
+<name>ChGa187</name>
+</rtept>
+<rtept lat="57.145744" lon="-3.678955">
+<ele>478.148804</ele>
+<name>ChGa188</name>
+</rtept>
+<rtept lat="57.146325" lon="-3.679334">
+<ele>478.04895</ele>
+<name>ChGa189</name>
+</rtept>
+</rte>
+</gpx>

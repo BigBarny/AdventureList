@@ -1,0 +1,650 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>The Isla Way: Dufftown to Keith</name>
+<rtept lat="57.4447818829422" lon="-3.12838952941525">
+<ele>187.473852189576</ele>
+<name>IW001</name>
+</rtept>
+<rtept lat="57.4449387916465" lon="-3.12651488418926">
+<ele>182.370077182216</ele>
+<name>IW002</name>
+</rtept>
+<rtept lat="57.4445406041606" lon="-3.12402336166408">
+<ele>172.80424571425</ele>
+<name>IW003</name>
+</rtept>
+<rtept lat="57.4441390857574" lon="-3.1231113169157">
+<ele>168.906384925222</ele>
+<name>IW004</name>
+</rtept>
+<rtept lat="57.4441738097731" lon="-3.12163282498678">
+<ele>163.211934007671</ele>
+<name>IW005</name>
+</rtept>
+<rtept lat="57.444599812371" lon="-3.12100604832256">
+<ele>169.872362085048</ele>
+<name>IW006</name>
+</rtept>
+<rtept lat="57.4450169253111" lon="-3.12137870828368">
+<ele>171.606435450256</ele>
+<name>IW007</name>
+</rtept>
+<rtept lat="57.4453533315093" lon="-3.12112907234647">
+<ele>173.228555840579</ele>
+<name>IW008</name>
+</rtept>
+<rtept lat="57.4456973147647" lon="-3.12123957056505">
+<ele>175.202669589306</ele>
+<name>IW009</name>
+</rtept>
+<rtept lat="57.4457980429552" lon="-3.12082276007071">
+<ele>174.122669589308</ele>
+<name>IW010</name>
+</rtept>
+<rtept lat="57.4463582825024" lon="-3.12085989136318">
+<ele>174.203531558456</ele>
+<name>IW011</name>
+</rtept>
+<rtept lat="57.4472739226031" lon="-3.12214762852493">
+<ele>177.129467210455</ele>
+<name>IW012</name>
+</rtept>
+<rtept lat="57.4477571192015" lon="-3.12236238595481">
+<ele>179.36075964791</ele>
+<name>IW013</name>
+</rtept>
+<rtept lat="57.4487205646556" lon="-3.12191198249759">
+<ele>172.16354905592</ele>
+<name>IW014</name>
+</rtept>
+<rtept lat="57.4498642485551" lon="-3.12240693654951">
+<ele>170.482857485036</ele>
+<name>IW015</name>
+</rtept>
+<rtept lat="57.4506416338047" lon="-3.1222707717825">
+<ele>172.456724302331</ele>
+<name>IW016</name>
+</rtept>
+<rtept lat="57.4511330144136" lon="-3.12156590314895">
+<ele>157.756906338956</ele>
+<name>IW017</name>
+</rtept>
+<rtept lat="57.4515975029584" lon="-3.12146013450655">
+<ele>156.807032297955</ele>
+<name>IW018</name>
+</rtept>
+<rtept lat="57.4511478082252" lon="-3.1223262726829">
+<ele>178.009792544624</ele>
+<name>IW019</name>
+</rtept>
+<rtept lat="57.450840348782" lon="-3.12295677859889">
+<ele>187.609140583138</ele>
+<name>IW020</name>
+</rtept>
+<rtept lat="57.451068896851" lon="-3.12392367667502">
+<ele>190.802513188954</ele>
+<name>IW021</name>
+</rtept>
+<rtept lat="57.4521485806585" lon="-3.12373681782377">
+<ele>173.704258090669</ele>
+<name>IW022</name>
+</rtept>
+<rtept lat="57.4528627289155" lon="-3.12343874387348">
+<ele>164.632258090673</ele>
+<name>IW023</name>
+</rtept>
+<rtept lat="57.4529487686324" lon="-3.12346138119499">
+<ele>163.744258090664</ele>
+<name>IW024</name>
+</rtept>
+<rtept lat="57.45297557596" lon="-3.12408216639517">
+<ele>165.144969922921</ele>
+<name>IW025</name>
+</rtept>
+<rtept lat="57.4528569242532" lon="-3.12529844929703">
+<ele>162.814736439921</ele>
+<name>IW026</name>
+</rtept>
+<rtept lat="57.4528969990937" lon="-3.12563965939804">
+<ele>160.950851738082</ele>
+<name>IW027</name>
+</rtept>
+<rtept lat="57.4533987078961" lon="-3.12619504964144">
+<ele>158.768965321155</ele>
+<name>IW028</name>
+</rtept>
+<rtept lat="57.4536794514486" lon="-3.12614368279199">
+<ele>157.192433139966</ele>
+<name>IW029</name>
+</rtept>
+<rtept lat="57.4533938241096" lon="-3.13035470210651">
+<ele>150.410227383678</ele>
+<name>IW030</name>
+</rtept>
+<rtept lat="57.4540246492178" lon="-3.13033416830091">
+<ele>149.780000062672</ele>
+<name>IW031</name>
+</rtept>
+<rtept lat="57.4564191780053" lon="-3.1313880944245">
+<ele>152.176236720347</ele>
+<name>IW032</name>
+</rtept>
+<rtept lat="57.458034860358" lon="-3.13153800958795">
+<ele>148.220493232748</ele>
+<name>IW033</name>
+</rtept>
+<rtept lat="57.4580481494998" lon="-3.13125839771586">
+<ele>147.188493232749</ele>
+<name>IW034</name>
+</rtept>
+<rtept lat="57.458527919202" lon="-3.13185327017014">
+<ele>148.077971365365</ele>
+<name>IW035</name>
+</rtept>
+<rtept lat="57.4592722634659" lon="-3.1317962639764">
+<ele>147.146434447229</ele>
+<name>IW036</name>
+</rtept>
+<rtept lat="57.4600372667602" lon="-3.13243998820323">
+<ele>146.76849323275</ele>
+<name>IW037</name>
+</rtept>
+<rtept lat="57.4626507222078" lon="-3.13432117579142">
+<ele>142.737951786658</ele>
+<name>IW038</name>
+</rtept>
+<rtept lat="57.4643263828531" lon="-3.134993238732">
+<ele>144.513649260969</ele>
+<name>IW039</name>
+</rtept>
+<rtept lat="57.4660643752033" lon="-3.13532719563817">
+<ele>142.188673659129</ele>
+<name>IW040</name>
+</rtept>
+<rtept lat="57.4672839955324" lon="-3.13516494697454">
+<ele>140.298841975891</ele>
+<name>IW041</name>
+</rtept>
+<rtept lat="57.4672840150697" lon="-3.13396454819587">
+<ele>133.697841181407</ele>
+<name>IW042</name>
+</rtept>
+<rtept lat="57.4671636631653" lon="-3.13055970153122">
+<ele>123.120210874954</ele>
+<name>IW043</name>
+</rtept>
+<rtept lat="57.4673121906426" lon="-3.12962397478711">
+<ele>123.784482660578</ele>
+<name>IW044</name>
+</rtept>
+<rtept lat="57.467688675468" lon="-3.1297156178394">
+<ele>124.24068622717</ele>
+<name>IW045</name>
+</rtept>
+<rtept lat="57.4689120504983" lon="-3.12913313354167">
+<ele>135.070714457198</ele>
+<name>IW046</name>
+</rtept>
+<rtept lat="57.4699497043405" lon="-3.12882499914378">
+<ele>138.449674355895</ele>
+<name>IW047</name>
+</rtept>
+<rtept lat="57.4699297612022" lon="-3.12864431145464">
+<ele>140.855261053008</ele>
+<name>IW048</name>
+</rtept>
+<rtept lat="57.4689621412292" lon="-3.12835438367894">
+<ele>146.235234436987</ele>
+<name>IW049</name>
+</rtept>
+<rtept lat="57.469029846287" lon="-3.1280163412669">
+<ele>149.593799461751</ele>
+<name>IW050</name>
+</rtept>
+<rtept lat="57.4691622135847" lon="-3.12768028931135">
+<ele>152.383984596937</ele>
+<name>IW051</name>
+</rtept>
+<rtept lat="57.4690213438806" lon="-3.12655552561785">
+<ele>161.718557526961</ele>
+<name>IW052</name>
+</rtept>
+<rtept lat="57.4693307153836" lon="-3.12450424713611">
+<ele>170.586972591753</ele>
+<name>IW053</name>
+</rtept>
+<rtept lat="57.4700273985737" lon="-3.12132434666997">
+<ele>189.957385586062</ele>
+<name>IW054</name>
+</rtept>
+<rtept lat="57.470358359678" lon="-3.12047412696662">
+<ele>192.170023259321</ele>
+<name>IW055</name>
+</rtept>
+<rtept lat="57.4703873754116" lon="-3.11963466598293">
+<ele>197.842660821399</ele>
+<name>IW056</name>
+</rtept>
+<rtept lat="57.4719315597676" lon="-3.1150797905749">
+<ele>222.553864092233</ele>
+<name>IW057</name>
+</rtept>
+<rtept lat="57.4724133603178" lon="-3.11423406237956">
+<ele>224.540559244987</ele>
+<name>IW058</name>
+</rtept>
+<rtept lat="57.4724271415209" lon="-3.1138943219104">
+<ele>226.864744108295</ele>
+<name>IW059</name>
+</rtept>
+<rtept lat="57.4718997567966" lon="-3.11257768192772">
+<ele>235.849212839665</ele>
+<name>IW060</name>
+</rtept>
+<rtept lat="57.4719584064718" lon="-3.11203921744685">
+<ele>237.311179417997</ele>
+<name>IW061</name>
+</rtept>
+<rtept lat="57.4730984472566" lon="-3.10989278571898">
+<ele>233.448690995595</ele>
+<name>IW062</name>
+</rtept>
+<rtept lat="57.4732107958295" lon="-3.10937593672896">
+<ele>234.98444965436</ele>
+<name>IW063</name>
+</rtept>
+<rtept lat="57.4743527232926" lon="-3.10700929212091">
+<ele>239.229084696455</ele>
+<name>IW064</name>
+</rtept>
+<rtept lat="57.4747854953258" lon="-3.10560162258403">
+<ele>248.144215274922</ele>
+<name>IW065</name>
+</rtept>
+<rtept lat="57.4752603866392" lon="-3.10307457876945">
+<ele>252.170671393578</ele>
+<name>IW066</name>
+</rtept>
+<rtept lat="57.4756340415138" lon="-3.1010246933775">
+<ele>257.287198805412</ele>
+<name>IW067</name>
+</rtept>
+<rtept lat="57.4782702327072" lon="-3.09478003078126">
+<ele>285.48011731174</ele>
+<name>IW068</name>
+</rtept>
+<rtept lat="57.478910780755" lon="-3.09425884374588">
+<ele>285.568361599181</ele>
+<name>IW069</name>
+</rtept>
+<rtept lat="57.480083719112" lon="-3.09201237248103">
+<ele>284.870052843368</ele>
+<name>IW070</name>
+</rtept>
+<rtept lat="57.4805197226943" lon="-3.08896327655585">
+<ele>280.65479953679</ele>
+<name>IW071</name>
+</rtept>
+<rtept lat="57.4794661446276" lon="-3.0823676046032">
+<ele>270.164677711975</ele>
+<name>IW072</name>
+</rtept>
+<rtept lat="57.4783051593759" lon="-3.07821068892279">
+<ele>250.672184354328</ele>
+<name>IW073</name>
+</rtept>
+<rtept lat="57.4779395166707" lon="-3.07431752782738">
+<ele>234.753063886065</ele>
+<name>IW074</name>
+</rtept>
+<rtept lat="57.4771486347731" lon="-3.07351385006318">
+<ele>226.519224528136</ele>
+<name>IW075</name>
+</rtept>
+<rtept lat="57.4766761329965" lon="-3.07329987531579">
+<ele>218.601383565016</ele>
+<name>IW076</name>
+</rtept>
+<rtept lat="57.4762300035516" lon="-3.07378707741878">
+<ele>212.190907114146</ele>
+<name>IW077</name>
+</rtept>
+<rtept lat="57.476365631854" lon="-3.0730506328251">
+<ele>210.368553561939</ele>
+<name>IW078</name>
+</rtept>
+<rtept lat="57.4774400973332" lon="-3.06966007718021">
+<ele>197.005648579576</ele>
+<name>IW079</name>
+</rtept>
+<rtept lat="57.4778726842645" lon="-3.06695105300596">
+<ele>177.570835316383</ele>
+<name>IW080</name>
+</rtept>
+<rtept lat="57.4781052693872" lon="-3.06621737535672">
+<ele>175.508531621926</ele>
+<name>IW081</name>
+</rtept>
+<rtept lat="57.478088955983" lon="-3.06559651666929">
+<ele>172.139562484492</ele>
+<name>IW082</name>
+</rtept>
+<rtept lat="57.4783784601741" lon="-3.06450425689156">
+<ele>173.918280410666</ele>
+<name>IW083</name>
+</rtept>
+<rtept lat="57.4783879110885" lon="-3.06338383025916">
+<ele>171.586543716357</ele>
+<name>IW084</name>
+</rtept>
+<rtept lat="57.4789087755432" lon="-3.06169787565566">
+<ele>169.533941214485</ele>
+<name>IW085</name>
+</rtept>
+<rtept lat="57.4795338599907" lon="-3.06043516821434">
+<ele>168.834058785515</ele>
+<name>IW086</name>
+</rtept>
+<rtept lat="57.4805894508716" lon="-3.05668316357125">
+<ele>169.051411633896</ele>
+<name>IW087</name>
+</rtept>
+<rtept lat="57.4808512932908" lon="-3.05631046099044">
+<ele>172.752539195771</ele>
+<name>IW088</name>
+</rtept>
+<rtept lat="57.481319180273" lon="-3.05450268285315">
+<ele>170.96133873499</ele>
+<name>IW089</name>
+</rtept>
+<rtept lat="57.481636742644" lon="-3.05391140542666">
+<ele>172.313878553365</ele>
+<name>IW090</name>
+</rtept>
+<rtept lat="57.481665316322" lon="-3.05307162811928">
+<ele>168.945239653634</ele>
+<name>IW091</name>
+</rtept>
+<rtept lat="57.4815287169392" lon="-3.05264739870264">
+<ele>166.669874540223</ele>
+<name>IW092</name>
+</rtept>
+<rtept lat="57.4815777314441" lon="-3.05064738479448">
+<ele>167.808235142063</ele>
+<name>IW093</name>
+</rtept>
+<rtept lat="57.4811435192217" lon="-3.04971427459463">
+<ele>166.218058785514</ele>
+<name>IW094</name>
+</rtept>
+<rtept lat="57.4810130648376" lon="-3.04854972505526">
+<ele>166.277133098277</ele>
+<name>IW095</name>
+</rtept>
+<rtept lat="57.4811981360408" lon="-3.04703396234151">
+<ele>165.280610803786</ele>
+<name>IW096</name>
+</rtept>
+<rtept lat="57.4816269234457" lon="-3.04602550394114">
+<ele>164.217050451931</ele>
+<name>IW097</name>
+</rtept>
+<rtept lat="57.481618634581" lon="-3.04572505333283">
+<ele>163.701760873003</ele>
+<name>IW098</name>
+</rtept>
+<rtept lat="57.4812463983952" lon="-3.04511399516824">
+<ele>163.817180572688</ele>
+<name>IW099</name>
+</rtept>
+<rtept lat="57.4812386045454" lon="-3.0447535199589">
+<ele>164.2759031686</ele>
+<name>IW100</name>
+</rtept>
+<rtept lat="57.4818080506051" lon="-3.04302852962331">
+<ele>163.402170912611</ele>
+<name>IW101</name>
+</rtept>
+<rtept lat="57.4824095763159" lon="-3.04198489762042">
+<ele>161.596610803786</ele>
+<name>IW102</name>
+</rtept>
+<rtept lat="57.4829142990963" lon="-3.04221943413059">
+<ele>161.553295329069</ele>
+<name>IW103</name>
+</rtept>
+<rtept lat="57.4830844237032" lon="-3.04250449013443">
+<ele>163.720728374817</ele>
+<name>IW104</name>
+</rtept>
+<rtept lat="57.4834168386998" lon="-3.04141312366262">
+<ele>159.935132566931</ele>
+<name>IW105</name>
+</rtept>
+<rtept lat="57.4835592583774" lon="-3.04113696286849">
+<ele>159.521607882866</ele>
+<name>IW106</name>
+</rtept>
+<rtept lat="57.4837759638911" lon="-3.04100302092836">
+<ele>159.056196776782</ele>
+<name>IW107</name>
+</rtept>
+<rtept lat="57.4842475300711" lon="-3.04133668767924">
+<ele>167.091182181854</ele>
+<name>IW108</name>
+</rtept>
+<rtept lat="57.4847918932594" lon="-3.04199269108442">
+<ele>175.695869240229</ele>
+<name>IW109</name>
+</rtept>
+<rtept lat="57.4855357038601" lon="-3.04199385720648">
+<ele>179.390855034241</ele>
+<name>IW110</name>
+</rtept>
+<rtept lat="57.4857288717373" lon="-3.04209944078978">
+<ele>179.408482660576</ele>
+<name>IW111</name>
+</rtept>
+<rtept lat="57.4866155992077" lon="-3.04176439151983">
+<ele>179.572935992019</ele>
+<name>IW112</name>
+</rtept>
+<rtept lat="57.4906484163493" lon="-3.04097837206409">
+<ele>184.833704268149</ele>
+<name>IW113</name>
+</rtept>
+<rtept lat="57.4911788237545" lon="-3.04071319331918">
+<ele>186.220808080764</ele>
+<name>IW114</name>
+</rtept>
+<rtept lat="57.4934551005566" lon="-3.03723429306449">
+<ele>206.583269820898</ele>
+<name>IW115</name>
+</rtept>
+<rtept lat="57.4963729100538" lon="-3.03241158057512">
+<ele>219.19016134067</ele>
+<name>IW116</name>
+</rtept>
+<rtept lat="57.498028108314" lon="-3.02839360029802">
+<ele>207.081294187285</ele>
+<name>IW117</name>
+</rtept>
+<rtept lat="57.4947446577557" lon="-3.01921157732289">
+<ele>156.731634910448</ele>
+<name>IW118</name>
+</rtept>
+<rtept lat="57.4947137803431" lon="-3.01903052484837">
+<ele>156.371634910449</ele>
+<name>IW119</name>
+</rtept>
+<rtept lat="57.4966215043834" lon="-3.01505918047194">
+<ele>157.063789820669</ele>
+<name>IW120</name>
+</rtept>
+<rtept lat="57.4976192366169" lon="-3.01364522243188">
+<ele>160.602130651664</ele>
+<name>IW121</name>
+</rtept>
+<rtept lat="57.498538865108" lon="-3.01323019684846">
+<ele>163.667152249874</ele>
+<name>IW122</name>
+</rtept>
+<rtept lat="57.5004832704107" lon="-3.01004010658624">
+<ele>163.989211035382</ele>
+<name>IW123</name>
+</rtept>
+<rtept lat="57.5020080255185" lon="-3.00741885808244">
+<ele>163.845093464362</ele>
+<name>IW124</name>
+</rtept>
+<rtept lat="57.5036002891481" lon="-3.00375788705554">
+<ele>163.457134940786</ele>
+<name>IW125</name>
+</rtept>
+<rtept lat="57.5045510024073" lon="-3.00146089193816">
+<ele>161.193129973354</ele>
+<name>IW126</name>
+</rtept>
+<rtept lat="57.5052989591036" lon="-2.99821696435334">
+<ele>154.475515535127</ele>
+<name>IW127</name>
+</rtept>
+<rtept lat="57.5066602079919" lon="-2.99510976335219">
+<ele>152.053560019265</ele>
+<name>IW128</name>
+</rtept>
+<rtept lat="57.5077977970739" lon="-2.99301771393068">
+<ele>146.780587815259</ele>
+<name>IW129</name>
+</rtept>
+<rtept lat="57.5090782147504" lon="-2.99195089281727">
+<ele>146.925081719207</ele>
+<name>IW130</name>
+</rtept>
+<rtept lat="57.5108030628179" lon="-2.99125658653286">
+<ele>146.041048285429</ele>
+<name>IW131</name>
+</rtept>
+<rtept lat="57.5120626252901" lon="-2.99147102167684">
+<ele>147.108083957978</ele>
+<name>IW132</name>
+</rtept>
+<rtept lat="57.5123559798453" lon="-2.99117851507737">
+<ele>143.610257310639</ele>
+<name>IW133</name>
+</rtept>
+<rtept lat="57.5133690733248" lon="-2.99120598852792">
+<ele>139.731914424485</ele>
+<name>IW134</name>
+</rtept>
+<rtept lat="57.5137912865726" lon="-2.99097705820086">
+<ele>138.537458553917</ele>
+<name>IW135</name>
+</rtept>
+<rtept lat="57.5152535779812" lon="-2.9914574233164">
+<ele>139.758652292014</ele>
+<name>IW136</name>
+</rtept>
+<rtept lat="57.5153134422802" lon="-2.99069781036664">
+<ele>146.92472862686</ele>
+<name>IW137</name>
+</rtept>
+<rtept lat="57.5158080179371" lon="-2.98948921522006">
+<ele>160.872707230417</ele>
+<name>IW138</name>
+</rtept>
+<rtept lat="57.51612417876" lon="-2.98903701651563">
+<ele>167.067724203153</ele>
+<name>IW139</name>
+</rtept>
+<rtept lat="57.5186512862054" lon="-2.9863807381212">
+<ele>191.682895963443</ele>
+<name>IW140</name>
+</rtept>
+<rtept lat="57.5206742127541" lon="-2.98409119543224">
+<ele>196.206530527163</ele>
+<name>IW141</name>
+</rtept>
+<rtept lat="57.5239307535146" lon="-2.9763243089585">
+<ele>175.337458553921</ele>
+<name>IW142</name>
+</rtept>
+<rtept lat="57.5248306160197" lon="-2.97426443270691">
+<ele>169.281136719078</ele>
+<name>IW143</name>
+</rtept>
+<rtept lat="57.5255461620238" lon="-2.97093714960736">
+<ele>159.000159249616</ele>
+<name>IW144</name>
+</rtept>
+<rtept lat="57.5263652636473" lon="-2.96955622040703">
+<ele>151.164044359078</ele>
+<name>IW145</name>
+</rtept>
+<rtept lat="57.5272420982054" lon="-2.96907851645604">
+<ele>150.725311671929</ele>
+<name>IW146</name>
+</rtept>
+<rtept lat="57.5305372523934" lon="-2.96319376999411">
+<ele>140.116056260928</ele>
+<name>IW147</name>
+</rtept>
+<rtept lat="57.5305327398992" lon="-2.9623719770869">
+<ele>139.478943811247</ele>
+<name>IW148</name>
+</rtept>
+<rtept lat="57.5307803204011" lon="-2.9624185822419">
+<ele>139.480929871057</ele>
+<name>IW149</name>
+</rtept>
+<rtept lat="57.531447007061" lon="-2.96263656259175">
+<ele>140.770193043739</ele>
+<name>IW150</name>
+</rtept>
+<rtept lat="57.5323079543933" lon="-2.96211812565358">
+<ele>141.815017620634</ele>
+<name>IW151</name>
+</rtept>
+<rtept lat="57.5328858859602" lon="-2.96125149704942">
+<ele>143.042378327249</ele>
+<name>IW152</name>
+</rtept>
+<rtept lat="57.5353746566122" lon="-2.96001417927657">
+<ele>147.173637540246</ele>
+<name>IW153</name>
+</rtept>
+<rtept lat="57.5363996000174" lon="-2.95990081568032">
+<ele>152.811368051819</ele>
+<name>IW154</name>
+</rtept>
+<rtept lat="57.5382697068973" lon="-2.95850673167298">
+<ele>154.179589249464</ele>
+<name>IW155</name>
+</rtept>
+<rtept lat="57.538163010154" lon="-2.95694042073413">
+<ele>164.678087686935</ele>
+<name>IW156</name>
+</rtept>
+<rtept lat="57.5386077795115" lon="-2.95657121720078">
+<ele>163.920988854654</ele>
+<name>IW157</name>
+</rtept>
+<rtept lat="57.5385649449707" lon="-2.95368358386202">
+<ele>162.519218877406</ele>
+<name>IW158</name>
+</rtept>
+<rtept lat="57.5386113851845" lon="-2.95324380154683">
+<ele>161.616032251567</ele>
+<name>IW159</name>
+</rtept>
+<rtept lat="57.5384811971001" lon="-2.95049421559904">
+<ele>156.223034678854</ele>
+<name>IW160</name>
+</rtept>
+</rte>
+</gpx>

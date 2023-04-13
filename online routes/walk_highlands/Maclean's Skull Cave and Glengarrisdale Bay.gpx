@@ -1,0 +1,670 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Maclean's Skull Cave and Glengarrisdale Bay</name>
+<rtept lat="56.0702972817439" lon="-5.74595115266588">
+<ele>90.0746583294827</ele>
+<name>GGD001</name>
+</rtept>
+<rtept lat="56.0704709609363" lon="-5.74603553968196">
+<ele>87.8065777325414</ele>
+<name>GGD002</name>
+</rtept>
+<rtept lat="56.0728553605623" lon="-5.74462407301334">
+<ele>89.7050479301407</ele>
+<name>GGD003</name>
+</rtept>
+<rtept lat="56.0739956439382" lon="-5.74396950779626">
+<ele>91.4991121877311</ele>
+<name>GGD004</name>
+</rtept>
+<rtept lat="56.0758820375688" lon="-5.74237440495613">
+<ele>97.0712370784194</ele>
+<name>GGD005</name>
+</rtept>
+<rtept lat="56.0765944765059" lon="-5.7421284087982">
+<ele>98.4869007698974</ele>
+<name>GGD006</name>
+</rtept>
+<rtept lat="56.0779807246057" lon="-5.74124996052974">
+<ele>100.575258785026</ele>
+<name>GGD007</name>
+</rtept>
+<rtept lat="56.0801679462369" lon="-5.7401114755053">
+<ele>119.75049206154</ele>
+<name>GGD008</name>
+</rtept>
+<rtept lat="56.0808766799754" lon="-5.73957239349629">
+<ele>119.918494318918</ele>
+<name>GGD009</name>
+</rtept>
+<rtept lat="56.082190702318" lon="-5.73816895704001">
+<ele>118.328402050075</ele>
+<name>GGD010</name>
+</rtept>
+<rtept lat="56.0832067970114" lon="-5.73745698865038">
+<ele>110.122907356452</ele>
+<name>GGD011</name>
+</rtept>
+<rtept lat="56.0833937141706" lon="-5.73752013750134">
+<ele>109.740849277275</ele>
+<name>GGD012</name>
+</rtept>
+<rtept lat="56.0840901907158" lon="-5.73738503388902">
+<ele>108.692995324928</ele>
+<name>GGD013</name>
+</rtept>
+<rtept lat="56.0845345729695" lon="-5.73767577616848">
+<ele>108.972393772413</ele>
+<name>GGD014</name>
+</rtept>
+<rtept lat="56.0850101827401" lon="-5.73776692044826">
+<ele>106.628037579128</ele>
+<name>GGD015</name>
+</rtept>
+<rtept lat="56.0854701394931" lon="-5.73837439559602">
+<ele>103.988763706881</ele>
+<name>GGD016</name>
+</rtept>
+<rtept lat="56.0862883516611" lon="-5.73879148031419">
+<ele>99.9516682250239</ele>
+<name>GGD017</name>
+</rtept>
+<rtept lat="56.0880476669477" lon="-5.74179922049321">
+<ele>106.225491841597</ele>
+<name>GGD018</name>
+</rtept>
+<rtept lat="56.0891110557899" lon="-5.74284817879803">
+<ele>110.872476947525</ele>
+<name>GGD019</name>
+</rtept>
+<rtept lat="56.0898708648586" lon="-5.74352994212273">
+<ele>112.482475294865</ele>
+<name>GGD020</name>
+</rtept>
+<rtept lat="56.0912047948949" lon="-5.74561861843282">
+<ele>106.125670409815</ele>
+<name>GGD021</name>
+</rtept>
+<rtept lat="56.0919445321256" lon="-5.7465462331079">
+<ele>105.654019845305</ele>
+<name>GGD022</name>
+</rtept>
+<rtept lat="56.092904587169" lon="-5.74850868615143">
+<ele>99.328640261466</ele>
+<name>GGD023</name>
+</rtept>
+<rtept lat="56.0939241143805" lon="-5.74975638435502">
+<ele>98.7462488296204</ele>
+<name>GGD024</name>
+</rtept>
+<rtept lat="56.0944661460042" lon="-5.75014693489424">
+<ele>100.79113619999</ele>
+<name>GGD025</name>
+</rtept>
+<rtept lat="56.0952049931835" lon="-5.75193042644017">
+<ele>109.275646673094</ele>
+<name>GGD026</name>
+</rtept>
+<rtept lat="56.0956452377469" lon="-5.75235615206029">
+<ele>108.409183099292</ele>
+<name>GGD027</name>
+</rtept>
+<rtept lat="56.0958940408496" lon="-5.75328123249705">
+<ele>112.289739862412</ele>
+<name>GGD028</name>
+</rtept>
+<rtept lat="56.097039904362" lon="-5.75368563557442">
+<ele>120.927667538855</ele>
+<name>GGD029</name>
+</rtept>
+<rtept lat="56.0981917278118" lon="-5.754721279281">
+<ele>128.299194559934</ele>
+<name>GGD030</name>
+</rtept>
+<rtept lat="56.0982586351984" lon="-5.75583141180044">
+<ele>125.861800868179</ele>
+<name>GGD031</name>
+</rtept>
+<rtept lat="56.0979316456041" lon="-5.75706079809521">
+<ele>129.226361706521</ele>
+<name>GGD032</name>
+</rtept>
+<rtept lat="56.0978775887318" lon="-5.75883480466172">
+<ele>132.417407995676</ele>
+<name>GGD033</name>
+</rtept>
+<rtept lat="56.0976646739766" lon="-5.75962483946653">
+<ele>137.734610278138</ele>
+<name>GGD034</name>
+</rtept>
+<rtept lat="56.09760396796" lon="-5.76079007892499">
+<ele>147.06674706066</ele>
+<name>GGD035</name>
+</rtept>
+<rtept lat="56.097755719103" lon="-5.76159317721987">
+<ele>145.470449580517</ele>
+<name>GGD036</name>
+</rtept>
+<rtept lat="56.0980243174073" lon="-5.76186714922987">
+<ele>149.214862198665</ele>
+<name>GGD037</name>
+</rtept>
+<rtept lat="56.0984140984844" lon="-5.76188268383092">
+<ele>154.069732037564</ele>
+<name>GGD038</name>
+</rtept>
+<rtept lat="56.0989576784281" lon="-5.76263397766843">
+<ele>152.53978187694</ele>
+<name>GGD039</name>
+</rtept>
+<rtept lat="56.0990279406795" lon="-5.7636318614942">
+<ele>146.861345800189</ele>
+<name>GGD040</name>
+</rtept>
+<rtept lat="56.0994097114717" lon="-5.76432233608917">
+<ele>140.739992175155</ele>
+<name>GGD041</name>
+</rtept>
+<rtept lat="56.0995048517449" lon="-5.76491724341427">
+<ele>135.195992175149</ele>
+<name>GGD042</name>
+</rtept>
+<rtept lat="56.0997136376445" lon="-5.76550073767564">
+<ele>129.835615773561</ele>
+<name>GGD043</name>
+</rtept>
+<rtept lat="56.0996355228499" lon="-5.76682199605675">
+<ele>105.956164953162</ele>
+<name>GGD044</name>
+</rtept>
+<rtept lat="56.0994476598964" lon="-5.76761447492895">
+<ele>91.8115464199475</ele>
+<name>GGD045</name>
+</rtept>
+<rtept lat="56.0994640450556" lon="-5.76831430667722">
+<ele>83.089372325326</ele>
+<name>GGD046</name>
+</rtept>
+<rtept lat="56.1001028966154" lon="-5.77006608768025">
+<ele>75.1160098247398</ele>
+<name>GGD047</name>
+</rtept>
+<rtept lat="56.100133878859" lon="-5.77069979001161">
+<ele>79.9629523213024</ele>
+<name>GGD048</name>
+</rtept>
+<rtept lat="56.1001370082455" lon="-5.77142086282192">
+<ele>80.4736312663477</ele>
+<name>GGD049</name>
+</rtept>
+<rtept lat="56.1002133808108" lon="-5.77221667941497">
+<ele>82.6055602531459</ele>
+<name>GGD050</name>
+</rtept>
+<rtept lat="56.1000497134796" lon="-5.77262860852936">
+<ele>83.8006996441865</ele>
+<name>GGD051</name>
+</rtept>
+<rtept lat="56.0999108273743" lon="-5.77387634345023">
+<ele>92.986990450517</ele>
+<name>GGD052</name>
+</rtept>
+<rtept lat="56.1004098041538" lon="-5.7748487121915">
+<ele>96.7823538798896</ele>
+<name>GGD053</name>
+</rtept>
+<rtept lat="56.101394811581" lon="-5.7743370621738">
+<ele>107.467652182994</ele>
+<name>GGD054</name>
+</rtept>
+<rtept lat="56.1021702429322" lon="-5.77450313678843">
+<ele>117.829528806143</ele>
+<name>GGD055</name>
+</rtept>
+<rtept lat="56.1018384296278" lon="-5.77629515008757">
+<ele>96.6383330316014</ele>
+<name>GGD056</name>
+</rtept>
+<rtept lat="56.1018559679707" lon="-5.77654464445234">
+<ele>97.874853589809</ele>
+<name>GGD057</name>
+</rtept>
+<rtept lat="56.101696235297" lon="-5.77806068054769">
+<ele>79.6069968502107</ele>
+<name>GGD058</name>
+</rtept>
+<rtept lat="56.1018418428616" lon="-5.77947151235032">
+<ele>66.810556011365</ele>
+<name>GGD059</name>
+</rtept>
+<rtept lat="56.1016984358771" lon="-5.78004309165659">
+<ele>59.5147947128263</ele>
+<name>GGD060</name>
+</rtept>
+<rtept lat="56.1010835874001" lon="-5.78038820447734">
+<ele>46.3659927521049</ele>
+<name>GGD061</name>
+</rtept>
+<rtept lat="56.101113668717" lon="-5.78063892717219">
+<ele>43.4275195282915</ele>
+<name>GGD062</name>
+</rtept>
+<rtept lat="56.1017805761079" lon="-5.7814702272902">
+<ele>39.9292137512986</ele>
+<name>GGD063</name>
+</rtept>
+<rtept lat="56.1027330897168" lon="-5.78160878099581">
+<ele>47.939786153085</ele>
+<name>GGD064</name>
+</rtept>
+<rtept lat="56.1031030472474" lon="-5.78268128625449">
+<ele>44.8717453323391</ele>
+<name>GGD065</name>
+</rtept>
+<rtept lat="56.1031171282244" lon="-5.78304308200603">
+<ele>43.5048301395958</ele>
+<name>GGD066</name>
+</rtept>
+<rtept lat="56.1031318970689" lon="-5.78338241981126">
+<ele>41.0929054247411</ele>
+<name>GGD067</name>
+</rtept>
+<rtept lat="56.1035113376294" lon="-5.78373505206441">
+<ele>41.0525477548348</ele>
+<name>GGD068</name>
+</rtept>
+<rtept lat="56.1039255258911" lon="-5.78377573682906">
+<ele>42.3877903936393</ele>
+<name>GGD069</name>
+</rtept>
+<rtept lat="56.1041551876405" lon="-5.78449661593012">
+<ele>36.5295774143226</ele>
+<name>GGD070</name>
+</rtept>
+<rtept lat="56.1040789359518" lon="-5.78575060272928">
+<ele>31.4502114277014</ele>
+<name>GGD071</name>
+</rtept>
+<rtept lat="56.1035814503072" lon="-5.78678296387395">
+<ele>29.1037492125528</ele>
+<name>GGD072</name>
+</rtept>
+<rtept lat="56.1034158028183" lon="-5.78766772111339">
+<ele>26.5499751154568</ele>
+<name>GGD073</name>
+</rtept>
+<rtept lat="56.1030149930746" lon="-5.7880112492818">
+<ele>18.8111401249841</ele>
+<name>GGD074</name>
+</rtept>
+<rtept lat="56.1033477982812" lon="-5.78865217843333">
+<ele>17.2687351736421</ele>
+<name>GGD075</name>
+</rtept>
+<rtept lat="56.1042381023486" lon="-5.78835679477263">
+<ele>16.181168892617</ele>
+<name>GGD076</name>
+</rtept>
+<rtept lat="56.1056720805885" lon="-5.78962420079023">
+<ele>5.29884270001319</ele>
+<name>GGD077</name>
+</rtept>
+<rtept lat="56.1068791819872" lon="-5.79008089070332">
+<ele>7.57643615092151</ele>
+<name>GGD078</name>
+</rtept>
+<rtept lat="56.1073180801658" lon="-5.78890755033819">
+<ele>2.39158723749511</ele>
+<name>GGD079</name>
+</rtept>
+<rtept lat="56.107659452885" lon="-5.78803999212253">
+<ele>0.965237826722383</ele>
+<name>GGD080</name>
+</rtept>
+<rtept lat="56.1076325621367" lon="-5.78686586509902">
+<ele>3.37549241333928</ele>
+<name>GGD081</name>
+</rtept>
+<rtept lat="56.107394641536" lon="-5.78641443337401">
+<ele>10.4848201302657</ele>
+<name>GGD082</name>
+</rtept>
+<rtept lat="56.1074063627137" lon="-5.78603260357834">
+<ele>18.6881345332825</ele>
+<name>GGD083</name>
+</rtept>
+<rtept lat="56.107382779936" lon="-5.78639073890586">
+<ele>11.2019435320402</ele>
+<name>GGD084</name>
+</rtept>
+<rtept lat="56.1076109078682" lon="-5.78675109355702">
+<ele>3.90679878404465</ele>
+<name>GGD085</name>
+</rtept>
+<rtept lat="56.1079135136134" lon="-5.78673578877149">
+<ele>2.19390476393447</ele>
+<name>GGD086</name>
+</rtept>
+<rtept lat="56.1082836912115" lon="-5.7886195542066">
+<ele>0.463255462518428</ele>
+<name>GGD087</name>
+</rtept>
+<rtept lat="56.1078522564615" lon="-5.78914033014626">
+<ele>1.46025078744686</ele>
+<name>GGD088</name>
+</rtept>
+<rtept lat="56.1068673211019" lon="-5.79005719546145">
+<ele>7.51475428767137</ele>
+<name>GGD089</name>
+</rtept>
+<rtept lat="56.1042381023486" lon="-5.78835679477263">
+<ele>16.181168892617</ele>
+<name>GGD090</name>
+</rtept>
+<rtept lat="56.1033477982812" lon="-5.78865217843333">
+<ele>17.2687351736421</ele>
+<name>GGD091</name>
+</rtept>
+<rtept lat="56.1030149930746" lon="-5.7880112492818">
+<ele>18.8111401249841</ele>
+<name>GGD092</name>
+</rtept>
+<rtept lat="56.1034158028183" lon="-5.78766772111339">
+<ele>26.5499751154568</ele>
+<name>GGD093</name>
+</rtept>
+<rtept lat="56.1035814503072" lon="-5.78678296387395">
+<ele>29.1037492125528</ele>
+<name>GGD094</name>
+</rtept>
+<rtept lat="56.1040789359518" lon="-5.78575060272928">
+<ele>31.4502114277014</ele>
+<name>GGD095</name>
+</rtept>
+<rtept lat="56.1041551876405" lon="-5.78449661593012">
+<ele>36.5295774143226</ele>
+<name>GGD096</name>
+</rtept>
+<rtept lat="56.1039255258911" lon="-5.78377573682906">
+<ele>42.3877903936393</ele>
+<name>GGD097</name>
+</rtept>
+<rtept lat="56.1035113376294" lon="-5.78373505206441">
+<ele>41.0525477548348</ele>
+<name>GGD098</name>
+</rtept>
+<rtept lat="56.1031318970689" lon="-5.78338241981126">
+<ele>41.0929054247411</ele>
+<name>GGD099</name>
+</rtept>
+<rtept lat="56.1031171282244" lon="-5.78304308200603">
+<ele>43.5048301395958</ele>
+<name>GGD100</name>
+</rtept>
+<rtept lat="56.1031030472474" lon="-5.78268128625449">
+<ele>44.8717453323391</ele>
+<name>GGD101</name>
+</rtept>
+<rtept lat="56.1027330897168" lon="-5.78160878099581">
+<ele>47.939786153085</ele>
+<name>GGD102</name>
+</rtept>
+<rtept lat="56.1017805761079" lon="-5.7814702272902">
+<ele>39.9292137512986</ele>
+<name>GGD103</name>
+</rtept>
+<rtept lat="56.101113668717" lon="-5.78063892717219">
+<ele>43.4275195282915</ele>
+<name>GGD104</name>
+</rtept>
+<rtept lat="56.1010835874001" lon="-5.78038820447734">
+<ele>46.3659927521049</ele>
+<name>GGD105</name>
+</rtept>
+<rtept lat="56.1016984358771" lon="-5.78004309165659">
+<ele>59.5147947128263</ele>
+<name>GGD106</name>
+</rtept>
+<rtept lat="56.1018418428616" lon="-5.77947151235032">
+<ele>66.810556011365</ele>
+<name>GGD107</name>
+</rtept>
+<rtept lat="56.101696235297" lon="-5.77806068054769">
+<ele>79.6069968502107</ele>
+<name>GGD108</name>
+</rtept>
+<rtept lat="56.1018559679707" lon="-5.77654464445234">
+<ele>97.874853589809</ele>
+<name>GGD109</name>
+</rtept>
+<rtept lat="56.1018384296278" lon="-5.77629515008757">
+<ele>96.6383330316014</ele>
+<name>GGD110</name>
+</rtept>
+<rtept lat="56.1021702429322" lon="-5.77450313678843">
+<ele>117.829528806143</ele>
+<name>GGD111</name>
+</rtept>
+<rtept lat="56.101394811581" lon="-5.7743370621738">
+<ele>107.467652182994</ele>
+<name>GGD112</name>
+</rtept>
+<rtept lat="56.1004098041538" lon="-5.7748487121915">
+<ele>96.7823538798896</ele>
+<name>GGD113</name>
+</rtept>
+<rtept lat="56.0999108273743" lon="-5.77387634345023">
+<ele>92.986990450517</ele>
+<name>GGD114</name>
+</rtept>
+<rtept lat="56.1000497134796" lon="-5.77262860852936">
+<ele>83.8006996441865</ele>
+<name>GGD115</name>
+</rtept>
+<rtept lat="56.1002133808108" lon="-5.77221667941497">
+<ele>82.6055602531459</ele>
+<name>GGD116</name>
+</rtept>
+<rtept lat="56.1001370082455" lon="-5.77142086282192">
+<ele>80.4736312663477</ele>
+<name>GGD117</name>
+</rtept>
+<rtept lat="56.100133878859" lon="-5.77069979001161">
+<ele>79.9629523213024</ele>
+<name>GGD118</name>
+</rtept>
+<rtept lat="56.1001028966154" lon="-5.77006608768025">
+<ele>75.1160098247398</ele>
+<name>GGD119</name>
+</rtept>
+<rtept lat="56.0994640450556" lon="-5.76831430667722">
+<ele>83.089372325326</ele>
+<name>GGD120</name>
+</rtept>
+<rtept lat="56.0994476598964" lon="-5.76761447492895">
+<ele>91.8115464199475</ele>
+<name>GGD121</name>
+</rtept>
+<rtept lat="56.0996355228499" lon="-5.76682199605675">
+<ele>105.956164953162</ele>
+<name>GGD122</name>
+</rtept>
+<rtept lat="56.0997136376445" lon="-5.76550073767564">
+<ele>129.835615773561</ele>
+<name>GGD123</name>
+</rtept>
+<rtept lat="56.0995048517449" lon="-5.76491724341427">
+<ele>135.195992175149</ele>
+<name>GGD124</name>
+</rtept>
+<rtept lat="56.0994097114717" lon="-5.76432233608917">
+<ele>140.739992175155</ele>
+<name>GGD125</name>
+</rtept>
+<rtept lat="56.0990279406795" lon="-5.7636318614942">
+<ele>146.861345800189</ele>
+<name>GGD126</name>
+</rtept>
+<rtept lat="56.0989576784281" lon="-5.76263397766843">
+<ele>152.53978187694</ele>
+<name>GGD127</name>
+</rtept>
+<rtept lat="56.0984140984844" lon="-5.76188268383092">
+<ele>154.069732037564</ele>
+<name>GGD128</name>
+</rtept>
+<rtept lat="56.0980243174073" lon="-5.76186714922987">
+<ele>149.214862198665</ele>
+<name>GGD129</name>
+</rtept>
+<rtept lat="56.097755719103" lon="-5.76159317721987">
+<ele>145.470449580517</ele>
+<name>GGD130</name>
+</rtept>
+<rtept lat="56.09760396796" lon="-5.76079007892499">
+<ele>147.06674706066</ele>
+<name>GGD131</name>
+</rtept>
+<rtept lat="56.0976646739766" lon="-5.75962483946653">
+<ele>137.734610278138</ele>
+<name>GGD132</name>
+</rtept>
+<rtept lat="56.0978775887318" lon="-5.75883480466172">
+<ele>132.417407995676</ele>
+<name>GGD133</name>
+</rtept>
+<rtept lat="56.0979316456041" lon="-5.75706079809521">
+<ele>129.226361706521</ele>
+<name>GGD134</name>
+</rtept>
+<rtept lat="56.0982586351984" lon="-5.75583141180044">
+<ele>125.861800868179</ele>
+<name>GGD135</name>
+</rtept>
+<rtept lat="56.0981917278118" lon="-5.754721279281">
+<ele>128.299194559934</ele>
+<name>GGD136</name>
+</rtept>
+<rtept lat="56.097039904362" lon="-5.75368563557442">
+<ele>120.927667538855</ele>
+<name>GGD137</name>
+</rtept>
+<rtept lat="56.0958940408496" lon="-5.75328123249705">
+<ele>112.289739862412</ele>
+<name>GGD138</name>
+</rtept>
+<rtept lat="56.0956452377469" lon="-5.75235615206029">
+<ele>108.409183099292</ele>
+<name>GGD139</name>
+</rtept>
+<rtept lat="56.0952049931835" lon="-5.75193042644017">
+<ele>109.275646673094</ele>
+<name>GGD140</name>
+</rtept>
+<rtept lat="56.0944661460042" lon="-5.75014693489424">
+<ele>100.79113619999</ele>
+<name>GGD141</name>
+</rtept>
+<rtept lat="56.0939241143805" lon="-5.74975638435502">
+<ele>98.7462488296204</ele>
+<name>GGD142</name>
+</rtept>
+<rtept lat="56.092904587169" lon="-5.74850868615143">
+<ele>99.328640261466</ele>
+<name>GGD143</name>
+</rtept>
+<rtept lat="56.0919445321256" lon="-5.7465462331079">
+<ele>105.654019845305</ele>
+<name>GGD144</name>
+</rtept>
+<rtept lat="56.0912047948949" lon="-5.74561861843282">
+<ele>106.125670409815</ele>
+<name>GGD145</name>
+</rtept>
+<rtept lat="56.0898708648586" lon="-5.74352994212273">
+<ele>112.482475294865</ele>
+<name>GGD146</name>
+</rtept>
+<rtept lat="56.0891110557899" lon="-5.74284817879803">
+<ele>110.872476947525</ele>
+<name>GGD147</name>
+</rtept>
+<rtept lat="56.0880476669477" lon="-5.74179922049321">
+<ele>106.225491841597</ele>
+<name>GGD148</name>
+</rtept>
+<rtept lat="56.0862883516611" lon="-5.73879148031419">
+<ele>99.9516682250239</ele>
+<name>GGD149</name>
+</rtept>
+<rtept lat="56.0854701394931" lon="-5.73837439559602">
+<ele>103.988763706881</ele>
+<name>GGD150</name>
+</rtept>
+<rtept lat="56.0850101827401" lon="-5.73776692044826">
+<ele>106.628037579128</ele>
+<name>GGD151</name>
+</rtept>
+<rtept lat="56.0845345729695" lon="-5.73767577616848">
+<ele>108.972393772413</ele>
+<name>GGD152</name>
+</rtept>
+<rtept lat="56.0840901907158" lon="-5.73738503388902">
+<ele>108.692995324928</ele>
+<name>GGD153</name>
+</rtept>
+<rtept lat="56.0833937141706" lon="-5.73752013750134">
+<ele>109.740849277275</ele>
+<name>GGD154</name>
+</rtept>
+<rtept lat="56.0832067970114" lon="-5.73745698865038">
+<ele>110.122907356452</ele>
+<name>GGD155</name>
+</rtept>
+<rtept lat="56.082190702318" lon="-5.73816895704001">
+<ele>118.328402050075</ele>
+<name>GGD156</name>
+</rtept>
+<rtept lat="56.0808766799754" lon="-5.73957239349629">
+<ele>119.918494318918</ele>
+<name>GGD157</name>
+</rtept>
+<rtept lat="56.0801679462369" lon="-5.7401114755053">
+<ele>119.75049206154</ele>
+<name>GGD158</name>
+</rtept>
+<rtept lat="56.0779807246057" lon="-5.74124996052974">
+<ele>100.575258785026</ele>
+<name>GGD159</name>
+</rtept>
+<rtept lat="56.0765944765059" lon="-5.7421284087982">
+<ele>98.4869007698974</ele>
+<name>GGD160</name>
+</rtept>
+<rtept lat="56.0758820375688" lon="-5.74237440495613">
+<ele>97.0712370784194</ele>
+<name>GGD161</name>
+</rtept>
+<rtept lat="56.0739956439382" lon="-5.74396950779626">
+<ele>91.4991121877311</ele>
+<name>GGD162</name>
+</rtept>
+<rtept lat="56.0728553605623" lon="-5.74462407301334">
+<ele>89.7050479301407</ele>
+<name>GGD163</name>
+</rtept>
+<rtept lat="56.0704709609363" lon="-5.74603553968196">
+<ele>87.8065777325414</ele>
+<name>GGD164</name>
+</rtept>
+<rtept lat="56.0702972817439" lon="-5.74595115266588">
+<ele>90.0746583294827</ele>
+<name>GGD165</name>
+</rtept>
+</rte>
+</gpx>

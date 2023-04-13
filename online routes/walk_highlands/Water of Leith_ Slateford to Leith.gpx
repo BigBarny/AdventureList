@@ -1,0 +1,582 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Water of Leith: Slateford to Leith</name>
+<rtept lat="55.9234114568267" lon="-3.24797211195236">
+<ele>59.0780845729901</ele>
+<name>WOL2-001</name>
+</rtept>
+<rtept lat="55.9259192392898" lon="-3.25259000893335">
+<ele>55.630664940575</ele>
+<name>WOL2-002</name>
+</rtept>
+<rtept lat="55.9258054519177" lon="-3.25405875656589">
+<ele>53.0404814924646</ele>
+<name>WOL2-003</name>
+</rtept>
+<rtept lat="55.9255080764808" lon="-3.25590566615942">
+<ele>53.6002593641775</ele>
+<name>WOL2-004</name>
+</rtept>
+<rtept lat="55.9254600675183" lon="-3.25682436698501">
+<ele>52.7257163833696</ele>
+<name>WOL2-005</name>
+</rtept>
+<rtept lat="55.9257537846632" lon="-3.25868399790054">
+<ele>54.3537623746532</ele>
+<name>WOL2-006</name>
+</rtept>
+<rtept lat="55.9260388844231" lon="-3.25848357851789">
+<ele>51.4644627321815</ele>
+<name>WOL2-007</name>
+</rtept>
+<rtept lat="55.9263291149406" lon="-3.25734064144235">
+<ele>50</ele>
+<name>WOL2-008</name>
+</rtept>
+<rtept lat="55.9278766019396" lon="-3.25627037465516">
+<ele>49.2175865006959</ele>
+<name>WOL2-009</name>
+</rtept>
+<rtept lat="55.9281834735257" lon="-3.2552559496824">
+<ele>49.1717559465018</ele>
+<name>WOL2-010</name>
+</rtept>
+<rtept lat="55.9284359704671" lon="-3.25516807907077">
+<ele>48.5176662736062</ele>
+<name>WOL2-011</name>
+</rtept>
+<rtept lat="55.9284739559663" lon="-3.2542617867646">
+<ele>48.928456672412</ele>
+<name>WOL2-012</name>
+</rtept>
+<rtept lat="55.9287190853588" lon="-3.25357345553042">
+<ele>49.1066334011096</ele>
+<name>WOL2-013</name>
+</rtept>
+<rtept lat="55.9292799847991" lon="-3.25346671893616">
+<ele>49.2300866386062</ele>
+<name>WOL2-014</name>
+</rtept>
+<rtept lat="55.9297273345121" lon="-3.25365722955439">
+<ele>48.7900866386062</ele>
+<name>WOL2-015</name>
+</rtept>
+<rtept lat="55.930575998614" lon="-3.25502918115615">
+<ele>47.98539632443</ele>
+<name>WOL2-016</name>
+</rtept>
+<rtept lat="55.9312067512991" lon="-3.2548574903964">
+<ele>47.5600075425456</ele>
+<name>WOL2-017</name>
+</rtept>
+<rtept lat="55.9313935773054" lon="-3.25415922771707">
+<ele>48.4814677664104</ele>
+<name>WOL2-018</name>
+</rtept>
+<rtept lat="55.9314123306876" lon="-3.2531994220654">
+<ele>49.1323067498512</ele>
+<name>WOL2-019</name>
+</rtept>
+<rtept lat="55.9316172756655" lon="-3.25248572551598">
+<ele>49.5703220398456</ele>
+<name>WOL2-020</name>
+</rtept>
+<rtept lat="55.9322883474383" lon="-3.25188309495566">
+<ele>46.9493126360742</ele>
+<name>WOL2-021</name>
+</rtept>
+<rtept lat="55.9327822397481" lon="-3.25191502952083">
+<ele>45.7435348796008</ele>
+<name>WOL2-022</name>
+</rtept>
+<rtept lat="55.9330795260857" lon="-3.25234327449941">
+<ele>46.6560643770127</ele>
+<name>WOL2-023</name>
+</rtept>
+<rtept lat="55.933110700506" lon="-3.25230980352487">
+<ele>46.5699133613938</ele>
+<name>WOL2-024</name>
+</rtept>
+<rtept lat="55.9331401790395" lon="-3.25221076763309">
+<ele>46.3200643770141</ele>
+<name>WOL2-025</name>
+</rtept>
+<rtept lat="55.9333385239465" lon="-3.25232281620786">
+<ele>46.5840643770131</ele>
+<name>WOL2-026</name>
+</rtept>
+<rtept lat="55.9334908015875" lon="-3.252193263976">
+<ele>46.0977800469321</ele>
+<name>WOL2-027</name>
+</rtept>
+<rtept lat="55.9336804905027" lon="-3.2515654743798">
+<ele>45</ele>
+<name>WOL2-028</name>
+</rtept>
+<rtept lat="55.9337190413507" lon="-3.25042376015363">
+<ele>45</ele>
+<name>WOL2-029</name>
+</rtept>
+<rtept lat="55.9334206940678" lon="-3.24954013071341">
+<ele>45</ele>
+<name>WOL2-030</name>
+</rtept>
+<rtept lat="55.9330545123886" lon="-3.24843342924764">
+<ele>44</ele>
+<name>WOL2-031</name>
+</rtept>
+<rtept lat="55.9331928134753" lon="-3.24755425860999">
+<ele>44.1686611503394</ele>
+<name>WOL2-032</name>
+</rtept>
+<rtept lat="55.9334121928568" lon="-3.24718672946883">
+<ele>44.0592451840184</ele>
+<name>WOL2-033</name>
+</rtept>
+<rtept lat="55.9340997947482" lon="-3.24690146859874">
+<ele>43</ele>
+<name>WOL2-034</name>
+</rtept>
+<rtept lat="55.9352014754278" lon="-3.24725382395451">
+<ele>43</ele>
+<name>WOL2-035</name>
+</rtept>
+<rtept lat="55.9357762286285" lon="-3.24746439595931">
+<ele>42.7791721503367</ele>
+<name>WOL2-036</name>
+</rtept>
+<rtept lat="55.9359177218342" lon="-3.24733447020293">
+<ele>42.4671721503348</ele>
+<name>WOL2-037</name>
+</rtept>
+<rtept lat="55.9367007484186" lon="-3.24741480400798">
+<ele>42</ele>
+<name>WOL2-038</name>
+</rtept>
+<rtept lat="55.9374425244395" lon="-3.2469263451342">
+<ele>42</ele>
+<name>WOL2-039</name>
+</rtept>
+<rtept lat="55.937764857843" lon="-3.24615223695912">
+<ele>41.3825431813928</ele>
+<name>WOL2-040</name>
+</rtept>
+<rtept lat="55.9383869391253" lon="-3.24594807426819">
+<ele>41</ele>
+<name>WOL2-041</name>
+</rtept>
+<rtept lat="55.9393083659393" lon="-3.24546533182671">
+<ele>40.9631066562752</ele>
+<name>WOL2-042</name>
+</rtept>
+<rtept lat="55.9399682404512" lon="-3.24596681927316">
+<ele>40</ele>
+<name>WOL2-043</name>
+</rtept>
+<rtept lat="55.9403009287245" lon="-3.24594547918363">
+<ele>40.1171540053162</ele>
+<name>WOL2-044</name>
+</rtept>
+<rtept lat="55.9414713645666" lon="-3.24660748537699">
+<ele>39.7148645447705</ele>
+<name>WOL2-045</name>
+</rtept>
+<rtept lat="55.9421344737617" lon="-3.24678889946714">
+<ele>39.4750433193031</ele>
+<name>WOL2-046</name>
+</rtept>
+<rtept lat="55.9429854979552" lon="-3.24615976597856">
+<ele>39.2249832713501</ele>
+<name>WOL2-047</name>
+</rtept>
+<rtept lat="55.9437240206402" lon="-3.24421401696397">
+<ele>39.589718714974</ele>
+<name>WOL2-048</name>
+</rtept>
+<rtept lat="55.94452307341" lon="-3.24339098942807">
+<ele>39.8150433193031</ele>
+<name>WOL2-049</name>
+</rtept>
+<rtept lat="55.9447428604302" lon="-3.24298171158395">
+<ele>40</ele>
+<name>WOL2-050</name>
+</rtept>
+<rtept lat="55.94539460837" lon="-3.23983209516088">
+<ele>37.4574568186072</ele>
+<name>WOL2-051</name>
+</rtept>
+<rtept lat="55.9452740554432" lon="-3.23752243698447">
+<ele>39.5635686463886</ele>
+<name>WOL2-052</name>
+</rtept>
+<rtept lat="55.9451423669831" lon="-3.23721399979835">
+<ele>40</ele>
+<name>WOL2-053</name>
+</rtept>
+<rtept lat="55.9453436980792" lon="-3.23595542653595">
+<ele>39.8775865006959</ele>
+<name>WOL2-054</name>
+</rtept>
+<rtept lat="55.9457612438899" lon="-3.23553638288297">
+<ele>39.3156701997064</ele>
+<name>WOL2-055</name>
+</rtept>
+<rtept lat="55.9459272683738" lon="-3.23510932384303">
+<ele>39.2639124985984</ele>
+<name>WOL2-056</name>
+</rtept>
+<rtept lat="55.9459290332885" lon="-3.23493323916921">
+<ele>40.1603934987856</ele>
+<name>WOL2-057</name>
+</rtept>
+<rtept lat="55.9476798798177" lon="-3.23327551979628">
+<ele>40.5278181291362</ele>
+<name>WOL2-058</name>
+</rtept>
+<rtept lat="55.9488187495568" lon="-3.23171032279533">
+<ele>42.1036179264753</ele>
+<name>WOL2-059</name>
+</rtept>
+<rtept lat="55.9495057391409" lon="-3.23040294899386">
+<ele>43.3031479967129</ele>
+<name>WOL2-060</name>
+</rtept>
+<rtept lat="55.9499752097912" lon="-3.22928081147516">
+<ele>35.2578998059508</ele>
+<name>WOL2-061</name>
+</rtept>
+<rtept lat="55.949977924538" lon="-3.22900865162205">
+<ele>35.0037057609301</ele>
+<name>WOL2-062</name>
+</rtept>
+<rtept lat="55.9493665661152" lon="-3.22814053140835">
+<ele>40.3886412639642</ele>
+<name>WOL2-063</name>
+</rtept>
+<rtept lat="55.9489843358928" lon="-3.22591849289679">
+<ele>42.6695844242903</ele>
+<name>WOL2-064</name>
+</rtept>
+<rtept lat="55.9490609056262" lon="-3.22454370187293">
+<ele>43.4744722858588</ele>
+<name>WOL2-065</name>
+</rtept>
+<rtept lat="55.9497504327081" lon="-3.22206722646449">
+<ele>39.9732418319995</ele>
+<name>WOL2-066</name>
+</rtept>
+<rtept lat="55.9499042532339" lon="-3.22195997094462">
+<ele>37.8079267630629</ele>
+<name>WOL2-067</name>
+</rtept>
+<rtept lat="55.9502832809477" lon="-3.22179574924774">
+<ele>35.5355431253665</ele>
+<name>WOL2-068</name>
+</rtept>
+<rtept lat="55.9515020964946" lon="-3.22212240726224">
+<ele>35.2361672362097</ele>
+<name>WOL2-069</name>
+</rtept>
+<rtept lat="55.9529115227186" lon="-3.22135001281628">
+<ele>33.070752360173</ele>
+<name>WOL2-070</name>
+</rtept>
+<rtept lat="55.9528923470525" lon="-3.22056464229731">
+<ele>35.4649828021778</ele>
+<name>WOL2-071</name>
+</rtept>
+<rtept lat="55.9525122656598" lon="-3.21992807901674">
+<ele>33.6168207586231</ele>
+<name>WOL2-072</name>
+</rtept>
+<rtept lat="55.9521896738623" lon="-3.21983785737733">
+<ele>29.2388787264731</ele>
+<name>WOL2-073</name>
+</rtept>
+<rtept lat="55.9519550572861" lon="-3.21902971688177">
+<ele>31.0732932564056</ele>
+<name>WOL2-074</name>
+</rtept>
+<rtept lat="55.9519021508221" lon="-3.21801909458433">
+<ele>30.8239137565572</ele>
+<name>WOL2-075</name>
+</rtept>
+<rtept lat="55.9517765484268" lon="-3.21799913571055">
+<ele>32.2648507635244</ele>
+<name>WOL2-076</name>
+</rtept>
+<rtept lat="55.9517943898751" lon="-3.21710284539914">
+<ele>38.2006477077624</ele>
+<name>WOL2-077</name>
+</rtept>
+<rtept lat="55.9519698080868" lon="-3.21662789135782">
+<ele>40.0388801957083</ele>
+<name>WOL2-078</name>
+</rtept>
+<rtept lat="55.9523039143061" lon="-3.21646220054484">
+<ele>35.1841960309583</ele>
+<name>WOL2-079</name>
+</rtept>
+<rtept lat="55.9528771056066" lon="-3.2157434563598">
+<ele>30.0369040261916</ele>
+<name>WOL2-080</name>
+</rtept>
+<rtept lat="55.9529078446703" lon="-3.21536004432379">
+<ele>30.7903081531827</ele>
+<name>WOL2-081</name>
+</rtept>
+<rtept lat="55.9528169253134" lon="-3.21455641554797">
+<ele>32.5083374672842</ele>
+<name>WOL2-082</name>
+</rtept>
+<rtept lat="55.9528988760917" lon="-3.21444687198882">
+<ele>30.0567857152047</ele>
+<name>WOL2-083</name>
+</rtept>
+<rtept lat="55.9529226786211" lon="-3.21385503829331">
+<ele>29.1233525752694</ele>
+<name>WOL2-084</name>
+</rtept>
+<rtept lat="55.9528903737405" lon="-3.21348566788362">
+<ele>30.9097259042543</ele>
+<name>WOL2-085</name>
+</rtept>
+<rtept lat="55.953105176505" lon="-3.2126595701502">
+<ele>29.1439147110546</ele>
+<name>WOL2-086</name>
+</rtept>
+<rtept lat="55.953433129865" lon="-3.21220536286582">
+<ele>26.4700443280469</ele>
+<name>WOL2-087</name>
+</rtept>
+<rtept lat="55.9555349671105" lon="-3.21137411389985">
+<ele>22.1823747283535</ele>
+<name>WOL2-088</name>
+</rtept>
+<rtept lat="55.9561235778129" lon="-3.2109119884847">
+<ele>20.1361434611091</ele>
+<name>WOL2-089</name>
+</rtept>
+<rtept lat="55.9562803774565" lon="-3.21050044116019">
+<ele>20.378912889451</ele>
+<name>WOL2-090</name>
+</rtept>
+<rtept lat="55.9579279722621" lon="-3.20834142173874">
+<ele>20.3483085523824</ele>
+<name>WOL2-091</name>
+</rtept>
+<rtept lat="55.9581174307043" lon="-3.20872214054332">
+<ele>18.5315849270382</ele>
+<name>WOL2-092</name>
+</rtept>
+<rtept lat="55.9588795343161" lon="-3.20843514177072">
+<ele>19.7852554703714</ele>
+<name>WOL2-093</name>
+</rtept>
+<rtept lat="55.9597028224623" lon="-3.20878116430446">
+<ele>18.747931767509</ele>
+<name>WOL2-094</name>
+</rtept>
+<rtept lat="55.9601124478553" lon="-3.21007542060242">
+<ele>16.7579652764386</ele>
+<name>WOL2-095</name>
+</rtept>
+<rtept lat="55.960206070124" lon="-3.21060695722606">
+<ele>15.3888631248538</ele>
+<name>WOL2-096</name>
+</rtept>
+<rtept lat="55.9599446217328" lon="-3.21069490688698">
+<ele>15.0039833511392</ele>
+<name>WOL2-097</name>
+</rtept>
+<rtept lat="55.9599780361239" lon="-3.21095224688878">
+<ele>14.7225431813928</ele>
+<name>WOL2-098</name>
+</rtept>
+<rtept lat="55.961324223662" lon="-3.21203552641094">
+<ele>15.4051661108763</ele>
+<name>WOL2-099</name>
+</rtept>
+<rtept lat="55.96185610503" lon="-3.21185991876684">
+<ele>17.9549136372143</ele>
+<name>WOL2-100</name>
+</rtept>
+<rtept lat="55.9622314883065" lon="-3.21115077329167">
+<ele>18.2084540200863</ele>
+<name>WOL2-101</name>
+</rtept>
+<rtept lat="55.9626253260511" lon="-3.20397025647097">
+<ele>11.056646620163</ele>
+<name>WOL2-102</name>
+</rtept>
+<rtept lat="55.9624500469535" lon="-3.20351626669447">
+<ele>11.4500430434826</ele>
+<name>WOL2-103</name>
+</rtept>
+<rtept lat="55.9621970387164" lon="-3.20089724382524">
+<ele>12.7162309037845</ele>
+<name>WOL2-104</name>
+</rtept>
+<rtept lat="55.9627552928784" lon="-3.19985723396483">
+<ele>9.80536672726875</ele>
+<name>WOL2-105</name>
+</rtept>
+<rtept lat="55.9627240374374" lon="-3.19937567696937">
+<ele>9.86254318139283</ele>
+<name>WOL2-106</name>
+</rtept>
+<rtept lat="55.9650289699202" lon="-3.19890227345346">
+<ele>9.12997722319687</ele>
+<name>WOL2-107</name>
+</rtept>
+<rtept lat="55.9659231102434" lon="-3.19843327125821">
+<ele>8.2536250420475</ele>
+<name>WOL2-108</name>
+</rtept>
+<rtept lat="55.9662528796084" lon="-3.19778659862084">
+<ele>8</ele>
+<name>WOL2-109</name>
+</rtept>
+<rtept lat="55.9670800081681" lon="-3.19588957732467">
+<ele>9.26533251095403</ele>
+<name>WOL2-110</name>
+</rtept>
+<rtept lat="55.9674117558181" lon="-3.19596389668354">
+<ele>9.0319827504834</ele>
+<name>WOL2-111</name>
+</rtept>
+<rtept lat="55.9676970857911" lon="-3.19433848435547">
+<ele>7.38982727442868</ele>
+<name>WOL2-112</name>
+</rtept>
+<rtept lat="55.9678196053036" lon="-3.19374945375008">
+<ele>8.17423016434429</ele>
+<name>WOL2-113</name>
+</rtept>
+<rtept lat="55.9677827587019" lon="-3.1919859280184">
+<ele>7.71237045582151</ele>
+<name>WOL2-114</name>
+</rtept>
+<rtept lat="55.9682682911144" lon="-3.19009424593884">
+<ele>7.50378654798712</ele>
+<name>WOL2-115</name>
+</rtept>
+<rtept lat="55.968827090994" lon="-3.18991913389762">
+<ele>7.63681821870002</ele>
+<name>WOL2-116</name>
+</rtept>
+<rtept lat="55.9692909577223" lon="-3.19026984120692">
+<ele>6.35406963669514</ele>
+<name>WOL2-117</name>
+</rtept>
+<rtept lat="55.970301086307" lon="-3.19174290589008">
+<ele>7.4812483993906</ele>
+<name>WOL2-118</name>
+</rtept>
+<rtept lat="55.9706435229244" lon="-3.19164127281321">
+<ele>7.68737018000102</ele>
+<name>WOL2-119</name>
+</rtept>
+<rtept lat="55.9713143000798" lon="-3.19103698829801">
+<ele>10.3312814575869</ele>
+<name>WOL2-120</name>
+</rtept>
+<rtept lat="55.9721579008554" lon="-3.18928429568659">
+<ele>8.75231890092336</ele>
+<name>WOL2-121</name>
+</rtept>
+<rtept lat="55.9724934910266" lon="-3.18802872156594">
+<ele>10</ele>
+<name>WOL2-122</name>
+</rtept>
+<rtept lat="55.9718736339135" lon="-3.18708036582163">
+<ele>6.94982727442868</ele>
+<name>WOL2-123</name>
+</rtept>
+<rtept lat="55.9718715908" lon="-3.18635924958258">
+<ele>6.7747839551256</ele>
+<name>WOL2-124</name>
+</rtept>
+<rtept lat="55.9715106864669" lon="-3.18557908754209">
+<ele>4.37557947603139</ele>
+<name>WOL2-125</name>
+</rtept>
+<rtept lat="55.9715788045334" lon="-3.18503637901465">
+<ele>4.14240277467608</ele>
+<name>WOL2-126</name>
+</rtept>
+<rtept lat="55.9718744191308" lon="-3.18419617539208">
+<ele>4.42765555823186</ele>
+<name>WOL2-127</name>
+</rtept>
+<rtept lat="55.9721101528274" lon="-3.18210429766122">
+<ele>4</ele>
+<name>WOL2-128</name>
+</rtept>
+<rtept lat="55.9726042173302" lon="-3.1821193646492">
+<ele>4.4430794263837</ele>
+<name>WOL2-129</name>
+</rtept>
+<rtept lat="55.9727393463553" lon="-3.18114603610055">
+<ele>3.37862679688526</ele>
+<name>WOL2-130</name>
+</rtept>
+<rtept lat="55.9728753191682" lon="-3.18102198887356">
+<ele>3.27412071011719</ele>
+<name>WOL2-131</name>
+</rtept>
+<rtept lat="55.9739410716414" lon="-3.18139097124828">
+<ele>6.84496501848803</ele>
+<name>WOL2-132</name>
+</rtept>
+<rtept lat="55.9751157400644" lon="-3.17883076734641">
+<ele>5.32344498628417</ele>
+<name>WOL2-133</name>
+</rtept>
+<rtept lat="55.9756009193286" lon="-3.17695458138698">
+<ele>2.68244964795658</ele>
+<name>WOL2-134</name>
+</rtept>
+<rtept lat="55.9757404050594" lon="-3.17646204233437">
+<ele>2.50008652747368</ele>
+<name>WOL2-135</name>
+</rtept>
+<rtept lat="55.9754044528621" lon="-3.17400004273906">
+<ele>2.36508636278566</ele>
+<name>WOL2-136</name>
+</rtept>
+<rtept lat="55.9753939695193" lon="-3.17226904225291">
+<ele>2.48508636278566</ele>
+<name>WOL2-137</name>
+</rtept>
+<rtept lat="55.9750926594744" lon="-3.1718272617684">
+<ele>4.52767247541087</ele>
+<name>WOL2-138</name>
+</rtept>
+<rtept lat="55.9753898585" lon="-3.17081065774905">
+<ele>3.84762954417849</ele>
+<name>WOL2-139</name>
+</rtept>
+<rtept lat="55.9759079755646" lon="-3.17018530723499">
+<ele>2.20455564016999</ele>
+<name>WOL2-140</name>
+</rtept>
+<rtept lat="55.9763610801435" lon="-3.16978233157252">
+<ele>1.18109159379835</ele>
+<name>WOL2-141</name>
+</rtept>
+<rtept lat="55.977407822925" lon="-3.16931713013817">
+<ele>1.57504331930308</ele>
+<name>WOL2-142</name>
+</rtept>
+<rtept lat="55.9779295981643" lon="-3.16925274376836">
+<ele>1.67504331930308</ele>
+<name>WOL2-143</name>
+</rtept>
+</rte>
+</gpx>

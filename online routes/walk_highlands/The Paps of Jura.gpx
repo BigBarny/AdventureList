@@ -1,0 +1,718 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>The Paps of Jura</name>
+<rtept lat="55.8789449179541" lon="-5.9267913709479">
+<ele>19.7697669244391</ele>
+<name>PoJ001</name>
+</rtept>
+<rtept lat="55.8788350584885" lon="-5.92685225502854">
+<ele>19.5399157073279</ele>
+<name>PoJ002</name>
+</rtept>
+<rtept lat="55.8787187765713" lon="-5.92753639969514">
+<ele>17.648486212499</ele>
+<name>PoJ003</name>
+</rtept>
+<rtept lat="55.8788390253339" lon="-5.92757255463588">
+<ele>17.918486212499</ele>
+<name>PoJ004</name>
+</rtept>
+<rtept lat="55.8789942619197" lon="-5.92778022456149">
+<ele>18</ele>
+<name>PoJ005</name>
+</rtept>
+<rtept lat="55.8791779185165" lon="-5.92794277643143">
+<ele>18</ele>
+<name>PoJ006</name>
+</rtept>
+<rtept lat="55.8798657736952" lon="-5.92921219843758">
+<ele>20.6061748223638</ele>
+<name>PoJ007</name>
+</rtept>
+<rtept lat="55.8806799811964" lon="-5.93032646814999">
+<ele>29.3906241995777</ele>
+<name>PoJ008</name>
+</rtept>
+<rtept lat="55.8809366606757" lon="-5.93073640871403">
+<ele>29.189202333781</ele>
+<name>PoJ009</name>
+</rtept>
+<rtept lat="55.8811222847768" lon="-5.9312591535931">
+<ele>30.9546505219662</ele>
+<name>PoJ010</name>
+</rtept>
+<rtept lat="55.8812567430066" lon="-5.93127276279138">
+<ele>31.1822216735175</ele>
+<name>PoJ011</name>
+</rtept>
+<rtept lat="55.8817509638754" lon="-5.93269069932485">
+<ele>39.0988419540569</ele>
+<name>PoJ012</name>
+</rtept>
+<rtept lat="55.8837011390291" lon="-5.93413615876369">
+<ele>70.8480306217565</ele>
+<name>PoJ013</name>
+</rtept>
+<rtept lat="55.8851253788668" lon="-5.93557647102517">
+<ele>92.7629368185275</ele>
+<name>PoJ014</name>
+</rtept>
+<rtept lat="55.8867549082698" lon="-5.93902984130482">
+<ele>131.157210452002</ele>
+<name>PoJ015</name>
+</rtept>
+<rtept lat="55.886976337136" lon="-5.94138047657237">
+<ele>133.876062649964</ele>
+<name>PoJ016</name>
+</rtept>
+<rtept lat="55.8874447449122" lon="-5.94402024795886">
+<ele>136.203555929872</ele>
+<name>PoJ017</name>
+</rtept>
+<rtept lat="55.8876007622716" lon="-5.94588426633411">
+<ele>138.427653230176</ele>
+<name>PoJ018</name>
+</rtept>
+<rtept lat="55.8885999377641" lon="-5.9513144445677">
+<ele>152.426038244487</ele>
+<name>PoJ019</name>
+</rtept>
+<rtept lat="55.8895958973246" lon="-5.95516035275809">
+<ele>160.428536562936</ele>
+<name>PoJ020</name>
+</rtept>
+<rtept lat="55.8907130080209" lon="-5.96026704441343">
+<ele>165.443826615089</ele>
+<name>PoJ021</name>
+</rtept>
+<rtept lat="55.8907358648018" lon="-5.96206970188977">
+<ele>168.71501307161</ele>
+<name>PoJ022</name>
+</rtept>
+<rtept lat="55.891152903846" lon="-5.96336050057964">
+<ele>169.141513787501</ele>
+<name>PoJ023</name>
+</rtept>
+<rtept lat="55.8911785841649" lon="-5.96381921039796">
+<ele>169.051513787501</ele>
+<name>PoJ024</name>
+</rtept>
+<rtept lat="55.891694793961" lon="-5.96454405261487">
+<ele>170.144509689136</ele>
+<name>PoJ025</name>
+</rtept>
+<rtept lat="55.8926650507527" lon="-5.9654113121365">
+<ele>182.463974162841</ele>
+<name>PoJ026</name>
+</rtept>
+<rtept lat="55.8930579276834" lon="-5.96619562244885">
+<ele>187.402133884531</ele>
+<name>PoJ027</name>
+</rtept>
+<rtept lat="55.8941009290209" lon="-5.96606211720994">
+<ele>204.39892040242</ele>
+<name>PoJ028</name>
+</rtept>
+<rtept lat="55.896468250558" lon="-5.96752839521081">
+<ele>276.018574706723</ele>
+<name>PoJ029</name>
+</rtept>
+<rtept lat="55.8969865698791" lon="-5.96693315009769">
+<ele>302.464151282222</ele>
+<name>PoJ030</name>
+</rtept>
+<rtept lat="55.8972797275646" lon="-5.96662699180133">
+<ele>319.10300778186</ele>
+<name>PoJ031</name>
+</rtept>
+<rtept lat="55.8979742465114" lon="-5.96684201984813">
+<ele>350.18051728596</ele>
+<name>PoJ032</name>
+</rtept>
+<rtept lat="55.8985749676227" lon="-5.96745562701562">
+<ele>372.185875145796</ele>
+<name>PoJ033</name>
+</rtept>
+<rtept lat="55.899116978261" lon="-5.96988798287174">
+<ele>430.487255307822</ele>
+<name>PoJ034</name>
+</rtept>
+<rtept lat="55.8991276421353" lon="-5.97039327606786">
+<ele>445.657696456176</ele>
+<name>PoJ035</name>
+</rtept>
+<rtept lat="55.8986474634861" lon="-5.97231292431514">
+<ele>467.003758295833</ele>
+<name>PoJ036</name>
+</rtept>
+<rtept lat="55.8989185140732" lon="-5.97310896985853">
+<ele>498.51846876978</ele>
+<name>PoJ037</name>
+</rtept>
+<rtept lat="55.8996168861872" lon="-5.97320446973051">
+<ele>539.983037463261</ele>
+<name>PoJ038</name>
+</rtept>
+<rtept lat="55.9004899735735" lon="-5.97540677637706">
+<ele>619.241250726912</ele>
+<name>PoJ039</name>
+</rtept>
+<rtept lat="55.9008279387092" lon="-5.97580155572377">
+<ele>647.083912740982</ele>
+<name>PoJ040</name>
+</rtept>
+<rtept lat="55.9009756383342" lon="-5.97665706616439">
+<ele>669.427236987228</ele>
+<name>PoJ041</name>
+</rtept>
+<rtept lat="55.9011160798301" lon="-5.97731975200275">
+<ele>690.915364089152</ele>
+<name>PoJ042</name>
+</rtept>
+<rtept lat="55.9016479717281" lon="-5.97797454414558">
+<ele>720.699130607853</ele>
+<name>PoJ043</name>
+</rtept>
+<rtept lat="55.9017930519624" lon="-5.97849365401363">
+<ele>734.893308617464</ele>
+<name>PoJ044</name>
+</rtept>
+<rtept lat="55.9019251790337" lon="-5.97857923340915">
+<ele>739.664407287265</ele>
+<name>PoJ045</name>
+</rtept>
+<rtept lat="55.9020495621017" lon="-5.97890413495626">
+<ele>742.899903912735</ele>
+<name>PoJ046</name>
+</rtept>
+<rtept lat="55.9013621009736" lon="-5.97972206542098">
+<ele>744.355308706655</ele>
+<name>PoJ047</name>
+</rtept>
+<rtept lat="55.9013365376601" lon="-5.98051181095411">
+<ele>729.663168220677</ele>
+<name>PoJ048</name>
+</rtept>
+<rtept lat="55.9011760161406" lon="-5.98171990968551">
+<ele>692.459708892398</ele>
+<name>PoJ049</name>
+</rtept>
+<rtept lat="55.9012204961563" lon="-5.98201260592986">
+<ele>688.567412707514</ele>
+<name>PoJ050</name>
+</rtept>
+<rtept lat="55.9010891756269" lon="-5.9831516596888">
+<ele>677.912835990668</ele>
+<name>PoJ051</name>
+</rtept>
+<rtept lat="55.9009392207453" lon="-5.98361648772099">
+<ele>673.708507952102</ele>
+<name>PoJ052</name>
+</rtept>
+<rtept lat="55.9009275903903" lon="-5.98397545751702">
+<ele>666.33191397398</ele>
+<name>PoJ053</name>
+</rtept>
+<rtept lat="55.9012771583782" lon="-5.98401134206762">
+<ele>657.988701488896</ele>
+<name>PoJ054</name>
+</rtept>
+<rtept lat="55.9009537126148" lon="-5.98525071834368">
+<ele>609.973812064261</ele>
+<name>PoJ055</name>
+</rtept>
+<rtept lat="55.9008285690971" lon="-5.98619830250679">
+<ele>573.123295412154</ele>
+<name>PoJ056</name>
+</rtept>
+<rtept lat="55.9007928507071" lon="-5.98854769821733">
+<ele>505.425998672651</ele>
+<name>PoJ057</name>
+</rtept>
+<rtept lat="55.9003615565873" lon="-5.98936775647751">
+<ele>483.86603422398</ele>
+<name>PoJ058</name>
+</rtept>
+<rtept lat="55.8996017093551" lon="-5.99365950408813">
+<ele>447.329330257488</ele>
+<name>PoJ059</name>
+</rtept>
+<rtept lat="55.8986348280274" lon="-5.99560083313848">
+<ele>444.726704689201</ele>
+<name>PoJ060</name>
+</rtept>
+<rtept lat="55.8985522736449" lon="-5.99648068862253">
+<ele>456.660625867267</ele>
+<name>PoJ061</name>
+</rtept>
+<rtept lat="55.8981242594077" lon="-5.99761307424424">
+<ele>472.163201986749</ele>
+<name>PoJ062</name>
+</rtept>
+<rtept lat="55.897946021637" lon="-5.99853107616661">
+<ele>487.735360903543</ele>
+<name>PoJ063</name>
+</rtept>
+<rtept lat="55.8982942415765" lon="-5.99902312863358">
+<ele>512.138456876692</ele>
+<name>PoJ064</name>
+</rtept>
+<rtept lat="55.8984602474588" lon="-5.9988961753254">
+<ele>515.018456876692</ele>
+<name>PoJ065</name>
+</rtept>
+<rtept lat="55.8995327087929" lon="-5.9991027145126">
+<ele>554.067371016354</ele>
+<name>PoJ066</name>
+</rtept>
+<rtept lat="55.9003662787587" lon="-5.99918860657026">
+<ele>583.56399425933</ele>
+<name>PoJ067</name>
+</rtept>
+<rtept lat="55.9007156269472" lon="-5.998816419206">
+<ele>593.477222800069</ele>
+<name>PoJ068</name>
+</rtept>
+<rtept lat="55.9022175391999" lon="-5.99909123648809">
+<ele>636.173279626182</ele>
+<name>PoJ069</name>
+</rtept>
+<rtept lat="55.902264312622" lon="-5.99931216354442">
+<ele>640.597468610812</ele>
+<name>PoJ070</name>
+</rtept>
+<rtept lat="55.9023730699784" lon="-6.00011576667569">
+<ele>656.53063321757</ele>
+<name>PoJ071</name>
+</rtept>
+<rtept lat="55.9025685112816" lon="-6.00032800886025">
+<ele>669.324353654876</ele>
+<name>PoJ072</name>
+</rtept>
+<rtept lat="55.9029545131232" lon="-6.00048786088417">
+<ele>685.170626041751</ele>
+<name>PoJ073</name>
+</rtept>
+<rtept lat="55.9030348156963" lon="-6.00133657301888">
+<ele>703.727417235226</ele>
+<name>PoJ074</name>
+</rtept>
+<rtept lat="55.9036378945591" lon="-6.00228723048798">
+<ele>752.686569462574</ele>
+<name>PoJ075</name>
+</rtept>
+<rtept lat="55.9027267974214" lon="-6.00375406049884">
+<ele>772.240496625819</ele>
+<name>PoJ076</name>
+</rtept>
+<rtept lat="55.9025268838744" lon="-6.00409361705546">
+<ele>778.086116835046</ele>
+<name>PoJ077</name>
+</rtept>
+<rtept lat="55.9022422095314" lon="-6.00413628069075">
+<ele>773.557189247119</ele>
+<name>PoJ078</name>
+</rtept>
+<rtept lat="55.9018490024436" lon="-6.00378355838367">
+<ele>752.154016308557</ele>
+<name>PoJ079</name>
+</rtept>
+<rtept lat="55.9014505372261" lon="-6.0040065757809">
+<ele>745.681162899232</ele>
+<name>PoJ080</name>
+</rtept>
+<rtept lat="55.9009807556865" lon="-6.00393409671498">
+<ele>735.020293963478</ele>
+<name>PoJ081</name>
+</rtept>
+<rtept lat="55.9002894288959" lon="-6.00362266751246">
+<ele>703.595505564198</ele>
+<name>PoJ082</name>
+</rtept>
+<rtept lat="55.8997539822941" lon="-6.00349540153106">
+<ele>679.225263225199</ele>
+<name>PoJ083</name>
+</rtept>
+<rtept lat="55.8996261654304" lon="-6.00410648514903">
+<ele>664.841145735739</ele>
+<name>PoJ084</name>
+</rtept>
+<rtept lat="55.8992964813805" lon="-6.00428856365208">
+<ele>643.827693369933</ele>
+<name>PoJ085</name>
+</rtept>
+<rtept lat="55.8991661278529" lon="-6.00456323539056">
+<ele>638.618569132013</ele>
+<name>PoJ086</name>
+</rtept>
+<rtept lat="55.8992082150209" lon="-6.00492772890307">
+<ele>637.950294356267</ele>
+<name>PoJ087</name>
+</rtept>
+<rtept lat="55.8989742008942" lon="-6.0050716511649">
+<ele>632.194581472399</ele>
+<name>PoJ088</name>
+</rtept>
+<rtept lat="55.8985850874639" lon="-6.0050074891267">
+<ele>613.898807414513</ele>
+<name>PoJ089</name>
+</rtept>
+<rtept lat="55.8984085545442" lon="-6.00462912964324">
+<ele>605.388789473404</ele>
+<name>PoJ090</name>
+</rtept>
+<rtept lat="55.8980605539169" lon="-6.00454520568127">
+<ele>579.203327785038</ele>
+<name>PoJ091</name>
+</rtept>
+<rtept lat="55.897635977792" lon="-6.00474149222485">
+<ele>557.687752753897</ele>
+<name>PoJ092</name>
+</rtept>
+<rtept lat="55.8973830632488" lon="-6.00505152265702">
+<ele>544.757040309468</ele>
+<name>PoJ093</name>
+</rtept>
+<rtept lat="55.8972227010007" lon="-6.00541911744138">
+<ele>535.628556106778</ele>
+<name>PoJ094</name>
+</rtept>
+<rtept lat="55.896593923682" lon="-6.0052581996444">
+<ele>502.533420892264</ele>
+<name>PoJ095</name>
+</rtept>
+<rtept lat="55.896377836856" lon="-6.00485176953147">
+<ele>494.49819430981</ele>
+<name>PoJ096</name>
+</rtept>
+<rtept lat="55.8962560561294" lon="-6.00486321311674">
+<ele>487.31453701434</ele>
+<name>PoJ097</name>
+</rtept>
+<rtept lat="55.8962878161191" lon="-6.00513058082989">
+<ele>485.588745382912</ele>
+<name>PoJ098</name>
+</rtept>
+<rtept lat="55.8961652559148" lon="-6.00516595128782">
+<ele>477.708951846568</ele>
+<name>PoJ099</name>
+</rtept>
+<rtept lat="55.8960167789777" lon="-6.0055827769667">
+<ele>456.562168006548</ele>
+<name>PoJ100</name>
+</rtept>
+<rtept lat="55.8958119920789" lon="-6.00565767656833">
+<ele>442.897608260839</ele>
+<name>PoJ101</name>
+</rtept>
+<rtept lat="55.895704626907" lon="-6.00605473169927">
+<ele>428.948515346198</ele>
+<name>PoJ102</name>
+</rtept>
+<rtept lat="55.8954320270954" lon="-6.00655476916343">
+<ele>414.647532682591</ele>
+<name>PoJ103</name>
+</rtept>
+<rtept lat="55.8948833280061" lon="-6.00683423983728">
+<ele>392.914554396703</ele>
+<name>PoJ104</name>
+</rtept>
+<rtept lat="55.8946818473238" lon="-6.00722156700882">
+<ele>377.512016721366</ele>
+<name>PoJ105</name>
+</rtept>
+<rtept lat="55.8943338485318" lon="-6.0071376295244">
+<ele>374.796195107399</ele>
+<name>PoJ106</name>
+</rtept>
+<rtept lat="55.8934262310553" lon="-6.00766811196222">
+<ele>368.526277302129</ele>
+<name>PoJ107</name>
+</rtept>
+<rtept lat="55.8921267452334" lon="-6.00904632405678">
+<ele>398.512006168239</ele>
+<name>PoJ108</name>
+</rtept>
+<rtept lat="55.8897650037652" lon="-6.0082503551408">
+<ele>419.105975385621</ele>
+<name>PoJ109</name>
+</rtept>
+<rtept lat="55.8888375139315" lon="-6.008562669419">
+<ele>440.38539524528</ele>
+<name>PoJ110</name>
+</rtept>
+<rtept lat="55.8885021803003" lon="-6.00850404600176">
+<ele>438.239424922377</ele>
+<name>PoJ111</name>
+</rtept>
+<rtept lat="55.8883030356121" lon="-6.00881953372724">
+<ele>449.588441739148</ele>
+<name>PoJ112</name>
+</rtept>
+<rtept lat="55.8884197175214" lon="-6.0097917181865">
+<ele>484.009207320698</ele>
+<name>PoJ113</name>
+</rtept>
+<rtept lat="55.8878058806119" lon="-6.011240520958">
+<ele>511.681072783366</ele>
+<name>PoJ114</name>
+</rtept>
+<rtept lat="55.8882561414894" lon="-6.01191112390494">
+<ele>553.524076379848</ele>
+<name>PoJ115</name>
+</rtept>
+<rtept lat="55.8885175644356" lon="-6.01299429123607">
+<ele>597.451542210184</ele>
+<name>PoJ116</name>
+</rtept>
+<rtept lat="55.8887750719029" lon="-6.01419708754643">
+<ele>638.11728221152</ele>
+<name>PoJ117</name>
+</rtept>
+<rtept lat="55.8886598679613" lon="-6.01483327538193">
+<ele>654.595806140601</ele>
+<name>PoJ118</name>
+</rtept>
+<rtept lat="55.888771492262" lon="-6.01513286228268">
+<ele>660.351334091816</ele>
+<name>PoJ119</name>
+</rtept>
+<rtept lat="55.8887608716595" lon="-6.0162839424743">
+<ele>693.712505921512</ele>
+<name>PoJ120</name>
+</rtept>
+<rtept lat="55.8887997988512" lon="-6.01674404040466">
+<ele>704.903876878498</ele>
+<name>PoJ121</name>
+</rtept>
+<rtept lat="55.8885366934172" lon="-6.01736491872139">
+<ele>715.150303129369</ele>
+<name>PoJ122</name>
+</rtept>
+<rtept lat="55.8888101166299" lon="-6.01684112284906">
+<ele>706.699889266188</ele>
+<name>PoJ123</name>
+</rtept>
+<rtept lat="55.8887086570864" lon="-6.01623053399276">
+<ele>691.925035712331</ele>
+<name>PoJ124</name>
+</rtept>
+<rtept lat="55.8888260513499" lon="-6.01511450054429">
+<ele>658.922930531169</ele>
+<name>PoJ125</name>
+</rtept>
+<rtept lat="55.8886740936791" lon="-6.01481074270563">
+<ele>653.810430111804</ele>
+<name>PoJ126</name>
+</rtept>
+<rtept lat="55.88877819648" lon="-6.01410139573855">
+<ele>635.455465020662</ele>
+<name>PoJ127</name>
+</rtept>
+<rtept lat="55.8884930182164" lon="-6.01291974370538">
+<ele>594.624646581584</ele>
+<name>PoJ128</name>
+</rtept>
+<rtept lat="55.8882711473829" lon="-6.01186466765269">
+<ele>552.345260070882</ele>
+<name>PoJ129</name>
+</rtept>
+<rtept lat="55.8878185445435" lon="-6.01126583231181">
+<ele>512.935273351509</ele>
+<name>PoJ130</name>
+</rtept>
+<rtept lat="55.8884197175214" lon="-6.0097917181865">
+<ele>484.009207320698</ele>
+<name>PoJ131</name>
+</rtept>
+<rtept lat="55.8883307048018" lon="-6.00879838708471">
+<ele>449.011256911829</ele>
+<name>PoJ132</name>
+</rtept>
+<rtept lat="55.8884550505549" lon="-6.00746703229346">
+<ele>414.251699684114</ele>
+<name>PoJ133</name>
+</rtept>
+<rtept lat="55.8891512512234" lon="-6.00307417446922">
+<ele>345.357718012413</ele>
+<name>PoJ134</name>
+</rtept>
+<rtept lat="55.8893831737538" lon="-5.99884938823063">
+<ele>271.740653463795</ele>
+<name>PoJ135</name>
+</rtept>
+<rtept lat="55.8895851884541" lon="-5.99803005296762">
+<ele>258.061217868694</ele>
+<name>PoJ136</name>
+</rtept>
+<rtept lat="55.8893955617485" lon="-5.99265765966914">
+<ele>213.374771151182</ele>
+<name>PoJ137</name>
+</rtept>
+<rtept lat="55.8894266370134" lon="-5.99170070028387">
+<ele>204.172515324002</ele>
+<name>PoJ138</name>
+</rtept>
+<rtept lat="55.888917870024" lon="-5.98992014071622">
+<ele>192.865106110097</ele>
+<name>PoJ139</name>
+</rtept>
+<rtept lat="55.8886609248926" lon="-5.98494904765072">
+<ele>180.007702828971</ele>
+<name>PoJ140</name>
+</rtept>
+<rtept lat="55.8881357497943" lon="-5.98242284244216">
+<ele>174.439285252586</ele>
+<name>PoJ141</name>
+</rtept>
+<rtept lat="55.8881361469814" lon="-5.97949452297764">
+<ele>176.54534040259</ele>
+<name>PoJ142</name>
+</rtept>
+<rtept lat="55.8888803057595" lon="-5.97609030183385">
+<ele>171.312504430217</ele>
+<name>PoJ143</name>
+</rtept>
+<rtept lat="55.8894774931458" lon="-5.97514330001831">
+<ele>168.761714498432</ele>
+<name>PoJ144</name>
+</rtept>
+<rtept lat="55.889513369896" lon="-5.97445086468762">
+<ele>170.372564241335</ele>
+<name>PoJ145</name>
+</rtept>
+<rtept lat="55.8897628179717" lon="-5.97382829412775">
+<ele>168.926055150004</ele>
+<name>PoJ146</name>
+</rtept>
+<rtept lat="55.889666253723" lon="-5.97264222407403">
+<ele>168.593170956584</ele>
+<name>PoJ147</name>
+</rtept>
+<rtept lat="55.8897402937758" lon="-5.97118556490996">
+<ele>168.579599494513</ele>
+<name>PoJ148</name>
+</rtept>
+<rtept lat="55.8896835775108" lon="-5.97043564622135">
+<ele>168.135263017603</ele>
+<name>PoJ149</name>
+</rtept>
+<rtept lat="55.8896795518209" lon="-5.96930705653381">
+<ele>169.132463325044</ele>
+<name>PoJ150</name>
+</rtept>
+<rtept lat="55.8897877106737" lon="-5.96804591007091">
+<ele>170.147863035058</ele>
+<name>PoJ151</name>
+</rtept>
+<rtept lat="55.8901186996862" lon="-5.96656748287593">
+<ele>169.476769897419</ele>
+<name>PoJ152</name>
+</rtept>
+<rtept lat="55.8907132898006" lon="-5.96444382942812">
+<ele>170.196004420749</ele>
+<name>PoJ153</name>
+</rtept>
+<rtept lat="55.8911359341644" lon="-5.96388686995471">
+<ele>169.141513787501</ele>
+<name>PoJ154</name>
+</rtept>
+<rtept lat="55.891152903846" lon="-5.96336050057964">
+<ele>169.141513787501</ele>
+<name>PoJ155</name>
+</rtept>
+<rtept lat="55.8907358648018" lon="-5.96206970188977">
+<ele>168.71501307161</ele>
+<name>PoJ156</name>
+</rtept>
+<rtept lat="55.8907130080209" lon="-5.96026704441343">
+<ele>165.443826615089</ele>
+<name>PoJ157</name>
+</rtept>
+<rtept lat="55.8895958973246" lon="-5.95516035275809">
+<ele>160.428536562936</ele>
+<name>PoJ158</name>
+</rtept>
+<rtept lat="55.8885999377641" lon="-5.9513144445677">
+<ele>152.426038244487</ele>
+<name>PoJ159</name>
+</rtept>
+<rtept lat="55.8876007622716" lon="-5.94588426633411">
+<ele>138.427653230176</ele>
+<name>PoJ160</name>
+</rtept>
+<rtept lat="55.8874447449122" lon="-5.94402024795886">
+<ele>136.203555929872</ele>
+<name>PoJ161</name>
+</rtept>
+<rtept lat="55.886976337136" lon="-5.94138047657237">
+<ele>133.876062649964</ele>
+<name>PoJ162</name>
+</rtept>
+<rtept lat="55.8867549082698" lon="-5.93902984130482">
+<ele>131.157210452002</ele>
+<name>PoJ163</name>
+</rtept>
+<rtept lat="55.8851253788668" lon="-5.93557647102517">
+<ele>92.7629368185275</ele>
+<name>PoJ164</name>
+</rtept>
+<rtept lat="55.8837011390291" lon="-5.93413615876369">
+<ele>70.8480306217565</ele>
+<name>PoJ165</name>
+</rtept>
+<rtept lat="55.8817509638754" lon="-5.93269069932485">
+<ele>39.0988419540569</ele>
+<name>PoJ166</name>
+</rtept>
+<rtept lat="55.8812567430066" lon="-5.93127276279138">
+<ele>31.1822216735175</ele>
+<name>PoJ167</name>
+</rtept>
+<rtept lat="55.8811222847768" lon="-5.9312591535931">
+<ele>30.9546505219662</ele>
+<name>PoJ168</name>
+</rtept>
+<rtept lat="55.8809366606757" lon="-5.93073640871403">
+<ele>29.189202333781</ele>
+<name>PoJ169</name>
+</rtept>
+<rtept lat="55.8806799811964" lon="-5.93032646814999">
+<ele>29.3906241995777</ele>
+<name>PoJ170</name>
+</rtept>
+<rtept lat="55.8798657736952" lon="-5.92921219843758">
+<ele>20.6061748223638</ele>
+<name>PoJ171</name>
+</rtept>
+<rtept lat="55.8791779185165" lon="-5.92794277643143">
+<ele>18</ele>
+<name>PoJ172</name>
+</rtept>
+<rtept lat="55.8789942619197" lon="-5.92778022456149">
+<ele>18</ele>
+<name>PoJ173</name>
+</rtept>
+<rtept lat="55.8788390253339" lon="-5.92757255463588">
+<ele>17.918486212499</ele>
+<name>PoJ174</name>
+</rtept>
+<rtept lat="55.8787187765713" lon="-5.92753639969514">
+<ele>17.648486212499</ele>
+<name>PoJ175</name>
+</rtept>
+<rtept lat="55.8788350584885" lon="-5.92685225502854">
+<ele>19.5399157073279</ele>
+<name>PoJ176</name>
+</rtept>
+<rtept lat="55.8789449179541" lon="-5.9267913709479">
+<ele>19.7697669244391</ele>
+<name>PoJ177</name>
+</rtept>
+</rte>
+</gpx>

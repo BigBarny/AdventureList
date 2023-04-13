@@ -1,0 +1,810 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Lochmaben to Hoddom Castle</name>
+<rtept lat="55.1282086825161" lon="-3.44052055072755">
+<ele>53.4130407202964</ele>
+<name>LHC001</name>
+</rtept>
+<rtept lat="55.1269210145979" lon="-3.43905951005431">
+<ele>51.2413656420429</ele>
+<name>LHC002</name>
+</rtept>
+<rtept lat="55.1265347073796" lon="-3.43828652718061">
+<ele>50.2544656041395</ele>
+<name>LHC003</name>
+</rtept>
+<rtept lat="55.1252235004357" lon="-3.4379806222591">
+<ele>47.0451424611976</ele>
+<name>LHC004</name>
+</rtept>
+<rtept lat="55.1250960564164" lon="-3.43788978518838">
+<ele>47.1725485221196</ele>
+<name>LHC005</name>
+</rtept>
+<rtept lat="55.1242949741197" lon="-3.4374987262664">
+<ele>47.3979200654419</ele>
+<name>LHC006</name>
+</rtept>
+<rtept lat="55.1237309057998" lon="-3.43754746551465">
+<ele>47.6854171006916</ele>
+<name>LHC007</name>
+</rtept>
+<rtept lat="55.1222183423768" lon="-3.43713087511261">
+<ele>47.0478401308833</ele>
+<name>LHC008</name>
+</rtept>
+<rtept lat="55.1212412777758" lon="-3.43699228825596">
+<ele>46.8919200654409</ele>
+<name>LHC009</name>
+</rtept>
+<rtept lat="55.121245751042" lon="-3.43661295495534">
+<ele>46.4079200654419</ele>
+<name>LHC010</name>
+</rtept>
+<rtept lat="55.1212311927517" lon="-3.43700917583627">
+<ele>46.9139200654416</ele>
+<name>LHC011</name>
+</rtept>
+<rtept lat="55.120254043021" lon="-3.43771580833448">
+<ele>47</ele>
+<name>LHC012</name>
+</rtept>
+<rtept lat="55.1198203806678" lon="-3.43844194096326">
+<ele>46.9826191224203</ele>
+<name>LHC013</name>
+</rtept>
+<rtept lat="55.1195377899594" lon="-3.43893200472787">
+<ele>47.4439200654416</ele>
+<name>LHC014</name>
+</rtept>
+<rtept lat="55.1189257378493" lon="-3.43885825280622">
+<ele>46.3779200654419</ele>
+<name>LHC015</name>
+</rtept>
+<rtept lat="55.1187838789961" lon="-3.43873241203805">
+<ele>46.2239200654416</ele>
+<name>LHC016</name>
+</rtept>
+<rtept lat="55.118756269858" lon="-3.43855893296983">
+<ele>46.0039200654416</ele>
+<name>LHC017</name>
+</rtept>
+<rtept lat="55.1186568424992" lon="-3.43860710496879">
+<ele>46.0699200654414</ele>
+<name>LHC018</name>
+</rtept>
+<rtept lat="55.1186650954494" lon="-3.43874539055577">
+<ele>46.2459200654412</ele>
+<name>LHC019</name>
+</rtept>
+<rtept lat="55.1185444793972" lon="-3.43891354020941">
+<ele>46.4659200654412</ele>
+<name>LHC020</name>
+</rtept>
+<rtept lat="55.1176498349217" lon="-3.43932982870991">
+<ele>46.9620799345581</ele>
+<name>LHC021</name>
+</rtept>
+<rtept lat="55.1171755670621" lon="-3.43972672472326">
+<ele>46.9669249447723</ele>
+<name>LHC022</name>
+</rtept>
+<rtept lat="55.1164259868424" lon="-3.43957902832591">
+<ele>47.2527357198356</ele>
+<name>LHC023</name>
+</rtept>
+<rtept lat="55.1156145658615" lon="-3.43880821090285">
+<ele>47.9054753181222</ele>
+<name>LHC024</name>
+</rtept>
+<rtept lat="55.1135783049098" lon="-3.43711385572749">
+<ele>49.3979200654419</ele>
+<name>LHC025</name>
+</rtept>
+<rtept lat="55.1138414956046" lon="-3.43155267674638">
+<ele>48.575555252682</ele>
+<name>LHC026</name>
+</rtept>
+<rtept lat="55.1124666823657" lon="-3.43034803493989">
+<ele>49.8179200654407</ele>
+<name>LHC027</name>
+</rtept>
+<rtept lat="55.10910767536" lon="-3.4280552242356">
+<ele>60.2015552526806</ele>
+<name>LHC028</name>
+</rtept>
+<rtept lat="55.1063590697882" lon="-3.42597421522986">
+<ele>52.9141743728379</ele>
+<name>LHC029</name>
+</rtept>
+<rtept lat="55.1058482455066" lon="-3.42569737748726">
+<ele>50.3718401308823</ele>
+<name>LHC030</name>
+</rtept>
+<rtept lat="55.1053997264493" lon="-3.42685392292805">
+<ele>51.8669368631419</ele>
+<name>LHC031</name>
+</rtept>
+<rtept lat="55.1052708464" lon="-3.4277287140244">
+<ele>50.9011109069194</ele>
+<name>LHC032</name>
+</rtept>
+<rtept lat="55.1052641788185" lon="-3.42829748916381">
+<ele>50.6210886250054</ele>
+<name>LHC033</name>
+</rtept>
+<rtept lat="55.1048277659482" lon="-3.42841986360496">
+<ele>48.777614016455</ele>
+<name>LHC034</name>
+</rtept>
+<rtept lat="55.1040606064823" lon="-3.42892700911259">
+<ele>45.3185252409748</ele>
+<name>LHC035</name>
+</rtept>
+<rtept lat="55.1026581560625" lon="-3.42585967044059">
+<ele>45.1494753181213</ele>
+<name>LHC036</name>
+</rtept>
+<rtept lat="55.1024943921954" lon="-3.42380208758716">
+<ele>43.9222868481408</ele>
+<name>LHC037</name>
+</rtept>
+<rtept lat="55.1021896925938" lon="-3.41856708819773">
+<ele>44.1564447473199</ele>
+<name>LHC038</name>
+</rtept>
+<rtept lat="55.1017123079528" lon="-3.41796397536798">
+<ele>44</ele>
+<name>LHC039</name>
+</rtept>
+<rtept lat="55.1009230527728" lon="-3.41612573464548">
+<ele>44</ele>
+<name>LHC040</name>
+</rtept>
+<rtept lat="55.1009014196833" lon="-3.41543533353388">
+<ele>43.8574071308943</ele>
+<name>LHC041</name>
+</rtept>
+<rtept lat="55.1007340945638" lon="-3.41494667657612">
+<ele>43.5763455014302</ele>
+<name>LHC042</name>
+</rtept>
+<rtept lat="55.1000868999528" lon="-3.41449279766431">
+<ele>43.0942330446146</ele>
+<name>LHC043</name>
+</rtept>
+<rtept lat="55.1000806199716" lon="-3.4141822460207">
+<ele>43</ele>
+<name>LHC044</name>
+</rtept>
+<rtept lat="55.1001773574072" lon="-3.41351327895764">
+<ele>43</ele>
+<name>LHC045</name>
+</rtept>
+<rtept lat="55.1000280454977" lon="-3.4127494262606">
+<ele>43</ele>
+<name>LHC046</name>
+</rtept>
+<rtept lat="55.0998786191333" lon="-3.41284759807771">
+<ele>43</ele>
+<name>LHC047</name>
+</rtept>
+<rtept lat="55.0976674185326" lon="-3.41937233270359">
+<ele>50</ele>
+<name>LHC048</name>
+</rtept>
+<rtept lat="55.0970441417753" lon="-3.41898822188017">
+<ele>50</ele>
+<name>LHC049</name>
+</rtept>
+<rtept lat="55.0967622315421" lon="-3.41942645230052">
+<ele>50</ele>
+<name>LHC050</name>
+</rtept>
+<rtept lat="55.0962308992868" lon="-3.42090740849654">
+<ele>48.4900799345598</ele>
+<name>LHC051</name>
+</rtept>
+<rtept lat="55.0958545876969" lon="-3.42096301462598">
+<ele>48.4020799345593</ele>
+<name>LHC052</name>
+</rtept>
+<rtept lat="55.0957868223943" lon="-3.42083993970572">
+<ele>48.5374205318451</ele>
+<name>LHC053</name>
+</rtept>
+<rtept lat="55.0958822226228" lon="-3.42113638252105">
+<ele>48.1820799345593</ele>
+<name>LHC054</name>
+</rtept>
+<rtept lat="55.0956561761172" lon="-3.42186962518774">
+<ele>48.7639200654405</ele>
+<name>LHC055</name>
+</rtept>
+<rtept lat="55.0946586519687" lon="-3.42305813221965">
+<ele>47.5134447473194</ele>
+<name>LHC056</name>
+</rtept>
+<rtept lat="55.0935593798058" lon="-3.42491523611157">
+<ele>45</ele>
+<name>LHC057</name>
+</rtept>
+<rtept lat="55.0936053613798" lon="-3.42520991405229">
+<ele>45</ele>
+<name>LHC058</name>
+</rtept>
+<rtept lat="55.093866921959" lon="-3.42651206236901">
+<ele>45</ele>
+<name>LHC059</name>
+</rtept>
+<rtept lat="55.0937689023616" lon="-3.42728427569258">
+<ele>45</ele>
+<name>LHC060</name>
+</rtept>
+<rtept lat="55.0930771796376" lon="-3.42725963064708">
+<ele>45</ele>
+<name>LHC061</name>
+</rtept>
+<rtept lat="55.0926193880974" lon="-3.42751911870411">
+<ele>45.9085552526801</ele>
+<name>LHC062</name>
+</rtept>
+<rtept lat="55.0923445009839" lon="-3.42819881363704">
+<ele>46.5025552526815</ele>
+<name>LHC063</name>
+</rtept>
+<rtept lat="55.0894268153344" lon="-3.433782688337">
+<ele>72.0379000505899</ele>
+<name>LHC064</name>
+</rtept>
+<rtept lat="55.0889047789404" lon="-3.43403977976611">
+<ele>73.6011690569444</ele>
+<name>LHC065</name>
+</rtept>
+<rtept lat="55.0887337463402" lon="-3.43429219400271">
+<ele>73.5803797190854</ele>
+<name>LHC066</name>
+</rtept>
+<rtept lat="55.0873657140946" lon="-3.43796601211877">
+<ele>79.3703677844293</ele>
+<name>LHC067</name>
+</rtept>
+<rtept lat="55.0872692507509" lon="-3.43860024881691">
+<ele>85.6220529267512</ele>
+<name>LHC068</name>
+</rtept>
+<rtept lat="55.0874214555737" lon="-3.4391055331725">
+<ele>88.8628519087401</ele>
+<name>LHC069</name>
+</rtept>
+<rtept lat="55.0873696039622" lon="-3.43931049255987">
+<ele>91.1068519087345</ele>
+<name>LHC070</name>
+</rtept>
+<rtept lat="55.0872786324239" lon="-3.43947957579608">
+<ele>93.6148519087373</ele>
+<name>LHC071</name>
+</rtept>
+<rtept lat="55.0870612347884" lon="-3.4394717658103">
+<ele>96.5188519087318</ele>
+<name>LHC072</name>
+</rtept>
+<rtept lat="55.0864404642309" lon="-3.43888071883742">
+<ele>104.281927554058</ele>
+<name>LHC073</name>
+</rtept>
+<rtept lat="55.0860365350957" lon="-3.43876280690964">
+<ele>108.997252728601</ele>
+<name>LHC074</name>
+</rtept>
+<rtept lat="55.0851902790595" lon="-3.43926668267811">
+<ele>126.83447102889</ele>
+<name>LHC075</name>
+</rtept>
+<rtept lat="55.0849408981767" lon="-3.44029177155965">
+<ele>137.943772586464</ele>
+<name>LHC076</name>
+</rtept>
+<rtept lat="55.0841958985162" lon="-3.44059243698694">
+<ele>140.53771114975</ele>
+<name>LHC077</name>
+</rtept>
+<rtept lat="55.0822313054927" lon="-3.44245190542665">
+<ele>152.239600327209</ele>
+<name>LHC078</name>
+</rtept>
+<rtept lat="55.081576982503" lon="-3.44177351420138">
+<ele>147.255689375946</ele>
+<name>LHC079</name>
+</rtept>
+<rtept lat="55.0811565549036" lon="-3.44137927518857">
+<ele>137.937698685081</ele>
+<name>LHC080</name>
+</rtept>
+<rtept lat="55.0807550740697" lon="-3.44105465496221">
+<ele>136.97920618717</ele>
+<name>LHC081</name>
+</rtept>
+<rtept lat="55.0805985972126" lon="-3.44091117089221">
+<ele>139.881289744676</ele>
+<name>LHC082</name>
+</rtept>
+<rtept lat="55.0801505026629" lon="-3.44160157492609">
+<ele>145.523415589165</ele>
+<name>LHC083</name>
+</rtept>
+<rtept lat="55.0784914865692" lon="-3.44228285275301">
+<ele>163.214710256758</ele>
+<name>LHC084</name>
+</rtept>
+<rtept lat="55.0780638296179" lon="-3.44166437435422">
+<ele>171.662342874284</ele>
+<name>LHC085</name>
+</rtept>
+<rtept lat="55.07687145701" lon="-3.4400879634614">
+<ele>176.032213286357</ele>
+<name>LHC086</name>
+</rtept>
+<rtept lat="55.0762194668107" lon="-3.44004730994595">
+<ele>170.139049363756</ele>
+<name>LHC087</name>
+</rtept>
+<rtept lat="55.0757817126885" lon="-3.43944575868796">
+<ele>169.742753226595</ele>
+<name>LHC088</name>
+</rtept>
+<rtept lat="55.0755815240818" lon="-3.43881828764112">
+<ele>169.47144474732</ele>
+<name>LHC089</name>
+</rtept>
+<rtept lat="55.0753663643396" lon="-3.43862103522577">
+<ele>168.952487913058</ele>
+<name>LHC090</name>
+</rtept>
+<rtept lat="55.0749484478397" lon="-3.437175964335">
+<ele>159.273271675375</ele>
+<name>LHC091</name>
+</rtept>
+<rtept lat="55.0745018773486" lon="-3.43690151048765">
+<ele>167.320377918338</ele>
+<name>LHC092</name>
+</rtept>
+<rtept lat="55.0747986064455" lon="-3.43605066009069">
+<ele>158.580304594788</ele>
+<name>LHC093</name>
+</rtept>
+<rtept lat="55.0747952229879" lon="-3.4354991877219">
+<ele>155.671105907692</ele>
+<name>LHC094</name>
+</rtept>
+<rtept lat="55.0743768034944" lon="-3.43493285934116">
+<ele>158.558387752407</ele>
+<name>LHC095</name>
+</rtept>
+<rtept lat="55.0720446668121" lon="-3.43233402176775">
+<ele>167.441526160771</ele>
+<name>LHC096</name>
+</rtept>
+<rtept lat="55.0714017859975" lon="-3.43151855465636">
+<ele>171.962878400661</ele>
+<name>LHC097</name>
+</rtept>
+<rtept lat="55.0711914716347" lon="-3.43090805968027">
+<ele>182.931044305153</ele>
+<name>LHC098</name>
+</rtept>
+<rtept lat="55.0711467167276" lon="-3.43051021511606">
+<ele>190.142946475121</ele>
+<name>LHC099</name>
+</rtept>
+<rtept lat="55.0710400402466" lon="-3.43033412798323">
+<ele>194.343673973886</ele>
+<name>LHC100</name>
+</rtept>
+<rtept lat="55.0705380923895" lon="-3.43014394238586">
+<ele>200.867894879442</ele>
+<name>LHC101</name>
+</rtept>
+<rtept lat="55.0703338109455" lon="-3.42986101110015">
+<ele>205.985779515732</ele>
+<name>LHC102</name>
+</rtept>
+<rtept lat="55.07076921591" lon="-3.42982485497812">
+<ele>205.745753933249</ele>
+<name>LHC103</name>
+</rtept>
+<rtept lat="55.0709600027644" lon="-3.42957323798625">
+<ele>206.397874833384</ele>
+<name>LHC104</name>
+</rtept>
+<rtept lat="55.0705393314956" lon="-3.42919645325272">
+<ele>210.718879656322</ele>
+<name>LHC105</name>
+</rtept>
+<rtept lat="55.0701359974597" lon="-3.42902702680114">
+<ele>217.700439902358</ele>
+<name>LHC106</name>
+</rtept>
+<rtept lat="55.0697374019525" lon="-3.42887500023194">
+<ele>214.443663934235</ele>
+<name>LHC107</name>
+</rtept>
+<rtept lat="55.0690039452359" lon="-3.42819422839517">
+<ele>210.713371739118</ele>
+<name>LHC108</name>
+</rtept>
+<rtept lat="55.0684642840162" lon="-3.42784769380948">
+<ele>210.834076069392</ele>
+<name>LHC109</name>
+</rtept>
+<rtept lat="55.0681467601796" lon="-3.42752630376898">
+<ele>211.456001641572</ele>
+<name>LHC110</name>
+</rtept>
+<rtept lat="55.0676236307497" lon="-3.42745600013566">
+<ele>210.651184780472</ele>
+<name>LHC111</name>
+</rtept>
+<rtept lat="55.0670180235251" lon="-3.42683151906811">
+<ele>197.702820672106</ele>
+<name>LHC112</name>
+</rtept>
+<rtept lat="55.0668345063377" lon="-3.426463237258">
+<ele>190.980979939364</ele>
+<name>LHC113</name>
+</rtept>
+<rtept lat="55.0655075177124" lon="-3.42496907489212">
+<ele>175.307878320206</ele>
+<name>LHC114</name>
+</rtept>
+<rtept lat="55.0645592562283" lon="-3.424056890295">
+<ele>167.645903998353</ele>
+<name>LHC115</name>
+</rtept>
+<rtept lat="55.0651069409606" lon="-3.42202650112946">
+<ele>168.334266096391</ele>
+<name>LHC116</name>
+</rtept>
+<rtept lat="55.0626691524769" lon="-3.41956308615767">
+<ele>140.157886509121</ele>
+<name>LHC117</name>
+</rtept>
+<rtept lat="55.0624858440896" lon="-3.4166284518435">
+<ele>126.787112310765</ele>
+<name>LHC118</name>
+</rtept>
+<rtept lat="55.062908693057" lon="-3.41597162981382">
+<ele>122.378988052234</ele>
+<name>LHC119</name>
+</rtept>
+<rtept lat="55.0633289363659" lon="-3.41553862379149">
+<ele>117.277280588958</ele>
+<name>LHC120</name>
+</rtept>
+<rtept lat="55.0634647253535" lon="-3.41406208372944">
+<ele>105.776675199414</ele>
+<name>LHC121</name>
+</rtept>
+<rtept lat="55.0629389869969" lon="-3.41421579265254">
+<ele>108.871827893064</ele>
+<name>LHC122</name>
+</rtept>
+<rtept lat="55.0618363596582" lon="-3.41424580916484">
+<ele>113.873395383561</ele>
+<name>LHC123</name>
+</rtept>
+<rtept lat="55.060695062643" lon="-3.4137749763634">
+<ele>115.65079076712</ele>
+<name>LHC124</name>
+</rtept>
+<rtept lat="55.0601349042938" lon="-3.41263571320571">
+<ele>110.053075645319</ele>
+<name>LHC125</name>
+</rtept>
+<rtept lat="55.0598366531546" lon="-3.41107511798047">
+<ele>99.7710509610709</ele>
+<name>LHC126</name>
+</rtept>
+<rtept lat="55.0597328300711" lon="-3.40979694968547">
+<ele>99.4630956530958</ele>
+<name>LHC127</name>
+</rtept>
+<rtept lat="55.0594326706727" lon="-3.40925248508703">
+<ele>99.4765246818785</ele>
+<name>LHC128</name>
+</rtept>
+<rtept lat="55.056679705182" lon="-3.39980430058824">
+<ele>65.7096003271989</ele>
+<name>LHC129</name>
+</rtept>
+<rtept lat="55.0561648686726" lon="-3.39642811925089">
+<ele>51.7065005656892</ele>
+<name>LHC130</name>
+</rtept>
+<rtept lat="55.0557786302237" lon="-3.39390034279803">
+<ele>50.8823048877612</ele>
+<name>LHC131</name>
+</rtept>
+<rtept lat="55.0557784034886" lon="-3.39305648407711">
+<ele>51.3787998020139</ele>
+<name>LHC132</name>
+</rtept>
+<rtept lat="55.0558681290545" lon="-3.39299071389747">
+<ele>50.97849876682</ele>
+<name>LHC133</name>
+</rtept>
+<rtept lat="55.0569844259007" lon="-3.39392501935723">
+<ele>48.3502206937248</ele>
+<name>LHC134</name>
+</rtept>
+<rtept lat="55.0598622753641" lon="-3.39512731417525">
+<ele>46.1325246818806</ele>
+<name>LHC135</name>
+</rtept>
+<rtept lat="55.0602458954762" lon="-3.39529566780514">
+<ele>47.0419036336247</ele>
+<name>LHC136</name>
+</rtept>
+<rtept lat="55.0607059374863" lon="-3.39310705532183">
+<ele>48.4318905129623</ele>
+<name>LHC137</name>
+</rtept>
+<rtept lat="55.0610021644845" lon="-3.39227338357504">
+<ele>48.1775552526815</ele>
+<name>LHC138</name>
+</rtept>
+<rtept lat="55.0610797562548" lon="-3.39067427127235">
+<ele>48.5160799345619</ele>
+<name>LHC139</name>
+</rtept>
+<rtept lat="55.0619292858342" lon="-3.38639770881978">
+<ele>64.0482398036856</ele>
+<name>LHC140</name>
+</rtept>
+<rtept lat="55.0626680008299" lon="-3.38576871800296">
+<ele>67.4083197382465</ele>
+<name>LHC141</name>
+</rtept>
+<rtept lat="55.063383618271" lon="-3.38543172632052">
+<ele>68.6281598691223</ele>
+<name>LHC142</name>
+</rtept>
+<rtept lat="55.0671069676883" lon="-3.3857498532527">
+<ele>62.560985496291</ele>
+<name>LHC143</name>
+</rtept>
+<rtept lat="55.0677735667759" lon="-3.38537667853313">
+<ele>60.0511055783106</ele>
+<name>LHC144</name>
+</rtept>
+<rtept lat="55.0689586195963" lon="-3.38548653102382">
+<ele>47.8754753369542</ele>
+<name>LHC145</name>
+</rtept>
+<rtept lat="55.0691675125438" lon="-3.3853731588094">
+<ele>44.6176456535405</ele>
+<name>LHC146</name>
+</rtept>
+<rtept lat="55.0694498887408" lon="-3.38488332362449">
+<ele>40.596767303103</ele>
+<name>LHC147</name>
+</rtept>
+<rtept lat="55.0700001008551" lon="-3.38474727995835">
+<ele>37.7687907671137</ele>
+<name>LHC148</name>
+</rtept>
+<rtept lat="55.0711568789601" lon="-3.38473554822241">
+<ele>38.6572497856743</ele>
+<name>LHC149</name>
+</rtept>
+<rtept lat="55.0715856251081" lon="-3.38354438137011">
+<ele>38.6258277844</ele>
+<name>LHC150</name>
+</rtept>
+<rtept lat="55.0715083303147" lon="-3.3833866604559">
+<ele>40.954563831191</ele>
+<name>LHC151</name>
+</rtept>
+<rtept lat="55.070633333776" lon="-3.38296023065524">
+<ele>47.2669573066778</ele>
+<name>LHC152</name>
+</rtept>
+<rtept lat="55.0698060868176" lon="-3.38355188554273">
+<ele>36.1942505330372</ele>
+<name>LHC153</name>
+</rtept>
+<rtept lat="55.0691267738744" lon="-3.38330449245982">
+<ele>36.2135024055125</ele>
+<name>LHC154</name>
+</rtept>
+<rtept lat="55.0689287264483" lon="-3.38159218040356">
+<ele>35.7367405998948</ele>
+<name>LHC155</name>
+</rtept>
+<rtept lat="55.0685529740989" lon="-3.37985654342882">
+<ele>35.829090812565</ele>
+<name>LHC156</name>
+</rtept>
+<rtept lat="55.0686200701151" lon="-3.37916977530073">
+<ele>36.570716741567</ele>
+<name>LHC157</name>
+</rtept>
+<rtept lat="55.0686422902891" lon="-3.37720666920129">
+<ele>40.6441253666958</ele>
+<name>LHC158</name>
+</rtept>
+<rtept lat="55.0686845915533" lon="-3.37608837051946">
+<ele>40.7729084429096</ele>
+<name>LHC159</name>
+</rtept>
+<rtept lat="55.0690937154167" lon="-3.37400070272193">
+<ele>42.8779639972979</ele>
+<name>LHC160</name>
+</rtept>
+<rtept lat="55.0680141181463" lon="-3.36979486061729">
+<ele>40.859444747318</ele>
+<name>LHC161</name>
+</rtept>
+<rtept lat="55.0682177542642" lon="-3.36838922532198">
+<ele>41.8469694291998</ele>
+<name>LHC162</name>
+</rtept>
+<rtept lat="55.0678090934456" lon="-3.36780680340236">
+<ele>40.6888095600763</ele>
+<name>LHC163</name>
+</rtept>
+<rtept lat="55.0678325325348" lon="-3.36748029831027">
+<ele>40.358809560074</ele>
+<name>LHC164</name>
+</rtept>
+<rtept lat="55.0688108056003" lon="-3.36575650953303">
+<ele>52.6131893945542</ele>
+<name>LHC165</name>
+</rtept>
+<rtept lat="55.0666579099577" lon="-3.36423619657891">
+<ele>64.5561372476212</ele>
+<name>LHC166</name>
+</rtept>
+<rtept lat="55.0664521229673" lon="-3.36407416205717">
+<ele>65.8745021174238</ele>
+<name>LHC167</name>
+</rtept>
+<rtept lat="55.066621035348" lon="-3.36311525022627">
+<ele>74.3160890321182</ele>
+<name>LHC168</name>
+</rtept>
+<rtept lat="55.0660562958968" lon="-3.36145960438334">
+<ele>83.6119778457849</ele>
+<name>LHC169</name>
+</rtept>
+<rtept lat="55.0654819755265" lon="-3.35711649869369">
+<ele>78.7160910657359</ele>
+<name>LHC170</name>
+</rtept>
+<rtept lat="55.0607202130306" lon="-3.35416517564486">
+<ele>59.0319706561176</ele>
+<name>LHC171</name>
+</rtept>
+<rtept lat="55.0587526296205" lon="-3.35285872190337">
+<ele>56.1093648127548</ele>
+<name>LHC172</name>
+</rtept>
+<rtept lat="55.0570736865936" lon="-3.35182045150944">
+<ele>52.093364812755</ele>
+<name>LHC173</name>
+</rtept>
+<rtept lat="55.0563580297946" lon="-3.35026674512851">
+<ele>50.0739200654358</ele>
+<name>LHC174</name>
+</rtept>
+<rtept lat="55.0553389197314" lon="-3.34734398806778">
+<ele>46.1307039808917</ele>
+<name>LHC175</name>
+</rtept>
+<rtept lat="55.0518837377607" lon="-3.34222643231701">
+<ele>39.2838256761065</ele>
+<name>LHC176</name>
+</rtept>
+<rtept lat="55.0514424038588" lon="-3.34190641460972">
+<ele>38.833206578593</ele>
+<name>LHC177</name>
+</rtept>
+<rtept lat="55.0509994877934" lon="-3.34050623360024">
+<ele>35.3280601940729</ele>
+<name>LHC178</name>
+</rtept>
+<rtept lat="55.0501474163818" lon="-3.34075953138973">
+<ele>35.4058362576266</ele>
+<name>LHC179</name>
+</rtept>
+<rtept lat="55.049941919704" lon="-3.34105790749467">
+<ele>34.6251186931973</ele>
+<name>LHC180</name>
+</rtept>
+<rtept lat="55.0494746650301" lon="-3.34064313276347">
+<ele>34.5095058889105</ele>
+<name>LHC181</name>
+</rtept>
+<rtept lat="55.049109230884" lon="-3.33955085709952">
+<ele>33.3363221378725</ele>
+<name>LHC182</name>
+</rtept>
+<rtept lat="55.0491151701464" lon="-3.33901102209849">
+<ele>31.9291052622215</ele>
+<name>LHC183</name>
+</rtept>
+<rtept lat="55.0487303110864" lon="-3.33845815174151">
+<ele>32.0282226769616</ele>
+<name>LHC184</name>
+</rtept>
+<rtept lat="55.0482072364101" lon="-3.33637453791902">
+<ele>29.3626947846845</ele>
+<name>LHC185</name>
+</rtept>
+<rtept lat="55.0484173579512" lon="-3.33565367758109">
+<ele>27.8474902498644</ele>
+<name>LHC186</name>
+</rtept>
+<rtept lat="55.0481905879395" lon="-3.33543481727669">
+<ele>27.5239448176928</ele>
+<name>LHC187</name>
+</rtept>
+<rtept lat="55.0474907853335" lon="-3.33409671953208">
+<ele>27.5105246818846</ele>
+<name>LHC188</name>
+</rtept>
+<rtept lat="55.0469157001689" lon="-3.33367846847624">
+<ele>27.010343593716</ele>
+<name>LHC189</name>
+</rtept>
+<rtept lat="55.046030928107" lon="-3.3332264632259">
+<ele>26</ele>
+<name>LHC190</name>
+</rtept>
+<rtept lat="55.0453957847509" lon="-3.33090456768801">
+<ele>26</ele>
+<name>LHC191</name>
+</rtept>
+<rtept lat="55.0451745031079" lon="-3.32894860769415">
+<ele>26.6357667826382</ele>
+<name>LHC192</name>
+</rtept>
+<rtept lat="55.0465853728908" lon="-3.32566142596586">
+<ele>25</ele>
+<name>LHC193</name>
+</rtept>
+<rtept lat="55.0476000010484" lon="-3.32285401221611">
+<ele>24.4239200654358</ele>
+<name>LHC194</name>
+</rtept>
+<rtept lat="55.0468489258984" lon="-3.32250055731816">
+<ele>24.4110651212438</ele>
+<name>LHC195</name>
+</rtept>
+<rtept lat="55.0462959559341" lon="-3.32260755059053">
+<ele>26.5949506362248</ele>
+<name>LHC196</name>
+</rtept>
+<rtept lat="55.046133350933" lon="-3.32301540285936">
+<ele>28.3549506362248</ele>
+<name>LHC197</name>
+</rtept>
+<rtept lat="55.0457447929659" lon="-3.32238278271247">
+<ele>29.4099611104155</ele>
+<name>LHC198</name>
+</rtept>
+<rtept lat="55.0447893630822" lon="-3.3229710976914">
+<ele>30.6919200654351</ele>
+<name>LHC199</name>
+</rtept>
+<rtept lat="55.0443082790097" lon="-3.32357502807473">
+<ele>32.5337133781839</ele>
+<name>LHC200</name>
+</rtept>
+</rte>
+</gpx>

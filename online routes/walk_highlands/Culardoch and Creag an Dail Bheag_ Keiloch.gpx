@@ -1,0 +1,902 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>Culardoch and Creag an Dail Bheag, Keiloch</name>
+<rtept lat="57.0056755888072" lon="-3.33802462528243">
+<ele>326.517551829985</ele>
+<name>CUL001</name>
+</rtept>
+<rtept lat="57.005882998069" lon="-3.33828893775503">
+<ele>328.496586481474</ele>
+<name>CUL002</name>
+</rtept>
+<rtept lat="57.005902001302" lon="-3.33869632459178">
+<ele>328.620336509799</ele>
+<name>CUL003</name>
+</rtept>
+<rtept lat="57.0066084680721" lon="-3.33925685000379">
+<ele>329.941012419544</ele>
+<name>CUL004</name>
+</rtept>
+<rtept lat="57.007628777459" lon="-3.3410488509576">
+<ele>333.75622615306</ele>
+<name>CUL005</name>
+</rtept>
+<rtept lat="57.0091303279021" lon="-3.34424977245043">
+<ele>327.111262433836</ele>
+<name>CUL006</name>
+</rtept>
+<rtept lat="57.0099467927684" lon="-3.34652705077047">
+<ele>328.824847416495</ele>
+<name>CUL007</name>
+</rtept>
+<rtept lat="57.0109135191807" lon="-3.35003014906856">
+<ele>324.5012458724</ele>
+<name>CUL008</name>
+</rtept>
+<rtept lat="57.0113632062435" lon="-3.35165209344751">
+<ele>319.797492590903</ele>
+<name>CUL009</name>
+</rtept>
+<rtept lat="57.0126413973734" lon="-3.35388222472255">
+<ele>328.536540844787</ele>
+<name>CUL010</name>
+</rtept>
+<rtept lat="57.0132309037464" lon="-3.35553078897837">
+<ele>330.666793396571</ele>
+<name>CUL011</name>
+</rtept>
+<rtept lat="57.0141946881873" lon="-3.35712880960238">
+<ele>336.611218578851</ele>
+<name>CUL012</name>
+</rtept>
+<rtept lat="57.015259346035" lon="-3.3591159898328">
+<ele>342.675594232212</ele>
+<name>CUL013</name>
+</rtept>
+<rtept lat="57.0155612724353" lon="-3.35927688283279">
+<ele>346.39780607695</ele>
+<name>CUL014</name>
+</rtept>
+<rtept lat="57.015368538383" lon="-3.35766402499014">
+<ele>356.375064245887</ele>
+<name>CUL015</name>
+</rtept>
+<rtept lat="57.016091732915" lon="-3.35828990130421">
+<ele>366.867441574027</ele>
+<name>CUL016</name>
+</rtept>
+<rtept lat="57.0169099198692" lon="-3.35823408688312">
+<ele>376.539193970412</ele>
+<name>CUL017</name>
+</rtept>
+<rtept lat="57.0183427976524" lon="-3.35642342770515">
+<ele>394.285307082469</ele>
+<name>CUL018</name>
+</rtept>
+<rtept lat="57.0189687663146" lon="-3.35578241741903">
+<ele>397.179629385763</ele>
+<name>CUL019</name>
+</rtept>
+<rtept lat="57.0192776038006" lon="-3.35476582299978">
+<ele>406.84813310027</ele>
+<name>CUL020</name>
+</rtept>
+<rtept lat="57.0196897071586" lon="-3.35445960978965">
+<ele>411.948554882884</ele>
+<name>CUL021</name>
+</rtept>
+<rtept lat="57.0209016044338" lon="-3.35471782233587">
+<ele>417.867911417708</ele>
+<name>CUL022</name>
+</rtept>
+<rtept lat="57.0223211045424" lon="-3.35521917006809">
+<ele>426.832891677922</ele>
+<name>CUL023</name>
+</rtept>
+<rtept lat="57.0236774569028" lon="-3.35454039063772">
+<ele>446.010023550013</ele>
+<name>CUL024</name>
+</rtept>
+<rtept lat="57.0238990525948" lon="-3.35456986634445">
+<ele>448.600575234476</ele>
+<name>CUL025</name>
+</rtept>
+<rtept lat="57.0241505775052" lon="-3.35507158401854">
+<ele>443.393374151676</ele>
+<name>CUL026</name>
+</rtept>
+<rtept lat="57.0247555982253" lon="-3.35528634648526">
+<ele>445.302162678108</ele>
+<name>CUL027</name>
+</rtept>
+<rtept lat="57.0257684610933" lon="-3.35450936375206">
+<ele>454.741831837049</ele>
+<name>CUL028</name>
+</rtept>
+<rtept lat="57.0276083493906" lon="-3.35339829932499">
+<ele>462.033351167354</ele>
+<name>CUL029</name>
+</rtept>
+<rtept lat="57.0281566171144" lon="-3.35346106382674">
+<ele>463.718749528278</ele>
+<name>CUL030</name>
+</rtept>
+<rtept lat="57.028919433369" lon="-3.35312467258954">
+<ele>469.269426531006</ele>
+<name>CUL031</name>
+</rtept>
+<rtept lat="57.0295956646452" lon="-3.35323492452655">
+<ele>471.797923228594</ele>
+<name>CUL032</name>
+</rtept>
+<rtept lat="57.0301341081997" lon="-3.35312597750679">
+<ele>476.633923228588</ele>
+<name>CUL033</name>
+</rtept>
+<rtept lat="57.0305570103676" lon="-3.35344122313746">
+<ele>477.776096928921</ele>
+<name>CUL034</name>
+</rtept>
+<rtept lat="57.0313519435809" lon="-3.35445544932085">
+<ele>479.406345723756</ele>
+<name>CUL035</name>
+</rtept>
+<rtept lat="57.0322121952815" lon="-3.35482947691334">
+<ele>483.339635545058</ele>
+<name>CUL036</name>
+</rtept>
+<rtept lat="57.0336897906435" lon="-3.35481898621709">
+<ele>485.552118311357</ele>
+<name>CUL037</name>
+</rtept>
+<rtept lat="57.0352240930053" lon="-3.35442495598142">
+<ele>487.91547755742</ele>
+<name>CUL038</name>
+</rtept>
+<rtept lat="57.0357961728486" lon="-3.35444577116502">
+<ele>487.913558109508</ele>
+<name>CUL039</name>
+</rtept>
+<rtept lat="57.036190809904" lon="-3.35467436023046">
+<ele>487.396280161999</ele>
+<name>CUL040</name>
+</rtept>
+<rtept lat="57.0365977698049" lon="-3.35430355302724">
+<ele>491.92249624016</ele>
+<name>CUL041</name>
+</rtept>
+<rtept lat="57.0368251536391" lon="-3.35379766600554">
+<ele>496.039309140567</ele>
+<name>CUL042</name>
+</rtept>
+<rtept lat="57.0371919424116" lon="-3.35336111179471">
+<ele>497.042793881031</ele>
+<name>CUL043</name>
+</rtept>
+<rtept lat="57.0375550276146" lon="-3.35326719445696">
+<ele>501.525616033675</ele>
+<name>CUL044</name>
+</rtept>
+<rtept lat="57.0378517639461" lon="-3.35282808053326">
+<ele>501.225959192424</ele>
+<name>CUL045</name>
+</rtept>
+<rtept lat="57.0386257903398" lon="-3.35253484788643">
+<ele>499.333355327536</ele>
+<name>CUL046</name>
+</rtept>
+<rtept lat="57.0388819487003" lon="-3.3526084298781">
+<ele>499.005963923852</ele>
+<name>CUL047</name>
+</rtept>
+<rtept lat="57.0394596885862" lon="-3.35318647174632">
+<ele>498.352265994926</ele>
+<name>CUL048</name>
+</rtept>
+<rtept lat="57.0399547231411" lon="-3.35331159569231">
+<ele>494.179794129374</ele>
+<name>CUL049</name>
+</rtept>
+<rtept lat="57.0408445758701" lon="-3.35310827056315">
+<ele>481.662270881711</ele>
+<name>CUL050</name>
+</rtept>
+<rtept lat="57.0425632305755" lon="-3.35402782439928">
+<ele>475.704254972843</ele>
+<name>CUL051</name>
+</rtept>
+<rtept lat="57.0432060550104" lon="-3.35398693238445">
+<ele>474.787079801204</ele>
+<name>CUL052</name>
+</rtept>
+<rtept lat="57.0444212379256" lon="-3.35448112895705">
+<ele>485.743832107926</ele>
+<name>CUL053</name>
+</rtept>
+<rtept lat="57.0454161676459" lon="-3.35428163325107">
+<ele>495.034317822806</ele>
+<name>CUL054</name>
+</rtept>
+<rtept lat="57.0463041685459" lon="-3.35424966641765">
+<ele>501.254960551958</ele>
+<name>CUL055</name>
+</rtept>
+<rtept lat="57.0483373441736" lon="-3.35524515761311">
+<ele>505.986466446358</ele>
+<name>CUL056</name>
+</rtept>
+<rtept lat="57.0489269352221" lon="-3.35526663374741">
+<ele>509.520121144548</ele>
+<name>CUL057</name>
+</rtept>
+<rtept lat="57.0495719285959" lon="-3.35610449472048">
+<ele>519.416147546177</ele>
+<name>CUL058</name>
+</rtept>
+<rtept lat="57.0507675003992" lon="-3.35679101568556">
+<ele>534.750075546466</ele>
+<name>CUL059</name>
+</rtept>
+<rtept lat="57.0528588270199" lon="-3.35834613908206">
+<ele>563.198228401587</ele>
+<name>CUL060</name>
+</rtept>
+<rtept lat="57.0535457960785" lon="-3.35854268779967">
+<ele>573.66733350511</ele>
+<name>CUL061</name>
+</rtept>
+<rtept lat="57.055126370219" lon="-3.35872901784346">
+<ele>594.344175534918</ele>
+<name>CUL062</name>
+</rtept>
+<rtept lat="57.0574351817531" lon="-3.35799882196422">
+<ele>615.160031379232</ele>
+<name>CUL063</name>
+</rtept>
+<rtept lat="57.0586944289146" lon="-3.35765895391247">
+<ele>623.862347400645</ele>
+<name>CUL064</name>
+</rtept>
+<rtept lat="57.0593906853869" lon="-3.35699840773868">
+<ele>626.670347400643</ele>
+<name>CUL065</name>
+</rtept>
+<rtept lat="57.0602718830434" lon="-3.35651607685027">
+<ele>634.227977842006</ele>
+<name>CUL066</name>
+</rtept>
+<rtept lat="57.0615557854671" lon="-3.3549765285488">
+<ele>640.904601387311</ele>
+<name>CUL067</name>
+</rtept>
+<rtept lat="57.0622957163564" lon="-3.35459616714727">
+<ele>645.433372756957</ele>
+<name>CUL068</name>
+</rtept>
+<rtept lat="57.0627337161576" lon="-3.35405472753567">
+<ele>644.58857939946</ele>
+<name>CUL069</name>
+</rtept>
+<rtept lat="57.0633681057034" lon="-3.35371337133132">
+<ele>644.800128274036</ele>
+<name>CUL070</name>
+</rtept>
+<rtept lat="57.0642327540026" lon="-3.35368053199977">
+<ele>643.908614607464</ele>
+<name>CUL071</name>
+</rtept>
+<rtept lat="57.064621040451" lon="-3.35341595620451">
+<ele>641.812335122856</ele>
+<name>CUL072</name>
+</rtept>
+<rtept lat="57.0652241574048" lon="-3.35326639153242">
+<ele>641.499620743501</ele>
+<name>CUL073</name>
+</rtept>
+<rtept lat="57.0662520245706" lon="-3.35326092158034">
+<ele>647.406448697564</ele>
+<name>CUL074</name>
+</rtept>
+<rtept lat="57.0670340211643" lon="-3.35331082492262">
+<ele>657.372391767404</ele>
+<name>CUL075</name>
+</rtept>
+<rtept lat="57.067624485265" lon="-3.35271052633812">
+<ele>669.256233891854</ele>
+<name>CUL076</name>
+</rtept>
+<rtept lat="57.0684410442793" lon="-3.35280456106893">
+<ele>683.465314185988</ele>
+<name>CUL077</name>
+</rtept>
+<rtept lat="57.0690179250951" lon="-3.3518392261666">
+<ele>696.756306750228</ele>
+<name>CUL078</name>
+</rtept>
+<rtept lat="57.069479725514" lon="-3.35125563846377">
+<ele>704.911052562161</ele>
+<name>CUL079</name>
+</rtept>
+<rtept lat="57.0696031777617" lon="-3.35063830149751">
+<ele>708.590370729226</ele>
+<name>CUL080</name>
+</rtept>
+<rtept lat="57.0704077056735" lon="-3.34968116829544">
+<ele>722.213359312692</ele>
+<name>CUL081</name>
+</rtept>
+<rtept lat="57.071076415882" lon="-3.34940524417586">
+<ele>722.747289933989</ele>
+<name>CUL082</name>
+</rtept>
+<rtept lat="57.0717220061319" lon="-3.34910702781056">
+<ele>722.767688214173</ele>
+<name>CUL083</name>
+</rtept>
+<rtept lat="57.0726130885842" lon="-3.34607288549454">
+<ele>721.93691831855</ele>
+<name>CUL084</name>
+</rtept>
+<rtept lat="57.0728780547483" lon="-3.34423828971755">
+<ele>729.600855023386</ele>
+<name>CUL085</name>
+</rtept>
+<rtept lat="57.0733428080106" lon="-3.34337587875063">
+<ele>741.914511629055</ele>
+<name>CUL086</name>
+</rtept>
+<rtept lat="57.0739684800506" lon="-3.34275515016776">
+<ele>753.396412022279</ele>
+<name>CUL087</name>
+</rtept>
+<rtept lat="57.0743853750448" lon="-3.34199819268795">
+<ele>765.706154101933</ele>
+<name>CUL088</name>
+</rtept>
+<rtept lat="57.0747113885003" lon="-3.341002042611">
+<ele>776.800573837267</ele>
+<name>CUL089</name>
+</rtept>
+<rtept lat="57.0742423414637" lon="-3.34008443677425">
+<ele>793.904046848516</ele>
+<name>CUL090</name>
+</rtept>
+<rtept lat="57.0740065604758" lon="-3.33919670312174">
+<ele>810.067144755018</ele>
+<name>CUL091</name>
+</rtept>
+<rtept lat="57.0742318234202" lon="-3.33888314655079">
+<ele>811.668976673472</ele>
+<name>CUL092</name>
+</rtept>
+<rtept lat="57.074017547894" lon="-3.33707407258283">
+<ele>828.732923228599</ele>
+<name>CUL093</name>
+</rtept>
+<rtept lat="57.0740067476206" lon="-3.33480054619239">
+<ele>866.16739553411</ele>
+<name>CUL094</name>
+</rtept>
+<rtept lat="57.0733807708206" lon="-3.33216185965679">
+<ele>896.731645842824</ele>
+<name>CUL095</name>
+</rtept>
+<rtept lat="57.0733722858006" lon="-3.33186133512834">
+<ele>898.245563969094</ele>
+<name>CUL096</name>
+</rtept>
+<rtept lat="57.0733919901652" lon="-3.33220515039989">
+<ele>896.418500346426</ele>
+<name>CUL097</name>
+</rtept>
+<rtept lat="57.0740072043013" lon="-3.33475767320562">
+<ele>866.843395534104</ele>
+<name>CUL098</name>
+</rtept>
+<rtept lat="57.074028994269" lon="-3.3370959290417">
+<ele>828.602923228587</ele>
+<name>CUL099</name>
+</rtept>
+<rtept lat="57.0742675358352" lon="-3.33882009836147">
+<ele>812.073268836252</ele>
+<name>CUL100</name>
+</rtept>
+<rtept lat="57.0739832102764" lon="-3.33919586184416">
+<ele>809.69430860014</ele>
+<name>CUL101</name>
+</rtept>
+<rtept lat="57.0742771374981" lon="-3.3401071361435">
+<ele>793.584905783002</ele>
+<name>CUL102</name>
+</rtept>
+<rtept lat="57.0746999428151" lon="-3.34098018455517">
+<ele>777.240411321065</ele>
+<name>CUL103</name>
+</rtept>
+<rtept lat="57.0743965909708" lon="-3.34204148752278">
+<ele>765.05512539978</ele>
+<name>CUL104</name>
+</rtept>
+<rtept lat="57.0739801551333" lon="-3.34275557192391">
+<ele>753.470512406793</ele>
+<name>CUL105</name>
+</rtept>
+<rtept lat="57.0733192280379" lon="-3.34339647089117">
+<ele>741.489482805779</ele>
+<name>CUL106</name>
+</rtept>
+<rtept lat="57.0728425695977" lon="-3.3442798945848">
+<ele>729.277975215914</ele>
+<name>CUL107</name>
+</rtept>
+<rtept lat="57.0726007226934" lon="-3.34613676946937">
+<ele>722.000398360919</ele>
+<name>CUL108</name>
+</rtept>
+<rtept lat="57.0716925877039" lon="-3.34912740355897">
+<ele>722.901607006382</ele>
+<name>CUL109</name>
+</rtept>
+<rtept lat="57.0710880909383" lon="-3.34940566797358">
+<ele>722.738450318501</ele>
+<name>CUL110</name>
+</rtept>
+<rtept lat="57.0704546367768" lon="-3.34966142947689">
+<ele>722.212873674022</ele>
+<name>CUL111</name>
+</rtept>
+<rtept lat="57.0695915027086" lon="-3.3506378773368">
+<ele>708.447368806661</ele>
+<name>CUL112</name>
+</rtept>
+<rtept lat="57.0694500755875" lon="-3.35129744502619">
+<ele>704.430052562163</ele>
+<name>CUL113</name>
+</rtept>
+<rtept lat="57.0689058558656" lon="-3.35194236017421">
+<ele>694.817092162451</ele>
+<name>CUL114</name>
+</rtept>
+<rtept lat="57.0684057877339" lon="-3.3528247197098">
+<ele>682.839035389834</ele>
+<name>CUL115</name>
+</rtept>
+<rtept lat="57.0675661100302" lon="-3.35270840244505">
+<ele>667.996031179727</ele>
+<name>CUL116</name>
+</rtept>
+<rtept lat="57.067081184322" lon="-3.35326966008218">
+<ele>657.7363917674</ele>
+<name>CUL117</name>
+</rtept>
+<rtept lat="57.0656673462648" lon="-3.35332540158176">
+<ele>642.478673806617</ele>
+<name>CUL118</name>
+</rtept>
+<rtept lat="57.066041738543" lon="-3.3543467164614">
+<ele>651.14958685016</ele>
+<name>CUL119</name>
+</rtept>
+<rtept lat="57.0663033942953" lon="-3.3560714732387">
+<ele>664.136646761669</ele>
+<name>CUL120</name>
+</rtept>
+<rtept lat="57.066008633668" lon="-3.3584834608669">
+<ele>687.323903071079</ele>
+<name>CUL121</name>
+</rtept>
+<rtept lat="57.0658632354446" lon="-3.36004327461287">
+<ele>709.992678071837</ele>
+<name>CUL122</name>
+</rtept>
+<rtept lat="57.0655613532561" lon="-3.36095414865194">
+<ele>731.809406896809</ele>
+<name>CUL123</name>
+</rtept>
+<rtept lat="57.0652428684968" lon="-3.36124264770247">
+<ele>740.101362349926</ele>
+<name>CUL124</name>
+</rtept>
+<rtept lat="57.0651179666515" lon="-3.36198846326435">
+<ele>753.376981444362</ele>
+<name>CUL125</name>
+</rtept>
+<rtept lat="57.0651163563491" lon="-3.36321046516424">
+<ele>777.815792955132</ele>
+<name>CUL126</name>
+</rtept>
+<rtept lat="57.0646993353979" lon="-3.36611093903322">
+<ele>816.048712159834</ele>
+<name>CUL127</name>
+</rtept>
+<rtept lat="57.0646416267517" lon="-3.36818844134507">
+<ele>822.365445619079</ele>
+<name>CUL128</name>
+</rtept>
+<rtept lat="57.0639410784138" lon="-3.36977059046689">
+<ele>831.543659339732</ele>
+<name>CUL129</name>
+</rtept>
+<rtept lat="57.063943378494" lon="-3.37062823583296">
+<ele>841.863792357646</ele>
+<name>CUL130</name>
+</rtept>
+<rtept lat="57.0634008810088" lon="-3.37217326513753">
+<ele>852.475228594488</ele>
+<name>CUL131</name>
+</rtept>
+<rtept lat="57.0631829844076" lon="-3.37287269787719">
+<ele>851.727867872939</ele>
+<name>CUL132</name>
+</rtept>
+<rtept lat="57.0629074873548" lon="-3.37562808459876">
+<ele>847.991524730349</ele>
+<name>CUL133</name>
+</rtept>
+<rtept lat="57.0627686038162" lon="-3.37763815287265">
+<ele>859.001678038963</ele>
+<name>CUL134</name>
+</rtept>
+<rtept lat="57.0626088157852" lon="-3.37836113452806">
+<ele>861.387562826126</ele>
+<name>CUL135</name>
+</rtept>
+<rtept lat="57.0626977062977" lon="-3.38118108497425">
+<ele>841.213712821651</ele>
+<name>CUL136</name>
+</rtept>
+<rtept lat="57.0638146986877" lon="-3.38514755867146">
+<ele>832.603730745498</ele>
+<name>CUL137</name>
+</rtept>
+<rtept lat="57.0666845638284" lon="-3.39136836130933">
+<ele>859.92961369782</ele>
+<name>CUL138</name>
+</rtept>
+<rtept lat="57.0638201417769" lon="-3.38514281396984">
+<ele>832.600248247023</ele>
+<name>CUL139</name>
+</rtept>
+<rtept lat="57.0626870748327" lon="-3.38116749727488">
+<ele>841.50020430769</ele>
+<name>CUL140</name>
+</rtept>
+<rtept lat="57.0623024381491" lon="-3.37860703547118">
+<ele>859.521576579116</ele>
+<name>CUL141</name>
+</rtept>
+<rtept lat="57.0611809372577" lon="-3.37862977222036">
+<ele>852.800650483439</ele>
+<name>CUL142</name>
+</rtept>
+<rtept lat="57.0606546788138" lon="-3.37816008307545">
+<ele>850.107103265501</ele>
+<name>CUL143</name>
+</rtept>
+<rtept lat="57.0596475695862" lon="-3.37840143784326">
+<ele>853.031079914598</ele>
+<name>CUL144</name>
+</rtept>
+<rtept lat="57.059036936045" lon="-3.37870034937008">
+<ele>852.135787476136</ele>
+<name>CUL145</name>
+</rtept>
+<rtept lat="57.0581951614681" lon="-3.37877632378072">
+<ele>843.110533351441</ele>
+<name>CUL146</name>
+</rtept>
+<rtept lat="57.0566759335483" lon="-3.37726243643292">
+<ele>808.317456633149</ele>
+<name>CUL147</name>
+</rtept>
+<rtept lat="57.0546714697101" lon="-3.37579502869593">
+<ele>780.131157927553</ele>
+<name>CUL148</name>
+</rtept>
+<rtept lat="57.0539559343583" lon="-3.37394673589143">
+<ele>762.729089825553</ele>
+<name>CUL149</name>
+</rtept>
+<rtept lat="57.0534585731748" lon="-3.37403553080235">
+<ele>757.345180157949</ele>
+<name>CUL150</name>
+</rtept>
+<rtept lat="57.0519539804143" lon="-3.37277975948416">
+<ele>725.458996974744</ele>
+<name>CUL151</name>
+</rtept>
+<rtept lat="57.050958616235" lon="-3.37195006344225">
+<ele>694.64103276165</ele>
+<name>CUL152</name>
+</rtept>
+<rtept lat="57.0507090384979" lon="-3.37127648650447">
+<ele>676.909172623783</ele>
+<name>CUL153</name>
+</rtept>
+<rtept lat="57.0518268777111" lon="-3.36945310380411">
+<ele>655.911227376939</ele>
+<name>CUL154</name>
+</rtept>
+<rtept lat="57.0517491617378" lon="-3.3680143001853">
+<ele>630.052597872368</ele>
+<name>CUL155</name>
+</rtept>
+<rtept lat="57.0515581844912" lon="-3.36624986444984">
+<ele>602.038376760525</ele>
+<name>CUL156</name>
+</rtept>
+<rtept lat="57.0512987692572" lon="-3.36540450070663">
+<ele>585.23317828108</ele>
+<name>CUL157</name>
+</rtept>
+<rtept lat="57.0513519976922" lon="-3.36373477877064">
+<ele>567.035105629327</ele>
+<name>CUL158</name>
+</rtept>
+<rtept lat="57.0511406377021" lon="-3.36169102808038">
+<ele>548.332573065737</ele>
+<name>CUL159</name>
+</rtept>
+<rtept lat="57.0512195348754" lon="-3.36087951320733">
+<ele>547.67061807203</ele>
+<name>CUL160</name>
+</rtept>
+<rtept lat="57.0510961824964" lon="-3.35933192762805">
+<ele>535.757998128564</ele>
+<name>CUL161</name>
+</rtept>
+<rtept lat="57.0508330024587" lon="-3.35882938887192">
+<ele>530.15435607694</ele>
+<name>CUL162</name>
+</rtept>
+<rtept lat="57.0509791440759" lon="-3.35827750764172">
+<ele>531.336887057247</ele>
+<name>CUL163</name>
+</rtept>
+<rtept lat="57.0510054467517" lon="-3.3569282826539">
+<ele>538.964228458063</ele>
+<name>CUL164</name>
+</rtept>
+<rtept lat="57.0507731058818" lon="-3.356812651492">
+<ele>534.776075546472</ele>
+<name>CUL165</name>
+</rtept>
+<rtept lat="57.0496067218623" lon="-3.35612719362422">
+<ele>519.753591154494</ele>
+<name>CUL166</name>
+</rtept>
+<rtept lat="57.0489267034406" lon="-3.35528805561119">
+<ele>509.454637501933</ele>
+<name>CUL167</name>
+</rtept>
+<rtept lat="57.0483315066382" lon="-3.35524494498224">
+<ele>505.967457947033</ele>
+<name>CUL168</name>
+</rtept>
+<rtept lat="57.0463160752226" lon="-3.35422867096421">
+<ele>501.157532497699</ele>
+<name>CUL169</name>
+</rtept>
+<rtept lat="57.0454044925649" lon="-3.35428120833909">
+<ele>494.930317822802</ele>
+<name>CUL170</name>
+</rtept>
+<rtept lat="57.0444326813719" lon="-3.35450297319986">
+<ele>486.064546624136</ele>
+<name>CUL171</name>
+</rtept>
+<rtept lat="57.043194611468" lon="-3.35396508902472">
+<ele>474.627247059309</ele>
+<name>CUL172</name>
+</rtept>
+<rtept lat="57.0425746741098" lon="-3.35404966740457">
+<ele>475.909520456632</ele>
+<name>CUL173</name>
+</rtept>
+<rtept lat="57.0408562509653" lon="-3.35310869503328">
+<ele>481.463216419769</ele>
+<name>CUL174</name>
+</rtept>
+<rtept lat="57.0399547231411" lon="-3.35331159569231">
+<ele>494.179794129374</ele>
+<name>CUL175</name>
+</rtept>
+<rtept lat="57.0394830387811" lon="-3.35318732069105">
+<ele>498.023626763953</ele>
+<name>CUL176</name>
+</rtept>
+<rtept lat="57.0389169740041" lon="-3.35260970272374">
+<ele>498.404425616777</ele>
+<name>CUL177</name>
+</rtept>
+<rtept lat="57.0386724907482" lon="-3.35253654490568">
+<ele>499.215630403632</ele>
+<name>CUL178</name>
+</rtept>
+<rtept lat="57.0378279510666" lon="-3.35287006286378">
+<ele>501.583523980206</ele>
+<name>CUL179</name>
+</rtept>
+<rtept lat="57.037543352514" lon="-3.35326676999063">
+<ele>501.356564418196</ele>
+<name>CUL180</name>
+</rtept>
+<rtept lat="57.0371685922098" lon="-3.35336026281524">
+<ele>496.692520342986</ele>
+<name>CUL181</name>
+</rtept>
+<rtept lat="57.0368018034402" lon="-3.35379681676416">
+<ele>495.714522523736</ele>
+<name>CUL182</name>
+</rtept>
+<rtept lat="57.0365860947075" lon="-3.35430312825143">
+<ele>491.646534931734</ele>
+<name>CUL183</name>
+</rtept>
+<rtept lat="57.0361616221628" lon="-3.35467329801734">
+<ele>487.078436890969</ele>
+<name>CUL184</name>
+</rtept>
+<rtept lat="57.0358080795505" lon="-3.35442478165028">
+<ele>488.136557973866</ele>
+<name>CUL185</name>
+</rtept>
+<rtept lat="57.0352707934028" lon="-3.35442665515105">
+<ele>487.909148542095</ele>
+<name>CUL186</name>
+</rtept>
+<rtept lat="57.0337133725064" lon="-3.35479842288416">
+<ele>485.760118311355</ele>
+<name>CUL187</name>
+</rtept>
+<rtept lat="57.0322297079361" lon="-3.35483011421833">
+<ele>483.42808639152</ele>
+<name>CUL188</name>
+</rtept>
+<rtept lat="57.0314103191134" lon="-3.35445757301753">
+<ele>479.999669568875</ele>
+<name>CUL189</name>
+</rtept>
+<rtept lat="57.0305922671248" lon="-3.35342108503002">
+<ele>478.330126506761</ele>
+<name>CUL190</name>
+</rtept>
+<rtept lat="57.0301049204115" lon="-3.35312491675285">
+<ele>476.438923228595</ele>
+<name>CUL191</name>
+</rtept>
+<rtept lat="57.0295776891999" lon="-3.3532771095364">
+<ele>471.264923228601</ele>
+<name>CUL192</name>
+</rtept>
+<rtept lat="57.028942783604" lon="-3.35312552115397">
+<ele>469.306345761982</ele>
+<name>CUL193</name>
+</rtept>
+<rtept lat="57.028179967349" lon="-3.35346191257737">
+<ele>463.770749528278</ele>
+<name>CUL194</name>
+</rtept>
+<rtept lat="57.0275730926278" lon="-3.35341843588358">
+<ele>461.801546250116</ele>
+<name>CUL195</name>
+</rtept>
+<rtept lat="57.0257862053571" lon="-3.35448859219026">
+<ele>454.978867398276</ele>
+<name>CUL196</name>
+</rtept>
+<rtept lat="57.0247614357828" lon="-3.35528655893132">
+<ele>445.302162678108</ele>
+<name>CUL197</name>
+</rtept>
+<rtept lat="57.0241505775052" lon="-3.35507158401854">
+<ele>443.393374151676</ele>
+<name>CUL198</name>
+</rtept>
+<rtept lat="57.0239224028347" lon="-3.35457071565224">
+<ele>448.934931389354</ele>
+<name>CUL199</name>
+</rtept>
+<rtept lat="57.0237010387324" lon="-3.35451983255904">
+<ele>446.916691491806</ele>
+<name>CUL200</name>
+</rtept>
+<rtept lat="57.022280241623" lon="-3.35521768315982">
+<ele>426.692389023716</ele>
+<name>CUL201</name>
+</rtept>
+<rtept lat="57.0209135111703" lon="-3.35469684123003">
+<ele>418.5407835805</ele>
+<name>CUL202</name>
+</rtept>
+<rtept lat="57.0196897071586" lon="-3.35445960978965">
+<ele>411.948554882884</ele>
+<name>CUL203</name>
+</rtept>
+<rtept lat="57.0192540219261" lon="-3.35478637852365">
+<ele>406.614133100272</ele>
+<name>CUL204</name>
+</rtept>
+<rtept lat="57.0189743720841" lon="-3.3558040345296">
+<ele>397.048521935404</ele>
+<name>CUL205</name>
+</rtept>
+<rtept lat="57.0183600784344" lon="-3.35644546969718">
+<ele>394.166976950773</ele>
+<name>CUL206</name>
+</rtept>
+<rtept lat="57.0169213627786" lon="-3.35825591600433">
+<ele>376.314625744725</ele>
+<name>CUL207</name>
+</rtept>
+<rtept lat="57.0161038724475" lon="-3.35824752107199">
+<ele>367.504421243755</ele>
+<name>CUL208</name>
+</rtept>
+<rtept lat="57.0153631650203" lon="-3.35762100716252">
+<ele>356.66778243186</ele>
+<name>CUL209</name>
+</rtept>
+<rtept lat="57.0155671099917" lon="-3.3592770958295">
+<ele>346.524815884698</ele>
+<name>CUL210</name>
+</rtept>
+<rtept lat="57.0152537408265" lon="-3.35909437439697">
+<ele>342.785521484009</ele>
+<name>CUL211</name>
+</rtept>
+<rtept lat="57.0142290175231" lon="-3.3571942911854">
+<ele>337.029317255916</ele>
+<name>CUL212</name>
+</rtept>
+<rtept lat="57.0132309037464" lon="-3.35553078897837">
+<ele>330.666793396571</ele>
+<name>CUL213</name>
+</rtept>
+<rtept lat="57.012629722229" lon="-3.35388180046701">
+<ele>328.467588460279</ele>
+<name>CUL214</name>
+</rtept>
+<rtept lat="57.0113454624408" lon="-3.35167285843158">
+<ele>319.707604152136</ele>
+<name>CUL215</name>
+</rtept>
+<rtept lat="57.0109074508095" lon="-3.35005133760911">
+<ele>324.374220037528</ele>
+<name>CUL216</name>
+</rtept>
+<rtept lat="57.0099470229516" lon="-3.34650565124013">
+<ele>328.944624344342</ele>
+<name>CUL217</name>
+</rtept>
+<rtept lat="57.0091417733036" lon="-3.34427159271986">
+<ele>327.059262433839</ele>
+<name>CUL218</name>
+</rtept>
+<rtept lat="57.0075995894205" lon="-3.3410478005722">
+<ele>333.56005519178</ele>
+<name>CUL219</name>
+</rtept>
+<rtept lat="57.0066199143621" lon="-3.33927866726458">
+<ele>329.961983677649</ele>
+<name>CUL220</name>
+</rtept>
+<rtept lat="57.005902001302" lon="-3.33869632459178">
+<ele>328.620336509799</ele>
+<name>CUL221</name>
+</rtept>
+<rtept lat="57.0058832268339" lon="-3.33826754048567">
+<ele>328.426194124091</ele>
+<name>CUL222</name>
+</rtept>
+<rtept lat="57.0056991679934" lon="-3.33800406646904">
+<ele>326.642943006704</ele>
+<name>CUL223</name>
+</rtept>
+</rte>
+</gpx>
